@@ -5706,5 +5706,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "jugement-penal-peine-indemnisation-six-dix-ans",
+    "type": "Articulation de régimes",
+    "domaine": "Justice pénale",
+    "titre": "Dans un même jugement pénal, la peine peut être prescrite alors que les dommages-intérêts restent recouvrables",
+    "entree": {
+      "ordre": 127,
+      "titre": "Une amende et 2 000 € pour la victime. Sept ans plus tard, la victime peut encore réclamer sa somme.",
+      "face_a_face": "L’article 133-3 du Code pénal donne en principe six ans pour exécuter une peine prononcée pour un délit, tandis que l’article L. 111-4 du Code des procédures civiles d’exécution donne en principe dix ans pour faire exécuter la condamnation civile à indemniser la victime.",
+      "texte": "Un jugement correctionnel définitif condamne une personne à une amende et à 2 000 € pour le dommage matériel de la victime. Sept ans après le jugement devenu définitif et exécutoire, si les délais ont couru sans interruption ni suspension, l’amende est en principe prescrite. La victime peut encore poursuivre le paiement de ses 2 000 €.",
+      "raison": "Les deux sommes figurent dans le même jugement, mais n’ont pas le même objet. L’amende est une peine due à l’État. Les dommages-intérêts servent à réparer le préjudice de la victime."
+    },
+    "explication": [
+      "L’exemple vise un délit soumis au délai ordinaire et l’exécution d’un jugement civil sur les intérêts de la victime déjà rendu par le tribunal pénal. Certains délits ont un délai de prescription de la peine plus long. L’article L. 111-4 réserve les créances soumises à un délai de recouvrement supérieur à dix ans."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052851463/",
+        "label": "Code pénal, article 133-3"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025025648/2026-11-21",
+        "label": "Code des procédures civiles d’exécution, article L. 111-4"
+      }
+    ],
+    "relation": {
+      "question": "L’amende et l’indemnisation prononcées le même jour se prescrivent-elles ensemble ?",
+      "participants": [
+        {
+          "role": "Prescription de la peine",
+          "reference": "Code pénal, art. 133-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052851463/",
+          "citation": "« Les peines prononcées pour un délit se prescrivent par six années révolues […] »"
+        },
+        {
+          "role": "Exécution de la condamnation civile",
+          "reference": "Code des procédures civiles d’exécution, art. L. 111-4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025025648/2026-11-21",
+          "citation": "« […] ne peut être poursuivie que pendant dix ans […] »"
+        }
+      ]
+    }
   }
 ]
