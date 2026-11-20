@@ -1191,5 +1191,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "victime-jugement-avance-sarvi",
+    "type": "Articulation de régimes",
+    "domaine": "Indemnisation",
+    "titre": "Le jugement vous accorde 10 000 €, le fonds peut n’en avancer que 3 000 €",
+    "entree": {
+      "ordre": 27,
+      "titre": "Le tribunal vous accorde 10 000 €. Pourquoi le fonds ne vous avance-t-il que 3 000 € ?",
+      "face_a_face": "L’article 706-15-1 permet à certaines victimes munies d’un jugement définitif d’obtenir une aide au recouvrement, tandis que l’article L. 422-7 limite l’avance du fonds à 30 % pour les sommes supérieures à 1 000 €, avec un plafond de 3 000 €.",
+      "texte": "L’auteur de l’infraction doit 10 000 € et ne paie pas. Si vous remplissez les conditions du dispositif, le fonds avance 3 000 € et intervient pour recouvrer le solde auprès de l’auteur.",
+      "raison": "Ça coince puisque le montant reconnu par le juge et l’argent immédiatement avancé sont différents. L’auteur reste redevable du solde. Le fonds aide à le recouvrer, sans en garantir le paiement intégral."
+    },
+    "explication": [
+      "Le cas vise le service d’aide au recouvrement des victimes, hors indemnisation par la commission d’indemnisation des victimes d’infractions. Il suppose que le condamné n’ait pas payé volontairement dans le délai prévu pour demander cette aide.",
+      "Le reste versé à la victime dépend de ce que le fonds parvient à récupérer auprès du condamné."
+    ],
+    "sources": [
+      {
+        "label": "Code de procédure pénale, droit à l’aide au recouvrement",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038313645/2026-07-09"
+      },
+      {
+        "label": "Code des assurances, calcul de l’avance",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019113096"
+      }
+    ],
+    "relation": {
+      "question": "Le fonds doit-il avancer tout ce que le jugement vous accorde ?",
+      "participants": [
+        {
+          "role": "Aide au recouvrement après jugement",
+          "reference": "Code de procédure pénale, art. 706-15-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038313645/2026-07-09",
+          "citation": "[…] peut solliciter une aide au recouvrement de ces dommages et intérêts […]"
+        },
+        {
+          "role": "Avance plafonnée",
+          "reference": "Code des assurances, art. L. 422-7",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019113096",
+          "citation": "[…] dans la limite d’un plafond de 3 000 euros."
+        }
+      ]
+    }
   }
 ]
