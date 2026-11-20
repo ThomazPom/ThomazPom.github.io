@@ -2203,5 +2203,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "licenciement-nul-plancher",
+    "type": "Exception explicite",
+    "domaine": "Travail",
+    "titre": "À deux ans d’ancienneté, un licenciement nul change l’échelle de l’indemnité",
+    "explication": [
+      "Pour un licenciement sans cause réelle et sérieuse, si la réintégration est refusée, le barème fixe à trois mois et demi de salaire brut le maximum pour deux années complètes d’ancienneté.",
+      "Si le juge constate une nullité visée par l’article L. 1235-3-1, par exemple pour discrimination ou harcèlement, il écarte ce barème. Lorsque la poursuite du contrat n’est pas demandée ou que la réintégration est impossible, l’indemnité ne peut alors être inférieure aux salaires des six derniers mois."
+    ],
+    "sources": [
+      {
+        "label": "Barème du code du travail",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762052/2026-09-24"
+      },
+      {
+        "label": "Nullités et indemnisation",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762026/2026-03-18"
+      }
+    ],
+    "relation": {
+      "question": "Comment la qualification du licenciement change-t-elle l’indemnité sans réintégration ?",
+      "participants": [
+        {
+          "role": "Plafond selon l’ancienneté",
+          "reference": "Code du travail, art. L. 1235-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762052/2026-09-24",
+          "citation": "[…] compris entre les montants minimaux et maximaux fixés dans le tableau ci-dessous."
+        },
+        {
+          "role": "Minimum en cas de nullité",
+          "reference": "Code du travail, art. L. 1235-3-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762026/2026-03-18",
+          "citation": "[…] ne peut être inférieure aux salaires des six derniers mois."
+        }
+      ]
+    }
   }
 ]
