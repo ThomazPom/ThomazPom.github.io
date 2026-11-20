@@ -3488,5 +3488,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "temoin-renseignement-identite-condamnation",
+    "type": "Conflit de droits",
+    "domaine": "Justice pénale",
+    "titre": "Le tribunal peut entendre un agent anonyme, mais ses déclarations seules ne suffisent pas à condamner",
+    "entree": {
+      "ordre": 81,
+      "titre": "Un témoin à charge reste anonyme. Peut-on vous condamner sur sa seule parole ?",
+      "face_a_face": "Les articles 103, 331 et 445 du code de procédure pénale demandent en principe au témoin de donner son identité, tandis que l’article 656-1 garde secrets les noms de certains agents qui témoignent sur des faits connus en mission et interdit de condamner sur leurs seules déclarations.",
+      "texte": "Un agent d’un service de renseignement témoigne sur des faits appris pendant une mission relevant de la défense ou de la sécurité nationale. Son identité réelle reste secrète. La défense peut discuter le contenu du témoignage et, dans certains cas, demander une confrontation. Si ce témoignage est le seul élément à charge, il ne peut pas suffire à une condamnation.",
+      "raison": "Le secret protège l’identité de l’agent. Le droit de la défense continue de s’appliquer au contenu du témoignage, et le tribunal doit disposer d’autres éléments pour condamner."
+    },
+    "explication": [
+      "La confrontation prévue par le texte concerne des constatations personnellement effectuées par l’agent et se déroule dans des conditions qui préservent son anonymat. Le Conseil constitutionnel a déclaré conformes les dispositions contestées dans sa décision du 24 septembre 2026."
+    ],
+    "sources": [
+      {
+        "label": "Conseil constitutionnel, décision 2026-1221 QPC, § 8 à 18",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054909844"
+      }
+    ],
+    "relation": {
+      "question": "L’anonymat dispense-t-il le tribunal de soumettre le témoignage à la discussion ?",
+      "participants": [
+        {
+          "role": "Règle habituelle d’identification du témoin",
+          "reference": "Code de procédure pénale, art. 103, 331 et 445, rappelés au § 8",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054909844",
+          "citation": "« … doit faire connaître au préalable ses nom, prénoms, âge, profession et domicile […] »"
+        },
+        {
+          "role": "Anonymat et limite de la preuve",
+          "reference": "Code de procédure pénale, art. 656-1, reproduit au § 1",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054909844",
+          "citation": "« Aucune condamnation ne peut être prononcée sur le seul fondement des déclarations recueillies dans les conditions prévues par le présent article. »"
+        }
+      ]
+    }
   }
 ]
