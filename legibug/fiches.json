@@ -7641,7 +7641,8 @@
     "domaine": "Logement",
     "titre": "Votre appartement vous appartient. La copropriété peut quand même y faire des travaux.",
     "explication": [
-      "L’article 9 exige en principe de notifier les travaux au moins 8 jours avant l’accès, sauf impératif de sécurité ou de conservation. Si une autre solution préserve votre appartement, imposer l’intervention chez vous doit être justifié par les circonstances. Les dégradations, la perte définitive de valeur ou un trouble grave, même temporaire, donnent droit à une indemnité."
+      "L’article 9 exige en principe de notifier les travaux au moins 8 jours avant l’accès, sauf impératif de sécurité ou de conservation. Si une autre solution préserve votre appartement, imposer l’intervention chez vous doit être justifié par les circonstances. Les dégradations, la perte définitive de valeur ou un trouble grave, même temporaire, donnent droit à une indemnité.",
+      "Pour des travaux votés au titre des articles 25 ou 26, l’article 42 impose au syndic d’attendre la fin des 2 mois qui suivent la notification du procès-verbal, sauf urgence. Si vous avez voté contre et saisi le juge au bout d’un mois, le syndic peut en principe lancer les travaux à la fin des 2 mois même si le juge n’a pas encore tranché. Le recours seul ne prolonge pas la suspension."
     ],
     "sources": [
       {
@@ -7651,6 +7652,14 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051749498/",
         "label": "Loi du 10 juillet 1965, art. 9, II"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039329680/",
+        "label": "Loi du 10 juillet 1965, article 42"
+      },
+      {
+        "url": "https://www.courdecassation.fr/decision/698edf04cdc6046d472bffac",
+        "label": "Cour d’appel d’Aix-en-Provence, RG n° 25/03771"
       }
     ],
     "relation": {
@@ -7667,6 +7676,12 @@
           "reference": "Loi du 10 juillet 1965, art. 9, II",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051749498/",
           "citation": "« Un copropriétaire ne peut faire obstacle à l’exécution, même sur ses parties privatives, de travaux d’intérêt collectif […] »"
+        },
+        {
+          "role": "Travaux relevant des articles 25 et 26, attente de deux mois sauf urgence",
+          "reference": "Loi du 10 juillet 1965, art. 42",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039329680/",
+          "citation": "« […] est suspendue jusqu’à l’expiration du délai de deux mois […] »"
         }
       ]
     },
