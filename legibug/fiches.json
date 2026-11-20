@@ -372,8 +372,21 @@
       }
     ],
     "relation": {
-      "question": null,
-      "participants": []
+      "question": "Quelle règle fixe le délai de comparution en appel ?",
+      "participants": [
+        {
+          "role": "Renvoi général",
+          "reference": "CJPM, art. L. 531-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039088473",
+          "citation": "Il est fait application des dispositions du code de procédure pénale pour les appels portés contre les arrêts de la cour d’assises des mineurs […]"
+        },
+        {
+          "role": "Effet de la censure",
+          "reference": "Conseil constitutionnel, QPC 2026-1194, § 21",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000053910508",
+          "citation": "[…] il y a lieu de reporter au 31 octobre 2027 la date de l’abrogation de ces dispositions."
+        }
+      ]
     }
   },
   {
@@ -420,8 +433,21 @@
       }
     ],
     "relation": {
-      "question": null,
-      "participants": []
+      "question": "Que doit faire le juge quand le litige dépend de la condition censurée ?",
+      "participants": [
+        {
+          "role": "Condition fiscale",
+          "reference": "CGI, art. 1460, 8°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051217560",
+          "citation": "Les avocats ayant suivi la formation prévue au chapitre II du titre Ier de la loi n° 71-1130 du 31 décembre 1971 […]"
+        },
+        {
+          "role": "Instruction transitoire",
+          "reference": "Conseil constitutionnel, QPC 2026-1216, § 15",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054595452",
+          "citation": "[…] il appartient aux juridictions saisies de surseoir à statuer jusqu’à l’entrée en vigueur de la nouvelle loi ou, au plus tard, jusqu’au 31 octobre 2027 […]"
+        }
+      ]
     }
   },
   {
@@ -444,8 +470,21 @@
       }
     ],
     "relation": {
-      "question": null,
-      "participants": []
+      "question": "Quelle garantie accompagner la présentation d’observations ?",
+      "participants": [
+        {
+          "role": "Disposition du code",
+          "reference": "Code de l’énergie, art. L. 134-31",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042144977",
+          "citation": "[…] de présenter ses observations écrites et, lors de la séance publique, orales."
+        },
+        {
+          "role": "Garantie applicable immédiatement",
+          "reference": "Conseil constitutionnel, QPC 2026-1219, § 30",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054633605",
+          "citation": "[…] la personne mise en cause […] doit être informée de son droit de se taire."
+        }
+      ]
     }
   },
   {
