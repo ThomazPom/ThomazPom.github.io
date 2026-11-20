@@ -4858,5 +4858,52 @@
         }
       ]
     }
+  },
+  {
+    "id": "permis-construire-affichage-fin-travaux",
+    "type": "Articulation de régimes",
+    "domaine": "Urbanisme",
+    "titre": "Un permis de construire sans panneau peut devenir impossible à contester six mois après les travaux",
+    "entree": {
+      "ordre": 110,
+      "titre": "Aucun panneau sur le terrain. Le permis peut quand même devenir trop ancien pour être contesté.",
+      "face_a_face": "L’article R. 600-2 du Code de l’urbanisme fait partir le délai de recours des voisins d’un affichage régulier sur le terrain, tandis que l’article R. 600-3 bloque le recours en annulation six mois après l’achèvement des travaux, même si aucun affichage n’a lancé le premier délai.",
+      "texte": "Votre voisin termine une construction autorisée sans avoir affiché le permis sur son terrain. Le délai habituel de deux mois lié au panneau n’a pas commencé. Si vous attendez sept mois après l’achèvement pour demander l’annulation du permis, votre recours est néanmoins trop tardif.",
+      "raison": "Un délai dépend de la publicité du permis, l’autre de la fin des travaux. L’absence de panneau empêche le premier de partir, mais elle ne maintient pas indéfiniment le droit de demander l’annulation."
+    },
+    "explication": [
+      "L’article R. 600-3 présume, sauf preuve contraire, que les travaux sont achevés à la date de réception de la déclaration d’achèvement. Le Conseil d’État a aussi fixé des limites propres à certaines situations d’affichage incomplet. La fiche concerne le recours en annulation de l’autorisation, qui se distingue notamment d’une action portant sur des travaux réalisés sans autorisation."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006820365/2026-11-21",
+        "label": "Code de l’urbanisme, article R. 600-2"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037215382/2026-11-21",
+        "label": "Code de l’urbanisme, article R. 600-3"
+      },
+      {
+        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/analyse/2018-11-09/409872",
+        "label": "Conseil d’État, 9 novembre 2018, n° 409872"
+      }
+    ],
+    "relation": {
+      "question": "L’absence de panneau maintient-elle ouvert le recours en annulation ?",
+      "participants": [
+        {
+          "role": "Départ du délai au premier jour de l’affichage continu",
+          "reference": "Code de l’urbanisme, art. R. 600-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006820365/2026-11-21",
+          "citation": "« […] à compter du premier jour d’une période continue de deux mois d’affichage sur le terrain […] »"
+        },
+        {
+          "role": "Date limite liée à l’achèvement",
+          "reference": "Code de l’urbanisme, art. R. 600-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037215382/2026-11-21",
+          "citation": "« […] à l’expiration d’un délai de six mois à compter de l’achèvement de la construction ou de l’aménagement. »"
+        }
+      ]
+    }
   }
 ]
