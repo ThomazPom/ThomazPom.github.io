@@ -4987,7 +4987,8 @@
     },
     "explication": [
       "L’article 1717 pose la règle générale sous réserve des régimes spéciaux. L’article 8 exige aussi de transmettre au sous-locataire l’accord écrit et une copie du bail principal. La surface utilisée pour le calcul est la surface habitable.",
-      "Supposons que vous ayez l’accord écrit du propriétaire pour sous-louer votre résidence principale à des touristes, que le prix respecte le plafond du bail et que les autres conditions soient remplies. L’article L. 324-1-1 du Code du tourisme fixe en principe un plafond de 120 jours par année civile et permet à la commune de le ramener à 90 jours par décision motivée. Louer 100 jours peut donc respecter le plafond dans une commune et le dépasser de 10 jours dans une autre, malgré le même accord du bailleur. Le texte réserve l’obligation professionnelle, la raison de santé et la force majeure."
+      "Supposons que vous ayez l’accord écrit du propriétaire pour sous-louer votre résidence principale à des touristes, que le prix respecte le plafond du bail et que les autres conditions soient remplies. L’article L. 324-1-1 du Code du tourisme fixe en principe un plafond de 120 jours par année civile et permet à la commune de le ramener à 90 jours par décision motivée. Louer 100 jours peut donc respecter le plafond dans une commune et le dépasser de 10 jours dans une autre, malgré le même accord du bailleur. Le texte réserve l’obligation professionnelle, la raison de santé et la force majeure.",
+      "Vous partagez depuis 2 ans un logement loué vide et le titulaire du bail décède. Si vous êtes seulement son ami et sous-locataire, même avec l’accord écrit du propriétaire, l’article 8 ne vous donne aucun titre pour rester quand le bail principal prend fin. Si vous étiez son concubin notoire et viviez déjà avec lui depuis au moins un an, l’article 14 permet en principe de reprendre le bail. L’accord écrit accordait le droit de sous-louer du vivant du titulaire. Il ne vous donne pas le même droit que le transfert légal du bail."
     ],
     "sources": [
       {
@@ -5001,6 +5002,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050623378/2026-11-21",
         "label": "Code du tourisme, article L. 324-1-1"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006475111/",
+        "label": "Loi du 6 juillet 1989, article 14"
       }
     ],
     "relation": {
@@ -5023,6 +5028,12 @@
           "reference": "Code du tourisme, art. L. 324-1-1, IV",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050623378/2026-11-21",
           "citation": "« […] dans la limite de quatre-vingt-dix jours. »"
+        },
+        {
+          "role": "Décès du locataire, transfert du bail au concubin notoire sous conditions",
+          "reference": "Loi du 6 juillet 1989, art. 14",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006475111/",
+          "citation": "« […] du concubin notoire […] qui vivaient avec lui depuis au moins un an à la date du décès. »"
         }
       ]
     }
