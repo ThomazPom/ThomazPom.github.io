@@ -2053,5 +2053,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "recours-notification-czabaj",
+    "type": "Articulation de régimes",
+    "domaine": "Procédure administrative",
+    "titre": "Un recours peut être tardif même si la notification omet le délai",
+    "explication": [
+      "Le code de justice administrative rend les délais réglementaires inopposables lorsque la notification omet les voies ou les délais de recours. Le Conseil d’État juge toutefois que le destinataire d’une décision administrative individuelle doit agir dans un délai raisonnable dès lors que la décision lui a été notifiée ou qu’il est établi qu’il en a eu connaissance.",
+      "Pour une décision expresse, ce délai raisonnable est en principe d’un an à partir de la notification ou de la connaissance établie. Des circonstances particulières ou les règles propres à certains recours administratifs peuvent modifier cette limite."
+    ],
+    "sources": [
+      {
+        "label": "Code de justice administrative",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449946/2026-03-26"
+      },
+      {
+        "label": "Conseil d’État, assemblée, 13 juillet 2016, n° 387763",
+        "url": "https://www.legifrance.gouv.fr/juri/id/CETATEXT000032892416"
+      }
+    ],
+    "relation": {
+      "question": "L’omission des voies de recours laisse-t-elle la décision contestable sans limite de temps ?",
+      "participants": [
+        {
+          "role": "Délai réglementaire inopposable",
+          "reference": "Code de justice administrative, art. R. 421-5",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449946/2026-03-26",
+          "citation": "Les délais de recours contre une décision administrative ne sont opposables qu’à la condition d’avoir été mentionnés, ainsi que les voies de recours […]"
+        },
+        {
+          "role": "Délai raisonnable",
+          "reference": "Conseil d’État, décision n° 387763",
+          "url": "https://www.legifrance.gouv.fr/juri/id/CETATEXT000032892416",
+          "citation": "[…] le destinataire de la décision ne peut exercer de recours juridictionnel au-delà d’un délai raisonnable […]"
+        }
+      ]
+    }
   }
 ]
