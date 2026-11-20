@@ -1751,5 +1751,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "mayotte-reconstruction-plu",
+    "type": "Exception explicite",
+    "domaine": "Urbanisme",
+    "titre": "À Mayotte, le plan local ne suffit pas à interdire certaines reconstructions",
+    "explication": [
+      "Le code de l’urbanisme laisse la carte communale ou le plan local d’urbanisme faire obstacle au droit de reconstruire à l’identique. Pour les projets couverts par la loi d’urgence pour Mayotte, l’article 8 écarte cet obstacle. Le dispositif vise les dommages causés par les événements climatiques du 13 décembre 2024 au 13 mai 2025 et s’applique aux dossiers déposés dans les deux ans suivant la promulgation de la loi.",
+      "Les règles relatives aux risques continuent de s’appliquer. Les constructions achevées après le 1er janvier 2013 doivent notamment avoir bénéficié d’une autorisation ou d’une décision de non-opposition à déclaration préalable."
+    ],
+    "sources": [
+      {
+        "label": "Code de l’urbanisme, article L. 111-15",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210209/"
+      },
+      {
+        "label": "Loi d’urgence pour Mayotte, champ du dispositif",
+        "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000051244586"
+      }
+    ],
+    "relation": {
+      "question": "Le plan local peut-il à lui seul faire obstacle à la reconstruction ?",
+      "participants": [
+        {
+          "role": "Réserve de droit commun",
+          "reference": "Code de l’urbanisme, art. L. 111-15",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210209/",
+          "citation": "[…] sauf si la carte communale, le plan local d’urbanisme ou le plan de prévention des risques naturels prévisibles en dispose autrement."
+        },
+        {
+          "role": "Dérogation temporaire",
+          "reference": "Loi n° 2025-176, art. 8, I",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051245529/2025-02-26",
+          "citation": "[…] y compris si la carte communale ou le plan local d’urbanisme en dispose autrement."
+        },
+        {
+          "role": "Règles de prévention maintenues",
+          "reference": "Loi n° 2025-176, art. 8, III",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051245529/2025-02-26",
+          "citation": "[…] dans la limite des règles applicables en matière de risques naturels, technologiques ou miniers […]"
+        }
+      ]
+    }
   }
 ]
