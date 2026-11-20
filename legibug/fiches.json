@@ -7186,5 +7186,58 @@
       "raison": "Les deux salariés perdent leur poste pour une raison médicale. Le code protège davantage celui dont l’inaptitude résulte du travail. C’est l’origine de la blessure qui change le montant, à salaire et ancienneté retenue identiques.",
       "ordre": 153
     }
+  },
+  {
+    "id": "faute-grave-indemnite-rupture-conventionnelle",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Licencié pour faute grave, vous pouvez quand même toucher l’indemnité de départ déjà approuvée",
+    "explication": [
+      "L’arrêt vise une convention dont personne ne s’est rétracté et des faits survenus ou découverts par l’employeur entre la fin du délai de rétractation et la date de départ convenue. Si le licenciement est justifié, il met fin au contrat plus tôt. L’indemnité de rupture conventionnelle, acquise dès l’homologation, devient exigible à la date de départ initialement convenue."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644154/",
+        "label": "Code du travail, art. L. 1234-9"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071182/",
+        "label": "Code du travail, art. L. 1237-13"
+      },
+      {
+        "url": "https://www.courdecassation.fr/en/decision/685ce2650c5506317f3be85e",
+        "label": "Cour de cassation, 25 juin 2025, n° 24-12.096"
+      }
+    ],
+    "relation": {
+      "question": "Le licenciement pour faute grave efface-t-il l’indemnité convenue avant ce licenciement ?",
+      "participants": [
+        {
+          "role": "Faute grave, pas d’indemnité légale de licenciement",
+          "reference": "Code du travail, art. L. 1234-9",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644154/",
+          "citation": "« […] sauf en cas de faute grave […] »"
+        },
+        {
+          "role": "Indemnité propre à la rupture conventionnelle",
+          "reference": "Code du travail, art. L. 1237-13",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071182/",
+          "citation": "« […] le montant de l’indemnité spécifique de rupture conventionnelle […] »"
+        },
+        {
+          "role": "L’indemnité naît dès l’homologation",
+          "reference": "Cour de cassation, 25 juin 2025, n° 24-12.096",
+          "url": "https://www.courdecassation.fr/en/decision/685ce2650c5506317f3be85e",
+          "citation": "« […] naît dès l’homologation de la convention […] »"
+        }
+      ]
+    },
+    "entree": {
+      "titre": "Licencié pour faute grave, vous pouvez quand même toucher l’indemnité de départ déjà approuvée",
+      "face_a_face": "L’article L. 1234-9 exclut l’indemnité légale de licenciement pour faute grave. L’article L. 1237-13 prévoit une indemnité distincte pour la rupture conventionnelle, que la Cour de cassation juge acquise dès que l’administration approuve la convention.",
+      "texte": "Vous convenez de quitter l’entreprise avec 3 000 € et l’administration approuve l’accord. Avant la date de départ convenue, l’employeur découvre une faute grave et vous licencie. Dans les conditions fixées par la Cour de cassation, vous quittez l’entreprise plus tôt, sans indemnité de licenciement, mais les 3 000 € convenus restent dus à la date initialement fixée.",
+      "raison": "Pour le même départ, deux règles produisent deux résultats. La faute grave exclut une somme qui aurait été due au titre du licenciement. Les 3 000 € étaient déjà acquis au titre d’un accord approuvé avant le licenciement.",
+      "ordre": 154
+    }
   }
 ]
