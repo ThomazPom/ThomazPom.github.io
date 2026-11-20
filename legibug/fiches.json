@@ -49,7 +49,7 @@
       "titre": "Comment appliquer deux paragraphes que le même article ordonne de supprimer ?",
       "texte": "En Polynésie française, un article dit de modifier les deux premiers paragraphes qui définissent une communauté d’agglomération. Il dit aussi de supprimer les trois derniers.",
       "raison": "Les instructions sont incohérentes puisque le texte visé compte trois paragraphes en tout. Les deux paragraphes à modifier sont donc aussi à supprimer. Le Sénat a proposé de corriger le texte.",
-      "ordre": 8,
+      "ordre": 9,
       "face_a_face": "Le 2° de l’article L. 5842-25 dit de modifier les deux premiers alinéas de l’article L. 5216-1, tandis que le 2° ter dit d’en supprimer les trois derniers."
     }
   },
@@ -98,7 +98,7 @@
     "entree": {
       "titre": "Un père peut-il bénéficier du même recul de la limite d’âge qu’une mère ?",
       "texte": "L’ancien décret de l’Assistance publique à Paris parle des femmes. Le code de la fonction publique parle de toute personne qui élève ou a élevé un enfant. Pour un concours concerné, la règle du code prime. Les deux formulations restent consultables aujourd’hui.",
-      "ordre": 6,
+      "ordre": 7,
       "raison": "La rédaction du décret est incohérente avec le code puisque, pour un même concours soumis à une limite d’âge, elle énonce un avantage pour les femmes là où le code l’accorde aussi aux hommes qui remplissent la même condition. Le code a priorité.",
       "face_a_face": "L’article 22 du décret de 1977 vise les femmes qui élèvent ou ont élevé un enfant, tandis que l’article L. 324-7 du code accorde le même relèvement à 45 ans aux personnes qui remplissent cette condition, quel que soit leur sexe."
     }
@@ -147,7 +147,7 @@
       "titre": "L’Europe exige un contrôle des rachats de médias. Qui peut le faire en France ?",
       "texte": "Le règlement européen exige un examen de l’effet de certains rachats sur le pluralisme. Quand le Conseil d’État a examiné le rachat de Challenges, la loi française ne donnait pas à l’Arcom de pouvoir pour faire cet examen.",
       "raison": "Le système est incohérent puisque le contrôle est exigé mais que le texte français ne donne pas les moyens de l’effectuer. Le Conseil d’État a indiqué qu’une intervention du législateur était nécessaire.",
-      "ordre": 9,
+      "ordre": 10,
       "face_a_face": "L’article 22 du règlement européen exige un contrôle de l’effet des rachats de médias sur le pluralisme, tandis que le Conseil d’État constate que la loi française ne permet pas à l’Arcom de réaliser le contrôle demandé."
     }
   },
@@ -191,7 +191,7 @@
       "titre": "La loi promet une plateforme pour les malades. Pourquoi ne peuvent-ils pas l’utiliser ?",
       "texte": "Une loi de 2022 prévoit une plateforme pour les personnes atteintes de Covid long. Le décret devait préciser comment elle fonctionnerait. Le Conseil d’État a ordonné au gouvernement de le prendre.",
       "raison": "La promesse reste sans mode d’emploi puisque les recherches au 20 novembre 2026 n’ont pas retrouvé le décret demandé. Les pages d’information existantes ne remplissent pas à elles seules le rôle prévu par la loi.",
-      "ordre": 10,
+      "ordre": 11,
       "face_a_face": "L’article 1er de la loi de 2022 prévoit une plateforme pour le Covid long, et le Conseil d’État a ordonné de prendre son décret dans les douze mois suivant la notification de sa décision, mais la recherche au 20 novembre n’a pas retrouvé ce décret."
     }
   },
@@ -235,7 +235,7 @@
       "titre": "Deux jeunes avocats débutent sans expérience. Pourquoi un seul a-t-il droit à l’exonération ?",
       "texte": "Un avocat qui débute après le parcours de formation prévu en France peut obtenir deux ans d’exonération. Un avocat formé à l’étranger et admis par dérogation peut en être exclu même s’il débute sans expérience juridique.",
       "raison": "La différence est incohérente avec le but de l’aide puisque les deux avocats rencontrent la même difficulté de début de carrière. Le Conseil constitutionnel a censuré la condition et a demandé de suspendre les procès qui en dépendent jusqu’à sa suppression ou son remplacement.",
-      "ordre": 11,
+      "ordre": 12,
       "face_a_face": "L’article 1460 accorde deux ans d’exonération aux avocats issus d’une certaine formation, tandis que le Conseil constitutionnel juge injustifiée l’exclusion de certains avocats formés à l’étranger qui débutent eux aussi sans expérience."
     }
   },
@@ -284,7 +284,7 @@
     "entree": {
       "titre": "Un ado attend son procès en appel en prison. Pourquoi lui applique-t-on un délai d’adulte ?",
       "texte": "Le code des mineurs emprunte les délais prévus pour les adultes détenus. Le Conseil constitutionnel a jugé que ces délais étaient trop longs pour les mineurs. Il laisse pourtant le texte en place jusqu’au 31 octobre 2027, car le supprimer immédiatement ferait disparaître le délai maximal.",
-      "ordre": 4,
+      "ordre": 5,
       "raison": "Le Conseil constitutionnel juge ce renvoi contraire à la Constitution puisque le délai peut atteindre deux ans, voire trois dans certains cas, sans adaptation à l’âge du mineur. Il n’a pas fixé un nouveau délai de six mois. L’abrogation est prévue pour le 31 octobre 2027.",
       "face_a_face": "L’article 380-3-1 fixe le délai d’appel en détention à un an, avec des prolongations exceptionnelles de six mois ou d’un an selon le cas, renouvelables une fois, et l’article L. 531-2 applique ces délais d’adulte aux mineurs sans les raccourcir."
     }
@@ -333,7 +333,7 @@
       "titre": "Deux autorités peuvent-elles poursuivre deux fois le même démarchage ?",
       "texte": "Pour les mêmes messages, une entreprise pouvait être poursuivie par deux autorités au titre du même manquement.",
       "raison": "Le Conseil constitutionnel a censuré le cumul puisque les deux régimes pouvaient sanctionner les mêmes faits de la même façon pour protéger les mêmes intérêts. Sa décision bloque dès maintenant les secondes poursuites dans les cas qu’elle définit.",
-      "ordre": 12,
+      "ordre": 13,
       "face_a_face": "L’article L. 34-5 permettait à plusieurs autorités de sanctionner le même démarchage, tandis que le Conseil constitutionnel interdit les secondes poursuites pour les mêmes faits dans les conditions qu’il fixe."
     }
   },
@@ -377,7 +377,7 @@
       "titre": "On découvre qu’une personne gardée à vue est sous tutelle. Pourquoi la règle ne suffisait-elle pas ?",
       "texte": "La police peut découvrir la mesure de protection après le début de la garde à vue. Le texte ne garantissait pas suffisamment que la personne chargée de la protection soit prévenue si la garde à vue était prolongée ou si l’audition portait sur de nouveaux faits.",
       "raison": "La garantie était insuffisante puisque la personne pouvait être confrontée à une nouvelle étape de la procédure sans que son protecteur en soit averti. Le Conseil constitutionnel a imposé cet avis pendant la période qui précède l’abrogation.",
-      "ordre": 13,
+      "ordre": 14,
       "face_a_face": "L’article 706-112-1 prévoit d’aviser le tuteur ou le curateur lorsque la protection est découverte pendant la garde à vue, et le Conseil constitutionnel exige aussi une garantie en cas de prolongation ou d’audition sur de nouveaux faits."
     }
   },
@@ -421,7 +421,7 @@
       "titre": "On vous demande de répondre avant de vous sanctionner. Doit-on vous dire que vous pouvez vous taire ?",
       "texte": "Le code prévoit que l’autorité de régulation de l’énergie recueille les observations du mis en cause. Les passages censurés ne prévoyaient pas de l’informer de son droit de se taire.",
       "raison": "La procédure est incomplète puisque la personne est invitée à s’expliquer sans être avertie qu’elle peut garder le silence. Le Conseil constitutionnel impose cet avertissement dès maintenant.",
-      "ordre": 14,
+      "ordre": 15,
       "face_a_face": "L’article L. 134-31 prévoit que la personne poursuivie puisse présenter ses observations, et le Conseil constitutionnel exige qu’on l’avertisse d’abord qu’elle peut se taire."
     }
   },
@@ -470,7 +470,7 @@
     "entree": {
       "titre": "Votre indemnité est plafonnée, même si le plafond peut laisser une partie du préjudice sans réparation.",
       "texte": "Le Comité européen des droits sociaux estime que le plafond français peut empêcher une réparation suffisante. La Cour de cassation juge que le salarié ne peut pas invoquer directement la disposition de la Charte contre son employeur. Le constat européen ne suffit donc pas à écarter le plafond aux prud’hommes.",
-      "ordre": 5,
+      "ordre": 6,
       "raison": "La tension subsiste puisque le barème reste applicable devant le juge français alors que le Comité européen a conclu qu’il contrevient à la Charte. La Cour de cassation juge que cette disposition de la Charte ne peut pas être invoquée directement entre salarié et employeur.",
       "face_a_face": "L’article L. 1235-3 impose un plafond, tandis que le Comité européen des droits sociaux juge ce plafonnement contraire à l’article 24 de la Charte sociale européenne."
     }
@@ -512,7 +512,7 @@
       "titre": "Une loi étrangère régit toute la succession. Pourquoi la France peut-elle quand même prélever une part ?",
       "texte": "Le règlement européen désigne une loi pour l’ensemble de la succession. Si cette loi ne prévoit aucune réserve pour les enfants, le code français leur permet, sous conditions, de prélever une part sur les biens situés en France.",
       "raison": "Les deux règles se heurtent puisque la loi étrangère peut permettre de ne rien laisser aux enfants alors que la règle française leur ouvre un prélèvement sur les biens en France. La Commission européenne a engagé un dialogue avec la France sur cette compatibilité.",
-      "ordre": 15,
+      "ordre": 16,
       "face_a_face": "Les articles 21 et 22 du règlement européen désignent une loi pour l’ensemble de la succession, tandis que l’article 913 du code civil prévoit sous conditions de prélever une part sur les biens situés en France si la loi étrangère ne prévoit aucune réserve pour les enfants."
     }
   },
@@ -551,7 +551,7 @@
     "entree": {
       "titre": "Vous avez encore des jours de congé. En quittant votre emploi, vous les perdez.",
       "texte": "Un agent territorial n’a pas pu prendre sa cinquième semaine parce que son service avait besoin de lui. L’article 5-1 lui permet de la prendre plus tard. S’il quitte son emploi avant de la prendre, l’article 5-2 limite le paiement aux quatre premières semaines. Pour ces jours-là, il a donc un droit au report, mais aucune indemnité au départ.",
-      "ordre": 3,
+      "ordre": 4,
       "raison": "L’effet peut surprendre puisque les mêmes jours restent utilisables tant que l’agent est en poste, puis cessent d’être indemnisables à son départ. Les articles distinguent le droit de prendre des jours et le droit d’en obtenir le paiement.",
       "face_a_face": "L’article 5-1 permet de reporter la cinquième semaine perdue dans l’intérêt du service, tandis que l’article 5-2 limite l’indemnité au départ aux droits inutilisés des quatre premières semaines dans ce cas."
     }
@@ -562,7 +562,7 @@
     "domaine": "Procédure pénale",
     "titre": "La loi demande au décret de désigner qui peut déposer plainte, le décret renvoie à un arrêté",
     "entree": {
-      "ordre": 16,
+      "ordre": 17,
       "titre": "Agressé au travail, quel organisme peut déposer plainte pour vous ?",
       "texte": "Pour certaines professions de santé libérales, la loi charge un décret de désigner l’organisme pouvant porter plainte pour la victime. Le décret publié en juillet 2026 renvoie cette désignation à un arrêté du ministre de la santé.",
       "raison": "Le dispositif reste incomplet pour les professionnels concernés puisque le décret ne permet pas de savoir à quel organisme donner mandat. Les recherches au 20 novembre 2026 n’ont pas retrouvé l’arrêté de désignation. La victime peut déposer plainte elle-même.",
@@ -602,7 +602,7 @@
     "domaine": "Santé",
     "titre": "La loi prévoit un hébergement des parents près de l’hôpital, le décret se fait attendre",
     "entree": {
-      "ordre": 7,
+      "ordre": 8,
       "titre": "Votre enfant est hospitalisé loin de chez vous. Pouvez-vous compter sur le dispositif d’hébergement prévu par la loi ?",
       "texte": "La loi permet aux hôpitaux d’organiser un hébergement pour les parents de certains enfants atteints d’une affection de longue durée. Elle renvoie à un décret pour fixer les conditions.",
       "raison": "La mesure reste incomplète puisque la loi annonce un dispositif sans fixer ses conditions pratiques. Le 10 novembre, le gouvernement confirmait que le décret restait à préparer. La recherche au 20 novembre n’a pas retrouvé sa publication.",
@@ -734,6 +734,52 @@
           "reference": "CGCT, art. R. 2333-120-16",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030622753/2026-10-09",
           "citation": "[…] sans pouvoir être inférieur à 50 euros."
+        }
+      ]
+    }
+  },
+  {
+    "id": "logement-froid-travaux-juge",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Un logement peut manquer d’isolation sans que le juge puisse ordonner les travaux nécessaires",
+    "entree": {
+      "ordre": 3,
+      "titre": "Votre logement est trop mal isolé pour être décent. Le juge peut-il obliger le propriétaire à le rénover ?",
+      "face_a_face": "L’article 6 oblige le propriétaire à fournir un logement qui atteint un niveau minimal de performance énergétique, tandis que l’article 20-1 interdit au juge d’ordonner les travaux nécessaires dans certains cas de blocage en copropriété ou de contraintes du bâtiment.",
+      "texte": "Si votre propriétaire prouve qu’il a fait les démarches nécessaires pour les travaux communs et réalisé les travaux adaptés chez lui sans atteindre le seuil, le juge peut constater le défaut et rester empêché d’ordonner ces travaux.",
+      "raison": "Ça coince puisque vous avez droit à un logement décent, mais que vous pouvez obtenir une baisse du loyer sans obtenir les travaux qui rendraient le logement moins énergivore."
+    },
+    "explication": [
+      "Le propriétaire doit démontrer les démarches entreprises pour faire examiner les travaux portant sur les parties ou les équipements communs, ainsi que la réalisation des travaux adaptés dans ses parties privatives. La seule présence d’une copropriété ne suffit pas.",
+      "L’article 20-1 réserve les autres mesures du juge, dont la réduction du loyer. La limitation étudiée concerne les travaux visant à atteindre le seuil énergétique."
+    ],
+    "sources": [
+      {
+        "label": "Loi du 6 juillet 1989 sur les rapports locatifs",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/2026-09-20"
+      }
+    ],
+    "relation": {
+      "question": "Le juge peut-il toujours faire réaliser les travaux quand le logement ne respecte pas le seuil énergétique ?",
+      "participants": [
+        {
+          "role": "Obligation du bailleur",
+          "reference": "Loi du 6 juillet 1989, art. 6",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043977105",
+          "citation": "Le bailleur est tenu de remettre au locataire un logement décent […]"
+        },
+        {
+          "role": "Limite au pouvoir du juge",
+          "reference": "Loi du 6 juillet 1989, art. 20-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043977099/2026-07-24",
+          "citation": "[…] le juge ne peut ordonner la réalisation de travaux visant à permettre le respect du niveau de performance minimal […]"
+        },
+        {
+          "role": "Mesure restant possible",
+          "reference": "Loi du 6 juillet 1989, art. 20-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043977099/2026-07-24",
+          "citation": "Il peut réduire le montant du loyer […]"
         }
       ]
     }
