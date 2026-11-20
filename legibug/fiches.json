@@ -3403,5 +3403,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "carte-sejour-retrait-commission",
+    "type": "Articulation de régimes",
+    "domaine": "Droit des étrangers",
+    "titre": "Le motif du retrait d’une carte de séjour peut changer le droit à l’avis d’une commission",
+    "entree": {
+      "ordre": 79,
+      "titre": "Même carte de séjour, même projet de retrait. Pourquoi la commission n’est-elle consultée que dans un cas ?",
+      "face_a_face": "Le 5° de l’article L. 432-13 impose de consulter la commission du titre de séjour avant un retrait pour manquement à l’engagement de respecter les principes de la République, tandis que l’article L. 432-4 permet le retrait d’une carte pluriannuelle pour menace à l’ordre public sans prévoir cette consultation.",
+      "texte": "Le préfet envisage de retirer votre carte de séjour pluriannuelle. S’il invoque le non-respect de l’engagement de respecter les principes de la République, il doit saisir la commission pour avis. S’il se fonde uniquement sur une menace à l’ordre public, le 5° de l’article L. 432-13 n’impose pas cette saisine.",
+      "raison": "La commission constitue une garantie attachée au motif du retrait. Le Conseil constitutionnel a déclaré conforme la disposition contestée en octobre 2026. Le retrait de la même carte peut donc suivre deux procédures différentes."
+    },
+    "explication": [
+      "L’exemple isole les deux motifs et suppose qu’aucune autre disposition n’impose de consulter la commission. Le retrait pour menace à l’ordre public doit être motivé."
+    ],
+    "sources": [
+      {
+        "label": "Conseil constitutionnel, décision 2026-1228 QPC du 22 octobre 2026",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055009823"
+      }
+    ],
+    "relation": {
+      "question": "La consultation de la commission est-elle obligatoire pour tout retrait d’une carte pluriannuelle ?",
+      "participants": [
+        {
+          "role": "Commission saisie dans le cas du contrat d’engagement",
+          "reference": "CESEDA, art. L. 432-13, 5°",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000042771914/2026-08-22/",
+          "citation": "« … de retirer une carte de séjour pluriannuelle ou une carte de résident dans le cas prévu à l’article L. 412-10. »"
+        },
+        {
+          "role": "Retrait pour menace à l’ordre public",
+          "reference": "CESEDA, art. L. 432-4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049059485/",
+          "citation": "« … peut, par une décision motivée, être retirée à tout étranger dont la présence en France constitue une menace pour l’ordre public. »"
+        }
+      ]
+    }
   }
 ]
