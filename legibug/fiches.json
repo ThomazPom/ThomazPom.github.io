@@ -7973,5 +7973,53 @@
       "raison": "Le délai de reprise se calcule depuis votre achat. Le délai du congé pour vendre dépend de la prochaine fin de bail. Avec le même achat et le même locataire, le motif du congé peut donc décaler son départ de 2 ans.",
       "ordre": 165
     }
+  },
+  {
+    "id": "loyer-relocation-classe-f-plafond",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Nouveau locataire, mais l’ancien loyer de 800 € peut rester le plafond",
+    "explication": [
+      "L’exemple suppose un bail d’habitation en France métropolitaine auquel les règles de gel s’appliquent, et qu’aucun autre encadrement ne limite le logement classé E. Les logements classés G sont aussi soumis à des règles distinctes de décence qui peuvent empêcher leur remise en location."
+    ],
+    "sources": [
+      {
+        "label": "Loi du 6 juillet 1989, articles 17 et 17-1",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/2026-11-21/"
+      }
+    ],
+    "relation": {
+      "question": "Peut-on augmenter le loyer en changeant de locataire ?",
+      "participants": [
+        {
+          "role": "Nouvelle location, liberté de principe",
+          "reference": "Loi du 6 juillet 1989, art. 17, II",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/2026-11-21/",
+          "citation": "« La fixation du loyer des logements mis en location est libre. »"
+        },
+        {
+          "role": "Nouvelle location classée F ou G, plafond de l’ancien loyer",
+          "reference": "Loi du 6 juillet 1989, art. 17, II",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/2026-11-21/",
+          "citation": "« […] ne peut excéder le dernier loyer appliqué au précédent locataire. »"
+        },
+        {
+          "role": "Révision annuelle également interdite",
+          "reference": "Loi du 6 juillet 1989, art. 17-1, III",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/2026-11-21/",
+          "citation": "« […] ne peuvent pas être appliquées dans les logements de la classe F ou de la classe G […] »"
+        }
+      ],
+      "fiches_liees": [
+        "achat-occupe-reprise-vente-deux-quatre-ans"
+      ]
+    },
+    "entree": {
+      "titre": "Nouveau locataire, mais l’ancien loyer de 800 € peut rester le plafond",
+      "face_a_face": "L’article 17 pose la liberté de fixer le nouveau loyer. Il interdit pourtant de dépasser le dernier loyer du précédent locataire quand le logement est classé F ou G. L’article 17-1 interdit aussi la révision annuelle de ces loyers.",
+      "texte": "Deux appartements étaient loués 800 € avant le départ de leurs locataires. Si le marché permet 950 €, le propriétaire du logement classé E peut demander cette somme à la relocation en l’absence d’un autre encadrement. Le propriétaire du logement classé F reste plafonné à 800 €.",
+      "raison": "Le départ de l’ancien locataire ne remet pas le compteur à zéro pour le logement classé F. Le plafond suit le logement dans le nouveau contrat, même si le nouveau locataire aurait accepté de payer davantage.",
+      "ordre": 166
+    }
   }
 ]
