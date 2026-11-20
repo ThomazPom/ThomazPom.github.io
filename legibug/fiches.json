@@ -794,10 +794,11 @@
       "titre": "Même appartement, même chauffage. Comment peut-il redevenir louable ?",
       "face_a_face": "L’article 6 de la loi sur les locations écarte les logements classés G du seuil de décence énergétique en métropole, tandis que l’article 3 de l’arrêté du 13 août 2025 permet de remplacer une ancienne étiquette en recalculant le diagnostic sans travaux.",
       "texte": "Depuis le 1er janvier 2026, l’électricité compte avec un coefficient de 1,9 au lieu de 2,3 dans le diagnostic. Certains logements chauffés à l’électricité peuvent passer de G à F avec une attestation de l’ADEME.",
-      "raison": "Ça peut surprendre puisque l’appartement et sa consommation d’électricité restent identiques. L’attestation change la façon de compter l’énergie. Si elle fait passer le logement de G à F, ce dernier peut franchir le seuil énergétique alors applicable en métropole."
+      "raison": "Ça peut surprendre puisque l’appartement et sa consommation d’électricité restent identiques. L’attestation change la façon de compter l’énergie. Si elle fait passer le logement de G à F, ce dernier peut franchir le seuil énergétique alors applicable en métropole. Le loyer peut toutefois rester gelé puisque l’article 17-1 interdit encore la révision pour la classe F."
     },
     "explication": [
       "La nouvelle étiquette dépend du résultat du calcul et le changement ne concerne pas tous les logements. Pour un diagnostic en cours de validité, l’ADEME peut générer une attestation à partir des données existantes.",
+      "Un logement passé de G à F peut franchir le seuil énergétique de location en métropole tout en restant soumis au gel de la révision du loyer. Pour un logement passé de F à E, l’interdiction propre aux classes F et G cesse de s’appliquer. Les autres conditions de révision du loyer demeurent applicables.",
       "Le seuil énergétique est une condition de décence parmi d’autres. Le présent cas décrit les règles applicables en novembre 2026."
     ],
     "sources": [
@@ -820,6 +821,12 @@
           "reference": "Arrêté du 13 août 2025, art. 3",
           "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000052134589",
           "citation": "Cette attestation remplace l’étiquette initiale du diagnostic de performance énergétique par une nouvelle étiquette."
+        },
+        {
+          "role": "Seuil distinct pour la révision du loyer",
+          "reference": "Loi du 6 juillet 1989, art. 17-1, III",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043977085/2026-07-07",
+          "citation": "[…] ne peuvent pas être appliquées dans les logements de la classe F ou de la classe G […]"
         }
       ]
     }
