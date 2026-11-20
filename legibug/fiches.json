@@ -4934,7 +4934,8 @@
       "L’article R. 600-3 présume, sauf preuve contraire, que les travaux sont achevés à la date de réception de la déclaration d’achèvement. Le Conseil d’État a aussi fixé des limites propres à certaines situations d’affichage incomplet. La fiche concerne le recours en annulation de l’autorisation, qui se distingue notamment d’une action portant sur des travaux réalisés sans autorisation.",
       "Autre calendrier pour la mairie : l’article L. 424-5 lui donne en principe trois mois à partir de la décision pour retirer un permis illégal. Si le permis a été affiché régulièrement sur le terrain dès sa délivrance, les voisins peuvent donc avoir perdu leur droit de contester au bout de deux mois alors que la mairie peut encore retirer le permis au cours du troisième mois. Le délai de retrait connaît des exceptions, notamment en cas de fraude.",
       "Dans les cas où le silence vaut permis, l’article R. 424-1 fait naître la décision à la fin du délai d’instruction. Si votre permis tacite naît le 1er septembre, l’article L. 424-5 permet en principe à la mairie de le retirer pour illégalité dans les trois mois suivant cette date, même si vous n’avez reçu aucun courrier d’accord. Le délai ne démarre donc pas à la délivrance d’un certificat.",
-      "La mairie et les voisins ne contestent pas la même chose. L’article R. 462-6 donne en principe trois mois à la mairie après réception de la déclaration d’achèvement pour contester la conformité des travaux au permis, ou cinq mois si le contrôle sur place est obligatoire. L’article R. 600-3 fixe à six mois après l’achèvement la limite du recours en annulation du permis. Si aucun panneau n’a lancé le délai ordinaire et qu’aucune autre limite ne joue, quatre mois après une déclaration reçue le jour de l’achèvement, le délai de trois mois de la mairie peut être passé alors qu’un recours contre le permis reste possible."
+      "La mairie et les voisins ne contestent pas la même chose. L’article R. 462-6 donne en principe trois mois à la mairie après réception de la déclaration d’achèvement pour contester la conformité des travaux au permis, ou cinq mois si le contrôle sur place est obligatoire. L’article R. 600-3 fixe à six mois après l’achèvement la limite du recours en annulation du permis. Si aucun panneau n’a lancé le délai ordinaire et qu’aucune autre limite ne joue, quatre mois après une déclaration reçue le jour de l’achèvement, le délai de trois mois de la mairie peut être passé alors qu’un recours contre le permis reste possible.",
+      "Si la mairie est restée silencieuse pendant son délai de contrôle, l’article R. 462-10 vous permet de demander une attestation. L’autorité compétente doit la délivrer dans les quinze jours. Elle atteste que la conformité des travaux au permis n’a pas été contestée. Elle n’indique pas qu’une inspection a eu lieu ni que le permis lui-même ne peut plus être contesté."
     ],
     "sources": [
       {
@@ -4960,6 +4961,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074075/LEGISCTA000006158848/2026-11-21/",
         "label": "Code de l’urbanisme, article R. 462-6"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053561312/2026-11-21",
+        "label": "Code de l’urbanisme, article R. 462-10"
       }
     ],
     "relation": {
