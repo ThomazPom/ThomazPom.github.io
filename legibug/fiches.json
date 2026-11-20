@@ -2771,5 +2771,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "concubins-impot-revenu-ifi",
+    "type": "Articulation de régimes",
+    "domaine": "Fiscalité",
+    "titre": "Deux déclarations de revenus, mais un seul patrimoine imposable",
+    "entree": {
+      "ordre": 64,
+      "titre": "800 000 € d’immobilier chacun. Pourquoi le fisc additionne-t-il vos biens alors que vous déclarez vos revenus séparément ?",
+      "face_a_face": "L’article 6 du code général des impôts conduit à imposer séparément les revenus des concubins, tandis que l’article 964 impose ensemble les personnes vivant en concubinage notoire pour l’impôt sur la fortune immobilière.",
+      "texte": "Vous vivez en concubinage notoire et détenez chacun 800 000 € de patrimoine immobilier net taxable. Chacun déclare ses revenus de son côté. Pour l’impôt sur la fortune immobilière, le fisc additionne les patrimoines. Le total de 1,6 million d’euros dépasse le seuil de 1,3 million, alors que chacun reste sous le seuil pris séparément.",
+      "raison": "La notion de foyer fiscal change selon l’impôt. Pour les revenus, les concubins constituent deux foyers. Pour l’immobilier, ils forment un seul foyer et partagent donc un seul seuil."
+    },
+    "explication": [
+      "Les 800 000 € par personne représentent la valeur nette taxable, après application des règles propres à l’impôt sur la fortune immobilière. Le seuil détermine si le foyer entre dans le champ de cet impôt."
+    ],
+    "sources": [
+      {
+        "label": "Direction générale des finances publiques, déclaration des revenus",
+        "url": "https://www.impots.gouv.fr/particulier/modalites-de-declaration"
+      },
+      {
+        "label": "Direction générale des finances publiques, personnes imposables à l’IFI",
+        "url": "https://www.impots.gouv.fr/particulier/personnes-imposables-lifi"
+      }
+    ],
+    "relation": {
+      "question": "Les concubins forment-ils un seul foyer fiscal ou deux ?",
+      "participants": [
+        {
+          "role": "Impôt sur le revenu, règle de composition du foyer",
+          "reference": "Code général des impôts, art. 6",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046197457/2026-09-01",
+          "citation": "« Chaque contribuable est imposable à l’impôt sur le revenu […] »"
+        },
+        {
+          "role": "Impôt sur la fortune immobilière, imposition commune",
+          "reference": "Code général des impôts, art. 964",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036384999",
+          "citation": "« … les personnes vivant en concubinage notoire font l’objet d’une imposition commune. »"
+        }
+      ]
+    }
   }
 ]
