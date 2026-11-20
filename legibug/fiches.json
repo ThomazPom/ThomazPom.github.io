@@ -1768,7 +1768,8 @@
     },
     "explication": [
       "L’article 806 vise les obsèques des ascendants et descendants. L’arrêt de 2021 détaille le cas d’un enfant dont le parent décédé ne laisse pas assez de biens pour payer ses obsèques.",
-      "Et si la mairie a déjà payé ? L’article L. 2223-27 prévoit la gratuité du service funéraire pour les personnes dépourvues de ressources suffisantes. Selon une réponse ministérielle au Sénat, une commune qui a engagé les frais peut toutefois en demander le remboursement aux proches légalement tenus d’y contribuer, selon leurs moyens. La prise en charge initiale ne met donc pas forcément fin à la question de savoir qui paie."
+      "Et si la mairie a déjà payé ? L’article L. 2223-27 prévoit la gratuité du service funéraire pour les personnes dépourvues de ressources suffisantes. Selon une réponse ministérielle au Sénat, une commune qui a engagé les frais peut toutefois en demander le remboursement aux proches légalement tenus d’y contribuer, selon leurs moyens. La prise en charge initiale ne met donc pas forcément fin à la question de savoir qui paie.",
+      "Le refus de la succession ne supprime pas non plus certains droits issus du lien familial. Ainsi, l’époux qui renonce à la succession peut conserver la jouissance gratuite du logement pendant la première année dans les conditions de l’article 763 du Code civil."
     ],
     "sources": [
       {
@@ -1801,6 +1802,9 @@
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019983187",
           "citation": "« Le service est gratuit pour les personnes dépourvues de ressources suffisantes. »"
         }
+      ],
+      "fiches_liees": [
+        "pacs-deces-logement-un-an"
       ]
     }
   },
@@ -2611,7 +2615,8 @@
     "explication": [
       "Le Pacs seul ne donne pas la qualité d’héritier. Un testament peut transmettre des biens dans les limites prévues par le droit des successions. Le défunt peut aussi avoir écarté le droit temporaire au logement par testament.",
       "L’exemple vise la résidence principale effectivement occupée et appartenant entièrement au défunt.",
-      "L’article 765-1 fixe le délai d’un an pour manifester sa volonté. La valeur du droit à vie s’impute sur les droits successoraux de l’époux suivant l’article 765. Le défunt peut écarter ce droit viager par testament authentique."
+      "L’article 765-1 fixe le délai d’un an pour manifester sa volonté. La valeur du droit à vie s’impute sur les droits successoraux de l’époux suivant l’article 765. Le défunt peut écarter ce droit viager par testament authentique.",
+      "Vous êtes marié et renoncez à la succession de votre époux. L’article 805 vous considère comme n’ayant jamais été héritier. Vous pouvez néanmoins rester gratuitement dans le logement pendant la première année si les conditions de l’article 763 sont réunies. Ce texte rattache ce droit au mariage lui-même. Le droit à vie, qui relève de la succession, suit une autre règle."
     ],
     "sources": [
       {
@@ -2647,11 +2652,18 @@
           "reference": "Code civil, art. 764",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431120/2026-11-21",
           "citation": "« […] a sur ce logement, jusqu’à son décès, un droit d’habitation […] »"
+        },
+        {
+          "role": "Première année protégée malgré le refus de la succession",
+          "reference": "Code civil, art. 763",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431113/2026-10-07",
+          "citation": "« Les droits prévus au présent article sont réputés effets directs du mariage et non droits successoraux. »"
         }
       ],
       "fiches_liees": [
         "bail-deces-pacs-concubin-un-an",
-        "legs-concubin-pacs-droits"
+        "legs-concubin-pacs-droits",
+        "succession-refusee-obseques"
       ]
     }
   },
