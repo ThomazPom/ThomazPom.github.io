@@ -8021,5 +8021,51 @@
       "raison": "Le départ de l’ancien locataire ne remet pas le compteur à zéro pour le logement classé F. Le plafond suit le logement dans le nouveau contrat, même si le nouveau locataire aurait accepté de payer davantage.",
       "ordre": 166
     }
+  },
+  {
+    "id": "logement-g-habitation-tourisme",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Un appartement classé G peut encore accueillir des vacanciers alors qu’il ne respecte plus les critères d’un bail d’habitation",
+    "explication": [
+      "L’exemple vise un meublé touristique existant qui remplit déjà les conditions locales et ne demande pas de nouvelle autorisation de changement d’usage. Lorsque cette autorisation est requise pour passer à la location touristique en métropole, l’article 3 de la loi de 2024 exige déjà un DPE de A à E. Le seuil général de décence applicable aux meublés touristiques entre en vigueur en 2034, avec une exception pour la résidence principale du loueur."
+    ],
+    "sources": [
+      {
+        "label": "Loi du 6 juillet 1989, art. 6",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043977105"
+      },
+      {
+        "label": "Loi du 19 novembre 2024, art. 3",
+        "url": "https://www.legifrance.gouv.fr/eli/loi/2024/11/19/2024-1039/jo/texte"
+      }
+    ],
+    "relation": {
+      "question": "Une mauvaise note énergétique a-t-elle le même effet pour un bail et pour des vacances ?",
+      "participants": [
+        {
+          "role": "Bail d’habitation en métropole",
+          "reference": "Loi du 6 juillet 1989, art. 6",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043977105",
+          "citation": "« À compter du 1er janvier 2025, entre la classe A et la classe F »"
+        },
+        {
+          "role": "Décence énergétique générale des meublés touristiques, entrée en vigueur différée",
+          "reference": "Loi du 19 novembre 2024, art. 3",
+          "url": "https://www.legifrance.gouv.fr/eli/loi/2024/11/19/2024-1039/jo/texte",
+          "citation": "« Le I entre en vigueur le 1er janvier 2034. »"
+        }
+      ],
+      "fiches_liees": [
+        "loyer-relocation-classe-f-plafond"
+      ]
+    },
+    "entree": {
+      "titre": "Un appartement classé G peut encore accueillir des vacanciers alors qu’il ne respecte plus les critères d’un bail d’habitation",
+      "face_a_face": "L’article 6 de la loi de 1989 exclut la classe G des logements décents proposés sous un nouveau bail d’habitation en métropole depuis 2025. L’article 3 de la loi du 19 novembre 2024 reporte à 2034 l’application générale de ce critère aux meublés touristiques.",
+      "texte": "En 2026, un appartement métropolitain classé G est déjà exploité légalement en location touristique. Il peut encore accueillir des vacanciers si les autres conditions applicables sont remplies. Si le propriétaire le propose à quelqu’un comme résidence principale sous un bail d’habitation ordinaire, la note G ne satisfait pas au minimum légal.",
+      "raison": "La note énergétique est la même. La date à laquelle elle devient un obstacle dépend de l’usage du logement. Cela peut laisser l’appartement disponible pour quelques nuits alors qu’il ne remplit plus les critères d’un nouveau bail d’habitation.",
+      "ordre": 167
+    }
   }
 ]
