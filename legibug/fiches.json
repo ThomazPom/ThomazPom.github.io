@@ -2151,5 +2151,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "prison-avant-appel-date-saisine",
+    "type": "Réserve d’interprétation",
+    "domaine": "Justice pénale",
+    "titre": "Le jour où le tribunal a été saisi change la motivation exigée pour incarcérer une personne malgré son appel",
+    "entree": {
+      "ordre": 49,
+      "titre": "Même audience en novembre, mais une garantie différente selon la date de saisine du tribunal",
+      "face_a_face": "L’article 464-2 permet au tribunal d’ordonner dans certains cas une incarcération malgré l’appel, tandis que la décision 2026-1195 QPC exige une justification spéciale de cette exécution, uniquement pour les dossiers dont le tribunal a été saisi après le 2 mai 2026.",
+      "texte": "Deux personnes sont jugées en novembre et font appel de leur condamnation. Pour le dossier arrivé au tribunal le 30 avril, la nouvelle exigence constitutionnelle ne s’applique pas. Pour celui arrivé le 4 mai, le juge qui veut faire exécuter le mandat avant l’issue de l’appel doit expliquer pourquoi cette décision est proportionnée, notamment au regard de la situation familiale et sociale de la personne.",
+      "raison": "La date qui change la garantie est celle où le tribunal a été saisi. Deux personnes jugées le même jour peuvent donc bénéficier de garanties différentes. Le Conseil constitutionnel a limité l’application de la nouvelle exigence pour éviter les conséquences qu’elle aurait eues sur les affaires déjà engagées."
+    },
+    "explication": [
+      "Le cas vise un mandat de dépôt à effet différé assorti de l’exécution provisoire, dans les hypothèses prévues par le code. La réserve impose une motivation spécifique de l’exécution provisoire. La motivation de la peine et du mandat relève d’exigences distinctes."
+    ],
+    "sources": [
+      {
+        "label": "Journal officiel du 2 mai 2026",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054022566"
+      }
+    ],
+    "relation": {
+      "question": "Dans quels dossiers le juge doit-il spécialement justifier l’incarcération malgré l’appel ?",
+      "participants": [
+        {
+          "role": "Possibilité d’exécution provisoire",
+          "reference": "Code de procédure pénale, art. 464-2, IV",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006121325/2026-06-08/",
+          "citation": "« … assortir le mandat de dépôt à effet différé de l’exécution provisoire […] »"
+        },
+        {
+          "role": "Garantie limitée selon la date de saisine",
+          "reference": "Conseil constitutionnel, décision 2026-1195 QPC, § 8 et 9",
+          "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000054103363?fonds=CONSTIT",
+          "citation": "« … ne s’applique qu’aux affaires dont la juridiction de jugement est saisie postérieurement à la date de publication […] »"
+        }
+      ]
+    }
   }
 ]
