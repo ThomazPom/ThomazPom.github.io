@@ -2854,5 +2854,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "radar-amende-sans-points",
+    "type": "Articulation de régimes",
+    "domaine": "Transports",
+    "titre": "Le tribunal peut faire payer une amende sans condamner son destinataire comme conducteur",
+    "entree": {
+      "ordre": 66,
+      "titre": "Votre voiture est flashée. Comment pouvez-vous devoir payer tout en gardant vos points ?",
+      "face_a_face": "L’article L. 121-1 du code de la route rend le conducteur pénalement responsable, tandis que l’article L. 121-3 permet au tribunal de mettre l’amende à la charge du titulaire de la carte grise sans le déclarer pénalement responsable ni lui retirer de points.",
+      "texte": "Un radar relève un excès de vitesse, mais le tribunal ne peut établir qui conduisait. Si vous êtes titulaire de la carte grise et que vous n’apportez pas d’éléments établissant que vous n’étiez pas au volant, le tribunal peut vous faire payer au titre de l’article L. 121-3. Une décision qui vous déclare seulement redevable ne retire aucun point.",
+      "raison": "La loi distingue la responsabilité du conducteur et l’obligation de payer qui peut peser sur le titulaire de la carte grise. Le tribunal peut donc fixer qui paie sans avoir établi qui conduisait."
+    },
+    "explication": [
+      "Le texte prévoit notamment une exception si le titulaire établit un vol, un autre événement de force majeure ou qu’il n’est pas l’auteur véritable de l’infraction. La fiche décrit une décision du tribunal, distincte du paiement direct d’un avis de contravention."
+    ],
+    "sources": [
+      {
+        "label": "Code de la route, art. R. 121-6, liste des infractions dont la vitesse",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050965611"
+      }
+    ],
+    "relation": {
+      "question": "Qui paie si le tribunal ne peut établir qui conduisait ?",
+      "participants": [
+        {
+          "role": "Responsabilité du conducteur",
+          "reference": "Code de la route, art. L. 121-1",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006159506/",
+          "citation": "« Le conducteur d’un véhicule est responsable pénalement des infractions commises par lui […] »"
+        },
+        {
+          "role": "Paiement possible sans retrait de points",
+          "reference": "Code de la route, art. L. 121-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039785641/2026-10-24",
+          "citation": "« … le titulaire du certificat d’immatriculation du véhicule est redevable pécuniairement de l’amende […] »"
+        }
+      ]
+    }
   }
 ]
