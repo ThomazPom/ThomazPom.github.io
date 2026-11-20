@@ -7699,7 +7699,8 @@
     "domaine": "Logement",
     "titre": "Travaux votés avant l’achat. Le vendeur promet de payer, mais la copropriété peut vous réclamer les 4 000 €.",
     "explication": [
-      "Ce cas concerne l’appel de fonds pour des travaux en dehors du budget prévisionnel. La date à retenir est celle à laquelle la provision devient exigible, et la vente doit avoir été notifiée au syndic pour que le transfert lui soit opposable. L’acte de vente peut organiser un remboursement ou une retenue du prix entre les parties."
+      "Ce cas concerne l’appel de fonds pour des travaux en dehors du budget prévisionnel. La date à retenir est celle à laquelle la provision devient exigible, et la vente doit avoir été notifiée au syndic pour que le transfert lui soit opposable. L’acte de vente peut organiser un remboursement ou une retenue du prix entre les parties.",
+      "Le vendeur a payé 1 200 € de provisions pour une année où il était seul propriétaire. Après la vente, l’assemblée approuve les comptes et découvre un trop-perçu de 300 €. L’article 6-2, 3°, impose de créditer les 300 € à l’acheteur, propriétaire à cette date. Si les comptes révèlent au contraire un manque de 300 €, son compte est débité. L’acte de vente peut prévoir une autre répartition entre les deux parties."
     ],
     "sources": [
       {
@@ -7725,6 +7726,12 @@
           "reference": "Décret du 17 mars 1967, art. 6-3",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006488324/",
           "citation": "« […] n’a d’effet qu’entre les parties à la mutation à titre onéreux. »"
+        },
+        {
+          "role": "Solde des charges, compte du propriétaire à la date d’approbation",
+          "reference": "Décret du 17 mars 1967, art. 6-2, 3°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053191265/",
+          "citation": "« […] au crédit ou au débit du compte de celui qui est copropriétaire lors de l’approbation des comptes. »"
         }
       ],
       "fiches_liees": [
