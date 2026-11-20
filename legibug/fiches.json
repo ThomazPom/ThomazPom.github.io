@@ -7634,5 +7634,48 @@
       "raison": "Le délai pour changer d’avis et le délai pour être payé ne courent pas ensemble. Le premier est de 15 jours à compter de l’accord. Le délai de paiement d’un mois commence seulement après.",
       "ordre": 160
     }
+  },
+  {
+    "id": "copropriete-travaux-chez-vous-huit-jours",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Votre appartement vous appartient. La copropriété peut quand même y faire des travaux.",
+    "explication": [
+      "L’article 9 exige en principe de notifier les travaux au moins 8 jours avant l’accès, sauf impératif de sécurité ou de conservation. Si une autre solution préserve votre appartement, imposer l’intervention chez vous doit être justifié par les circonstances. Les dégradations, la perte définitive de valeur ou un trouble grave, même temporaire, donnent droit à une indemnité."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006471409/",
+        "label": "Loi du 10 juillet 1965, art. 2"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051749498/",
+        "label": "Loi du 10 juillet 1965, art. 9, II"
+      }
+    ],
+    "relation": {
+      "question": "Le propriétaire peut-il faire obstacle aux travaux dans son appartement ?",
+      "participants": [
+        {
+          "role": "Votre appartement est votre propriété",
+          "reference": "Loi du 10 juillet 1965, art. 2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006471409/",
+          "citation": "« Les parties privatives sont la propriété exclusive de chaque copropriétaire. »"
+        },
+        {
+          "role": "Travaux d’intérêt collectif jusque chez vous",
+          "reference": "Loi du 10 juillet 1965, art. 9, II",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051749498/",
+          "citation": "« Un copropriétaire ne peut faire obstacle à l’exécution, même sur ses parties privatives, de travaux d’intérêt collectif […] »"
+        }
+      ]
+    },
+    "entree": {
+      "titre": "Votre appartement vous appartient. La copropriété peut quand même y faire des travaux.",
+      "face_a_face": "L’article 2 de la loi de 1965 dit que les parties privatives vous appartiennent exclusivement. L’article 9 dit que vous ne pouvez pas bloquer les travaux d’intérêt collectif régulièrement votés, même chez vous, s’ils ne modifient pas durablement la destination, la consistance ou l’usage des lieux.",
+      "texte": "La copropriété vote le remplacement d’une conduite commune. Pour y accéder, les ouvriers doivent ouvrir puis remettre en état une trappe dans votre salle de bains. Si les conditions de l’article 9 sont réunies, le fait que cette salle de bains vous appartienne ne suffit pas à bloquer l’intervention.",
+      "raison": "Le droit de propriété vous réserve l’usage de votre appartement. Les autres copropriétaires peuvent néanmoins faire réaliser les travaux communs nécessaires qui passent par chez vous, dans les limites prévues par la loi.",
+      "ordre": 161
+    }
   }
 ]
