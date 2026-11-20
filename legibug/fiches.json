@@ -1,5 +1,38 @@
 [
   {
+    "id": "retraite-agricole-au-au",
+    "type": "Écart de consolidation",
+    "domaine": "Retraite agricole",
+    "titre": "Un renvoi et une date divergent du décret sur la retraite agricole",
+    "explication": [
+      "L’article R. 135-16-2 du code de la sécurité sociale cite le 2° de l’article L. 732-21 du code rural avec un « au » redoublé. Le décret remplace les mots « dernier alinéa » par « 2° ». La disposition visée reste identifiable.",
+      "La note sous l’article donne aussi le 31 décembre 2025 comme date du décret. Le Journal officiel donne le 30 décembre comme date de signature. Le 31 décembre est la date de publication. La référence de modification en tête de l’article affiche, elle, le 30 décembre."
+    ],
+    "relation": {
+      "question": "Quelle référence et quelle date le Journal officiel donne-t-il ?",
+      "participants": [
+        {
+          "role": "Texte consolidé",
+          "reference": "CSS, art. R. 135-16-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053335371",
+          "citation": "[…] et au au 2° de l’article L. 732-21 du code rural et de la pêche maritime […]"
+        },
+        {
+          "role": "Modification publiée",
+          "reference": "Décret n° 2025-1409 du 30 décembre 2025, art. 2",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053227462",
+          "citation": "[…] les mots : « dernier alinéa » sont remplacés par la référence : « 2° » ;"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Note d’application et version consolidée",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053335371"
+      }
+    ]
+  },
+  {
     "id": "forfaits-hopitaux-aux-aux",
     "type": "Écart de consolidation",
     "domaine": "Financement hospitalier",
