@@ -1,5 +1,38 @@
 [
   {
+    "id": "forfaits-hopitaux-aux-aux",
+    "type": "Écart de consolidation",
+    "domaine": "Financement hospitalier",
+    "titre": "Le code redouble un mot dans le renvoi aux forfaits hospitaliers",
+    "explication": [
+      "Le 3° de l’article R. 162-33-2 du code de la sécurité sociale renvoie à certains forfaits de l’article R. 162-33-1 pour définir les frais exclus. La version consolidée affiche deux fois le mot « aux ».",
+      "Le décret de décembre 2025 remplace le groupe entier, préposition comprise, et décale les trois numéros. La consolidation a bien décalé les numéros et a conservé une préposition de trop. Les forfaits visés restent identifiables."
+    ],
+    "relation": {
+      "question": "Quels forfaits le décret modificatif voulait-il viser ?",
+      "participants": [
+        {
+          "role": "Texte consolidé",
+          "reference": "CSS, art. R. 162-33-2, 3°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053285570",
+          "citation": "Sont exclus des forfaits mentionnés aux aux 5°, 6° et 7° de l’article R. 162-33-1 […]"
+        },
+        {
+          "role": "Instruction publiée au Journal officiel",
+          "reference": "Décret n° 2025-1390, art. 1, 14°",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/JORFARTI000053202357",
+          "citation": "[…] la référence : « aux 4°, 5° et 6° » est remplacée par la référence : « aux 5°, 6° et 7° » ;"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Section sur le financement des activités hospitalières",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000034404880/2026-10-05"
+      }
+    ]
+  },
+  {
     "id": "acpr-consolidation-aux-aux",
     "type": "Écart de consolidation",
     "domaine": "Droit financier",
