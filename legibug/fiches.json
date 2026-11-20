@@ -3605,5 +3605,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "assises-temoin-sans-serment",
+    "type": "Articulation de régimes",
+    "domaine": "Justice pénale",
+    "titre": "Une cour d’assises peut entendre des déclarations sans serment au cours du même procès",
+    "entree": {
+      "ordre": 84,
+      "titre": "Aux assises, une personne prête serment et une autre non. Pourquoi ?",
+      "face_a_face": "L’article 331 du code de procédure pénale impose en principe le serment avant la déposition d’un témoin, tandis que l’article 310 autorise le président à entendre sans serment certaines personnes appelées au cours des débats, à titre de renseignements.",
+      "texte": "Une difficulté nouvelle apparaît pendant le procès. Le président fait venir une personne dont les explications pourraient éclairer la cour et qui n’est pas déjà un témoin acquis aux débats. La cour peut entendre ses explications sans serment dans le cadre prévu par l’article 310. Les parties peuvent discuter ce qu’elle dit.",
+      "raison": "Cette voie permet d’éclaircir un point apparu pendant l’audience. Le président ne peut pas s’en servir librement pour dispenser un témoin déjà acquis aux débats de prêter serment. La décision constitutionnelle du 1er octobre 2026 a confirmé la règle."
+    },
+    "explication": [
+      "Le Conseil constitutionnel distingue le cas des personnes qui ne sont pas des témoins acquis aux débats et celui des témoins pour lesquels un empêchement ou une incapacité est prévu par la loi."
+    ],
+    "sources": [
+      {
+        "label": "Conseil constitutionnel, décision 2026-1222 QPC",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054939343"
+      }
+    ],
+    "relation": {
+      "question": "Toutes les personnes entendues aux assises doivent-elles prêter serment ?",
+      "participants": [
+        {
+          "role": "Déposition après serment",
+          "reference": "Code de procédure pénale, art. 331",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151893/2026-06-27",
+          "citation": "« Avant de commencer leur déposition, les témoins prêtent le serment […] »"
+        },
+        {
+          "role": "Audition à titre de renseignements",
+          "reference": "Code de procédure pénale, art. 310",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006151893/2026-06-27",
+          "citation": "« Les témoins ainsi appelés ne prêtent pas serment et leurs déclarations ne sont considérées que comme renseignements. »"
+        }
+      ]
+    }
   }
 ]
