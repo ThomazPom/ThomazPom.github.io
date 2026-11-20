@@ -4201,5 +4201,51 @@
         }
       ]
     }
+  },
+  {
+    "id": "retractation-billet-loisir-date",
+    "type": "Articulation de régimes",
+    "domaine": "Consommation",
+    "titre": "Quatorze jours pour rendre un billet de parc sans date, aucun délai légal pour un billet daté",
+    "entree": {
+      "ordre": 96,
+      "titre": "Même parc, même prix. Un billet est remboursable si vous changez d’avis, l’autre peut rester à votre charge.",
+      "face_a_face": "L’article L. 221-18 donne en principe 14 jours pour se rétracter d’un achat en ligne, tandis que l’article L. 221-28 retire ce droit pour une activité de loisirs réservée à une date ou une période déterminée.",
+      "texte": "Un parc propose en ligne deux billets à 50 €. Le premier n’est lié à aucune date ni période déterminée. Le second réserve l’entrée pour le samedi suivant. Si vous changez d’avis le lendemain, vous pouvez en principe vous rétracter pour le premier. Pour le second, le parc peut refuser de rembourser les 50 €.",
+      "raison": "Le prix et l’activité peuvent être identiques. Le résultat change parce que le second billet réserve une entrée à une date déterminée, ce qui suffit à faire jouer l’exception prévue par la loi."
+    },
+    "explication": [
+      "Le délai de 14 jours court à partir de la conclusion du contrat pour les prestations de services. L’exemple suppose que le billet sans date n’a pas été utilisé. Les conditions de vente peuvent offrir une faculté de remboursement ou d’échange pour le billet daté."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000032226840/",
+        "label": "Code de la consommation, article L. 221-18"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563170/2026-11-21",
+        "label": "Code de la consommation, article L. 221-28, 12°"
+      }
+    ],
+    "relation": {
+      "question": "Le droit de changer d’avis dépend-il de la date inscrite sur le billet ?",
+      "participants": [
+        {
+          "role": "Délai de principe",
+          "reference": "Code de la consommation, art. L. 221-18",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000032226840/",
+          "citation": "« Le consommateur dispose d’un délai de quatorze jours pour exercer son droit de rétractation […] »"
+        },
+        {
+          "role": "Exception pour les loisirs datés",
+          "reference": "Code de la consommation, art. L. 221-28, 12°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563170/2026-11-21",
+          "citation": "« […] d’activités de loisirs qui doivent être fournis à une date ou à une période déterminée […] »"
+        }
+      ],
+      "fiches_liees": [
+        "retractation-roman-papier-numerique"
+      ]
+    }
   }
 ]
