@@ -1729,5 +1729,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "succession-refusee-obseques",
+    "type": "Articulation de régimes",
+    "domaine": "Famille et succession",
+    "titre": "Refuser la succession de son père peut laisser une facture d’obsèques à payer",
+    "entree": {
+      "ordre": 39,
+      "titre": "Vous refusez l’héritage de votre père. Pourquoi vous réclame-t-on ses obsèques ?",
+      "face_a_face": "L’article 805 du code civil dit que si vous refusez la succession, vous êtes réputé n’avoir jamais été héritier, tandis que l’article 806 vous oblige quand même à contribuer aux obsèques de votre parent selon vos moyens si la succession ne suffit pas à les payer.",
+      "texte": "Votre père laisse des crédits impayés et aucun argent pour ses obsèques. Si vous renoncez à sa succession, vous ne reprenez pas ses dettes comme héritier. Vous pouvez toutefois devoir payer tout ou partie des obsèques selon vos ressources.",
+      "raison": "La contribution aux obsèques découle du lien de parenté, qui subsiste après le refus d’hériter. Le juge peut vous décharger de tout ou partie des frais si votre parent a gravement manqué à ses obligations envers vous."
+    },
+    "explication": [
+      "L’article 806 vise les obsèques des ascendants et descendants. L’arrêt de 2021 détaille le cas d’un enfant dont le parent décédé ne laisse pas assez de biens pour payer ses obsèques."
+    ],
+    "sources": [
+      {
+        "label": "Cour de cassation, 31 mars 2021, n° 20-14.107",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000043351754"
+      }
+    ],
+    "relation": {
+      "question": "Peut-on devoir payer les obsèques d’un parent sans accepter sa succession ?",
+      "participants": [
+        {
+          "role": "Perte de la qualité d’héritier",
+          "reference": "Code civil, art. 805",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006136273/2026-07-27/",
+          "citation": "« L’héritier qui renonce est censé n’avoir jamais été héritier. »"
+        },
+        {
+          "role": "Contribution aux frais funéraires",
+          "reference": "Code civil, art. 806",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431757",
+          "citation": "« Toutefois, il est tenu à proportion de ses moyens au paiement des frais funéraires […] »"
+        }
+      ]
+    }
   }
 ]
