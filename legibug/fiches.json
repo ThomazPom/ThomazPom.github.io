@@ -2394,5 +2394,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "succession-logement-testament",
+    "type": "Articulation de régimes",
+    "domaine": "Successions",
+    "titre": "Le testament peut écarter le droit viager au logement, mais la première année est protégée",
+    "explication": [
+      "Lorsque le conjoint survivant occupait à titre principal un logement appartenant aux époux ou dépendant entièrement de la succession, l’article 763 lui garantit une année de jouissance gratuite. Cette protection est d’ordre public.",
+      "Le droit d’habitation jusqu’au décès, prévu à l’article 764 sous ses propres conditions, peut être écarté par le défunt dans les formes du testament authentique prévues par l’article 971. Cette faculté concerne le droit viager."
+    ],
+    "sources": [
+      {
+        "label": "Droit temporaire au logement",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431113/2026-09-01"
+      },
+      {
+        "label": "Droit viager au logement",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431120/2026-09-01"
+      }
+    ],
+    "relation": {
+      "question": "Dans quelle mesure le défunt peut-il écarter le droit du conjoint survivant de rester dans le logement ?",
+      "participants": [
+        {
+          "role": "Protection temporaire",
+          "reference": "Code civil, art. 763",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431113/2026-09-01",
+          "citation": "[…] pendant une année, la jouissance gratuite de ce logement […]. […] Le présent article est d’ordre public."
+        },
+        {
+          "role": "Droit viager aménageable",
+          "reference": "Code civil, art. 764",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431120/2026-09-01",
+          "citation": "Sauf volonté contraire du défunt exprimée dans les conditions de l’article 971 […]"
+        }
+      ]
+    }
   }
 ]
