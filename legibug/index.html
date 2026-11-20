@@ -26,6 +26,7 @@ article{background:white;border:1px solid var(--line);border-left:4px solid var(
 .comparaison figure{margin:0;padding:.85rem;background:var(--paper);border:1px solid var(--line)}
 .comparaison blockquote{margin:0 0 .4rem;font-family:Georgia,serif}
 .comparaison figcaption{font-size:.9rem}
+.exemples{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,18rem),1fr));gap:1rem}.exemples li{border:1px solid var(--line);padding:1rem}.exemples h3{margin-top:0}.exemples p{margin-bottom:0}.entree{font-weight:600}
 .sources{display:flex;flex-wrap:wrap;gap:.4rem 1rem}
 label{display:block;font-weight:650}
 input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px solid var(--muted);border-radius:.3rem}
@@ -42,7 +43,17 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <nav aria-label="Sommaire"><a href="#fiches">Explorer les fiches</a><a href="#bilan">Voir le bilan</a><a href="#methode">Lire la méthode</a></nav>
 </div></header>
 <main>
-<h2 id="fiches">Les cas documentés</h2>
+<section aria-labelledby="situations">
+<h2 id="situations">Cinq situations pour comprendre</h2>
+<ul class="exemples">
+<li><h3><a href="#justice-mineurs">Un mineur peut-il attendre son appel en prison aussi longtemps qu’un adulte ?</a></h3><p>Le code des mineurs emprunte les délais prévus pour les adultes détenus. Le Conseil constitutionnel a jugé que ces délais étaient trop longs pour les mineurs. Il laisse pourtant le texte en place jusqu’au 31 octobre 2027, car le supprimer immédiatement ferait disparaître le délai maximal.</p></li>
+<li><h3><a href="#avocats-cfe">Deux avocats débutent sans expérience. Pourquoi l’un paie-t-il un impôt dont l’autre est exonéré ?</a></h3><p>Le fisc accorde deux ans d’exonération à certains avocats débutants. Un avocat formé à l’étranger et admis par dérogation peut en être exclu alors qu’il débute lui aussi. Le Conseil constitutionnel a jugé cette différence injustifiée. L’abrogation est différée et les procès qui dépendent de ce critère doivent attendre.</p></li>
+<li><h3><a href="#prospection-double-sanction">Deux autorités peuvent-elles sanctionner la même entreprise pour les mêmes messages ?</a></h3><p>Deux autorités pouvaient poursuivre la même entreprise pour le même démarchage, au titre du même manquement. Le Conseil constitutionnel a jugé ce cumul contraire à la Constitution. Le texte subsiste jusqu’à son abrogation, mais la décision bloque dès maintenant certaines secondes poursuites.</p></li>
+<li><h3><a href="#ap-hp-age-concours">Un père peut-il bénéficier du même recul de la limite d’âge qu’une mère ?</a></h3><p>L’ancien décret de l’Assistance publique à Paris parle des femmes. Le code de la fonction publique parle de toute personne qui élève ou a élevé un enfant. Pour un concours concerné, la règle du code prime. Les deux formulations restent consultables aujourd’hui.</p></li>
+<li><h3><a href="#bareme-licenciement-charte">Le plafond d’indemnisation est jugé contraire à la Charte sociale. Pourquoi reste-t-il appliqué ?</a></h3><p>Le Comité européen des droits sociaux estime que le plafond français peut empêcher une réparation suffisante. La Cour de cassation juge que le salarié ne peut pas invoquer directement la disposition de la Charte contre son employeur. Le constat européen ne suffit donc pas à écarter le plafond aux prud’hommes.</p></li>
+</ul>
+</section>
+<h2 id="fiches">Tous les cas documentés</h2>
 <div id="search-panel" hidden>
 <label for="search">Rechercher dans les fiches</label>
 <input id="search" type="search" placeholder="Ex. détention, vie privée, preuve">
@@ -50,7 +61,7 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <select id="category"><option value="">Tous les types</option></select>
 <p id="count" role="status"></p>
 </div>
-<section aria-label="Fiches">
+<section id="catalogue" aria-label="Fiches">
 <article id="indemnites-elevage-sanction-abrogee">
 <div class="topic">Renvoi obsolète · Indemnisation agricole</div>
 <h3>Un arrêté sur l’indemnisation renvoie encore à des pénalités abrogées</h3>
@@ -70,96 +81,6 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <p>L’article 58 de l’arrêté du 23 juin 2003 prévoit que certains manquements peuvent entraîner la perte d’indemnités. Il présente cette mesure comme distincte des pénalités prévues par l’article 2 d’un décret de 1963.</p>
 <p>Le décret du 1er août 2003 a abrogé l’article 2 avec effet au 7 août 2003. La version consolidée de l’arrêté conserve ce renvoi. Ce constat porte sur la référence aux anciennes pénalités. Le régime actuel des sanctions éventuelles doit être recherché dans les textes en vigueur.</p>
 <p class="sources"><a href="https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000436052/2026-05-25">Arrêté du 17 mars 2004 sur les mesures financières</a></p>
-</article>
-<article id="retraite-agricole-au-au">
-<div class="topic">Écart de consolidation · Retraite agricole</div>
-<h3>Un renvoi et une date divergent du décret sur la retraite agricole</h3>
-<p class="question">Quelle référence et quelle date le Journal officiel donne-t-il ?</p>
-<div class="comparaison">
-<figure>
-<div class="topic">Texte consolidé</div>
-<blockquote>[…] et au au 2° de l’article L. 732-21 du code rural et de la pêche maritime […]</blockquote>
-<figcaption><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053335371">CSS, art. R. 135-16-2</a></figcaption>
-</figure>
-<figure>
-<div class="topic">Modification publiée</div>
-<blockquote>[…] les mots : « dernier alinéa » sont remplacés par la référence : « 2° » ;</blockquote>
-<figcaption><a href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053227462">Décret n° 2025-1409 du 30 décembre 2025, art. 2</a></figcaption>
-</figure>
-</div>
-<p>L’article R. 135-16-2 du code de la sécurité sociale cite le 2° de l’article L. 732-21 du code rural avec un « au » redoublé. Le décret remplace les mots « dernier alinéa » par « 2° ». La disposition visée reste identifiable.</p>
-<p>La note sous l’article donne aussi le 31 décembre 2025 comme date du décret. Le Journal officiel donne le 30 décembre comme date de signature. Le 31 décembre est la date de publication. La référence de modification en tête de l’article affiche, elle, le 30 décembre.</p>
-<p class="sources"><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053335371">Note d’application et version consolidée</a></p>
-</article>
-<article id="forfaits-hopitaux-aux-aux">
-<div class="topic">Écart de consolidation · Financement hospitalier</div>
-<h3>Le code redouble un mot dans le renvoi aux forfaits hospitaliers</h3>
-<p class="question">Quels forfaits le décret modificatif voulait-il viser ?</p>
-<div class="comparaison">
-<figure>
-<div class="topic">Texte consolidé</div>
-<blockquote>Sont exclus des forfaits mentionnés aux aux 5°, 6° et 7° de l’article R. 162-33-1 […]</blockquote>
-<figcaption><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053285570">CSS, art. R. 162-33-2, 3°</a></figcaption>
-</figure>
-<figure>
-<div class="topic">Instruction publiée au Journal officiel</div>
-<blockquote>[…] la référence : « aux 4°, 5° et 6° » est remplacée par la référence : « aux 5°, 6° et 7° » ;</blockquote>
-<figcaption><a href="https://www.legifrance.gouv.fr/loda/article_lc/JORFARTI000053202357">Décret n° 2025-1390, art. 1, 14°</a></figcaption>
-</figure>
-</div>
-<p>Le 3° de l’article R. 162-33-2 du code de la sécurité sociale renvoie à certains forfaits de l’article R. 162-33-1 pour définir les frais exclus. La version consolidée affiche deux fois le mot « aux ».</p>
-<p>Le décret de décembre 2025 remplace le groupe entier, préposition comprise, et décale les trois numéros. La consolidation a bien décalé les numéros et a conservé une préposition de trop. Les forfaits visés restent identifiables.</p>
-<p class="sources"><a href="https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000034404880/2026-10-05">Section sur le financement des activités hospitalières</a></p>
-</article>
-<article id="acpr-consolidation-aux-aux">
-<div class="topic">Écart de consolidation · Droit financier</div>
-<h3>Le code financier redouble un mot dans la liste des contrôles de l’ACPR</h3>
-<p class="question">Quels mots l’ordonnance a-t-elle ajoutés avant la liste des catégories ?</p>
-<div class="comparaison">
-<figure>
-<div class="topic">Texte consolidé</div>
-<blockquote>Aux fins du contrôle des personnes mentionnées aux aux 3°, 8° et 17° […]</blockquote>
-<figcaption><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051556833">Code monétaire et financier, art. L. 612-2</a></figcaption>
-</figure>
-<figure>
-<div class="topic">Instruction au Journal officiel</div>
-<blockquote>[…] les mots : « aux 3° et 8° » sont remplacés par les mots : « aux 3°, 8° et 17° » ;</blockquote>
-<figcaption><a href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050353747">Ordonnance n° 2024-936</a></figcaption>
-</figure>
-</div>
-<p>Le code permet à l’Autorité de contrôle prudentiel et de résolution de solliciter un avis de la Banque de France pour contrôler certaines catégories d’acteurs. Le passage consolidé contient deux fois la préposition qui précède leur liste.</p>
-<p>L’ordonnance sur les crypto-actifs a étendu cette liste au 17° et prévoit un seul « aux ». Les trois numéros se lisent de la même façon dans les deux publications. La différence porte sur la rédaction consolidée.</p>
-<p class="sources"><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050370609/2025-03-14">Version de mars 2025, où le redoublement figure déjà</a></p>
-</article>
-<article id="sante-consolidation-le-le">
-<div class="topic">Écart de consolidation · Professions de santé</div>
-<h3>Trois articles redoublent le même mot après une modification</h3>
-<p class="question">D’où vient le redoublement dans les trois articles ?</p>
-<div class="comparaison">
-<figure>
-<div class="topic">Texte consolidé</div>
-<blockquote>[…] par le le troisième alinéa de l’article 27 […]</blockquote>
-<figcaption><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053027528">CSP, art. R. 4113-56</a></figcaption>
-</figure>
-<figure>
-<div class="topic">Texte consolidé</div>
-<blockquote>[…] par le le troisième alinéa de l’article 20 […]</blockquote>
-<figcaption><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053027508">CSP, art. R. 4113-77</a></figcaption>
-</figure>
-<figure>
-<div class="topic">Texte consolidé</div>
-<blockquote>[…] par le le troisième alinéa de l’article 27 […]</blockquote>
-<figcaption><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053027641">CSP, art. R. 4381-59</a></figcaption>
-</figure>
-<figure>
-<div class="topic">Instruction publiée au Journal officiel</div>
-<blockquote>[…] sont remplacés par les mots : « le troisième alinéa […] »</blockquote>
-<figcaption><a href="https://www.legifrance.gouv.fr/eli/decret/2025/12/11/2025-1216/jo/texte">Décret n° 2025-1216, art. 1, 14°, 17° et 34°</a></figcaption>
-</figure>
-</div>
-<p>Trois articles du code de la santé publique affichent « par le le troisième alinéa ». Ils renvoient, selon le cas, à l’article 20 ou 27 de l’ordonnance sur l’exercice en société des professions libérales réglementées.</p>
-<p>Le décret de décembre 2025 ordonne de remplacer un passage commençant par « le deuxième alinéa » par un passage commençant par « le troisième alinéa ». Le texte consolidé conserve un « le » supplémentaire. Le numéro de l’article et l’alinéa concernés restent identifiables.</p>
-<p class="sources"><a href="https://www.legifrance.gouv.fr/eli/decret/2025/12/11/2025-1216/jo/texte">Décret modificatif publié au Journal officiel</a></p>
 </article>
 <article id="preemption-directeur-general">
 <div class="topic">Écart de consolidation · Urbanisme</div>
@@ -515,6 +436,7 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <article id="justice-mineurs">
 <div class="topic">Inconstitutionnalité constatée · Justice des mineurs</div>
 <h3>Un délai d’appel censuré reste inscrit dans le code</h3>
+<p class="entree">Le code des mineurs emprunte les délais prévus pour les adultes détenus. Le Conseil constitutionnel a jugé que ces délais étaient trop longs pour les mineurs. Il laisse pourtant le texte en place jusqu’au 31 octobre 2027, car le supprimer immédiatement ferait disparaître le délai maximal.</p>
 <p class="question">Quelle règle fixe le délai de comparution en appel ?</p>
 <div class="comparaison">
 <figure>
@@ -555,6 +477,7 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <article id="avocats-cfe">
 <div class="topic">Inconstitutionnalité constatée · Fiscalité</div>
 <h3>L’exonération fiscale des jeunes avocats dépend de leur voie d’accès</h3>
+<p class="entree">Le fisc accorde deux ans d’exonération à certains avocats débutants. Un avocat formé à l’étranger et admis par dérogation peut en être exclu alors qu’il débute lui aussi. Le Conseil constitutionnel a jugé cette différence injustifiée. L’abrogation est différée et les procès qui dépendent de ce critère doivent attendre.</p>
 <p class="question">Que doit faire le juge quand le litige dépend de la condition censurée ?</p>
 <div class="comparaison">
 <figure>
@@ -595,6 +518,7 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <article id="prospection-double-sanction">
 <div class="topic">Inconstitutionnalité constatée · Prospection automatisée</div>
 <h3>Un plafond commun n’empêche pas deux autorités de poursuivre les mêmes faits</h3>
+<p class="entree">Deux autorités pouvaient poursuivre la même entreprise pour le même démarchage, au titre du même manquement. Le Conseil constitutionnel a jugé ce cumul contraire à la Constitution. Le texte subsiste jusqu’à son abrogation, mais la décision bloque dès maintenant certaines secondes poursuites.</p>
 <p class="question">Le plafonnement des sanctions suffit-il à empêcher les doubles poursuites ?</p>
 <div class="comparaison">
 <figure>
@@ -927,6 +851,7 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <article id="ap-hp-age-concours">
 <div class="topic">Renvoi obsolète · Fonction publique</div>
 <h3>Le statut de l’Assistance publique à Paris conserve d’anciennes règles de recul de l’âge</h3>
+<p class="entree">L’ancien décret de l’Assistance publique à Paris parle des femmes. Le code de la fonction publique parle de toute personne qui élève ou a élevé un enfant. Pour un concours concerné, la règle du code prime. Les deux formulations restent consultables aujourd’hui.</p>
 <p class="question">Quelles conditions permettent de reculer une limite d’âge au recrutement ?</p>
 <div class="comparaison">
 <figure>
@@ -1214,6 +1139,7 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <article id="bareme-licenciement-charte">
 <div class="topic">Articulation de régimes · Travail</div>
 <h3>Le barème du licenciement reste applicable malgré un constat européen de violation</h3>
+<p class="entree">Le Comité européen des droits sociaux estime que le plafond français peut empêcher une réparation suffisante. La Cour de cassation juge que le salarié ne peut pas invoquer directement la disposition de la Charte contre son employeur. Le constat européen ne suffit donc pas à écarter le plafond aux prud’hommes.</p>
 <p class="question">Le constat européen permet-il au juge prud’homal d’écarter le plafond ?</p>
 <div class="comparaison">
 <figure>
@@ -1458,6 +1384,99 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <p>Le tirage porte sur les couples repérés dans les métadonnées. Il mesure la qualité de ce repérage après relecture et ne donne pas la fréquence de toutes les incohérences dans le droit français.</p>
 <p class="sources"><a href="analyse/sample.csv">Télécharger le tirage</a><a href="analyse/relecture.csv">Lire les vérifications</a></p>
 </section>
+<details id="notes">
+<summary>Notes techniques sur les coquilles et la consolidation</summary>
+<article id="retraite-agricole-au-au">
+<div class="topic">Écart de consolidation · Retraite agricole</div>
+<h3>Un renvoi et une date divergent du décret sur la retraite agricole</h3>
+<p class="question">Quelle référence et quelle date le Journal officiel donne-t-il ?</p>
+<div class="comparaison">
+<figure>
+<div class="topic">Texte consolidé</div>
+<blockquote>[…] et au au 2° de l’article L. 732-21 du code rural et de la pêche maritime […]</blockquote>
+<figcaption><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053335371">CSS, art. R. 135-16-2</a></figcaption>
+</figure>
+<figure>
+<div class="topic">Modification publiée</div>
+<blockquote>[…] les mots : « dernier alinéa » sont remplacés par la référence : « 2° » ;</blockquote>
+<figcaption><a href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053227462">Décret n° 2025-1409 du 30 décembre 2025, art. 2</a></figcaption>
+</figure>
+</div>
+<p>L’article R. 135-16-2 du code de la sécurité sociale cite le 2° de l’article L. 732-21 du code rural avec un « au » redoublé. Le décret remplace les mots « dernier alinéa » par « 2° ». La disposition visée reste identifiable.</p>
+<p>La note sous l’article donne aussi le 31 décembre 2025 comme date du décret. Le Journal officiel donne le 30 décembre comme date de signature. Le 31 décembre est la date de publication. La référence de modification en tête de l’article affiche, elle, le 30 décembre.</p>
+<p class="sources"><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053335371">Note d’application et version consolidée</a></p>
+</article>
+<article id="forfaits-hopitaux-aux-aux">
+<div class="topic">Écart de consolidation · Financement hospitalier</div>
+<h3>Le code redouble un mot dans le renvoi aux forfaits hospitaliers</h3>
+<p class="question">Quels forfaits le décret modificatif voulait-il viser ?</p>
+<div class="comparaison">
+<figure>
+<div class="topic">Texte consolidé</div>
+<blockquote>Sont exclus des forfaits mentionnés aux aux 5°, 6° et 7° de l’article R. 162-33-1 […]</blockquote>
+<figcaption><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053285570">CSS, art. R. 162-33-2, 3°</a></figcaption>
+</figure>
+<figure>
+<div class="topic">Instruction publiée au Journal officiel</div>
+<blockquote>[…] la référence : « aux 4°, 5° et 6° » est remplacée par la référence : « aux 5°, 6° et 7° » ;</blockquote>
+<figcaption><a href="https://www.legifrance.gouv.fr/loda/article_lc/JORFARTI000053202357">Décret n° 2025-1390, art. 1, 14°</a></figcaption>
+</figure>
+</div>
+<p>Le 3° de l’article R. 162-33-2 du code de la sécurité sociale renvoie à certains forfaits de l’article R. 162-33-1 pour définir les frais exclus. La version consolidée affiche deux fois le mot « aux ».</p>
+<p>Le décret de décembre 2025 remplace le groupe entier, préposition comprise, et décale les trois numéros. La consolidation a bien décalé les numéros et a conservé une préposition de trop. Les forfaits visés restent identifiables.</p>
+<p class="sources"><a href="https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000034404880/2026-10-05">Section sur le financement des activités hospitalières</a></p>
+</article>
+<article id="acpr-consolidation-aux-aux">
+<div class="topic">Écart de consolidation · Droit financier</div>
+<h3>Le code financier redouble un mot dans la liste des contrôles de l’ACPR</h3>
+<p class="question">Quels mots l’ordonnance a-t-elle ajoutés avant la liste des catégories ?</p>
+<div class="comparaison">
+<figure>
+<div class="topic">Texte consolidé</div>
+<blockquote>Aux fins du contrôle des personnes mentionnées aux aux 3°, 8° et 17° […]</blockquote>
+<figcaption><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051556833">Code monétaire et financier, art. L. 612-2</a></figcaption>
+</figure>
+<figure>
+<div class="topic">Instruction au Journal officiel</div>
+<blockquote>[…] les mots : « aux 3° et 8° » sont remplacés par les mots : « aux 3°, 8° et 17° » ;</blockquote>
+<figcaption><a href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050353747">Ordonnance n° 2024-936</a></figcaption>
+</figure>
+</div>
+<p>Le code permet à l’Autorité de contrôle prudentiel et de résolution de solliciter un avis de la Banque de France pour contrôler certaines catégories d’acteurs. Le passage consolidé contient deux fois la préposition qui précède leur liste.</p>
+<p>L’ordonnance sur les crypto-actifs a étendu cette liste au 17° et prévoit un seul « aux ». Les trois numéros se lisent de la même façon dans les deux publications. La différence porte sur la rédaction consolidée.</p>
+<p class="sources"><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050370609/2025-03-14">Version de mars 2025, où le redoublement figure déjà</a></p>
+</article>
+<article id="sante-consolidation-le-le">
+<div class="topic">Écart de consolidation · Professions de santé</div>
+<h3>Trois articles redoublent le même mot après une modification</h3>
+<p class="question">D’où vient le redoublement dans les trois articles ?</p>
+<div class="comparaison">
+<figure>
+<div class="topic">Texte consolidé</div>
+<blockquote>[…] par le le troisième alinéa de l’article 27 […]</blockquote>
+<figcaption><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053027528">CSP, art. R. 4113-56</a></figcaption>
+</figure>
+<figure>
+<div class="topic">Texte consolidé</div>
+<blockquote>[…] par le le troisième alinéa de l’article 20 […]</blockquote>
+<figcaption><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053027508">CSP, art. R. 4113-77</a></figcaption>
+</figure>
+<figure>
+<div class="topic">Texte consolidé</div>
+<blockquote>[…] par le le troisième alinéa de l’article 27 […]</blockquote>
+<figcaption><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053027641">CSP, art. R. 4381-59</a></figcaption>
+</figure>
+<figure>
+<div class="topic">Instruction publiée au Journal officiel</div>
+<blockquote>[…] sont remplacés par les mots : « le troisième alinéa […] »</blockquote>
+<figcaption><a href="https://www.legifrance.gouv.fr/eli/decret/2025/12/11/2025-1216/jo/texte">Décret n° 2025-1216, art. 1, 14°, 17° et 34°</a></figcaption>
+</figure>
+</div>
+<p>Trois articles du code de la santé publique affichent « par le le troisième alinéa ». Ils renvoient, selon le cas, à l’article 20 ou 27 de l’ordonnance sur l’exercice en société des professions libérales réglementées.</p>
+<p>Le décret de décembre 2025 ordonne de remplacer un passage commençant par « le deuxième alinéa » par un passage commençant par « le troisième alinéa ». Le texte consolidé conserve un « le » supplémentaire. Le numéro de l’article et l’alinéa concernés restent identifiables.</p>
+<p class="sources"><a href="https://www.legifrance.gouv.fr/eli/decret/2025/12/11/2025-1216/jo/texte">Décret modificatif publié au Journal officiel</a></p>
+</article>
+</details>
 <section id="methode">
 <h2>Comment mesurer la surface des incohérences ?</h2>
 <p>Le catalogue part de cas repérés dans les décisions et les codes consolidés. Une fiche vérifie la version à la date indiquée, la portée exacte de la décision, les règles de priorité et les éventuelles dates d’effet différées. Une disposition abrogée sort du catalogue lorsqu’elle cesse d’être en vigueur.</p>
@@ -1491,7 +1510,7 @@ const search = document.querySelector('#search');
 const count = document.querySelector('#count');
 const category = document.querySelector('#category');
 const normalize = text => text.toLocaleLowerCase('fr').normalize('NFD').replace(/\p{M}/gu, '');
-const cards = Array.from(document.querySelectorAll('article'), card => ({
+const cards = Array.from(document.querySelectorAll('#catalogue article'), card => ({
   card,
   text: normalize(card.textContent),
   type: card.querySelector('.topic').textContent.split(' · ')[0],
@@ -1523,7 +1542,10 @@ search.addEventListener('input', filterCards);
 category.addEventListener('change', filterCards);
 function revealLinkedCard() {
   const target = document.getElementById(location.hash.slice(1));
-  if (!target || target.tagName !== 'ARTICLE' || !target.hidden) return;
+  if (!target || target.tagName !== 'ARTICLE') return;
+  const details = target.closest('details');
+  if (details) details.open = true;
+  if (!target.hidden) return;
   search.value = '';
   category.value = '';
   filterCards();

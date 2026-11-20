@@ -63,7 +63,8 @@
         "label": "Note d’application et version consolidée",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053335371"
       }
-    ]
+    ],
+    "note_technique": true
   },
   {
     "id": "forfaits-hopitaux-aux-aux",
@@ -96,7 +97,8 @@
         "label": "Section sur le financement des activités hospitalières",
         "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000034404880/2026-10-05"
       }
-    ]
+    ],
+    "note_technique": true
   },
   {
     "id": "acpr-consolidation-aux-aux",
@@ -129,7 +131,8 @@
         "label": "Version de mars 2025, où le redoublement figure déjà",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050370609/2025-03-14"
       }
-    ]
+    ],
+    "note_technique": true
   },
   {
     "id": "sante-consolidation-le-le",
@@ -174,7 +177,8 @@
         "label": "Décret modificatif publié au Journal officiel",
         "url": "https://www.legifrance.gouv.fr/eli/decret/2025/12/11/2025-1216/jo/texte"
       }
-    ]
+    ],
+    "note_technique": true
   },
   {
     "id": "preemption-directeur-general",
@@ -933,6 +937,10 @@
           "citation": "[…] il y a lieu de reporter au 31 octobre 2027 la date de l’abrogation de ces dispositions."
         }
       ]
+    },
+    "entree": {
+      "titre": "Un mineur peut-il attendre son appel en prison aussi longtemps qu’un adulte ?",
+      "texte": "Le code des mineurs emprunte les délais prévus pour les adultes détenus. Le Conseil constitutionnel a jugé que ces délais étaient trop longs pour les mineurs. Il laisse pourtant le texte en place jusqu’au 31 octobre 2027, car le supprimer immédiatement ferait disparaître le délai maximal."
     }
   },
   {
@@ -1007,6 +1015,10 @@
           "citation": "[…] il appartient aux juridictions saisies de surseoir à statuer jusqu’à l’entrée en vigueur de la nouvelle loi ou, au plus tard, jusqu’au 31 octobre 2027 […]"
         }
       ]
+    },
+    "entree": {
+      "titre": "Deux avocats débutent sans expérience. Pourquoi l’un paie-t-il un impôt dont l’autre est exonéré ?",
+      "texte": "Le fisc accorde deux ans d’exonération à certains avocats débutants. Un avocat formé à l’étranger et admis par dérogation peut en être exclu alors qu’il débute lui aussi. Le Conseil constitutionnel a jugé cette différence injustifiée. L’abrogation est différée et les procès qui dépendent de ce critère doivent attendre."
     }
   },
   {
@@ -1085,6 +1097,10 @@
           "citation": "[…] des poursuites ne pourront être engagées ou continuées […] dès lors que des premières poursuites auront déjà été engagées pour les mêmes faits […]"
         }
       ]
+    },
+    "entree": {
+      "titre": "Deux autorités peuvent-elles sanctionner la même entreprise pour les mêmes messages ?",
+      "texte": "Deux autorités pouvaient poursuivre la même entreprise pour le même démarchage, au titre du même manquement. Le Conseil constitutionnel a jugé ce cumul contraire à la Constitution. Le texte subsiste jusqu’à son abrogation, mais la décision bloque dès maintenant certaines secondes poursuites."
     }
   },
   {
@@ -1703,6 +1719,10 @@
           "citation": "[…] en faveur des personnes élevant ou ayant élevé au moins un enfant."
         }
       ]
+    },
+    "entree": {
+      "titre": "Un père peut-il bénéficier du même recul de la limite d’âge qu’une mère ?",
+      "texte": "L’ancien décret de l’Assistance publique à Paris parle des femmes. Le code de la fonction publique parle de toute personne qui élève ou a élevé un enfant. Pour un concours concerné, la règle du code prime. Les deux formulations restent consultables aujourd’hui."
     }
   },
   {
@@ -2202,6 +2222,10 @@
           "citation": "[…] les employeurs et les salariés ne peuvent se prévaloir de l’article 24 de la Charte sociale européenne […]"
         }
       ]
+    },
+    "entree": {
+      "titre": "Le plafond d’indemnisation est jugé contraire à la Charte sociale. Pourquoi reste-t-il appliqué ?",
+      "texte": "Le Comité européen des droits sociaux estime que le plafond français peut empêcher une réparation suffisante. La Cour de cassation juge que le salarié ne peut pas invoquer directement la disposition de la Charte contre son employeur. Le constat européen ne suffit donc pas à écarter le plafond aux prud’hommes."
     }
   },
   {

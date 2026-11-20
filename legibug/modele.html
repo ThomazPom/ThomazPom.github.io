@@ -26,6 +26,7 @@ article{background:white;border:1px solid var(--line);border-left:4px solid var(
 .comparaison figure{margin:0;padding:.85rem;background:var(--paper);border:1px solid var(--line)}
 .comparaison blockquote{margin:0 0 .4rem;font-family:Georgia,serif}
 .comparaison figcaption{font-size:.9rem}
+.exemples{list-style:none;padding:0;display:grid;grid-template-columns:repeat(auto-fit,minmax(min(100%,18rem),1fr));gap:1rem}.exemples li{border:1px solid var(--line);padding:1rem}.exemples h3{margin-top:0}.exemples p{margin-bottom:0}.entree{font-weight:600}
 .sources{display:flex;flex-wrap:wrap;gap:.4rem 1rem}
 label{display:block;font-weight:650}
 input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px solid var(--muted);border-radius:.3rem}
@@ -42,7 +43,13 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <nav aria-label="Sommaire"><a href="#fiches">Explorer les fiches</a><a href="#bilan">Voir le bilan</a><a href="#methode">Lire la méthode</a></nav>
 </div></header>
 <main>
-<h2 id="fiches">Les cas documentés</h2>
+<section aria-labelledby="situations">
+<h2 id="situations">Cinq situations pour comprendre</h2>
+<ul class="exemples">
+<!-- EXEMPLES -->
+</ul>
+</section>
+<h2 id="fiches">Tous les cas documentés</h2>
 <div id="search-panel" hidden>
 <label for="search">Rechercher dans les fiches</label>
 <input id="search" type="search" placeholder="Ex. détention, vie privée, preuve">
@@ -50,7 +57,7 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <select id="category"><option value="">Tous les types</option></select>
 <p id="count" role="status"></p>
 </div>
-<section aria-label="Fiches">
+<section id="catalogue" aria-label="Fiches">
 <!-- FICHES -->
 </section>
 <section id="bilan">
@@ -62,6 +69,10 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <p>Le tirage porte sur les couples repérés dans les métadonnées. Il mesure la qualité de ce repérage après relecture et ne donne pas la fréquence de toutes les incohérences dans le droit français.</p>
 <p class="sources"><a href="analyse/sample.csv">Télécharger le tirage</a><a href="analyse/relecture.csv">Lire les vérifications</a></p>
 </section>
+<details id="notes">
+<summary>Notes techniques sur les coquilles et la consolidation</summary>
+<!-- NOTES -->
+</details>
 <section id="methode">
 <h2>Comment mesurer la surface des incohérences ?</h2>
 <p>Le catalogue part de cas repérés dans les décisions et les codes consolidés. Une fiche vérifie la version à la date indiquée, la portée exacte de la décision, les règles de priorité et les éventuelles dates d’effet différées. Une disposition abrogée sort du catalogue lorsqu’elle cesse d’être en vigueur.</p>
@@ -95,7 +106,7 @@ const search = document.querySelector('#search');
 const count = document.querySelector('#count');
 const category = document.querySelector('#category');
 const normalize = text => text.toLocaleLowerCase('fr').normalize('NFD').replace(/\p{M}/gu, '');
-const cards = Array.from(document.querySelectorAll('article'), card => ({
+const cards = Array.from(document.querySelectorAll('#catalogue article'), card => ({
   card,
   text: normalize(card.textContent),
   type: card.querySelector('.topic').textContent.split(' · ')[0],
@@ -127,7 +138,10 @@ search.addEventListener('input', filterCards);
 category.addEventListener('change', filterCards);
 function revealLinkedCard() {
   const target = document.getElementById(location.hash.slice(1));
-  if (!target || target.tagName !== 'ARTICLE' || !target.hidden) return;
+  if (!target || target.tagName !== 'ARTICLE') return;
+  const details = target.closest('details');
+  if (details) details.open = true;
+  if (!target.hidden) return;
   search.value = '';
   category.value = '';
   filterCards();
