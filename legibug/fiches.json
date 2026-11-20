@@ -5067,7 +5067,8 @@
     },
     "explication": [
       "La dispense de formalité ne dispense pas de respecter les règles d’urbanisme applicables au terrain. L’article R. 421-12 prévoit aussi des cas liés au classement ou à la protection du secteur. L’exemple concerne un grillage de jardin ordinaire.",
-      "Même dispensé de déclaration, votre grillage ne peut pas condamner le passage auquel le voisin a droit. L’article 647 du Code civil permet de clôturer son terrain, mais réserve l’article 682. Si le terrain du voisin n’a aucun accès suffisant à la voie publique, il peut réclamer un passage, moyennant une indemnité proportionnée au dommage occasionné."
+      "Même dispensé de déclaration, votre grillage ne peut pas condamner le passage auquel le voisin a droit. L’article 647 du Code civil permet de clôturer son terrain, mais réserve l’article 682. Si le terrain du voisin n’a aucun accès suffisant à la voie publique, il peut réclamer un passage, moyennant une indemnité proportionnée au dommage occasionné.",
+      "Le trajet le plus court n’est pas toujours retenu. L’article 683 du Code civil part du chemin le plus court jusqu’à la voie publique, mais exige de fixer le passage à l’endroit le moins dommageable pour le propriétaire qui le supporte. Si un trajet de 20 mètres traverse sa cour tandis qu’un trajet de 30 mètres longe la clôture et cause moins de gêne, le second peut être retenu s’il donne un accès suffisant."
     ],
     "sources": [
       {
@@ -5085,6 +5086,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430276/2026-11-21",
         "label": "Code civil, article 682"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430285/2026-11-21",
+        "label": "Code civil, article 683, choix du tracé"
       }
     ],
     "relation": {
@@ -5101,6 +5106,12 @@
           "reference": "Code de l’urbanisme, art. R. 421-12, d",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355392/2026-11-21",
           "citation": "« […] a décidé de soumettre les clôtures à déclaration. »"
+        },
+        {
+          "role": "Choix du passage le moins dommageable",
+          "reference": "Code civil, art. 683",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430285/2026-11-21",
+          "citation": "« Néanmoins, il doit être fixé dans l’endroit le moins dommageable à celui sur le fonds duquel il est accordé. »"
         }
       ]
     }
