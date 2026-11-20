@@ -1977,5 +1977,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "vehicule-domaine-public-routier",
+    "type": "Articulation de régimes",
+    "domaine": "Compétence juridictionnelle",
+    "titre": "Un véhicule endommage une route publique. Quel juge intervient ?",
+    "explication": [
+      "La loi de 1957 attribue au juge judiciaire les actions en responsabilité pour les dommages causés par un véhicule et dirigées contre une personne publique. Elle exclut les dommages causés au domaine public.",
+      "Le code de la voirie routière donne néanmoins au juge judiciaire compétence pour réprimer les infractions à la police de la conservation du domaine public routier. Le Tribunal des conflits a précisé que l’exclusion de 1957 ne fait pas obstacle à cette compétence. Le type d’action importe donc autant que la nature du bien endommagé."
+    ],
+    "sources": [
+      {
+        "label": "Tribunal des conflits, 17 décembre 2001",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000007045578"
+      }
+    ],
+    "relation": {
+      "question": "L’exclusion des dommages au domaine public empêche-t-elle toute intervention du juge judiciaire ?",
+      "participants": [
+        {
+          "role": "Compétence pour les dommages causés par un véhicule",
+          "reference": "Loi n° 57-1424, art. 1, al. 1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006451425/",
+          "citation": "[…] les tribunaux de l’ordre judiciaire sont seuls compétents […]"
+        },
+        {
+          "role": "Exclusion des dommages au domaine public",
+          "reference": "Loi n° 57-1424, art. 1, dernier alinéa",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006451425/",
+          "citation": "La présente loi ne s’applique pas aux dommages occasionnés au domaine public."
+        },
+        {
+          "role": "Infractions relatives à la conservation des routes",
+          "reference": "Code de la voirie routière, art. L. 116-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006398464",
+          "citation": "[…] est poursuivie devant la juridiction judiciaire […]"
+        }
+      ]
+    }
   }
 ]
