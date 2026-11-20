@@ -7133,5 +7133,58 @@
       "raison": "Les deux emplois se terminent le même jour et les deux personnes perdent le même salaire. La loi regarde aussi ce qu’elles vont faire ensuite. Le Conseil constitutionnel a admis l’écart parce que l’étudiante a vocation à reprendre ses études.",
       "ordre": 152
     }
+  },
+  {
+    "id": "licenciement-inaptitude-accident-indemnite-double",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Deux salariés licenciés parce qu’ils ne peuvent plus occuper leur poste. 2 000 € pour l’un, au moins 4 000 € pour l’autre.",
+    "explication": [
+      "Le calcul suppose un salaire de référence de 2 000 €, exactement quatre ans d’ancienneté retenue pour le calcul de chaque indemnité et aucune disposition conventionnelle plus favorable. Pour l’inaptitude non professionnelle, l’article L. 1226-4 prévoit de compter le préavis dans l’ancienneté servant au calcul de l’indemnité légale, même si le préavis n’est pas effectué. Pour l’inaptitude professionnelle, le refus abusif d’un reclassement peut faire perdre les indemnités de l’article L. 1226-14."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025560071/2026-11-20",
+        "label": "Code du travail, art. L. 1226-4"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900981/2026-11-20",
+        "label": "Code du travail, art. L. 1226-14"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644692/2026-11-20",
+        "label": "Code du travail, art. R. 1234-2"
+      }
+    ],
+    "relation": {
+      "question": "Combien coûte la perte du même poste après un accident au travail ou dans la vie privée ?",
+      "participants": [
+        {
+          "role": "Inaptitude d’origine non professionnelle, pas d’indemnité pour le préavis non effectué",
+          "reference": "Code du travail, art. L. 1226-4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025560071/2026-11-20",
+          "citation": "« […] l’inexécution du préavis ne donne pas lieu au versement d’une indemnité compensatrice. »"
+        },
+        {
+          "role": "Inaptitude d’origine professionnelle, double de l’indemnité légale et équivalent du préavis",
+          "reference": "Code du travail, art. L. 1226-14",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900981/2026-11-20",
+          "citation": "« […] est égale au double de l’indemnité prévue par l’article L. 1234-9. »"
+        },
+        {
+          "role": "Calcul de l’indemnité légale",
+          "reference": "Code du travail, art. R. 1234-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644692/2026-11-20",
+          "citation": "« Un quart de mois de salaire par année d’ancienneté […] »"
+        }
+      ]
+    },
+    "entree": {
+      "titre": "Deux salariés licenciés parce qu’ils ne peuvent plus occuper leur poste. 2 000 € pour l’un, au moins 4 000 € pour l’autre.",
+      "face_a_face": "L’article L. 1226-4 écarte le paiement du préavis non effectué si l’inaptitude est d’origine non professionnelle. L’article L. 1226-14 accorde, si elle est d’origine professionnelle, le double de l’indemnité légale de licenciement et une somme équivalente au préavis.",
+      "texte": "Deux salariés ont chacun un salaire de référence de 2 000 € et quatre ans d’ancienneté retenue pour le calcul. Une blessure les empêche de continuer leur travail et ils sont licenciés faute de reclassement possible. Pour celui qui s’est blessé dans sa vie privée, l’indemnité légale est de 2 000 €. Pour celui qui s’est blessé au travail, elle est de 4 000 €, auxquels s’ajoute l’équivalent du préavis.",
+      "raison": "Les deux salariés perdent leur poste pour une raison médicale. Le code protège davantage celui dont l’inaptitude résulte du travail. C’est l’origine de la blessure qui change le montant, à salaire et ancienneté retenue identiques.",
+      "ordre": 153
+    }
   }
 ]
