@@ -5353,11 +5353,12 @@
       "ordre": 120,
       "titre": "La maison est à vous seul. Votre époux doit quand même consentir à la vente si vous y vivez en famille.",
       "face_a_face": "L’article 225 du Code civil autorise chaque époux à vendre seul ses biens personnels, tandis que l’article 215 exige l’accord des deux lorsque la vente porte sur les droits qui assurent le logement de la famille.",
-      "texte": "Vous avez hérité d’une maison qui vous appartient entièrement. Tant qu’elle sert de résidence secondaire, vous pouvez en principe la vendre seul. Si vous y installez le logement de votre famille, votre époux doit consentir à sa vente même si son nom ne figure pas sur le titre de propriété.",
+      "texte": "Vous avez hérité d’une maison qui vous appartient entièrement. Tant qu’elle sert de résidence secondaire, vous pouvez en principe la vendre seul. Si vous y installez le logement de votre famille, votre époux doit consentir à sa vente même si son nom ne figure pas sur le titre de propriété. En cas de refus, vous pouvez demander au juge de vous autoriser à vendre seul. Le juge peut le faire s’il estime que le refus n’est pas justifié par l’intérêt de la famille.",
       "raison": "La maison reste votre propriété. Le résultat change parce que la loi protège le logement de votre famille indépendamment du nom du propriétaire."
     },
     "explication": [
-      "L’époux qui n’a pas consenti peut demander l’annulation dans le délai fixé par l’article 215. Pour un Pacs, l’article 515-5 prévoit que chacun garde en principe la libre disposition de ses biens personnels, sous réserve notamment de la convention de Pacs et des autres droits susceptibles de s’appliquer."
+      "L’époux qui n’a pas consenti peut demander l’annulation dans le délai fixé par l’article 215. Pour un Pacs, l’article 515-5 prévoit que chacun garde en principe la libre disposition de ses biens personnels, sous réserve notamment de la convention de Pacs et des autres droits susceptibles de s’appliquer.",
+      "L’article 217 permet aussi de demander au juge l’autorisation de vendre si l’époux dont l’accord est nécessaire est hors d’état de manifester sa volonté."
     ],
     "sources": [
       {
@@ -5371,6 +5372,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021330223/2026-11-21",
         "label": "Code civil, article 515-5"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006422786/",
+        "label": "Code civil, article 217"
       }
     ],
     "relation": {
@@ -5387,6 +5392,12 @@
           "reference": "Code civil, art. 215",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006422766/2026-11-21",
           "citation": "« Les époux ne peuvent l’un sans l’autre disposer des droits par lesquels est assuré le logement de la famille […] »"
+        },
+        {
+          "role": "Autorisation du juge en cas de refus injustifié ou d’impossibilité de consentir",
+          "reference": "Code civil, art. 217",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006422786/",
+          "citation": "« Un époux peut être autorisé par justice à passer seul un acte […] si […] son refus n’est pas justifié par l’intérêt de la famille. »"
         }
       ]
     }
