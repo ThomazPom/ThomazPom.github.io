@@ -2310,17 +2310,17 @@
     "id": "ferie-premier-mai-solidarite",
     "type": "Articulation de régimes",
     "domaine": "Travail",
-    "titre": "Sept heures un jour férié peuvent ajouter une journée de salaire ou zéro euro",
+    "titre": "Même journée de solidarité, même employeur. L’un est payé en plus, l’autre 0 €.",
     "entree": {
       "ordre": 55,
-      "titre": "Sept heures de travail un jour férié, 105 € de plus ou 0 € de plus",
-      "face_a_face": "L’article L. 3133-6 du code du travail impose de payer double les heures travaillées le 1er mai dans les services qui ne peuvent pas s’arrêter, tandis que l’article L. 3133-8 prévoit jusqu’à sept heures sans supplément de salaire pour la journée de solidarité d’un salarié mensualisé.",
-      "texte": "À 15 € brut de l’heure, sept heures le 1er mai valent 105 € de salaire et 105 € d’indemnité. Si vous travaillez sept heures le lundi de Pentecôte choisi comme journée de solidarité, alors que ce jour était habituellement chômé dans votre entreprise, votre salaire mensuel reste le même.",
-      "raison": "Le 1er mai donne droit à une indemnité égale au salaire des heures travaillées et ne peut jamais servir de journée de solidarité. Un autre jour férié qui était chômé peut être choisi pour la solidarité, avec sept heures de travail en plus sans hausse de la paie."
+      "titre": "Même journée de solidarité, même employeur. L’un est payé en plus, l’autre 0 €.",
+      "face_a_face": "L’article L. 3133-8 prévoit jusqu’à 7 heures sans supplément de salaire pour la journée de solidarité d’un salarié mensualisé à temps plein. L’article L. 3133-10 exige de payer les heures si le salarié a déjà fait cette journée dans l’année chez son ancien employeur.",
+      "texte": "Vous faites 7 heures de solidarité avec un collègue dans la même entreprise. À 15 € brut de l’heure, ces heures valent 105 € au taux de base. Votre collègue ne reçoit aucun supplément de salaire si c’est sa première journée de solidarité de l’année. Vous avez déjà fait la vôtre chez votre ancien employeur. Si vous acceptez de la refaire, vos 7 heures donnent droit à un supplément et à du repos.",
+      "raison": "La différence de paie dépend d’une journée travaillée chez un employeur précédent. Si vous avez déjà fait cette journée dans l’année, vous pouvez aussi refuser la deuxième sans commettre de faute."
     },
     "explication": [
-      "Le lundi de Pentecôte est un exemple. La journée de solidarité peut être organisée autrement. Le calcul suppose un temps plein mensualisé et une journée de sept heures.",
-      "Si vous avez déjà fait votre journée de solidarité dans l’année et que vous changez d’employeur, l’article L. 3133-10 vous permet de refuser une deuxième journée sans faute ni motif de licenciement. Si vous la faites, les heures sont payées en plus et ouvrent droit à du repos. Ainsi, lors de la même journée dans la même entreprise, un collègue mensualisé peut ne rien toucher de plus alors que vous êtes payé pour ces heures."
+      "Le lundi de Pentecôte peut servir de journée de solidarité. Le 1er mai en est exclu. Dans les services qui ne peuvent pas s’arrêter, l’article L. 3133-6 impose de payer le travail du 1er mai avec une indemnité égale au salaire de ces heures. À 15 € brut de l’heure, 7 heures valent alors 105 € de salaire et 105 € d’indemnité.",
+      "Pour la seconde journée de solidarité, le supplément peut dépasser les 105 € de l’exemple selon les règles de majoration applicables."
     ],
     "sources": [
       {
@@ -2333,7 +2333,7 @@
       }
     ],
     "relation": {
-      "question": "Combien un jour férié travaillé ajoute-t-il à la paie ?",
+      "question": "Pourquoi deux collègues ne touchent-ils pas la même chose pour la même journée de solidarité ?",
       "participants": [
         {
           "role": "Indemnité du 1er mai",
