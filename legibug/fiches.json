@@ -1790,7 +1790,8 @@
     "explication": [
       "L’article 806 vise les obsèques des ascendants et descendants. L’arrêt de 2021 détaille le cas d’un enfant dont le parent décédé ne laisse pas assez de biens pour payer ses obsèques.",
       "Et si la mairie a déjà payé ? L’article L. 2223-27 prévoit la gratuité du service funéraire pour les personnes dépourvues de ressources suffisantes. Selon une réponse ministérielle au Sénat, une commune qui a engagé les frais peut toutefois en demander le remboursement aux proches légalement tenus d’y contribuer, selon leurs moyens. La prise en charge initiale ne met donc pas forcément fin à la question de savoir qui paie.",
-      "Le refus de la succession ne supprime pas non plus certains droits issus du lien familial. Ainsi, l’époux qui renonce à la succession peut conserver la jouissance gratuite du logement pendant la première année dans les conditions de l’article 763 du Code civil."
+      "Le refus de la succession ne supprime pas non plus certains droits issus du lien familial. Ainsi, l’époux qui renonce à la succession peut conserver la jouissance gratuite du logement pendant la première année dans les conditions de l’article 763 du Code civil.",
+      "Renoncer à la succession ne fait pas non plus perdre automatiquement une donation reçue du vivant du défunt. Par exemple, votre père vous avait donné 10 000 €. L’article 805 vous considère comme n’ayant jamais été héritier si vous renoncez. L’article 845 vous permet toutefois de garder la donation dans la limite de la part dont votre père pouvait disposer librement, sauf s’il avait expressément exigé que la donation soit prise en compte dans le partage même en cas de renonciation. Le même article vise aussi les legs."
     ],
     "sources": [
       {
@@ -1800,6 +1801,10 @@
       {
         "label": "Sénat, réponse du ministère sur le recours de la commune contre la famille",
         "url": "https://www.senat.fr/questions/base/2007/qSEQ071102397.html"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432774/2026-11-21",
+        "label": "Code civil, article 845"
       }
     ],
     "relation": {
@@ -1822,6 +1827,12 @@
           "reference": "Code général des collectivités territoriales, art. L. 2223-27",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019983187",
           "citation": "« Le service est gratuit pour les personnes dépourvues de ressources suffisantes. »"
+        },
+        {
+          "role": "Donation ou legs pouvant être conservé malgré la renonciation",
+          "reference": "Code civil, art. 845",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432774/2026-11-21",
+          "citation": "« L’héritier qui renonce à la succession peut cependant retenir le don entre vifs ou réclamer le legs à lui fait […] »"
         }
       ],
       "fiches_liees": [
