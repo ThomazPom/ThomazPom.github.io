@@ -1123,14 +1123,14 @@
     "titre": "Une dette effacée pour le locataire peut rester à la charge de son garant",
     "entree": {
       "ordre": 16,
-      "titre": "Le loyer impayé est effacé pour votre proche. Pourquoi le bailleur peut-il encore vous le réclamer ?",
-      "face_a_face": "L’article L. 741-2 du code de la consommation efface les dettes couvertes par le rétablissement personnel, tandis que l’article 2298 du code civil empêche en principe la caution d’invoquer les mesures dont bénéficie le débiteur à cause de sa défaillance.",
-      "texte": "Prenons 1 200 € de loyer impayé effacés pour un locataire. Si le cautionnement valable couvre ces impayés, le bailleur peut encore demander le paiement à la personne qui s’est portée garante, dans les limites de son engagement.",
-      "raison": "Ça surprend puisque le locataire et son garant répondent du même impayé, mais que l’effacement protège le débiteur qui a bénéficié de la procédure et ne libère pas, à lui seul, le garant."
+      "titre": "1 200 € de loyer impayé. Effacés pour le locataire, encore dus par son garant.",
+      "face_a_face": "L’article L. 741-2 permet d’effacer les 1 200 € de loyer que le locataire doit au bailleur, tandis que l’article 2298 empêche en principe le garant d’opposer cet effacement au bailleur si son engagement les couvre.",
+      "texte": "Vous êtes garant de votre sœur. Son rétablissement personnel efface 1 200 € de loyer qu’elle devait au bailleur. Celui-ci peut encore vous réclamer les 1 200 € si votre engagement les couvre. Si vous aviez déjà payé à sa place avant la décision d’effacement, c’est à vous qu’elle doit les 1 200 € et cette dette est exclue de l’effacement.",
+      "raison": "Le résultat change selon qui doit payer et à qui. L’effacement protège votre sœur contre le bailleur pour le loyer couvert par la décision, mais il ne vous libère pas de votre engagement. Il laisse aussi subsister la dette correspondant à la somme que vous aviez déjà avancée à sa place si vous êtes garant à titre personnel."
     },
     "explication": [
       "Le cas décrit un cautionnement régi par la rédaction entrée en vigueur le 1er janvier 2022. L’étendue de l’engagement et les éventuelles dispositions spéciales doivent être vérifiées.",
-      "Le code traite aussi séparément les sommes déjà payées à la place du débiteur par une caution personne physique. Il les exclut de l’effacement prévu à l’article L. 741-2 dans les conditions de ce texte."
+      "L’article 2308 ouvre au garant qui a payé un recours personnel contre le débiteur. L’article L. 741-2 exclut de l’effacement les sommes déjà payées par un garant ou un codébiteur lorsqu’il s’agit d’une personne physique."
     ],
     "sources": [
       {
@@ -1140,6 +1140,10 @@
       {
         "label": "Code civil, exceptions opposables par la caution",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071227/2026-04-28"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071299/2026-11-21",
+        "label": "Code civil, article 2308, recours du garant qui a payé"
       }
     ],
     "relation": {
@@ -1156,6 +1160,12 @@
           "reference": "Code civil, art. 2298",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071227/2026-04-28",
           "citation": "[…] la caution ne peut se prévaloir des mesures légales ou judiciaires dont bénéficie le débiteur en conséquence de sa défaillance […]"
+        },
+        {
+          "role": "Remboursement du garant qui a payé",
+          "reference": "Code civil, art. 2308",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071299/2026-11-21",
+          "citation": "« La caution qui a payé tout ou partie de la dette a un recours personnel contre le débiteur […] »"
         }
       ]
     }
