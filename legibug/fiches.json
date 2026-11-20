@@ -2240,5 +2240,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "prescription-discrimination-travail",
+    "type": "Exception explicite",
+    "domaine": "Travail",
+    "titre": "Le délai de contestation de la rupture ne gouverne pas la réparation d’une discrimination",
+    "explication": [
+      "Le code du travail fixe en principe un délai de douze mois à compter de la notification de la rupture pour agir à son sujet. Le même article écarte ce délai pour les actions relevant de l’article L. 1134-5.",
+      "L’action en réparation du préjudice résultant d’une discrimination se prescrit par cinq ans à compter de sa révélation. Dans un litige qui suit une rupture, il faut donc identifier la demande formulée et les faits sur lesquels elle repose."
+    ],
+    "sources": [
+      {
+        "label": "Prescription de droit commun",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035643612/"
+      },
+      {
+        "label": "Réparation du préjudice discriminatoire",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461494"
+      }
+    ],
+    "relation": {
+      "question": "Quel délai s’applique à la demande de réparation d’une discrimination révélée après la rupture ?",
+      "participants": [
+        {
+          "role": "Délai ordinaire de la rupture",
+          "reference": "Code du travail, art. L. 1471-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035643612/",
+          "citation": "[…] douze mois à compter de la notification de la rupture."
+        },
+        {
+          "role": "Délai spécial de réparation",
+          "reference": "Code du travail, art. L. 1134-5",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461494",
+          "citation": "[…] cinq ans à compter de la révélation de la discrimination."
+        }
+      ]
+    }
   }
 ]
