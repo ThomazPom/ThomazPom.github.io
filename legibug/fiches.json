@@ -2320,5 +2320,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "preuve-heures-plafond",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Les deux parties documentent les heures travaillées, l’employeur prouve le respect des plafonds",
+    "explication": [
+      "Pour un rappel de salaire, le salarié présente des éléments suffisamment précis sur les heures qu’il affirme avoir travaillées. L’employeur y répond avec ses propres éléments et le juge apprécie l’ensemble.",
+      "Quand le litige porte sur le respect des durées maximales, la charge de la preuve incombe à l’employeur. La Cour de cassation distingue les deux questions dans un même arrêt du 20 novembre 2024."
+    ],
+    "sources": [
+      {
+        "label": "Code du travail, preuve des horaires",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902808/2026-10-01"
+      },
+      {
+        "label": "Cour de cassation, 20 novembre 2024, n° 23-12.604",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000050784083"
+      }
+    ],
+    "relation": {
+      "question": "Qui doit prouver quoi quand le salarié affirme avoir travaillé trop longtemps ?",
+      "participants": [
+        {
+          "role": "Preuve des heures accomplies",
+          "reference": "Code du travail, art. L. 3171-4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902808/2026-10-01",
+          "citation": "Au vu de ces éléments et de ceux fournis par le salarié à l’appui de sa demande, le juge forme sa conviction […]"
+        },
+        {
+          "role": "Preuve du respect des plafonds",
+          "reference": "Cour de cassation, n° 23-12.604",
+          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000050784083",
+          "citation": "[…] à la preuve du respect des seuils et plafonds […] qui incombe à l’employeur."
+        }
+      ]
+    }
   }
 ]
