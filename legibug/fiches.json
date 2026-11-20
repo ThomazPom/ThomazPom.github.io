@@ -4548,5 +4548,51 @@
         }
       ]
     }
+  },
+  {
+    "id": "loyer-travaux-21-jours",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Travaux urgents dans votre logement : un jour de plus peut ouvrir droit à une baisse de loyer",
+    "entree": {
+      "ordre": 103,
+      "titre": "Votre chambre est inutilisable pendant les travaux. 21 jours ou 22, ça change le loyer.",
+      "face_a_face": "L’article 7 de la loi du 6 juillet 1989 vous oblige à payer le loyer convenu, tandis que l’article 1724 du Code civil impose une baisse proportionnelle si des réparations urgentes vous privent d’une partie du logement pendant des travaux qui durent plus de 21 jours.",
+      "texte": "Des réparations urgentes vous empêchent d’utiliser votre chambre. Si les travaux durent 21 jours, l’article 1724 ne vous donne pas droit à une baisse. S’ils durent 22 jours, il prévoit une réduction calculée selon la durée et la partie du logement dont vous avez été privé.",
+      "raison": "Vous subissez la même gêne dans la même pièce. Un seul jour de travaux en plus suffit à atteindre le seuil qui ouvre droit à la réduction."
+    },
+    "explication": [
+      "L’article 1724 vise les réparations urgentes qui ne peuvent attendre la fin du bail. Il permet également de faire résilier le bail si les réparations rendent inhabitable la partie nécessaire au logement du locataire et de sa famille."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667661/",
+        "label": "Loi du 6 juillet 1989, article 7"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806598/2026-11-21",
+        "label": "Code civil, article 1724"
+      }
+    ],
+    "relation": {
+      "question": "Combien de jours de travaux faut-il pour que le loyer baisse ?",
+      "participants": [
+        {
+          "role": "Paiement du loyer convenu",
+          "reference": "Loi du 6 juillet 1989, art. 7",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667661/",
+          "citation": "« De payer le loyer et les charges récupérables aux termes convenus […] »"
+        },
+        {
+          "role": "Réduction pour des réparations dépassant 21 jours",
+          "reference": "Code civil, art. 1724",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806598/2026-11-21",
+          "citation": "« […] si ces réparations durent plus de vingt et un jours, le prix du bail sera diminué […] »"
+        }
+      ],
+      "fiches_liees": [
+        "immeuble-evacuation-loyer"
+      ]
+    }
   }
 ]
