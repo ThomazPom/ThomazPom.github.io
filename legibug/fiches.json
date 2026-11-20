@@ -4055,5 +4055,44 @@
       ],
       "fiches_liees": []
     }
+  },
+  {
+    "id": "loyer-preavis-auteur-conge",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Un logement rendu vide avant la fin du préavis peut encore coûter deux mois de loyer",
+    "entree": {
+      "ordre": 93,
+      "titre": "Vous rendez les clés deux mois avant la fin du préavis. Il peut rester 1 800 € à payer.",
+      "face_a_face": "L’article 15 de la loi du 6 juillet 1989 dit que vous payez seulement jusqu’à votre départ si le propriétaire a donné congé, mais jusqu’à la fin du préavis si vous avez donné congé et que le logement n’est pas reloué entre-temps.",
+      "texte": "Vous louez un logement vide à 900 € par mois hors charges et rendez les clés deux mois avant la fin du préavis. Si le propriétaire vous a donné congé, vous ne devez plus de loyer après votre départ. Si vous avez donné congé, que le propriétaire accepte la remise des clés sans vous dispenser de payer et que le logement reste vide, il vous reste 1 800 € de loyer à payer, plus les charges.",
+      "raison": "Le logement est vide et les clés sont rendues dans les deux cas. C’est l’identité de la personne qui a donné congé qui détermine si vous devez continuer à payer."
+    },
+    "explication": [
+      "Cette comparaison concerne la location vide soumise à la loi du 6 juillet 1989. Si un autre locataire occupe le logement avant la fin de votre préavis avec l’accord du bailleur, vous ne devez plus le loyer pour cette période."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/2026-11-21",
+        "label": "Loi du 6 juillet 1989, article 15, I"
+      }
+    ],
+    "relation": {
+      "question": "Faut-il encore payer après avoir rendu les clés ?",
+      "participants": [
+        {
+          "role": "Congé donné par le propriétaire",
+          "reference": "Loi du 6 juillet 1989, art. 15, I",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/2026-11-21",
+          "citation": "« […] pour le temps où il a occupé réellement les lieux […] »"
+        },
+        {
+          "role": "Congé donné par le locataire",
+          "reference": "Loi du 6 juillet 1989, art. 15, I",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/2026-11-21",
+          "citation": "« […] du loyer et des charges concernant tout le délai de préavis si c’est lui qui a notifié le congé […] »"
+        }
+      ]
+    }
   }
 ]
