@@ -1,5 +1,38 @@
 [
   {
+    "id": "cotisations-syndicales-recodification",
+    "type": "Articulation de régimes",
+    "domaine": "Fonction publique",
+    "titre": "Le renvoi imprimé est ancien, le décret de codification l’a remplacé",
+    "explication": [
+      "Un arrêté de 2008 prévoit des modalités particulières de collecte des cotisations syndicales au ministère de la défense. Son article 8 se réfère encore à l’article 10 d’un décret qui a été abrogé en 2025.",
+      "Le décret de codification prévoit expressément la substitution des références réglementaires par les dispositions correspondantes du nouveau code. La règle générale de collecte figure à l’article R. 213-61 du code général de la fonction publique. Le texte affiché dans l’arrêté conserve l’ancienne numérotation, mais une règle en vigueur indique comment lire le renvoi."
+    ],
+    "relation": {
+      "question": "Quel texte lire derrière le renvoi de l’arrêté ?",
+      "participants": [
+        {
+          "role": "Référence affichée",
+          "reference": "Arrêté du 12 juin 2008, art. 8",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000019025810/",
+          "citation": "Par exception à l’article 10 du décret du 28 mai 1982 susvisé […]"
+        },
+        {
+          "role": "Substitution des références",
+          "reference": "Décret n° 2024-1038, art. 3",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000050511027",
+          "citation": "Les références à des dispositions abrogées par le présent décret contenues dans des dispositions de nature réglementaire sont remplacées par des références aux dispositions correspondantes […]"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Code général de la fonction publique, art. R. 213-61",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050548401"
+      }
+    ]
+  },
+  {
     "id": "acompte-formation",
     "type": "Renvoi obsolète",
     "domaine": "Formation professionnelle",
