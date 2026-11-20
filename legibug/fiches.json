@@ -1055,7 +1055,8 @@
     },
     "explication": [
       "Ce cas suppose qu’une clause de résiliation pour impayé soit en jeu et que l’ancienne dette entre dans l’effacement. Si la décision de rétablissement personnel est contestée, la loi prévoit une règle de suspension spécifique jusqu’à la décision du juge.",
-      "La reprise d’effet de la clause concerne le bail. Elle ne rend pas l’ancienne dette effacée à nouveau exigible."
+      "La reprise d’effet de la clause concerne le bail. Elle ne rend pas l’ancienne dette effacée à nouveau exigible.",
+      "La Cour de cassation distingue aussi la clause de rupture automatique de la demande de résiliation judiciaire. Dans cette seconde voie, le juge peut apprécier la gravité de l’impayé initial même après l’effacement de la dette. L’effacement fait disparaître la somme à payer sans effacer le fait que le loyer n’a pas été réglé."
     ],
     "sources": [
       {
@@ -1065,6 +1066,10 @@
       {
         "label": "Loi sur les rapports locatifs, article 24",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900019"
+      },
+      {
+        "label": "Cour de cassation, 10 janvier 2019, résiliation judiciaire après effacement",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000038069859"
       }
     ],
     "relation": {
@@ -1087,6 +1092,12 @@
           "reference": "Loi du 6 juillet 1989, art. 24, VIII",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900019",
           "citation": "Dans le cas contraire, elle reprend son plein effet."
+        },
+        {
+          "role": "Autre voie de rupture du bail",
+          "reference": "Cour de cassation, n° 17-21.774",
+          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000038069859",
+          "citation": "[…] ne fait pas disparaître le manquement contractuel du locataire qui n’a pas réglé le loyer […]"
         }
       ]
     }
