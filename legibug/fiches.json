@@ -4148,5 +4148,58 @@
         }
       ]
     }
+  },
+  {
+    "id": "mineur-livret-a-emprunt",
+    "type": "Articulation de régimes",
+    "domaine": "Banque",
+    "titre": "À 16 ans, on peut retirer seul son épargne mais pas emprunter la même somme",
+    "entree": {
+      "ordre": 95,
+      "titre": "À 16 ans, la banque peut vous laisser retirer 1 000 €. Pour vous prêter 1 000 €, il faut un juge.",
+      "face_a_face": "L’article L. 221-3 permet dès 16 ans de retirer seul l’argent du livret A sauf opposition du représentant légal, tandis que les articles 1146 et 387-1 du Code civil empêchent un mineur non émancipé d’emprunter seul et exigent l’accord du juge même si ses parents empruntent en son nom.",
+      "texte": "Vous avez 16 ans et 1 000 € sur le livret A que vous avez ouvert. En l’absence d’opposition de votre représentant légal, vous pouvez retirer ces 1 000 € sans lui. Si vous demandez à la même banque de vous prêter 1 000 €, vos parents doivent vous représenter et obtenir l’autorisation préalable du juge pour que l’emprunt soit à votre nom.",
+      "raison": "Le retrait mobilise une somme qui vous appartient déjà. L’emprunt crée une dette à rembourser. La loi donne donc une autonomie pour retirer l’épargne et exige un contrôle du juge avant de contracter une dette bancaire au nom du mineur."
+    },
+    "explication": [
+      "L’article L. 221-3 permet aussi aux mineurs d’ouvrir un livret A sans leur représentant légal. Le seuil de 16 ans concerne le retrait sans lui. La comparaison prend le cas d’un mineur non émancipé sous administration légale de ses parents."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028808804/2026-11-21",
+        "label": "Code monétaire et financier, article L. 221-3"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041065/2026-11-21",
+        "label": "Code civil, article 1146"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031322948/2026-11-21",
+        "label": "Code civil, article 387-1"
+      }
+    ],
+    "relation": {
+      "question": "Que peut faire seul un mineur de 16 ans auprès de sa banque ?",
+      "participants": [
+        {
+          "role": "Retrait du livret A",
+          "reference": "Code monétaire et financier, art. L. 221-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028808804/2026-11-21",
+          "citation": "« […] après l’âge de seize ans révolus et sauf opposition de la part de leur représentant légal. »"
+        },
+        {
+          "role": "Capacité à contracter",
+          "reference": "Code civil, art. 1146",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032041065/2026-11-21",
+          "citation": "« Sont incapables de contracter, dans la mesure définie par la loi […] les mineurs non émancipés […] »"
+        },
+        {
+          "role": "Autorisation préalable du juge",
+          "reference": "Code civil, art. 387-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031322948/2026-11-21",
+          "citation": "« […] Contracter un emprunt au nom du mineur […] »"
+        }
+      ]
+    }
   }
 ]
