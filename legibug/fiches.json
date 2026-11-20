@@ -6832,5 +6832,62 @@
       "raison": "Le seuil de 4 € s’applique à la compensation calculée sur le prix du billet quand vous voyagez. Le remboursement quand vous renoncez au trajet suit l’autre article.",
       "ordre": 146
     }
+  },
+  {
+    "id": "trajet-annule-remboursement-sept-quatorze-trente-jours",
+    "type": "Articulation de régimes",
+    "domaine": "Transports",
+    "titre": "Trajet annulé. Votre billet doit être remboursé sous 7, 14 ou 30 jours.",
+    "explication": [
+      "En car, l’exemple vise un service régulier d’une distance prévue d’au moins 250 km au départ d’une station. Les 14 jours courent à partir de l’offre de remboursement ou de la réception de la demande, selon le cas. En train, les 30 jours courent à compter de la réception de la demande et le droit visé suppose un retard prévisible d’au moins 60 minutes à destination. L’exemple suppose des services couverts et que vous choisissez le remboursement le jour de l’annulation."
+    ],
+    "sources": [
+      {
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32004R0261",
+        "label": "Règlement (CE) 261/2004, art. 8, § 1"
+      },
+      {
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32011R0181",
+        "label": "Règlement (UE) 181/2011, art. 19, § 5"
+      },
+      {
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021R0782",
+        "label": "Règlement (UE) 2021/782, art. 18, § 5"
+      }
+    ],
+    "relation": {
+      "question": "Combien de temps le transporteur peut-il mettre à rendre le prix du billet ?",
+      "participants": [
+        {
+          "role": "Avion, 7 jours",
+          "reference": "Règlement (CE) 261/2004, art. 8, § 1",
+          "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32004R0261",
+          "citation": "« le remboursement du billet, dans un délai de sept jours »"
+        },
+        {
+          "role": "Car longue distance, 14 jours",
+          "reference": "Règlement (UE) 181/2011, art. 19, § 5",
+          "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32011R0181",
+          "citation": "« dans un délai de quatorze jours »"
+        },
+        {
+          "role": "Train, 30 jours",
+          "reference": "Règlement (UE) 2021/782, art. 18, § 5",
+          "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32021R0782",
+          "citation": "« dans un délai de 30 jours suivant la réception de la demande »"
+        }
+      ],
+      "fiches_liees": [
+        "train-retard-billet-seuil-quatre-euros",
+        "train-avion-quatrieme-nuit"
+      ]
+    },
+    "entree": {
+      "titre": "Trajet annulé. Votre billet doit être remboursé sous 7, 14 ou 30 jours.",
+      "face_a_face": "Pour un billet à rembourser après une annulation, l’article 8 du règlement aérien donne 7 jours à la compagnie, l’article 19 du règlement des cars donne 14 jours au transporteur et l’article 18 du règlement ferroviaire donne 30 jours à la compagnie de train.",
+      "texte": "Vous deviez faire Paris–Marseille avec un billet à 80 €. Le départ est annulé, le remplacement arriverait plusieurs heures trop tard et vous demandez le remboursement aussitôt. Au bout de 10 jours, les 80 € devraient déjà vous avoir été rendus si c’était un vol. Pour le car ou le train, le transporteur peut encore être dans les délais.",
+      "raison": "Même trajet annulé, même somme à rendre, mais trois délais légaux. L’attente autorisée en train peut dépasser celle de l’avion de plus de trois semaines.",
+      "ordre": 147
+    }
   }
 ]
