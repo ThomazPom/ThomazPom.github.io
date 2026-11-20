@@ -31,6 +31,17 @@ for fiche in fiches:
         fiches_par_article[article].append(fiche["id"])
 
 
+fiches_liees = defaultdict(set)
+identifiants = {fiche["id"] for fiche in fiches}
+for fiche in fiches:
+    for cible in fiche["relation"].get("fiches_liees", []):
+        source = fiche["id"]
+        if cible not in identifiants or cible == source:
+            raise ValueError(f"Lien de fiche invalide : {source} → {cible}")
+        fiches_liees[source].add(cible)
+        fiches_liees[cible].add(source)
+
+
 def render(fiche):
     output = [
         f'<article id="{escape(fiche["id"])}">',
@@ -80,12 +91,13 @@ def render(fiche):
         for related_id in fiches_par_article[article]
         if related_id != fiche["id"]
     }
+    related_ids.update(fiches_liees[fiche["id"]])
     if related_ids:
         links = [
             f'<a href="#{escape(other["id"])}">{escape(other["titre"])}</a>'
             for other in fiches if other["id"] in related_ids
         ]
-        output.append('<p class="sources"><strong>Articles en commun</strong>' + ''.join(links) + '</p>')
+        output.append('<p class="sources"><strong>Fiches liées</strong>' + ''.join(links) + '</p>')
     output.append('</article>')
     return '\n'.join(output)
 

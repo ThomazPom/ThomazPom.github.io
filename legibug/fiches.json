@@ -279,6 +279,10 @@
           "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000053910508",
           "citation": "[…] il y a lieu de reporter au 31 octobre 2027 la date de l’abrogation de ces dispositions."
         }
+      ],
+      "fiches_liees": [
+        "mineurs-requalification-crime-reserve",
+        "detention-provisoire-indemnisation-exception"
       ]
     },
     "entree": {
@@ -2482,6 +2486,9 @@
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046194366/2026-10-21",
           "citation": "« … après une période de réduction de puissance, qui ne peut être inférieure à un mois […] »"
         }
+      ],
+      "fiches_liees": [
+        "eau-mayotte-prix-avant-paiement"
       ]
     }
   },
@@ -2605,6 +2612,10 @@
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430936/2026-10-27",
           "citation": "« Est conjoint successible le conjoint survivant non divorcé. »"
         }
+      ],
+      "fiches_liees": [
+        "bail-deces-pacs-concubin-un-an",
+        "legs-concubin-pacs-droits"
       ]
     }
   },
@@ -2730,6 +2741,10 @@
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047453693/2026-01-10",
           "citation": "« … son conjoint survivant a droit à une pension de réversion […] »"
         }
+      ],
+      "fiches_liees": [
+        "reversion-ex-epoux-pacs",
+        "pacs-deces-logement-un-an"
       ]
     }
   },
@@ -3206,6 +3221,10 @@
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032029498/2026-11-14",
           "citation": "« La condition suspensive est réputée accomplie si celui qui y avait intérêt en a empêché l’accomplissement. »"
         }
+      ],
+      "fiches_liees": [
+        "achat-credit-dix-jours",
+        "pret-immobilier-questionnaire-part-assuree"
       ]
     }
   },
@@ -3323,6 +3342,11 @@
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427995/2026-08-28",
           "citation": "« Celui qui a causé un dommage à autrui alors qu’il était sous l’empire d’un trouble mental n’en est pas moins obligé à réparation. »"
         }
+      ],
+      "fiches_liees": [
+        "detention-provisoire-indemnisation-exception",
+        "proces-sante-audience-civile",
+        "relaxe-accident-reparation-civile"
       ]
     }
   },
