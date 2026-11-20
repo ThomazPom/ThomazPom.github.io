@@ -870,5 +870,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "logement-indecent-allocation-retenue",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Quand l’aide au logement est retenue, la part qu’elle couvrait ne devient pas une dette du locataire",
+    "entree": {
+      "ordre": 20,
+      "titre": "La caisse retient 200 € d’aide sur un loyer de 650 €. Le propriétaire peut-il vous réclamer les 200 € ?",
+      "face_a_face": "L’article L. 843-1 autorise la caisse à retenir l’aide au logement lorsqu’elle constate la non-décence, tandis que l’article L. 843-2 interdit au propriétaire de réclamer au locataire la part retenue si le logement n’a pas été mis en conformité à l’issue du délai.",
+      "texte": "Avec un loyer de 650 € hors charges et une allocation de 200 €, le locataire paie 450 € hors charges pendant la retenue notifiée par la caisse.",
+      "raison": "La surprise tient au fait que le propriétaire peut perdre une partie du loyer alors que le bail continue. Le code fait supporter au propriétaire la perte de l’aide retenue pour la période concernée si le logement reste indécent à l’issue du délai."
+    },
+    "explication": [
+      "Le mécanisme suppose un constat notifié par l’organisme payeur. Il porte sur les allocations de logement visées par ces dispositions. Pendant la conservation, la réduction du paiement prévue par la loi ne peut fonder une résiliation du bail.",
+      "Le montant retenu est versé au propriétaire si le logement est mis en conformité dans le délai applicable. La situation à l’issue du délai peut dépendre d’une prolongation accordée par l’organisme payeur dans les cas prévus."
+    ],
+    "sources": [
+      {
+        "label": "Prolongation exceptionnelle de la conservation",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038814835"
+      }
+    ],
+    "relation": {
+      "question": "Qui supporte la part du loyer correspondant à l’allocation retenue ?",
+      "participants": [
+        {
+          "role": "Paiement pendant la retenue",
+          "reference": "Code de la construction et de l’habitation, art. L. 843-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038814840/2026-03-24",
+          "citation": "[…] le locataire s’acquitte du montant du loyer et des charges récupérables diminué du montant des allocations de logement […]"
+        },
+        {
+          "role": "Somme non récupérable à l’expiration du délai",
+          "reference": "Code de la construction et de l’habitation, art. L. 843-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042342772",
+          "citation": "[…] ne peut demander au locataire le paiement de la part de loyer non perçue correspondant au montant de l’allocation conservé."
+        }
+      ]
+    }
   }
 ]
