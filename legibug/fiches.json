@@ -5663,5 +5663,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "alerte-autorite-publication-protection",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "La même alerte peut être protégée si elle est adressée à l’autorité, mais pas si elle est publiée immédiatement",
+    "entree": {
+      "ordre": 126,
+      "titre": "Vous découvrez des faits graves au travail. Les signaler à l’autorité ou les publier ne donne pas la même protection.",
+      "face_a_face": "Le II de l’article 8 de la loi du 9 décembre 2016 permet de saisir directement une autorité compétente, tandis que son III soumet la protection après divulgation publique à des conditions supplémentaires.",
+      "texte": "Vous découvrez de bonne foi des faits susceptibles de constituer un délit dans votre entreprise. Si vous remplissez les conditions légales, vous pouvez les signaler directement à l’autorité compétente sans passer d’abord par votre employeur. Si vous les publiez immédiatement sur un réseau social et qu’aucune exception ne s’applique, vous ne bénéficiez pas des mêmes protections pour cette publication.",
+      "raison": "Les faits sont les mêmes. Le texte permet de les signaler à un organisme qui peut agir, tout en limitant les cas dans lesquels une diffusion au public bénéficie des protections du lanceur d’alerte."
+    },
+    "explication": [
+      "Une divulgation publique peut notamment être protégée après un signalement externe resté sans mesure appropriée dans le délai prévu. Le texte prévoit aussi des exceptions liées au danger, au risque de représailles ou aux circonstances qui rendent peu probable un traitement efficace par l’autorité."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045391755/2026-11-21",
+        "label": "Loi du 9 décembre 2016, article 8"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045389643",
+        "label": "Loi du 9 décembre 2016, article 7-1"
+      }
+    ],
+    "relation": {
+      "question": "Peut-on rendre publique une alerte avec les mêmes protections que lors d’un signalement ?",
+      "participants": [
+        {
+          "role": "Signalement externe direct",
+          "reference": "Loi du 9 décembre 2016, art. 7-1 et art. 8, II",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045389643",
+          "citation": "« […] après avoir adressé un signalement interne ou directement […] »"
+        },
+        {
+          "role": "Conditions de la divulgation publique",
+          "reference": "Loi du 9 décembre 2016, art. 8, III",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045391755/2026-11-21",
+          "citation": "« […] divulgue publiquement des informations […] »"
+        }
+      ]
+    }
   }
 ]
