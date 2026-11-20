@@ -3893,5 +3893,53 @@
         }
       ]
     }
+  },
+  {
+    "id": "oqtf-delai-recours-retention",
+    "type": "Articulation de régimes",
+    "domaine": "Droit des étrangers",
+    "titre": "Un mois pour contester une obligation de quitter la France, puis 48 heures après un placement en rétention",
+    "entree": {
+      "ordre": 90,
+      "titre": "Vous aviez un mois pour saisir le juge. Il ne vous reste plus que 48 heures.",
+      "face_a_face": "L’article R. 911-1 donne en principe un mois pour saisir le juge, tandis que l’article R. 921-1 remplace ce délai par 48 heures si vous êtes placé en rétention et informé du changement avant d’avoir déposé votre recours.",
+      "texte": "Vous recevez une obligation de quitter la France et comptez déposer votre recours la semaine suivante. Trois jours après la première notification, vous êtes placé en rétention et l’administration vous informe que votre délai change. Vous avez alors 48 heures à compter de cette information pour contester la même décision.",
+      "raison": "Le délai change parce que la procédure devient urgente dès le placement en rétention. Concrètement, la mesure qui vous prive de liberté peut aussi écourter le temps dont vous disposez pour réunir vos pièces et préparer votre recours."
+    },
+    "explication": [
+      "L’article L. 614-1 renvoie à la procédure de droit commun pour l’obligation de quitter le territoire français. L’article R. 921-1 prévoit aussi un délai de sept jours à compter de l’information donnée par l’administration en cas d’assignation à résidence dans les conditions qu’il fixe.",
+      "Le changement de délai vise un recours qui n’a pas encore été déposé lorsque la nouvelle mesure est notifiée et dont le délai est encore ouvert. Dans le cas de la rétention, il peut interrompre aussi bien le délai d’un mois que celui de sept jours."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054209810",
+        "label": "Article R. 911-1, texte issu du décret du 6 juin 2026"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000049975188/2026-11-21/",
+        "label": "Article R. 921-1"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049056408/2026-11-21",
+        "label": "Article L. 614-1"
+      }
+    ],
+    "relation": {
+      "question": "Combien de temps reste-t-il pour contester la même décision après le placement en rétention ?",
+      "participants": [
+        {
+          "role": "Délai de droit commun",
+          "reference": "CESEDA, art. R. 911-1",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054209810",
+          "citation": "« […] dans le délai d’un mois à compter de la notification de la décision. »"
+        },
+        {
+          "role": "Nouveau délai après placement en rétention",
+          "reference": "CESEDA, art. R. 921-1",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070158/LEGISCTA000049975188/2026-11-21/",
+          "citation": "« […] il dispose désormais, à compter de cette information, du délai de quarante-huit heures […] »"
+        }
+      ]
+    }
   }
 ]
