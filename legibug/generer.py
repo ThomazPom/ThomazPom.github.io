@@ -122,9 +122,17 @@ intro = "\n".join(
     f'<li><h3><a href="#{escape(fiche["id"])}">{escape(fiche["entree"]["titre"])}</a></h3>'
     f'<p class="entree">{escape(fiche["entree"]["face_a_face"])}</p>'
     f'<p><strong>Pourquoi ces réponses diffèrent</strong><br>{escape(fiche["entree"]["raison"])}</p></li>'
-    for fiche in vedettes
+    for fiche in vedettes[:8]
 )
 output = template.replace("<!-- EXEMPLES -->", intro)
-output = output.replace("<!-- FICHES -->", "\n".join(map(render, fiches)))
+output = output.replace("<!-- FICHES -->", "\n".join(map(render, vedettes + [fiche for fiche in fiches if "entree" not in fiche])))
+totaux = Counter(fiche["type"] for fiche in fiches)
+couverture = (
+    f"<p><strong>{len(fiches)} fiches publiées</strong> dans le catalogue.</p>"
+    + "<ul>"
+    + "".join(f"<li>{escape(nature)} ({total})</li>" for nature, total in totaux.most_common())
+    + "</ul>"
+)
+output = output.replace("<!-- COUVERTURE -->", couverture)
 output = output.replace("<!-- RELECTURE -->", render_review())
 (root / "index.html").write_text(output, encoding="utf-8")
