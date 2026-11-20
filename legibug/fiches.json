@@ -7915,12 +7915,21 @@
     "domaine": "Logement",
     "titre": "Vous achetez un logement déjà loué. Le locataire peut devoir partir dans 2 ans si vous l’habitez, ou dans 4 ans si vous voulez le vendre vide.",
     "explication": [
-      "L’exemple suppose une location vide et une première reconduction de 3 ans, avec un propriétaire personne physique. Le congé doit respecter les autres conditions légales. Le propriétaire peut aussi vendre le logement occupé, avec le bail en cours."
+      "L’exemple suppose une location vide et une première reconduction de 3 ans, avec un propriétaire personne physique. Le congé doit respecter les autres conditions légales. Le propriétaire peut aussi vendre le logement occupé, avec le bail en cours.",
+      "Le locataire paie 800 € par mois et les logements comparables se louent 950 €. La vente ne suffit pas à faire passer son loyer à 950 €. Le bail se poursuit avec le nouveau propriétaire aux mêmes conditions. L’article 17-2 permet de proposer une réévaluation au renouvellement si le loyer est manifestement sous-évalué, en principe au moins 6 mois avant l’échéance et sous réserve des plafonds, interdictions et formalités applicables. Une éventuelle révision annuelle suit ses propres règles."
     ],
     "sources": [
       {
         "label": "Loi du 6 juillet 1989, art. 15, I",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043977083",
+        "label": "Loi du 6 juillet 1989, article 17-2"
+      },
+      {
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F35784",
+        "label": "Service Public, poursuite du bail après la vente"
       }
     ],
     "relation": {
@@ -7937,6 +7946,12 @@
           "reference": "Loi du 6 juillet 1989, art. 15, I",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/",
           "citation": "« […] au terme de la première reconduction tacite ou du premier renouvellement […] »"
+        },
+        {
+          "role": "Réévaluation d’un loyer manifestement sous-évalué au renouvellement",
+          "reference": "Loi du 6 juillet 1989, art. 17-2",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043977083",
+          "citation": "« Lors du renouvellement du contrat, le loyer ne donne lieu à réévaluation que s’il est manifestement sous-évalué. »"
         }
       ],
       "fiches_liees": [
