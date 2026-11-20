@@ -3073,5 +3073,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "pret-immobilier-questionnaire-part-assuree",
+    "type": "Articulation de régimes",
+    "domaine": "Assurance",
+    "titre": "Le même prêt de 400 000 € peut être assuré avec ou sans questionnaire médical",
+    "entree": {
+      "ordre": 71,
+      "titre": "Un prêt à deux de 400 000 €. Faut-il répondre à un questionnaire de santé ?",
+      "face_a_face": "L’article L. 113-2 du code des assurances oblige en principe l’assuré à répondre exactement aux questions de l’assureur, tandis que l’article L. 113-2-1 interdit les questions de santé si la part assurée ne dépasse pas 200 000 € par personne sur l’ensemble des prêts concernés et si le crédit finit avant ses 60 ans.",
+      "texte": "Vous empruntez 400 000 € à deux, sans autre prêt assuré, avec une dernière échéance avant vos 60 ans. Si chacun assure 50 %, vos parts assurées sont de 200 000 € chacune et l’assureur ne peut pas demander de questionnaire de santé. Si chacun est assuré à 100 %, sa part monte à 400 000 € et l’assureur peut poser des questions de santé.",
+      "raison": "La loi regarde ce que l’assurance couvre pour chaque personne. Le prix du logement et le montant total du prêt peuvent rester identiques alors que la répartition de la couverture change la règle."
+    },
+    "explication": [
+      "À 50 % par personne, si l’assurance intervient pour un seul emprunteur, elle ne couvre que sa part. À 100 % chacun, l’assurance couvre la totalité du montant garanti en cas de sinistre couvert touchant un seul assuré. L’exception vise les crédits immobiliers mentionnés par le texte."
+    ],
+    "sources": [
+      {
+        "label": "Service Public, assurance emprunteur",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1671"
+      }
+    ],
+    "relation": {
+      "question": "Le seuil de 200 000 € porte-t-il sur le prêt ou la part assurée ?",
+      "participants": [
+        {
+          "role": "Obligation de répondre aux questions",
+          "reference": "Code des assurances, art. L. 113-2, 2°",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006157200",
+          "citation": "« De répondre exactement aux questions posées par l’assureur […] »"
+        },
+        {
+          "role": "Questions de santé interdites sous conditions",
+          "reference": "Code des assurances, art. L. 113-2-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045271000/2026-11-09",
+          "citation": "« La part assurée sur l’encours cumulé des contrats de crédit n’excède pas 200 000 euros par assuré »"
+        }
+      ]
+    }
   }
 ]
