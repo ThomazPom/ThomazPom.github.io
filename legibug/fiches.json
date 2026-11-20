@@ -5890,5 +5890,47 @@
         "victime-civi-indemnisation-avant-jugement"
       ]
     }
+  },
+  {
+    "id": "pension-paiement-direct-six-mois-cinq-ans",
+    "type": "Articulation de régimes",
+    "domaine": "Famille",
+    "titre": "Paiement direct de la pension : six mois d’arriérés en principe, jusqu’à cinq ans si l’organisme familial agit",
+    "entree": {
+      "ordre": 130,
+      "titre": "Douze mois de pension impayée. Le paiement direct peut couvrir six mois ou les douze.",
+      "face_a_face": "L’article L. 213-4 du Code des procédures civiles d’exécution limite en principe le paiement direct aux six derniers mois d’impayés, mais autorise jusqu’à cinq ans d’arriérés lorsqu’un organisme débiteur de prestations familiales agit pour vous.",
+      "texte": "Vous deviez recevoir 300 € par mois et n’avez rien reçu pendant douze mois. Si la demande de paiement direct est notifiée maintenant à l’employeur de l’autre parent, la procédure ordinaire peut couvrir 1 800 € d’arriérés. Si l’organisme débiteur de prestations familiales agit pour vous et que les conditions sont remplies, le même paiement direct peut couvrir les 3 600 €.",
+      "raison": "La dette est la même. La durée des arriérés que l’employeur peut être tenu de reverser dépend de la personne qui engage la procédure. Le plafond de six mois ne fait pas disparaître les arriérés plus anciens."
+    },
+    "explication": [
+      "La limite de cinq ans s’applique depuis le 1er avril 2026. Les plafonds concernent les échéances passées. Le paiement direct vise aussi les échéances à venir. Le montant récupéré dépend de la situation et des sommes effectivement disponibles."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281694/2026-11-21",
+        "label": "Code des procédures civiles d’exécution, article L. 213-4"
+      }
+    ],
+    "relation": {
+      "question": "Combien de mois d’arriérés peuvent être compris dans le paiement direct ?",
+      "participants": [
+        {
+          "role": "Six mois en principe",
+          "reference": "CPCE, art. L. 213-4, al. 2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281694/2026-11-21",
+          "citation": "« Elle l’est aussi aux termes échus pour les six derniers mois […] »"
+        },
+        {
+          "role": "Jusqu’à cinq ans par l’organisme familial",
+          "reference": "CPCE, art. L. 213-4, al. 4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053281694/2026-11-21",
+          "citation": "« […] dans la limite des cinq dernières années précédant la notification de la demande de paiement direct. »"
+        }
+      ],
+      "fiches_liees": [
+        "reparation-penale-echeancier"
+      ]
+    }
   }
 ]
