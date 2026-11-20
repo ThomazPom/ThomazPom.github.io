@@ -282,11 +282,11 @@
       ]
     },
     "entree": {
-      "titre": "Un ado attend son procès en appel en prison. Pourquoi lui applique-t-on un délai d’adulte ?",
-      "texte": "Le code des mineurs emprunte les délais prévus pour les adultes détenus. Le Conseil constitutionnel a jugé que ces délais étaient trop longs pour les mineurs. Il laisse pourtant le texte en place jusqu’au 31 octobre 2027, car le supprimer immédiatement ferait disparaître le délai maximal.",
+      "titre": "Un mineur peut attendre jusqu’à trois ans en prison avant son procès en appel",
+      "texte": "Si un mineur reste en prison après sa condamnation et que le jugement est contesté en appel, le procès doit normalement avoir lieu dans l’année qui suit l’appel. Avec deux prolongations de six mois, l’attente peut atteindre deux ans. Avec deux prolongations d’un an, elle peut atteindre trois ans dans certains cas.",
       "ordre": 10,
-      "raison": "Le Conseil constitutionnel juge ce renvoi contraire à la Constitution puisque le délai peut atteindre deux ans, voire trois dans certains cas, sans adaptation à l’âge du mineur. Il n’a pas fixé un nouveau délai de six mois. L’abrogation est prévue pour le 31 octobre 2027.",
-      "face_a_face": "L’article 380-3-1 fixe le délai d’appel en détention à un an, avec des prolongations exceptionnelles de six mois ou d’un an selon le cas, renouvelables une fois, et l’article L. 531-2 applique ces délais d’adulte aux mineurs sans les raccourcir."
+      "raison": "Le Conseil constitutionnel a censuré cette règle parce qu’elle permet de faire attendre un mineur en prison aussi longtemps qu’un adulte, sans délai adapté à son âge. Elle reste applicable jusqu’au 31 octobre 2027, car sa suppression immédiate aurait fait disparaître tout délai maximal de comparution en appel.",
+      "face_a_face": "L’article 380-3-1 donne un an pour juger un adulte détenu en appel, avec jusqu’à deux prolongations exceptionnelles de six mois ou d’un an selon le cas, et l’article L. 531-2 impose le même calendrier aux mineurs."
     }
   },
   {
