@@ -1,11 +1,28 @@
 """Génère la page statique de Légibug à partir des fiches JSON."""
 import json
+import re
+from collections import defaultdict
 from html import escape
 from pathlib import Path
 
 root = Path(__file__).resolve().parent
 fiches = json.loads((root / "fiches.json").read_text(encoding="utf-8"))
 template = (root / "modele.html").read_text(encoding="utf-8")
+
+def article_ids(fiche):
+    entries = fiche["relation"]["participants"] + fiche["sources"]
+    return {
+        match.group()
+        for entry in entries
+        if (match := re.search(r"LEGIARTI[0-9]+", entry["url"]))
+    }
+
+
+fiches_par_article = defaultdict(list)
+for fiche in fiches:
+    for article in article_ids(fiche):
+        fiches_par_article[article].append(fiche["id"])
+
 
 def render(fiche):
     output = [
@@ -35,6 +52,18 @@ def render(fiche):
         for source in fiche["sources"]
     ]
     output.append('<p class="sources">' + ''.join(links) + '</p>')
+    related_ids = {
+        related_id
+        for article in article_ids(fiche)
+        for related_id in fiches_par_article[article]
+        if related_id != fiche["id"]
+    }
+    if related_ids:
+        links = [
+            f'<a href="#{escape(other["id"])}">{escape(other["titre"])}</a>'
+            for other in fiches if other["id"] in related_ids
+        ]
+        output.append('<p class="sources"><strong>Articles en commun</strong>' + ''.join(links) + '</p>')
     output.append('</article>')
     return '\n'.join(output)
 
