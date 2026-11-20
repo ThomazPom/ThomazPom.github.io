@@ -1371,5 +1371,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "voiture-volee-assurance-victime",
+    "type": "Articulation de régimes",
+    "domaine": "Assurance",
+    "titre": "L’assurance d’une voiture volée peut couvrir le passant blessé sans couvrir le voleur blessé",
+    "entree": {
+      "ordre": 31,
+      "titre": "Une voiture volée provoque un accident. Pourquoi son assurance intervient-elle quand même ?",
+      "face_a_face": "L’article L. 211-1 oblige l’assurance du véhicule à couvrir la responsabilité du conducteur même s’il n’est pas autorisé à conduire, mais exclut la réparation des dommages subis par les auteurs, coauteurs ou complices du vol.",
+      "texte": "Si le voleur renverse un passant et se blesse lui-même, l’assurance du véhicule peut couvrir la responsabilité du conducteur envers le passant. L’exclusion prévue pour le voleur concerne ses propres dommages.",
+      "raison": "Ça surprend puisque l’assureur couvre des dommages causés par une personne qui a pris la voiture sans autorisation, mais qu’il ne couvre pas les propres blessures de cette personne au titre du contrat du véhicule volé. La règle protège celui qui subit l’accident sans participer au vol."
+    },
+    "explication": [
+      "Le texte distingue la responsabilité du conducteur envers les tiers du droit à réparation pour les personnes ayant participé au vol. Le conducteur non autorisé et le voleur ne désignent pas nécessairement la même situation.",
+      "La fiche concerne l’assurance de responsabilité civile du véhicule volé. La qualification des blessures et les autres voies d’indemnisation dépendent des circonstances."
+    ],
+    "sources": [
+      {
+        "label": "Code des assurances, article L. 211-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650/2026-06-25"
+      }
+    ],
+    "relation": {
+      "question": "Le vol prive-t-il toutes les victimes de la couverture de l’assurance du véhicule ?",
+      "participants": [
+        {
+          "role": "Responsabilité envers les tiers",
+          "reference": "Code des assurances, art. L. 211-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650/2026-06-25",
+          "citation": "[…] toute personne ayant la garde ou la conduite, même non autorisée, du véhicule […]"
+        },
+        {
+          "role": "Dommages des participants au vol",
+          "reference": "Code des assurances, art. L. 211-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650/2026-06-25",
+          "citation": "[…] ces contrats ne couvrent pas la réparation des dommages subis par les auteurs, coauteurs ou complices du vol."
+        }
+      ]
+    }
   }
 ]
