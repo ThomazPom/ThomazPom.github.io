@@ -2026,5 +2026,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "bail-bailleur-age-locataires-proteges",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Un propriétaire de 70 ans doit proposer un relogement à certains locataires protégés",
+    "entree": {
+      "ordre": 46,
+      "titre": "Même propriétaire de 70 ans, deux locataires protégés, deux résultats",
+      "face_a_face": "Le III de l’article 15 de la loi de 1989 dispense un propriétaire de plus de 65 ans de proposer un relogement à son locataire âgé aux revenus modestes, tandis que le IV exige une offre adaptée si le locataire reçoit l’allocation de présence parentale et remplit la condition de ressources.",
+      "texte": "Un propriétaire de 70 ans veut reprendre son logement à la fin du bail. Si son locataire de 72 ans est protégé uniquement en raison de son âge et de ses revenus, le propriétaire peut donner congé sans offre de relogement si les autres conditions sont remplies. Si son locataire touche l’allocation de présence parentale et a des revenus sous le plafond, le même propriétaire doit proposer un autre logement adapté à proximité.",
+      "raison": "L’âge de la personne qui loue le logement lève la protection liée à l’âge du locataire. Le texte qui protège les bénéficiaires de l’allocation de présence parentale ne prévoit pas cette dérogation. Sans offre adaptée, le bail est renouvelé dans le second cas."
+    },
+    "explication": [
+      "L’allocation de présence parentale vise notamment les personnes qui doivent rester auprès d’un enfant gravement malade, handicapé ou accidenté. Les deux exemples supposent une location relevant de l’article 15 et un congé à l’échéance qui satisfait par ailleurs aux conditions légales."
+    ],
+    "sources": [
+      {
+        "label": "Service Public, congé donné par le bailleur et locataires protégés",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F929"
+      },
+      {
+        "label": "Code de la sécurité sociale, art. L. 544-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044329312/2026-11-01"
+      }
+    ],
+    "relation": {
+      "question": "L’âge du propriétaire l’exonère-t-il de proposer un relogement ?",
+      "participants": [
+        {
+          "role": "Dérogation liée à l’âge du propriétaire",
+          "reference": "Loi du 6 juillet 1989, art. 15, III",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/2026-09-03",
+          "citation": "« … lorsque le bailleur est une personne physique âgée de plus de soixante-cinq ans […] »"
+        },
+        {
+          "role": "Obligation d’une offre adaptée",
+          "reference": "Loi du 6 juillet 1989, art. 15, IV",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/2026-09-03",
+          "citation": "« … sans qu’un logement correspondant à ses besoins et à ses possibilités lui soit offert […] »"
+        }
+      ]
+    }
   }
 ]
