@@ -2666,7 +2666,8 @@
       "Le Pacs seul ne donne pas la qualité d’héritier. Un testament peut transmettre des biens dans les limites prévues par le droit des successions. Le défunt peut aussi avoir écarté le droit temporaire au logement par testament.",
       "L’exemple vise la résidence principale effectivement occupée et appartenant entièrement au défunt.",
       "L’article 765-1 fixe le délai d’un an pour manifester sa volonté. La valeur du droit à vie s’impute sur les droits successoraux de l’époux suivant l’article 765. Le défunt peut écarter ce droit viager par testament authentique.",
-      "Vous êtes marié et renoncez à la succession de votre époux. L’article 805 vous considère comme n’ayant jamais été héritier. Vous pouvez néanmoins rester gratuitement dans le logement pendant la première année si les conditions de l’article 763 sont réunies. Ce texte rattache ce droit au mariage lui-même. Le droit à vie, qui relève de la succession, suit une autre règle."
+      "Vous êtes marié et renoncez à la succession de votre époux. L’article 805 vous considère comme n’ayant jamais été héritier. Vous pouvez néanmoins rester gratuitement dans le logement pendant la première année si les conditions de l’article 763 sont réunies. Ce texte rattache ce droit au mariage lui-même. Le droit à vie, qui relève de la succession, suit une autre règle.",
+      "Comparez avec un enfant qui hérite de la maison avec son frère et l’occupe seul en empêchant l’autre d’en profiter. Sauf accord contraire, l’article 815-9 lui impose une indemnité d’occupation à verser à l’indivision, dès le début de cette occupation privative. Si l’occupant était le conjoint survivant et que c’était déjà sa résidence principale au décès, l’article 763 lui assure un an de jouissance gratuite quand la maison appartient entièrement à la succession."
     ],
     "sources": [
       {
@@ -2680,6 +2681,10 @@
       {
         "label": "Code civil, articles 764 à 765-1",
         "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150139/2026-11-21/"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432422/",
+        "label": "Code civil, article 815-9"
       }
     ],
     "relation": {
@@ -2708,12 +2713,19 @@
           "reference": "Code civil, art. 763",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431113/2026-10-07",
           "citation": "« Les droits prévus au présent article sont réputés effets directs du mariage et non droits successoraux. »"
+        },
+        {
+          "role": "Occupation privative d’un bien hérité à plusieurs",
+          "reference": "Code civil, art. 815-9",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432422/",
+          "citation": "« L’indivisaire qui use ou jouit privativement de la chose indivise est, sauf convention contraire, redevable d’une indemnité. »"
         }
       ],
       "fiches_liees": [
         "bail-deces-pacs-concubin-un-an",
         "legs-concubin-pacs-droits",
-        "succession-refusee-obseques"
+        "succession-refusee-obseques",
+        "indivision-vente-unanimite-deux-tiers"
       ]
     }
   },
