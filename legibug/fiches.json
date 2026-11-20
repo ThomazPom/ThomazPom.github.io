@@ -1704,5 +1704,52 @@
         }
       ]
     }
+  },
+  {
+    "id": "mayotte-avis-reconstruction",
+    "type": "Exception explicite",
+    "domaine": "Urbanisme",
+    "titre": "À Mayotte, quinze jours de silence peuvent suffire pour un accord préalable",
+    "explication": [
+      "En urbanisme, le délai ordinaire au terme duquel un avis non transmis est réputé favorable est d’un mois, sous réserve des délais propres à certaines consultations. La loi d’urgence pour Mayotte ramène à quinze jours le délai des avis, accords ou autorisations préalables dans les dossiers couverts par son chapitre sur la reconstruction.",
+      "Ce régime s’applique notamment aux travaux concernant les biens endommagés par les événements climatiques visés par la loi, pour les dossiers déposés dans les deux ans suivant sa promulgation le 24 février 2025. Le silence en question est celui de l’organisme consulté. Il ne vaut pas, à lui seul, délivrance du permis."
+    ],
+    "sources": [
+      {
+        "label": "Loi d’urgence pour Mayotte, article 13",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051245539"
+      },
+      {
+        "label": "Code de l’urbanisme, délais de consultation",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006143422"
+      },
+      {
+        "label": "Champ et durée du régime",
+        "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000051244586"
+      }
+    ],
+    "relation": {
+      "question": "Après quel délai le silence de l’organisme consulté vaut-il avis favorable ?",
+      "participants": [
+        {
+          "role": "Délai ordinaire",
+          "reference": "Code de l’urbanisme, art. R. 423-59",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006143422",
+          "citation": "[…] dans le délai d’un mois à compter de la réception de la demande d’avis […]"
+        },
+        {
+          "role": "Délai spécial",
+          "reference": "Loi n° 2025-176, art. 13, X",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051245539",
+          "citation": "[…] le silence gardé passé ce délai vaut, selon le cas, avis favorable ou accord tacite."
+        },
+        {
+          "role": "Fenêtre de dépôt",
+          "reference": "Loi n° 2025-176, art. 7",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000051244586",
+          "citation": "[…] déposées dans un délai de deux ans à compter de la promulgation de la présente loi."
+        }
+      ]
+    }
   }
 ]
