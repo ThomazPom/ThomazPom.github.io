@@ -3247,5 +3247,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "relaxe-accident-reparation-civile",
+    "type": "Articulation de régimes",
+    "domaine": "Justice pénale",
+    "titre": "Un tribunal peut relaxer le conducteur et indemniser la victime",
+    "entree": {
+      "ordre": 75,
+      "titre": "Le conducteur est relaxé. Pourquoi le tribunal peut-il quand même indemniser la victime ?",
+      "face_a_face": "L’article 4-1 du code de procédure pénale permet de demander réparation au civil malgré l’absence de faute pénale non intentionnelle, tandis que l’article 470-1 permet, sous conditions, au tribunal correctionnel qui prononce la relaxe d’accorder lui-même une indemnité.",
+      "texte": "Après un accident, un conducteur est poursuivi pour blessures involontaires. Le tribunal juge que l’infraction n’est pas établie et le relaxe. Pourtant, si la victime a formulé sa demande à temps et si les règles civiles lui donnent droit à réparation, le même tribunal peut lui accorder une indemnité.",
+      "raison": "Décider s’il faut punir le conducteur et décider qui doit réparer les blessures sont deux questions. Pour un accident de la circulation, le droit à réparation peut résulter de règles qui n’exigent pas de démontrer la faute pénale du conducteur."
+    },
+    "explication": [
+      "La demande prévue à l’article 470-1 doit être présentée par la partie civile ou son assureur avant la clôture des débats. Le tribunal doit avoir été saisi par le ministère public ou sur renvoi d’une juridiction d’instruction. La relaxe n’entraîne aucune indemnité automatique."
+    ],
+    "sources": [
+      {
+        "label": "Cour de cassation, 17 janvier 1989, n° 88-83.109, application aux accidents de la circulation",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000007064154"
+      }
+    ],
+    "relation": {
+      "question": "Une relaxe empêche-t-elle le tribunal d’accorder une réparation civile ?",
+      "participants": [
+        {
+          "role": "Action civile malgré l’absence de faute pénale",
+          "reference": "Code de procédure pénale, art. 4-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042968/2026-07-31",
+          "citation": "« L’absence de faute pénale non intentionnelle […] ne fait pas obstacle à l’exercice d’une action devant les juridictions civiles […] »"
+        },
+        {
+          "role": "Réparation par le même tribunal",
+          "reference": "Code de procédure pénale, art. 470-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024497087/2026-07-31",
+          "citation": "« … qui prononce une relaxe demeure compétent […] pour accorder, en application des règles du droit civil, réparation […] »"
+        }
+      ]
+    }
   }
 ]
