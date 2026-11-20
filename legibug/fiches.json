@@ -4094,5 +4094,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "indivision-vente-unanimite-deux-tiers",
+    "type": "Articulation de régimes",
+    "domaine": "Successions",
+    "titre": "Une maison héritée à trois peut être vendue malgré le refus du troisième héritier",
+    "entree": {
+      "ordre": 94,
+      "titre": "Deux héritiers veulent vendre la maison, le troisième refuse. Son refus suffit-il ?",
+      "face_a_face": "L’article 815-3 du Code civil exige l’accord de tous les copropriétaires pour vendre ensemble un bien indivis, tandis que l’article 815-5-1 permet à ceux qui détiennent au moins deux tiers des droits de demander au juge d’autoriser une vente aux enchères.",
+      "texte": "Vous héritez d’une maison avec votre frère et votre sœur, chacun pour un tiers en pleine propriété. Votre refus empêche les deux autres de signer une vente amiable de toute la maison. Mais leurs deux tiers leur permettent de lancer une procédure chez le notaire puis de demander au juge d’autoriser la vente aux enchères.",
+      "raison": "Votre accord est nécessaire à la vente amiable, mais votre refus ne suffit pas à empêcher toute vente. Le juge peut autoriser la vente aux enchères si elle ne porte pas une atteinte excessive aux droits des autres copropriétaires."
+    },
+    "explication": [
+      "Le seuil se mesure en parts de propriété. Deux personnes sur trois n’atteignent donc pas toujours les deux tiers. Le notaire fait notifier le projet aux autres copropriétaires et constate leur opposition ou leur silence dans les conditions fixées par le texte.",
+      "La procédure de l’article 815-5-1 exclut notamment les biens dont la propriété est divisée entre usufruit et nue-propriété. D’autres voies judiciaires existent, notamment celle de l’article 815-5 lorsque le refus met en péril l’intérêt commun."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432378/2026-11-21",
+        "label": "Code civil, article 815-3"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039367468/2026-11-21",
+        "label": "Code civil, article 815-5-1"
+      }
+    ],
+    "relation": {
+      "question": "Le refus d’un copropriétaire peut-il empêcher la vente de la maison ?",
+      "participants": [
+        {
+          "role": "Accord de tous pour la vente amiable",
+          "reference": "Code civil, art. 815-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432378/2026-11-21",
+          "citation": "« […] le consentement de tous les indivisaires est requis […] »"
+        },
+        {
+          "role": "Demande d’autorisation au tribunal à partir des deux tiers",
+          "reference": "Code civil, art. 815-5-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039367468/2026-11-21",
+          "citation": "« […] à la demande de l’un ou des indivisaires titulaires d’au moins deux tiers des droits indivis […] »"
+        }
+      ]
+    }
   }
 ]
