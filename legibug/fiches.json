@@ -2497,5 +2497,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "reserve-renonciation-anticipee",
+    "type": "Articulation de régimes",
+    "domaine": "Successions",
+    "titre": "Un héritier peut renoncer à faire réduire une libéralité avant l’ouverture de la succession",
+    "explication": [
+      "La réserve héréditaire protège une part de la succession pour certains héritiers. L’article 929 permet toutefois à un héritier réservataire présomptif de renoncer à exercer l’action en réduction au profit d’une ou de plusieurs personnes déterminées.",
+      "La renonciation vise l’action contre une atteinte à la réserve. Elle peut être limitée à une fraction de celle-ci ou à une libéralité portant sur un bien déterminé. Elle laisse subsister la qualité d’héritier."
+    ],
+    "sources": [
+      {
+        "label": "Réserve héréditaire",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435530/2026-08-28"
+      },
+      {
+        "label": "Renonciation anticipée à l’action en réduction",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433772/2026-05-28"
+      }
+    ],
+    "relation": {
+      "question": "La réserve peut-elle être protégée par la loi alors que l’héritier renonce d’avance à agir ?",
+      "participants": [
+        {
+          "role": "Part protégée",
+          "reference": "Code civil, art. 912",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435530/2026-08-28",
+          "citation": "[…] dont la loi assure la dévolution libre de charges à certains héritiers dits réservataires […]"
+        },
+        {
+          "role": "Renonciation à l’action",
+          "reference": "Code civil, art. 929",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433772/2026-05-28",
+          "citation": "Tout héritier réservataire présomptif peut renoncer à exercer une action en réduction dans une succession non ouverte."
+        }
+      ]
+    }
   }
 ]
