@@ -4222,7 +4222,8 @@
     },
     "explication": [
       "Le seuil se mesure en parts de propriété. Deux personnes sur trois n’atteignent donc pas toujours les deux tiers. Le notaire fait notifier le projet aux autres copropriétaires et constate leur opposition ou leur silence dans les conditions fixées par le texte.",
-      "La procédure de l’article 815-5-1 exclut notamment les biens dont la propriété est divisée entre usufruit et nue-propriété. D’autres voies judiciaires existent, notamment celle de l’article 815-5 lorsque le refus met en péril l’intérêt commun."
+      "La procédure de l’article 815-5-1 exclut notamment les biens dont la propriété est divisée entre usufruit et nue-propriété. D’autres voies judiciaires existent, notamment celle de l’article 815-5 lorsque le refus met en péril l’intérêt commun.",
+      "Les deux tiers suffisent aussi pour signer un bail d’habitation ordinaire dans le cadre de la gestion normale, à condition d’en informer les autres propriétaires. Imaginez trois héritiers qui détiennent chacun un tiers d’un immeuble comprenant un appartement et une boutique. Deux peuvent décider de louer l’appartement. Pour signer un bail commercial sur la boutique, l’article 815-3 ne leur donne pas ce pouvoir à eux seuls. Il faut en principe l’accord du troisième."
     ],
     "sources": [
       {
@@ -4248,6 +4249,12 @@
           "reference": "Code civil, art. 815-5-1",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039367468/2026-11-21",
           "citation": "« […] à la demande de l’un ou des indivisaires titulaires d’au moins deux tiers des droits indivis […] »"
+        },
+        {
+          "role": "Bail d’habitation à la majorité des deux tiers, sauf catégories exclues",
+          "reference": "Code civil, art. 815-3, 4°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432378/2026-11-21",
+          "citation": "« Conclure et renouveler les baux autres que ceux portant sur un immeuble à usage agricole, commercial, industriel ou artisanal. »"
         }
       ]
     }
