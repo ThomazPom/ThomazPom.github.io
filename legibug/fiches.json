@@ -1633,5 +1633,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "train-avion-quatrieme-nuit",
+    "type": "Articulation de régimes",
+    "domaine": "Transports",
+    "titre": "Une quatrième nuit peut rester à votre charge en train et être couverte en avion",
+    "entree": {
+      "ordre": 37,
+      "titre": "Une éruption vous bloque quatre nuits. Qui paie la quatrième ?",
+      "face_a_face": "L’article 20 du règlement sur les trains autorise la compagnie à s’arrêter à trois nuits d’hôtel en cas de circonstances exceptionnelles, tandis que les articles 5 et 9 du règlement sur les vols imposent de vous héberger tant que c’est nécessaire pour attendre le réacheminement, sans plafond de nuits.",
+      "texte": "Imaginez une catastrophe naturelle qui annule votre départ et vous bloque quatre nuits avant le premier trajet de remplacement disponible. Pour un train couvert par le règlement, la compagnie peut limiter l’hébergement gratuit à trois nuits. Pour un vol couvert par les règles actuelles, la quatrième nuit reste due si elle est nécessaire pendant l’attente du réacheminement au plus tôt.",
+      "raison": "Une même catastrophe peut donc laisser au voyageur en train une facture d’hôtel que le voyageur en avion n’aurait pas à payer. Les deux règlements traitent différemment le coût d’une attente de plus de trois nuits."
+    },
+    "explication": [
+      "Dans l’arrêt McDonagh, la Cour de justice a confirmé que les circonstances extraordinaires ne suppriment pas l’assistance et que le texte ne fixe aucune limite de durée ou de montant. Si la compagnie n’a pas fourni l’assistance, les frais réclamés doivent avoir été nécessaires, appropriés et raisonnables.",
+      "Le règlement modificatif (UE) 2026/2202 s’applique à partir du 23 octobre 2027. Cette fiche décrit le régime applicable au 20 novembre 2026."
+    ],
+    "sources": [
+      {
+        "label": "CJUE, arrêt McDonagh, communiqué officiel",
+        "url": "https://curia.europa.eu/jcms/jcms/P_95639/en/"
+      },
+      {
+        "label": "Règlement modificatif 2026/2202, article 3",
+        "url": "https://eur-lex.europa.eu/eli/reg/2026/2202/oj/fra"
+      }
+    ],
+    "relation": {
+      "question": "Qui prend en charge la quatrième nuit après une annulation due à une catastrophe naturelle ?",
+      "participants": [
+        {
+          "role": "Train, plafond possible",
+          "reference": "Règlement (UE) 2021/782, art. 20, § 2, b)",
+          "url": "https://eur-lex.europa.eu/eli/reg/2021/782/oj/fra",
+          "citation": "« … à trois nuits au maximum. »"
+        },
+        {
+          "role": "Avion, hébergement nécessaire",
+          "reference": "Règlement (CE) 261/2004, art. 5 et 9",
+          "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj/fra",
+          "citation": "« un séjour d’attente d’une ou plusieurs nuits est nécessaire »"
+        }
+      ]
+    }
   }
 ]
