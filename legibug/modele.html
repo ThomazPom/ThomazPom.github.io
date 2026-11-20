@@ -44,12 +44,12 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 </div></header>
 <main>
 <section aria-labelledby="situations">
-<h2 id="situations">Des situations pour comprendre</h2>
+<h2 id="situations">Les problèmes en clair</h2>
 <ul class="exemples">
 <!-- EXEMPLES -->
 </ul>
 </section>
-<h2 id="fiches">Tous les cas documentés</h2>
+<h2 id="fiches">Les textes et les décisions</h2>
 <div id="search-panel" hidden>
 <label for="search">Rechercher dans les fiches</label>
 <input id="search" type="search" placeholder="Ex. détention, vie privée, preuve">
@@ -69,10 +69,6 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <p>Le tirage porte sur les couples repérés dans les métadonnées. Il mesure la qualité de ce repérage après relecture et ne donne pas la fréquence de toutes les incohérences dans le droit français.</p>
 <p class="sources"><a href="analyse/sample.csv">Télécharger le tirage</a><a href="analyse/relecture.csv">Lire les vérifications</a></p>
 </section>
-<details id="notes">
-<summary>Notes techniques sur les coquilles et la consolidation</summary>
-<!-- NOTES -->
-</details>
 <section id="methode">
 <h2>Comment mesurer la surface des incohérences ?</h2>
 <p>Le catalogue part de cas repérés dans les décisions et les codes consolidés. Une fiche vérifie la version à la date indiquée, la portée exacte de la décision, les règles de priorité et les éventuelles dates d’effet différées. Une disposition abrogée sort du catalogue lorsqu’elle cesse d’être en vigueur.</p>
@@ -82,7 +78,7 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <p>Après intégration de 13 mises à jour jusqu’au 19 novembre, l’index compte 165 386 identifiants de versions valides au 20 novembre dans la branche des codes en vigueur et 531 172 dans celle des textes non codifiés en vigueur. Il s’agit de totaux distincts dans chaque branche du fonds, calculés à partir de l’état et des dates de chaque version.</p>
 <p>Le repérage par métadonnées fournit 14 962 couples source-cible à examiner, et le repérage par numéro dans les articles fournit 2 079 lignes. Les deux listes se recoupent. La première passe n’a pas indexé le corps des articles étiquetés pour abrogation différée. Sur cinq renvois déjà vérifiés, le rapprochement par identifiant exact dans les métadonnées en a retrouvé un. La recherche dans le texte en retrouve au moins un autre. Ni le total des pistes ni le décompte des versions ne permettent seuls de calculer une fréquence d’incohérences.</p>
 <p>Une recherche complémentaire a repéré 4 459 formulations dérogatoires dans 4 081 identifiants de versions valides au 20 novembre. Elle cherche notamment « nonobstant toute disposition contraire », même sans renvoi numéroté. Elle peut relever plusieurs formulations dans le même article et inclure des mesures dont la période d’application a pris fin. Ce décompte mesure les occurrences de ces formulations dans le corps indexé.</p>
-<p class="sources"><a href="https://github.com/ThomazPom/ThomazPom.github.io/blob/main/legibug/analyse/README.md">Reproduire le relevé LEGI</a><a href="#mayotte-avis-reconstruction">Voir le cas des consultations à Mayotte</a></p>
+<p class="sources"><a href="https://github.com/ThomazPom/ThomazPom.github.io/blob/main/legibug/analyse/README.md">Reproduire le relevé LEGI</a></p>
 <p>Un premier test sur les mises à jour XML de la DILA a montré pourquoi il faut vérifier les renvois dans le corps de l’article. Les métadonnées relient la version de l’article L. 351-3 du code de la consommation applicable le 20 novembre 2026 à l’article L. 312-85, qui est abrogé à cette date. La nouvelle version du tableau passe des articles L. 312-82 et L. 312-83 aux articles L. 312-88 à L. 312-94. Le renvoi repéré dans les métadonnées ne figure donc pas dans ce tableau et a été écarté du relevé juridique.</p>
 <p class="sources"><a href="https://echanges.dila.gouv.fr/OPENDATA/LEGI/">Archives XML LEGI</a><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190742/2026-11-20">Article L. 351-3, version du 20 novembre</a><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731376">Ancien article L. 312-85</a></p>
 <p>Les anomalies disparues sont écartées. Le rapport du Sénat relevait aussi un renvoi obsolète à propos de Mayotte, mais l’article L. 4437-3 qui le contenait a lui-même été abrogé au 1er janvier 2026.</p>
@@ -90,11 +86,9 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <p>Le gel des cotisations d’assurance maladie complémentaire pour 2026 est également écarté du catalogue des règles en vigueur. Sa censure a pris effet dès la publication du 24 octobre 2026 et s’applique aux affaires qui n’avaient pas encore été jugées définitivement à cette date. Ce cas sert de point de comparaison avec les censures dont l’abrogation est différée.</p>
 <p class="sources"><a href="https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000055012614">QPC 2026-1230/1231, § 15 à 16</a></p>
 <p>Avant de conclure à un renvoi devenu sans objet, il faut rechercher une clause générale de substitution. Le décret de codification de la fonction publique de 2024 en fournit un exemple. Un arrêté peut encore afficher un numéro abrogé alors que la clause désigne déjà la disposition à lire.</p>
-<p class="sources"><a href="#cotisations-syndicales-recodification">Voir la comparaison sur les cotisations syndicales</a></p>
 <p>L’étiquette « en vigueur » ne suffit pas à établir qu’une règle produit encore des effets. Le décret sur la campagne du référendum de 1992 conserve un renvoi vers l’article R. 95 du code électoral, abrogé en 2020. Cette campagne est terminée. Le cas est écarté du relevé des renvois actuels.</p>
 <p class="sources"><a href="https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000176200">Décret d’organisation du référendum</a><a href="analyse/relecture.csv">Télécharger le journal de relecture</a></p>
 <p>Le cas de la préemption a été vérifié en confrontant l’article consolidé à l’instruction de modification dans le Journal officiel. Une recherche des mots redoublés dans les articles des codes entrés en vigueur depuis 2025 a remonté sept passages dans l’index local. Parmi les autres résultats figurent des répétitions comme « aux aux ». Une répétition peut aider à repérer un problème, mais c’est la comparaison des versions qui permet d’établir une omission.</p>
-<p class="sources"><a href="#preemption-directeur-general">Voir l’écart de consolidation dans le code de l’urbanisme</a></p>
 <p>Il faut aussi chercher les abrogations dans le texte qui a remplacé la règle. Le dossier de l’arrêté du 8 janvier 1998 sur les inscriptions en école d’architecture apparaît toujours en vigueur dans la version consultée. L’article 29 de l’arrêté du 20 juillet 2005 l’abroge pourtant expressément. Le renvoi signalé a donc été écarté de l’échantillon des anomalies actuelles.</p>
 <p class="sources"><a href="https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000387516/2025-02-03">Arrêté de 1998</a><a href="https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000631630/2026-03-31">Arrêté de 2005, article 29</a></p>
 <p>Une fiche peut regrouper plusieurs occurrences d’un même défaut. Par exemple, trois renvois au même article ferroviaire abrogé sont comptés dans une seule fiche. Le nombre de fiches mesure la couverture de cette enquête. Pour estimer une fréquence dans tout le droit français, il faudrait définir le corpus, l’unité de comptage et un échantillon indépendant des affaires déjà signalées.</p>

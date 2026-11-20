@@ -117,8 +117,6 @@ vedettes = sorted(
     (fiche for fiche in fiches if "entree" in fiche),
     key=lambda fiche: fiche["entree"]["ordre"],
 )
-cas = [fiche for fiche in fiches if not fiche.get("note_technique")]
-notes = [fiche for fiche in fiches if fiche.get("note_technique")]
 intro = "\n".join(
     f'<li><h3><a href="#{escape(fiche["id"])}">{escape(fiche["entree"]["titre"])}</a></h3>'
     f'<p>{escape(fiche["entree"]["texte"])}</p>'
@@ -126,7 +124,6 @@ intro = "\n".join(
     for fiche in vedettes
 )
 output = template.replace("<!-- EXEMPLES -->", intro)
-output = output.replace("<!-- FICHES -->", "\n".join(map(render, cas)))
-output = output.replace("<!-- NOTES -->", "\n".join(map(render, notes)))
+output = output.replace("<!-- FICHES -->", "\n".join(map(render, fiches)))
 output = output.replace("<!-- RELECTURE -->", render_review())
 (root / "index.html").write_text(output, encoding="utf-8")

@@ -1,783 +1,5 @@
 [
   {
-    "id": "indemnites-elevage-sanction-abrogee",
-    "type": "Renvoi obsolète",
-    "domaine": "Indemnisation agricole",
-    "titre": "Un arrêté sur l’indemnisation renvoie encore à des pénalités abrogées",
-    "explication": [
-      "L’article 58 de l’arrêté du 23 juin 2003 prévoit que certains manquements peuvent entraîner la perte d’indemnités. Il présente cette mesure comme distincte des pénalités prévues par l’article 2 d’un décret de 1963.",
-      "Le décret du 1er août 2003 a abrogé l’article 2 avec effet au 7 août 2003. La version consolidée de l’arrêté conserve ce renvoi. Ce constat porte sur la référence aux anciennes pénalités. Le régime actuel des sanctions éventuelles doit être recherché dans les textes en vigueur."
-    ],
-    "relation": {
-      "question": "Le texte cité pour les pénalités est-il encore en vigueur ?",
-      "participants": [
-        {
-          "role": "Renvoi dans l’arrêté",
-          "reference": "Arrêté du 23 juin 2003, art. 58",
-          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000415484/2026-03-25",
-          "citation": "Sans préjudice des pénalités prévues à l’article 2 du décret du 18 février 1963 […]"
-        },
-        {
-          "role": "Abrogation de la disposition visée",
-          "reference": "Décret n° 63-136, art. 2 · statut",
-          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000862731/2021-06-26/",
-          "citation": "Abrogé par Décret n°2003-768 du 1 août 2003 - art. 6"
-        }
-      ]
-    },
-    "sources": [
-      {
-        "label": "Arrêté du 17 mars 2004 sur les mesures financières",
-        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000436052/2026-05-25"
-      }
-    ]
-  },
-  {
-    "id": "retraite-agricole-au-au",
-    "type": "Écart de consolidation",
-    "domaine": "Retraite agricole",
-    "titre": "Un renvoi et une date divergent du décret sur la retraite agricole",
-    "explication": [
-      "L’article R. 135-16-2 du code de la sécurité sociale cite le 2° de l’article L. 732-21 du code rural avec un « au » redoublé. Le décret remplace les mots « dernier alinéa » par « 2° ». La disposition visée reste identifiable.",
-      "La note sous l’article donne aussi le 31 décembre 2025 comme date du décret. Le Journal officiel donne le 30 décembre comme date de signature. Le 31 décembre est la date de publication. La référence de modification en tête de l’article affiche, elle, le 30 décembre."
-    ],
-    "relation": {
-      "question": "Quelle référence et quelle date le Journal officiel donne-t-il ?",
-      "participants": [
-        {
-          "role": "Texte consolidé",
-          "reference": "CSS, art. R. 135-16-2",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053335371",
-          "citation": "[…] et au au 2° de l’article L. 732-21 du code rural et de la pêche maritime […]"
-        },
-        {
-          "role": "Modification publiée",
-          "reference": "Décret n° 2025-1409 du 30 décembre 2025, art. 2",
-          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053227462",
-          "citation": "[…] les mots : « dernier alinéa » sont remplacés par la référence : « 2° » ;"
-        }
-      ]
-    },
-    "sources": [
-      {
-        "label": "Note d’application et version consolidée",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053335371"
-      }
-    ],
-    "note_technique": true
-  },
-  {
-    "id": "forfaits-hopitaux-aux-aux",
-    "type": "Écart de consolidation",
-    "domaine": "Financement hospitalier",
-    "titre": "Le code redouble un mot dans le renvoi aux forfaits hospitaliers",
-    "explication": [
-      "Le 3° de l’article R. 162-33-2 du code de la sécurité sociale renvoie à certains forfaits de l’article R. 162-33-1 pour définir les frais exclus. La version consolidée affiche deux fois le mot « aux ».",
-      "Le décret de décembre 2025 remplace le groupe entier, préposition comprise, et décale les trois numéros. La consolidation a bien décalé les numéros et a conservé une préposition de trop. Les forfaits visés restent identifiables."
-    ],
-    "relation": {
-      "question": "Quels forfaits le décret modificatif voulait-il viser ?",
-      "participants": [
-        {
-          "role": "Texte consolidé",
-          "reference": "CSS, art. R. 162-33-2, 3°",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053285570",
-          "citation": "Sont exclus des forfaits mentionnés aux aux 5°, 6° et 7° de l’article R. 162-33-1 […]"
-        },
-        {
-          "role": "Instruction publiée au Journal officiel",
-          "reference": "Décret n° 2025-1390, art. 1, 14°",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/JORFARTI000053202357",
-          "citation": "[…] la référence : « aux 4°, 5° et 6° » est remplacée par la référence : « aux 5°, 6° et 7° » ;"
-        }
-      ]
-    },
-    "sources": [
-      {
-        "label": "Section sur le financement des activités hospitalières",
-        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000034404880/2026-10-05"
-      }
-    ],
-    "note_technique": true
-  },
-  {
-    "id": "acpr-consolidation-aux-aux",
-    "type": "Écart de consolidation",
-    "domaine": "Droit financier",
-    "titre": "Le code financier redouble un mot dans la liste des contrôles de l’ACPR",
-    "explication": [
-      "Le code permet à l’Autorité de contrôle prudentiel et de résolution de solliciter un avis de la Banque de France pour contrôler certaines catégories d’acteurs. Le passage consolidé contient deux fois la préposition qui précède leur liste.",
-      "L’ordonnance sur les crypto-actifs a étendu cette liste au 17° et prévoit un seul « aux ». Les trois numéros se lisent de la même façon dans les deux publications. La différence porte sur la rédaction consolidée."
-    ],
-    "relation": {
-      "question": "Quels mots l’ordonnance a-t-elle ajoutés avant la liste des catégories ?",
-      "participants": [
-        {
-          "role": "Texte consolidé",
-          "reference": "Code monétaire et financier, art. L. 612-2",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051556833",
-          "citation": "Aux fins du contrôle des personnes mentionnées aux aux 3°, 8° et 17° […]"
-        },
-        {
-          "role": "Instruction au Journal officiel",
-          "reference": "Ordonnance n° 2024-936",
-          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000050353747",
-          "citation": "[…] les mots : « aux 3° et 8° » sont remplacés par les mots : « aux 3°, 8° et 17° » ;"
-        }
-      ]
-    },
-    "sources": [
-      {
-        "label": "Version de mars 2025, où le redoublement figure déjà",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050370609/2025-03-14"
-      }
-    ],
-    "note_technique": true
-  },
-  {
-    "id": "sante-consolidation-le-le",
-    "type": "Écart de consolidation",
-    "domaine": "Professions de santé",
-    "titre": "Trois articles redoublent le même mot après une modification",
-    "explication": [
-      "Trois articles du code de la santé publique affichent « par le le troisième alinéa ». Ils renvoient, selon le cas, à l’article 20 ou 27 de l’ordonnance sur l’exercice en société des professions libérales réglementées.",
-      "Le décret de décembre 2025 ordonne de remplacer un passage commençant par « le deuxième alinéa » par un passage commençant par « le troisième alinéa ». Le texte consolidé conserve un « le » supplémentaire. Le numéro de l’article et l’alinéa concernés restent identifiables."
-    ],
-    "relation": {
-      "question": "D’où vient le redoublement dans les trois articles ?",
-      "participants": [
-        {
-          "role": "Texte consolidé",
-          "reference": "CSP, art. R. 4113-56",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053027528",
-          "citation": "[…] par le le troisième alinéa de l’article 27 […]"
-        },
-        {
-          "role": "Texte consolidé",
-          "reference": "CSP, art. R. 4113-77",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053027508",
-          "citation": "[…] par le le troisième alinéa de l’article 20 […]"
-        },
-        {
-          "role": "Texte consolidé",
-          "reference": "CSP, art. R. 4381-59",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053027641",
-          "citation": "[…] par le le troisième alinéa de l’article 27 […]"
-        },
-        {
-          "role": "Instruction publiée au Journal officiel",
-          "reference": "Décret n° 2025-1216, art. 1, 14°, 17° et 34°",
-          "url": "https://www.legifrance.gouv.fr/eli/decret/2025/12/11/2025-1216/jo/texte",
-          "citation": "[…] sont remplacés par les mots : « le troisième alinéa […] »"
-        }
-      ]
-    },
-    "sources": [
-      {
-        "label": "Décret modificatif publié au Journal officiel",
-        "url": "https://www.legifrance.gouv.fr/eli/decret/2025/12/11/2025-1216/jo/texte"
-      }
-    ],
-    "note_technique": true
-  },
-  {
-    "id": "preemption-directeur-general",
-    "type": "Écart de consolidation",
-    "domaine": "Urbanisme",
-    "titre": "Le directeur général disparaît du texte consolidé sur la préemption",
-    "explication": [
-      "Le II de l’article R. 321-19 du code de l’urbanisme décrit quand certaines décisions de préemption deviennent exécutoires. Le texte consolidé affiche une formule incomplète qui omet la fonction de la personne prenant ces décisions.",
-      "Le décret modificatif de 2025 ordonne d’insérer la désignation de l’établissement après les mots « directeur général ». La comparaison indique que la consolidation a omis ces mots. L’article R. 321-18 nomme d’ailleurs le directeur général pour les décisions qui relèvent de son périmètre."
-    ],
-    "relation": {
-      "question": "De quelles décisions le II de l’article R. 321-19 parle-t-il ?",
-      "participants": [
-        {
-          "role": "Texte consolidé",
-          "reference": "Code de l’urbanisme, art. R. 321-19, II",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051345593/2026-10-08",
-          "citation": "[…] les décisions du d’un établissement public […]"
-        },
-        {
-          "role": "Instruction publiée au Journal officiel",
-          "reference": "Décret n° 2025-242, art. 21, 2°, b",
-          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051336614",
-          "citation": "Après les mots : « directeur général » sont insérés les mots : « d’un établissement public mentionné au premier alinéa de l’article R. 321-1 » ;"
-        }
-      ]
-    },
-    "sources": [
-      {
-        "label": "Code de l’urbanisme, article R. 321-18",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051345560/2026-10-10"
-      }
-    ]
-  },
-  {
-    "id": "registre-elevage-porcin",
-    "type": "Renvoi obsolète",
-    "domaine": "Agriculture",
-    "titre": "Huit renvois au régime porcin abrogé subsistent dans un arrêté",
-    "explication": [
-      "L’article 12 de l’arrêté sur l’identification du cheptel porcin définit les pièces du registre d’élevage et prévoit leur conservation pendant au moins cinq ans. Il identifie cette partie du registre par un renvoi à l’article D. 212-44 du code rural et de la pêche maritime.",
-      "L’article D. 212-44, qui imposait la conservation de certains documents, a été abrogé le 24 octobre 2025. L’arrêté consolidé conserve le renvoi et formule aussi sa propre règle de conservation. La fiche constate l’écart de rédaction. Elle ne tranche pas l’ensemble des obligations actuelles d’un élevage.",
-      "La même abrogation touche trois autres articles visés par l’arrêté. D. 212-36 est cité aux articles 3, 6 et 7, D. 212-42 aux articles 9-1 et 9-5, et D. 212-43 aux articles 10 et 10-1. Avec l’article 12, cela donne huit occurrences pour quatre articles cibles. La fiche regroupe ces renvois dans une même réforme."
-    ],
-    "relation": {
-      "question": "Quels renvois de l’arrêté ont survécu à la réforme du code rural ?",
-      "participants": [
-        {
-          "role": "Renvoi dans l’arrêté",
-          "reference": "Arrêté du 24 novembre 2005, art. 12",
-          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000243330/2026-05-23",
-          "citation": "La partie du registre d’élevage relative aux mouvements des porcins, prévue à l’article D. 212-44 du code rural et de la pêche maritime […]"
-        },
-        {
-          "role": "Disposition visée",
-          "reference": "Code rural, art. D. 212-44 · statut",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006587836",
-          "citation": "Abrogé par Décret n°2025-988 du 22 octobre 2025 - art. 2"
-        },
-        {
-          "role": "Autre renvoi dans l’arrêté",
-          "reference": "Arrêté du 24 novembre 2005, art. 9-1",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036112717",
-          "citation": "Conformément à l’article D. 212-42 du code rural […]"
-        },
-        {
-          "role": "Autre renvoi dans l’arrêté",
-          "reference": "Arrêté du 24 novembre 2005, art. 10-1",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036112711",
-          "citation": "Conformément à l’article D. 212-43 du code rural […]"
-        }
-      ],
-      "renvois": [
-        {
-          "source": {
-            "reference": "Arrêté, art. 3",
-            "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036112743"
-          },
-          "cible": {
-            "reference": "Code rural, art. D. 212-36",
-            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006587832"
-          },
-          "fin_validite": "2025-10-24"
-        },
-        {
-          "source": {
-            "reference": "Arrêté, art. 6",
-            "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036112735"
-          },
-          "cible": {
-            "reference": "Code rural, art. D. 212-36",
-            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006587832"
-          },
-          "fin_validite": "2025-10-24"
-        },
-        {
-          "source": {
-            "reference": "Arrêté, art. 7",
-            "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036112729"
-          },
-          "cible": {
-            "reference": "Code rural, art. D. 212-36",
-            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006587832"
-          },
-          "fin_validite": "2025-10-24"
-        },
-        {
-          "source": {
-            "reference": "Arrêté, art. 9-1",
-            "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036112717"
-          },
-          "cible": {
-            "reference": "Code rural, art. D. 212-42",
-            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006587834"
-          },
-          "fin_validite": "2025-10-24"
-        },
-        {
-          "source": {
-            "reference": "Arrêté, art. 9-5",
-            "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020905100"
-          },
-          "cible": {
-            "reference": "Code rural, art. D. 212-42",
-            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006587834"
-          },
-          "fin_validite": "2025-10-24"
-        },
-        {
-          "source": {
-            "reference": "Arrêté, art. 10",
-            "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036112702"
-          },
-          "cible": {
-            "reference": "Code rural, art. D. 212-43",
-            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006587835"
-          },
-          "fin_validite": "2025-10-24"
-        },
-        {
-          "source": {
-            "reference": "Arrêté, art. 10-1",
-            "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036112711"
-          },
-          "cible": {
-            "reference": "Code rural, art. D. 212-43",
-            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006587835"
-          },
-          "fin_validite": "2025-10-24"
-        },
-        {
-          "source": {
-            "reference": "Arrêté, art. 12",
-            "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036112707"
-          },
-          "cible": {
-            "reference": "Code rural, art. D. 212-44",
-            "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006587836"
-          },
-          "fin_validite": "2025-10-24"
-        }
-      ]
-    },
-    "sources": [
-      {
-        "label": "Sous-section du code rural sur l’identification",
-        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006183206/2025-10-20"
-      },
-      {
-        "label": "État des articles D. 212-36 et D. 212-42 à D. 212-44",
-        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006193362/"
-      }
-    ]
-  },
-  {
-    "id": "cotisations-syndicales-recodification",
-    "type": "Articulation de régimes",
-    "domaine": "Fonction publique",
-    "titre": "Le renvoi imprimé est ancien, le décret de codification l’a remplacé",
-    "explication": [
-      "Un arrêté de 2008 prévoit des modalités particulières de collecte des cotisations syndicales au ministère de la défense. Son article 8 se réfère encore à l’article 10 d’un décret qui a été abrogé en 2025.",
-      "Le décret de codification prévoit expressément la substitution des références réglementaires par les dispositions correspondantes du nouveau code. La règle générale de collecte figure à l’article R. 213-61 du code général de la fonction publique. Le texte affiché dans l’arrêté conserve l’ancienne numérotation, mais une règle en vigueur indique comment lire le renvoi."
-    ],
-    "relation": {
-      "question": "Quel texte lire derrière le renvoi de l’arrêté ?",
-      "participants": [
-        {
-          "role": "Référence affichée",
-          "reference": "Arrêté du 12 juin 2008, art. 8",
-          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000019025810/",
-          "citation": "Par exception à l’article 10 du décret du 28 mai 1982 susvisé […]"
-        },
-        {
-          "role": "Substitution des références",
-          "reference": "Décret n° 2024-1038, art. 3",
-          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000050511027",
-          "citation": "Les références à des dispositions abrogées par le présent décret contenues dans des dispositions de nature réglementaire sont remplacées par des références aux dispositions correspondantes […]"
-        },
-        {
-          "role": "Règle générale en vigueur",
-          "reference": "CGFP, art. R. 213-61",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050548401",
-          "citation": "Les cotisations syndicales peuvent être collectées dans l’enceinte des bâtiments administratifs […]"
-        }
-      ]
-    },
-    "sources": [
-      {
-        "label": "Code général de la fonction publique, art. R. 213-61",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050548401"
-      }
-    ]
-  },
-  {
-    "id": "acompte-formation",
-    "type": "Renvoi obsolète",
-    "domaine": "Formation professionnelle",
-    "titre": "Un acompte de formation renvoie à un article abrogé",
-    "explication": [
-      "L’article R. 6341-41 permet de verser un acompte sur la rémunération du stagiaire avant que la décision soit notifiée, lorsque la rémunération est fixée par décret sur le fondement des articles L. 6341-7 et L. 6341-8.",
-      "L’article L. 6341-8 est abrogé depuis le 1er janvier 2021. L’article L. 6341-7 reste en vigueur et encadre le montant de la rémunération. Le décalage porte sur l’un des deux fondements cités par l’article réglementaire. Il ne suffit pas à déterminer l’effet du renvoi sur une demande individuelle d’acompte."
-    ],
-    "relation": {
-      "question": "Sur quelles dispositions le versement anticipé de l’acompte repose-t-il ?",
-      "participants": [
-        {
-          "role": "Règle de versement",
-          "reference": "Code du travail, art. R. 6341-41",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018522438/2026-07-07",
-          "citation": "Lorsque la rémunération des stagiaires est déterminée par décret en application des articles L. 6341-7 et L. 6341-8, le paiement de l’acompte peut être opéré […]"
-        },
-        {
-          "role": "Disposition visée",
-          "reference": "Code du travail, art. L. 6341-8 · statut",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904374/2026-07-29",
-          "citation": "ABROGÉ"
-        }
-      ]
-    },
-    "sources": [
-      {
-        "label": "Section sur le montant de la rémunération",
-        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189911/2026-05-11"
-      }
-    ]
-  },
-  {
-    "id": "ecole-privee-ancienne-reference",
-    "type": "Renvoi obsolète",
-    "domaine": "Éducation",
-    "titre": "L’annexe des décisions implicites cite encore l’ancien régime des écoles privées",
-    "explication": [
-      "L’annexe du décret sur les exceptions au silence valant acceptation indique que ses références correspondent aux dispositions applicables au 12 novembre 2014. Pour une autorisation d’ouvrir ou de diriger un établissement secondaire privé en dérogeant à la condition de nationalité, elle cite l’ancien article L. 441-8.",
-      "La réforme de 2018 a abrogé cet article. La dérogation à la condition de nationalité relève aujourd’hui de l’article L. 914-4, qui renvoie au 2° du I de l’article L. 914-3. Le décalage concerne la référence dans l’annexe. Pour le régime réformé, la circulaire ministérielle de 2018 indique qu’une acceptation implicite peut naître après deux mois sans décision expresse sur la demande de dérogation. Le délai d’opposition à l’ouverture de l’établissement est distinct."
-    ],
-    "relation": {
-      "question": "Quel article régit aujourd’hui la dérogation à la condition de nationalité ?",
-      "participants": [
-        {
-          "role": "Ancienne référence dans l’annexe",
-          "reference": "Décret n° 2014-1274, annexe",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030743741",
-          "citation": "[…] d’ouvrir ou de diriger un établissement d’enseignement du second degré privé — L. 441-8"
-        },
-        {
-          "role": "Abrogation",
-          "reference": "Loi n° 2018-266",
-          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000036798673/2026-02-13",
-          "citation": "Abroge […] L441-8 (Ab)"
-        },
-        {
-          "role": "Dérogation en vigueur",
-          "reference": "Code de l’éducation, art. L. 914-4",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036802174",
-          "citation": "[…] l’autorité de l’État compétente en matière d’éducation peut accorder des dérogations aux conditions fixées aux 2° à 4° du I de l’article L. 914-3 […]"
-        },
-        {
-          "role": "Instruction ministérielle sur le régime réformé",
-          "reference": "Circulaire du 21 août 2018, § 2.2.2",
-          "url": "https://www.education.gouv.fr/bo/18/Hebdo31/MENF1815492C.htm",
-          "citation": "[…] le délai de deux mois au terme duquel, à défaut de décision expresse, naîtra une décision implicite d’acceptation […]"
-        }
-      ]
-    },
-    "sources": [
-      {
-        "label": "Décret n° 2014-1274 consolidé",
-        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000029675463"
-      },
-      {
-        "label": "Condition de nationalité, art. L. 914-3",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036802185"
-      },
-      {
-        "label": "Ouverture de l’établissement, art. L. 441-1",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043983848/2026-09-14"
-      }
-    ]
-  },
-  {
-    "id": "concours-ouvriers",
-    "type": "Renvoi obsolète",
-    "domaine": "Fonction publique",
-    "titre": "Un décret de concours renvoie encore à une liste d’admission abrogée",
-    "explication": [
-      "L’article 13 du décret du 2 novembre 1965 fixe un plafond pour le nombre de personnes inscrites sur une liste d’admission. Il identifie cette liste par un renvoi à l’article 6 du décret statutaire du 23 septembre 1975.",
-      "L’article 6 a été abrogé le 5 mai 2002. Le renvoi figure encore dans la version consolidée de l’article 13. Le relevé établit le décalage entre les textes. L’existence de concours encore organisés selon ce régime reste à vérifier."
-    ],
-    "sources": [
-      {
-        "label": "Décret de 1965 consolidé",
-        "url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000006091659"
-      },
-      {
-        "label": "Décret de 1975 abrogé",
-        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000500784"
-      }
-    ],
-    "relation": {
-      "question": "Quelle liste d’admission sert à calculer le plafond ?",
-      "participants": [
-        {
-          "reference": "Décret n° 65-923, article 13",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023098768",
-          "citation": "Le nombre des candidats inscrits sur la liste d’admission prévue au cinquième alinéa de l’article 6 du décret du 23 septembre 1975 […]",
-          "role": "Règle qui renvoie"
-        },
-        {
-          "reference": "Décret n° 75-887, article 6 · statut sur Légifrance",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006509565/2025-04-19",
-          "citation": "Abrogé par Décret n°2002-764 du 3 mai 2002",
-          "role": "Disposition visée"
-        }
-      ]
-    }
-  },
-  {
-    "id": "renvoi-saint-pierre",
-    "type": "Renvoi obsolète",
-    "domaine": "Collectivités territoriales",
-    "titre": "À Saint-Pierre-et-Miquelon, un article en vigueur renvoie à un article abrogé",
-    "explication": [
-      "Le III de l’article L. 1424-49 du code général des collectivités territoriales régit le service d’incendie et de secours de Saint-Pierre-et-Miquelon. Pour son règlement opérationnel, il vise notamment l’article L. 1424-8-2 du même code. Cet article a été abrogé le 1er mai 2012 lors de la création du code de la sécurité intérieure.",
-      "L’article L. 724-2 du code de la sécurité intérieure contient aujourd’hui la règle générale sur la création et le financement d’une réserve communale de sécurité civile. En 2024, un rapport du Sénat a proposé de supprimer la référence devenue obsolète. Le défaut relevé ici est dans le texte en vigueur qui conserve cette référence. Son effet pratique sur un règlement particulier n’a pas été établi dans cette fiche."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044374354",
-        "label": "Article L. 1424-49 en vigueur"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006389338",
-        "label": "Article visé et date d’abrogation"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044375221",
-        "label": "Code de la sécurité intérieure, article L. 724-2"
-      },
-      {
-        "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
-        "label": "Rapport du Sénat, article 17"
-      }
-    ],
-    "relation": {
-      "question": "Quel texte régit le règlement opérationnel des secours ?",
-      "participants": [
-        {
-          "role": "Règle qui renvoie",
-          "reference": "CGCT, art. L. 1424-49, III",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044374354",
-          "citation": "[…] et celles de l’article L. 1424-8-2."
-        },
-        {
-          "role": "Disposition visée",
-          "reference": "CGCT, art. L. 1424-8-2 · statut",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006389338",
-          "citation": "Abrogé par Ordonnance n°2012-351 du 12 mars 2012"
-        },
-        {
-          "role": "Règle actuelle sur les réserves",
-          "reference": "Code de la sécurité intérieure, art. L. 724-2",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044375221",
-          "citation": "La commune, sur délibération du conseil municipal, peut instituer une réserve communale de sécurité civile."
-        }
-      ]
-    }
-  },
-  {
-    "id": "renvoi-parental",
-    "type": "Renvoi obsolète",
-    "domaine": "Protection de l’enfance",
-    "titre": "Le code prévoit encore une transmission judiciaire pour une compétence supprimée",
-    "explication": [
-      "Le second alinéa de l’article L. 3221-9 du code général des collectivités territoriales prévoit que le procureur informe le président du conseil départemental de certaines décisions concernant des mineurs. Il rattache cette transmission à une compétence précise, définie à l’article L. 222-4-1 du code de l’action sociale et des familles.",
-      "Cet article, qui portait sur le contrat de responsabilité parentale, a été abrogé en 2013. Le rapport du Sénat propose de supprimer tout le second alinéa. Le renvoi subsiste dans la version consolidée consultée. Ce constat ne détermine pas le régime des transmissions fondées sur d’autres dispositions."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027573875/2026-10-08",
-        "label": "Article L. 3221-9"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025165348",
-        "label": "Article L. 222-4-1 et date d’abrogation"
-      },
-      {
-        "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
-        "label": "Rapport du Sénat, article 17"
-      }
-    ],
-    "relation": {
-      "question": "À quelle compétence la transmission du procureur sert-elle ?",
-      "participants": [
-        {
-          "role": "Règle qui renvoie",
-          "reference": "CGCT, art. L. 3221-9",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027573875/2026-10-08",
-          "citation": "En vue d’exercer la compétence définie par l’article L. 222-4-1 du même code […]"
-        },
-        {
-          "role": "Disposition visée",
-          "reference": "CASF, art. L. 222-4-1 · statut",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025165348",
-          "citation": "Abrogé par LOI n°2013-108 du 31 janvier 2013"
-        }
-      ]
-    }
-  },
-  {
-    "id": "renvoi-mobilite-rurale",
-    "type": "Renvoi obsolète",
-    "domaine": "Transports",
-    "titre": "L’Île-de-France est encore exclue d’une disposition abrogée",
-    "explication": [
-      "L’article L. 1213-4-1 du code des transports écarte deux articles pour l’Île-de-France. L’un des deux, l’article L. 1213-3-2, concernait les plans de mobilité rurale et a été abrogé par la loi d’orientation des mobilités de 2019.",
-      "La mention de l’ancien article demeure dans le texte de l’exception territoriale. Le Sénat a proposé de la retirer. La fiche porte uniquement sur ce renvoi, parmi les deux références de l’article."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028528845",
-        "label": "Article L. 1213-4-1"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033973882",
-        "label": "Article L. 1213-3-2 et date d’abrogation"
-      },
-      {
-        "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
-        "label": "Rapport du Sénat, article 18"
-      }
-    ],
-    "relation": {
-      "question": "Quelle disposition l’exception francilienne écarte-t-elle ?",
-      "participants": [
-        {
-          "role": "Règle qui renvoie",
-          "reference": "Code des transports, art. L. 1213-4-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028528845",
-          "citation": "Les articles L. 1213-3-1 et L. 1213-3-2 ne sont pas applicables à la région d’Ile-de-France."
-        },
-        {
-          "role": "Disposition visée",
-          "reference": "Code des transports, art. L. 1213-3-2 · statut",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033973882",
-          "citation": "Abrogé par LOI n°2019-1428 du 24 décembre 2019"
-        }
-      ]
-    }
-  },
-  {
-    "id": "renvoi-ferroviaire-outre-mer",
-    "type": "Renvoi obsolète",
-    "domaine": "Transports ultramarins",
-    "titre": "Trois articles écartent encore une compétence ferroviaire abrogée",
-    "explication": [
-      "Les articles L. 2311-1, L. 2331-1 et L. 2341-1 du code des transports écartent l’application de l’article L. 2112-1, respectivement dans les départements d’outre-mer, à Saint-Barthélemy et à Saint-Martin. L’article visé attribuait aux départements une compétence sur les infrastructures de transport non urbain de personnes, ferrées ou guidées, d’intérêt local.",
-      "La loi du 7 août 2015 a abrogé l’article L. 2112-1 avec effet au 1er février 2017. Les trois textes conservent ce même renvoi. Cette fiche regroupe les trois occurrences et laisse de côté les autres références que ces articles contiennent."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000023084097",
-        "label": "Dispositions du code des transports relatives à l’outre-mer"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023084664",
-        "label": "Article L. 2112-1 et date d’abrogation"
-      },
-      {
-        "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
-        "label": "Rapport du Sénat, article 18"
-      }
-    ],
-    "relation": {
-      "question": "Quelle compétence les dispositions d’outre-mer excluent-elles encore ?",
-      "participants": [
-        {
-          "role": "Renvoi en vigueur",
-          "reference": "Code des transports, art. L. 2311-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023084089",
-          "citation": "Les dispositions des articles L. 2112-1 et L. 2121-10 ne sont pas applicables aux départements d’outre-mer."
-        },
-        {
-          "role": "Disposition visée",
-          "reference": "Code des transports, art. L. 2112-1 · statut",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023084664",
-          "citation": "Abrogé par LOI n° 2015-991 du 7 août 2015"
-        }
-      ]
-    }
-  },
-  {
-    "id": "renvoi-partenariat",
-    "type": "Renvoi obsolète",
-    "domaine": "Commande publique",
-    "titre": "Le code identifie certains acheteurs par une loi abrogée",
-    "explication": [
-      "L’article L. 2211-1 du code de la commande publique exclut certains organismes publics des marchés de partenariat. Pour identifier les organismes concernés parmi les administrations publiques centrales, il renvoie à la liste établie par un arrêté prévu par l’article 12 de la loi de programmation des finances publiques de 2010.",
-      "La loi de programmation de 2023 a abrogé cet article 12 et repris la disposition de référence à son article 23. Le code conserve l’ancienne référence. Le Sénat a proposé de l’actualiser. La fiche établit le décalage de rédaction, sans conclure à une modification de la liste des acheteurs autorisés."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037703923",
-        "label": "Code de la commande publique, article L. 2211-1"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000048581885/",
-        "label": "Loi de programmation de 2023, articles 23 et 26"
-      },
-      {
-        "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
-        "label": "Rapport du Sénat, article 18"
-      }
-    ],
-    "relation": {
-      "question": "Quelle loi identifie les organismes exclus des marchés de partenariat ?",
-      "participants": [
-        {
-          "role": "Renvoi dans le code",
-          "reference": "Code de la commande publique, art. L. 2211-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037703923",
-          "citation": "[…] dont la liste est établie par l’arrêté mentionné au I de l’article 12 de la loi du 28 décembre 2010 […]"
-        },
-        {
-          "role": "Abrogation de la référence",
-          "reference": "Loi n° 2023-1195, art. 26",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000048582661",
-          "citation": "A abrogé les dispositions suivantes : […] Art. 12 […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "renvoi-archives",
-    "type": "Renvoi obsolète",
-    "domaine": "Archives et patrimoine",
-    "titre": "Deux articles sur les archives orientent encore vers l’ancien régime de préemption",
-    "explication": [
-      "Le code général des collectivités territoriales cite l’ancien article L. 212-33 du code du patrimoine parmi les règles générales des archives territoriales (L. 1421-1). Pour la préemption des archives privées, il renvoie encore aux anciens articles L. 212-34 à L. 212-36 (L. 1421-3).",
-      "Ces dispositions du code du patrimoine ont été abrogées au 1er janvier 2018. Le droit actuel figure notamment aux articles L. 123-1 à L. 123-3. Ce dernier permet à l’État d’exercer la préemption à la demande et pour le compte d’une collectivité ou d’un groupement de collectivités, entre autres bénéficiaires."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006181317/2026-02-22",
-        "label": "Code général des collectivités territoriales, articles L. 1421-1 et L. 1421-3"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074236/LEGISCTA000006189171?isAbrogated=true",
-        "label": "Dispositions abrogées"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035110299/2026-08-18",
-        "label": "Code du patrimoine, article L. 123-3"
-      }
-    ],
-    "relation": {
-      "question": "Où trouver les règles actuelles de préemption des archives privées ?",
-      "participants": [
-        {
-          "role": "Renvoi conservé",
-          "reference": "CGCT, art. L. 1421-3",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006389283/2026-10-06",
-          "citation": "[…] sont fixées par les dispositions des articles L. 212-34 à L. 212-36 du code du patrimoine."
-        },
-        {
-          "role": "Dispositions abrogées",
-          "reference": "Code du patrimoine, ancienne sous-section sur la préemption",
-          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074236/LEGISCTA000006189171?isAbrogated=true",
-          "citation": "Abrogé par Ordonnance n°2017-1134 du 5 juillet 2017"
-        },
-        {
-          "role": "Règle applicable",
-          "reference": "Code du patrimoine, art. L. 123-3",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035110299/2026-08-18",
-          "citation": "L’État peut également exercer le droit de préemption […] à la demande et pour le compte d’une collectivité territoriale […]"
-        }
-      ]
-    }
-  },
-  {
     "id": "alineas-polynesie",
     "type": "Renvoi incohérent",
     "domaine": "Polynésie française",
@@ -822,854 +44,12 @@
           "role": "Suppression"
         }
       ]
-    }
-  },
-  {
-    "id": "secours-presente-loi",
-    "type": "Renvoi incohérent",
-    "domaine": "Services d’incendie et de secours",
-    "titre": "Un article de code renvoie à « la présente loi »",
-    "explication": [
-      "L’article L. 1424-50 du code général des collectivités territoriales prévoit un décret en Conseil d’État pour fixer les modalités d’application de « la présente loi ». Dans le code consolidé, la formule ne désigne plus explicitement le périmètre du texte visé.",
-      "Le Sénat rattache cette formule à la loi du 3 mai 1996 relative aux services d’incendie et de secours, dont les dispositions ont été codifiées. Il a proposé de viser la section du code, qui contient les dispositions diverses et transitoires. La formule d’origine demeure dans la version consultée."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006389424/2026-10-29",
-        "label": "Code général des collectivités territoriales, article L. 1424-50"
-      },
-      {
-        "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
-        "label": "Rapport du Sénat, article 17"
-      }
-    ],
-    "relation": {
-      "question": "Quel texte « la présente loi » désigne-t-elle dans cet article du code ?",
-      "participants": [
-        {
-          "role": "Formule actuelle",
-          "reference": "CGCT, art. L. 1424-50",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006389424/2026-10-29",
-          "citation": "Un décret en Conseil d’État fixe les modalités d’application de la présente loi."
-        },
-        {
-          "role": "Correction proposée",
-          "reference": "Rapport du Sénat, art. 17",
-          "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
-          "citation": "[…] par une référence à la présente « section » […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "renvoi-budget-communal",
-    "type": "Renvoi imprécis",
-    "domaine": "Finances communales",
-    "titre": "Une annexe budgétaire renvoie à une subdivision incomplète",
-    "explication": [
-      "Le 8° de l’article L. 2313-1 du code général des collectivités territoriales vise le tableau des acquisitions et cessions immobilières mentionné au c de l’article L. 300-5 du code de l’urbanisme. Le tableau se trouve plus précisément au c du 3° du II de cet article, dans les annexes du compte rendu financier d’une concession d’aménagement.",
-      "Le Sénat a proposé de compléter le renvoi. Le nom du tableau permet de le retrouver dans le texte visé. Ce défaut de précision ne suffit donc pas à établir une incertitude sur le contenu de l’annexe."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006164574/",
-        "label": "Code général des collectivités territoriales, article L. 2313-1"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037739334",
-        "label": "Code de l’urbanisme, article L. 300-5"
-      },
-      {
-        "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
-        "label": "Rapport du Sénat, article 17"
-      }
-    ],
-    "relation": {
-      "question": "À quel endroit le tableau est-il défini ?",
-      "participants": [
-        {
-          "role": "Renvoi incomplet",
-          "reference": "CGCT, art. L. 2313-1, 8°",
-          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006164574/",
-          "citation": "[…] tableau des acquisitions et cessions immobilières mentionné au c de l’article L. 300-5 du code de l’urbanisme […]"
-        },
-        {
-          "role": "Subdivision exacte",
-          "reference": "Code de l’urbanisme, art. L. 300-5, II, 3°, c",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037739334",
-          "citation": "Un tableau des acquisitions et cessions immobilières réalisées pendant la durée de l’exercice."
-        }
-      ]
-    }
-  },
-  {
-    "id": "justice-mineurs",
-    "type": "Inconstitutionnalité constatée",
-    "domaine": "Justice des mineurs",
-    "titre": "Un délai d’appel censuré reste inscrit dans le code",
-    "explication": [
-      "Pour les appels en cour d’assises des mineurs, l’article L. 531-2 renvoie au code de procédure pénale. Ce renvoi permettait d’appliquer aux mineurs certains délais de comparution en appel prévus pour les adultes détenus.",
-      "Le Conseil constitutionnel a censuré ce renvoi pour les délais et le renouvellement qu’il désigne. L’abrogation prend effet le 31 octobre 2027 selon la décision. Une suppression immédiate aurait fait disparaître le délai maximal. Le Conseil précise que les mesures prises avant cette date ne peuvent être contestées sur le fondement de cette inconstitutionnalité."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039088473/2026-11-20",
-        "label": "Article L. 531-2"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000053910508",
-        "label": "QPC 2026-1194, § 15 à 22"
-      }
-    ],
-    "relation": {
-      "question": "Quelle règle fixe le délai de comparution en appel ?",
-      "participants": [
-        {
-          "role": "Renvoi général",
-          "reference": "CJPM, art. L. 531-2",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039088473",
-          "citation": "Il est fait application des dispositions du code de procédure pénale pour les appels portés contre les arrêts de la cour d’assises des mineurs […]"
-        },
-        {
-          "role": "Effet de la censure",
-          "reference": "Conseil constitutionnel, QPC 2026-1194, § 21",
-          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000053910508",
-          "citation": "[…] il y a lieu de reporter au 31 octobre 2027 la date de l’abrogation de ces dispositions."
-        }
-      ]
     },
     "entree": {
-      "titre": "Un mineur peut-il attendre son appel en prison aussi longtemps qu’un adulte ?",
-      "texte": "Le code des mineurs emprunte les délais prévus pour les adultes détenus. Le Conseil constitutionnel a jugé que ces délais étaient trop longs pour les mineurs. Il laisse pourtant le texte en place jusqu’au 31 octobre 2027, car le supprimer immédiatement ferait disparaître le délai maximal.",
-      "ordre": 4,
-      "raison": "La règle est contraire à la Constitution puisque des délais prévus pour les adultes ont été repris sans tenir suffisamment compte de la situation des mineurs. Le Conseil a différé leur suppression pour éviter de laisser les mineurs sans délai maximal."
-    }
-  },
-  {
-    "id": "garde-a-vue-majeur-protege",
-    "type": "Inconstitutionnalité constatée",
-    "domaine": "Droits de la défense",
-    "titre": "La protection d’un majeur peut n’apparaître qu’en cours de garde à vue",
-    "explication": [
-      "Le premier alinéa de l’article 706-112-1 du code de procédure pénale prévoit d’aviser la personne chargée de la protection juridique lorsque la mesure de protection apparaît au cours de la garde à vue. Le Conseil constitutionnel a censuré l’absence de garantie suffisante en cas de prolongation ou d’audition sur des faits nouveaux.",
-      "L’abrogation est reportée au 31 octobre 2027. Entre-temps, si la mesure de protection ressort des éléments recueillis, l’officier ou l’agent de police judiciaire doit aviser le tuteur, le curateur ou le mandataire spécial en cas de prolongation ou d’audition sur des faits autres que ceux ayant motivé le placement."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042779759/",
-        "label": "Code de procédure pénale, article 706-112-1"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/juri/id/CONSTEXT000053915387",
-        "label": "QPC 2026-1191"
-      }
-    ],
-    "relation": {
-      "question": "Quand faut-il avertir le tuteur, le curateur ou le mandataire ?",
-      "participants": [
-        {
-          "role": "Déclenchement de l’avis",
-          "reference": "Code de procédure pénale, art. 706-112-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042779759/",
-          "citation": "Lorsque les éléments recueillis au cours de la garde à vue […] font apparaître que cette personne fait l’objet d’une mesure de protection juridique […]"
-        },
-        {
-          "role": "Cas couverts par la règle transitoire",
-          "reference": "Conseil constitutionnel, QPC 2026-1191",
-          "url": "https://www.legifrance.gouv.fr/juri/id/CONSTEXT000053915387",
-          "citation": "[…] en cas de prolongation de la garde à vue ou d’audition du majeur protégé sur des faits autres que ceux ayant justifié son placement […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "avocats-cfe",
-    "type": "Inconstitutionnalité constatée",
-    "domaine": "Fiscalité",
-    "titre": "L’exonération fiscale des jeunes avocats dépend de leur voie d’accès",
-    "explication": [
-      "Le 8° de l’article 1460 du code général des impôts réserve deux ans d’exonération de cotisation foncière des entreprises aux avocats issus d’une certaine formation. L’objectif était d’aider ceux qui débutent sans expérience suffisante. Le Conseil constitutionnel a jugé contraire à l’égalité l’exclusion des avocats formés à l’étranger et admis par dérogation alors qu’ils n’ont pas d’expérience professionnelle juridique antérieure.",
-      "L’abrogation de la condition est reportée au 31 octobre 2027. Les juridictions doivent suspendre les procédures dont l’issue dépend de cette condition jusqu’à l’entrée en vigueur de la nouvelle loi ou, au plus tard, jusqu’à cette date."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051217560",
-        "label": "Code général des impôts, article 1460"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054595452",
-        "label": "QPC 2026-1216, § 7 à 15"
-      }
-    ],
-    "relation": {
-      "question": "Que doit faire le juge quand le litige dépend de la condition censurée ?",
-      "participants": [
-        {
-          "role": "Condition fiscale",
-          "reference": "CGI, art. 1460, 8°",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051217560",
-          "citation": "Les avocats ayant suivi la formation prévue au chapitre II du titre Ier de la loi n° 71-1130 du 31 décembre 1971 […]"
-        },
-        {
-          "role": "Instruction transitoire",
-          "reference": "Conseil constitutionnel, QPC 2026-1216, § 15",
-          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054595452",
-          "citation": "[…] il appartient aux juridictions saisies de surseoir à statuer jusqu’à l’entrée en vigueur de la nouvelle loi ou, au plus tard, jusqu’au 31 octobre 2027 […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "energie-silence",
-    "type": "Inconstitutionnalité constatée",
-    "domaine": "Régulation de l’énergie",
-    "titre": "Le droit de répondre implique le droit d’être averti qu’on peut se taire",
-    "explication": [
-      "Le comité de règlement des différends et des sanctions de la Commission de régulation de l’énergie peut recueillir les observations de la personne mise en cause. Le code prévoit qu’elle puisse présenter sa défense, mais les dispositions censurées omettaient la notification de son droit de se taire.",
-      "Le Conseil constitutionnel reporte leur abrogation au 31 octobre 2027 pour préserver la possibilité de présenter des observations et d’être entendu. Dès la publication de la décision, il impose au comité d’informer la personne de son droit de se taire, jusqu’à l’entrée en vigueur d’une nouvelle loi ou jusqu’à l’abrogation."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000023985804",
-        "label": "Code de l’énergie, articles L. 134-25-1 et L. 134-31"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054633605",
-        "label": "QPC 2026-1219, § 29 à 31"
-      }
-    ],
-    "relation": {
-      "question": "Quelle garantie accompagner la présentation d’observations ?",
-      "participants": [
-        {
-          "role": "Disposition du code",
-          "reference": "Code de l’énergie, art. L. 134-31",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042144977",
-          "citation": "[…] de présenter ses observations écrites et, lors de la séance publique, orales."
-        },
-        {
-          "role": "Garantie applicable immédiatement",
-          "reference": "Conseil constitutionnel, QPC 2026-1219, § 30",
-          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054633605",
-          "citation": "[…] la personne mise en cause […] doit être informée de son droit de se taire."
-        }
-      ]
-    }
-  },
-  {
-    "id": "prospection-double-sanction",
-    "type": "Inconstitutionnalité constatée",
-    "domaine": "Prospection automatisée",
-    "titre": "Un plafond commun n’empêche pas deux autorités de poursuivre les mêmes faits",
-    "explication": [
-      "L’article L. 34-5 du code des postes et des communications électroniques permettait à plusieurs autorités de sanctionner des manquements aux règles sur la prospection directe automatisée. Le Conseil constitutionnel a censuré la possibilité de réprimer les mêmes faits, qualifiés de la même façon, par des sanctions de même nature visant les mêmes intérêts sociaux.",
-      "L’abrogation est reportée au 31 octobre 2027. Dès la publication de la décision, une autre autorité ne peut engager ou continuer des poursuites pour les mêmes faits contre la même personne si de premières poursuites sont déjà engagées ou ont abouti à une sanction définitive. Les décisions prises avant la publication ne peuvent être contestées sur le fondement de cette inconstitutionnalité."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042155961/2026-11-01",
-        "label": "Article L. 34-5"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054311753",
-        "label": "QPC 2026-1210"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000054993122",
-        "label": "Conseil d’État, n° 501268"
-      }
-    ],
-    "relation": {
-      "question": "Le plafonnement des sanctions suffit-il à empêcher les doubles poursuites ?",
-      "participants": [
-        {
-          "role": "Plafond cumulé",
-          "reference": "CPCE, art. L. 34-5",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042155961/2026-11-01",
-          "citation": "[…] le montant global des sanctions prononcées contre la même personne à raison des mêmes faits n’excède pas le maximum légal le plus élevé."
-        },
-        {
-          "role": "Règle transitoire",
-          "reference": "Conseil constitutionnel, QPC 2026-1210, § 20",
-          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054311753",
-          "citation": "[…] des poursuites ne pourront être engagées ou continuées […] dès lors que des premières poursuites auront déjà été engagées pour les mêmes faits […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "concentrations-medias",
-    "type": "Lacune d’application",
-    "domaine": "Médias et droit européen",
-    "titre": "Le règlement européen exige un contrôle que le juge ne peut confier à l’Arcom",
-    "explication": [
-      "L’article 22 du règlement européen sur la liberté des médias, applicable depuis le 8 août 2025, demande aux États de prévoir une évaluation des concentrations susceptibles de peser sur le pluralisme ou l’indépendance éditoriale. Cette évaluation est distincte du contrôle de la concurrence.",
-      "Saisi au sujet de la cession de Challenges, le Conseil d’État a jugé le 27 juillet 2026 que la législation française ne prévoyait pas le dispositif requis. Il a rejeté le recours. L’Arcom ne pouvait procéder à cette évaluation sur ce fondement et le gouvernement ne pouvait créer le régime par décret, car il relevait du législateur. Une proposition d’adaptation a été déposée le 27 octobre 2026. Les sources consultées jusqu’au 20 novembre ne font pas apparaître de loi promulguée qui comble cette lacune."
-    ],
-    "sources": [
-      {
-        "url": "https://eur-lex.europa.eu/eli/reg/2024/1083/oj?locale=fr",
-        "label": "Règlement (UE) 2024/1083, articles 22 et 29"
-      },
-      {
-        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-07-27/512798",
-        "label": "Conseil d’État, n° 512798, points 2 à 8"
-      },
-      {
-        "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L17B3415.raw",
-        "label": "Proposition de loi n° 3415"
-      }
-    ],
-    "relation": {
-      "question": "Qui peut définir les règles pour évaluer l’effet d’une concentration sur le pluralisme ?",
-      "participants": [
-        {
-          "role": "Obligation européenne",
-          "reference": "Règlement (UE) 2024/1083, art. 22",
-          "url": "https://eur-lex.europa.eu/eli/reg/2024/1083/oj?locale=fr",
-          "citation": "Les États membres établissent, dans leur droit national, des règles de fond et de procédure permettant d’évaluer les concentrations sur le marché des médias […]"
-        },
-        {
-          "role": "Compétence du Parlement",
-          "reference": "Conseil d’État, n° 512798, point 5",
-          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-07-27/512798",
-          "citation": "[…] la définition des règles nécessaires à la mise en œuvre de l’article 22 […] relève du législateur […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "plateforme-covid-long",
-    "type": "Lacune d’application",
-    "domaine": "Santé publique",
-    "titre": "La loi prévoit une plateforme pour le Covid long. Le décret tarde.",
-    "explication": [
-      "La loi n° 2022-53 du 24 janvier 2022 prévoit une plateforme de référencement et de prise en charge des malades chroniques de la Covid-19. Elle renvoie à un décret pour préciser ses modalités, après avis de la CNIL.",
-      "Le 1er juillet 2025, le Conseil d’État a annulé le refus de prendre ce décret et a enjoint au Premier ministre de l’édicter dans un délai de douze mois à compter de la notification de la décision. En octobre 2026, une question au Sénat signalait encore l’absence de publication. Au 20 novembre, les sources consultées ne font pas apparaître le décret. L’espace d’information et les dispositifs de coordination évoqués par le gouvernement sont des mesures distinctes de la plateforme prévue par la loi."
-    ],
-    "sources": [
-      {
-        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-07-01/498369",
-        "label": "Conseil d’État, n° 498369"
-      },
-      {
-        "url": "https://www.senat.fr/questions/base/2026/qSEQ261010254.html",
-        "label": "Question au Sénat, octobre 2026"
-      }
-    ],
-    "relation": {
-      "question": "Quelles mesures manquent pour mettre en place la plateforme ?",
-      "participants": [
-        {
-          "role": "Décret prévu",
-          "reference": "Loi n° 2022-53, art. 1, cité par le Conseil d’État",
-          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-07-01/498369",
-          "citation": "Un décret en Conseil d’État, pris après avis de la Commission nationale de l’informatique et des libertés, précise les modalités d’application de la plateforme."
-        },
-        {
-          "role": "Injonction",
-          "reference": "Conseil d’État, n° 498369, dispositif, art. 3",
-          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-07-01/498369",
-          "citation": "[…] dans un délai de douze mois à compter de la notification de la présente décision."
-        }
-      ]
-    }
-  },
-  {
-    "id": "voix",
-    "type": "Conflit de droits",
-    "domaine": "Vie privée et création",
-    "titre": "Une voix publique peut rester protégée dans une chanson",
-    "explication": [
-      "Un artiste reprend, sans autorisation, un extrait d’une interview dans une chanson. Dans son arrêt du 24 juin 2026, la Cour de cassation rattache le droit à la voix au respect de la vie privée et demande au juge de le mettre en balance avec la liberté d’expression artistique.",
-      "Le fait que l’entretien ait été public entre dans l’examen du contexte. La Cour casse partiellement l’arrêt d’appel. L’issue dépend de la mise en balance opérée dans l’affaire."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419288/2026-11-20",
-        "label": "Code civil, article 9"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000054339869",
-        "label": "Cour de cassation, 25-20.483"
-      }
-    ],
-    "relation": {
-      "question": "Comment le juge arbitre-t-il entre le droit à la voix et la création artistique ?",
-      "participants": [
-        {
-          "role": "Vie privée",
-          "reference": "Code civil, art. 9",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419288",
-          "citation": "Chacun a droit au respect de sa vie privée."
-        },
-        {
-          "role": "Mise en balance",
-          "reference": "Cour de cassation, 25-20.483, § 19",
-          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000054339869",
-          "citation": "[…] il revient au juge de mettre ces droits en balance et de faire prévaloir celui qui s’avère le plus légitime dans les circonstances de l’espèce."
-        }
-      ]
-    }
-  },
-  {
-    "id": "preuve",
-    "type": "Conflit de droits",
-    "domaine": "Procès civil",
-    "titre": "Un enregistrement déloyal peut être admis comme preuve",
-    "explication": [
-      "Dans un litige du travail, l’employeur avait produit des enregistrements effectués à l’insu du salarié. En matière civile, la Cour de cassation demande, lorsqu’elle est saisie de la question, d’apprécier l’équité de la procédure dans son ensemble et de mettre en balance le droit à la preuve avec les droits concurrents.",
-      "La production de la preuve peut être justifiée si elle est indispensable à l’exercice de ce droit et si l’atteinte est strictement proportionnée au but poursuivi."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000048769030/",
-        "label": "Assemblée plénière, 20-20.648"
-      }
-    ],
-    "relation": {
-      "question": "Dans quelles conditions le juge civil peut-il admettre une preuve déloyale ?",
-      "participants": [
-        {
-          "role": "Obligation de preuve",
-          "reference": "Code de procédure civile, art. 9",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410102/2026-09-15",
-          "citation": "Il incombe à chaque partie de prouver conformément à la loi les faits nécessaires au succès de sa prétention."
-        },
-        {
-          "role": "Conditions d’admission",
-          "reference": "Cour de cassation, ass. plén., n° 20-20.648",
-          "url": "https://www.courdecassation.fr/decision/65855660673fa80008f8d98d",
-          "citation": "[…] à condition que cette production soit indispensable à son exercice et que l’atteinte soit strictement proportionnée au but poursuivi."
-        }
-      ]
-    }
-  },
-  {
-    "id": "gpa-filiation",
-    "type": "Articulation de régimes",
-    "domaine": "Filiation",
-    "titre": "Une convention de GPA est nulle en France. La filiation établie à l’étranger peut être reconnue.",
-    "explication": [
-      "L’article 16-7 du code civil frappe de nullité la convention de gestation pour autrui. Lorsqu’un enfant est né à l’étranger, le juge français peut être saisi d’une autre question, celle de la reconnaissance du jugement étranger qui établit sa filiation.",
-      "La Cour de cassation juge que, compte tenu de l’intérêt de l’enfant et de son droit au respect de la vie privée, la GPA et l’absence de lien biologique avec le parent d’intention ne suffisent pas à écarter ce jugement. Le juge contrôle notamment l’absence de fraude et le consentement des personnes concernées."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419302",
-        "label": "Code civil, article 16-7"
-      },
-      {
-        "url": "https://www.courdecassation.fr/publications/bulletin-des-arrets-des-chambres-civiles/numero-11-novembre-2024/conflit-de-juridictions",
-        "label": "Cour de cassation, 23-50.016"
-      }
-    ],
-    "relation": {
-      "question": "La nullité de la convention empêche-t-elle la reconnaissance de la filiation ?",
-      "participants": [
-        {
-          "role": "Nullité de la convention",
-          "reference": "Code civil, art. 16-7",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419302",
-          "citation": "Toute convention portant sur la procréation ou la gestation pour le compte d’autrui est nulle."
-        },
-        {
-          "role": "Contrôle du jugement étranger",
-          "reference": "Cour de cassation, communiqué sur le pourvoi n° 23-50.016",
-          "url": "https://www.courdecassation.fr/toutes-les-actualites/2024/11/14/communique-gpa-faite-letranger-sans-lien-biologique-avec-lenfant",
-          "citation": "[…] la filiation établie légalement dans cet autre pays peut être reconnue par la France […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "discernement",
-    "type": "Articulation de régimes",
-    "domaine": "Responsabilités pénale et civile",
-    "titre": "L’abolition du discernement peut écarter la peine. La réparation reste due.",
-    "explication": [
-      "En principe, un trouble psychique ou neuropsychique qui abolit le discernement ou le contrôle des actes au moment des faits écarte la responsabilité pénale. En droit civil, la personne qui cause un dommage sous l’empire d’un trouble mental reste tenue de le réparer.",
-      "Les deux règles répondent à des questions différentes pour les mêmes faits. Le code pénal prévoit en outre une exception ciblée pour l’abolition temporaire liée à une consommation volontaire de substances psychoactives dans un temps très voisin de l’action et dans le dessein de commettre ou de faciliter l’infraction, ou une infraction de même nature."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029370748",
-        "label": "Code pénal, article 122-1"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045068712",
-        "label": "Code pénal, article 122-1-1"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427995",
-        "label": "Code civil, article 414-3"
-      }
-    ],
-    "relation": {
-      "question": "L’abolition du discernement efface-t-elle toutes les conséquences juridiques ?",
-      "participants": [
-        {
-          "role": "Responsabilité pénale",
-          "reference": "Code pénal, art. 122-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029370748",
-          "citation": "N’est pas pénalement responsable la personne qui était atteinte, au moment des faits, d’un trouble psychique ou neuropsychique ayant aboli son discernement […]"
-        },
-        {
-          "role": "Réparation civile",
-          "reference": "Code civil, art. 414-3",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427995",
-          "citation": "Celui qui a causé un dommage à autrui alors qu’il était sous l’empire d’un trouble mental n’en est pas moins obligé à réparation."
-        }
-      ]
-    }
-  },
-  {
-    "id": "conges-maladie",
-    "type": "Articulation de régimes",
-    "domaine": "Travail et droit européen",
-    "titre": "Un arrêt maladie peut interrompre le décompte des congés payés",
-    "explication": [
-      "Un salarié tombe malade pendant ses vacances. La Cour de cassation juge que les jours de congé payé qui coïncident avec un arrêt de travail pour maladie notifié à l’employeur doivent pouvoir être pris ultérieurement.",
-      "La Cour interprète le droit français à la lumière du droit de l’Union. Elle distingue la finalité du congé payé, qui permet le repos et les loisirs, et celle de l’arrêt maladie, qui permet le rétablissement. Le chevauchement des dates peut donc ouvrir un droit au report, distinct de la question de l’acquisition de congés pendant la maladie."
-    ],
-    "sources": [
-      {
-        "url": "https://www.courdecassation.fr/decision/export/68c13314021d8d629a161218/1",
-        "label": "Cour de cassation, 23-22.732"
-      },
-      {
-        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:62011CJ0078",
-        "label": "CJUE, C-78/11"
-      }
-    ],
-    "relation": {
-      "question": "Que deviennent les jours de congé qui coïncident avec un arrêt de travail ?",
-      "participants": [
-        {
-          "role": "Droit européen au report",
-          "reference": "CJUE, communiqué sur l’arrêt C-78/11",
-          "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2012-06/cp120087fr.pdf",
-          "citation": "[…] a le droit de récupérer ultérieurement la période de congé d’une durée équivalente à celle de sa maladie"
-        },
-        {
-          "role": "Application en France",
-          "reference": "Cour de cassation, communiqué sur le pourvoi n° 23-22.732",
-          "url": "https://www.courdecassation.fr/toutes-les-actualites/2025/09/10/communique-conge-paye-et-arret-maladie",
-          "citation": "[…] il a le droit de les voir reportés."
-        }
-      ]
-    }
-  },
-  {
-    "id": "durees-travail",
-    "type": "Articulation de régimes",
-    "domaine": "Temps de travail",
-    "titre": "La semaine peut dépasser les 35 heures légales",
-    "explication": [
-      "La durée légale de 35 heures sert de seuil pour les heures supplémentaires dans le régime de droit commun. Le code fixe séparément une durée maximale de 48 heures au cours d’une même semaine. Il prévoit aussi une moyenne de 44 heures sur douze semaines consécutives, sous réserve des dérogations prévues par le code.",
-      "En cas de circonstances exceptionnelles, l’autorité administrative peut autoriser temporairement un dépassement de la limite hebdomadaire, dans la limite de 60 heures. Le seuil de décompte et les plafonds répondent à des questions distinctes."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000033020381/",
-        "label": "Code du travail, articles L. 3121-27 et L. 3121-28"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006902459/2026-11-13",
-        "label": "Articles L. 3121-20 à L. 3121-22"
-      }
-    ],
-    "relation": {
-      "question": "Quelle limite s’applique à une semaine de travail ?",
-      "participants": [
-        {
-          "role": "Seuil des heures supplémentaires",
-          "reference": "Code du travail, art. L. 3121-27",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020376",
-          "citation": "La durée légale de travail effectif des salariés à temps complet est fixée à trente-cinq heures par semaine."
-        },
-        {
-          "role": "Plafond hebdomadaire",
-          "reference": "Code du travail, art. L. 3121-20",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020414",
-          "citation": "Au cours d’une même semaine, la durée maximale hebdomadaire de travail est de quarante-huit heures."
-        },
-        {
-          "role": "Dérogation temporaire",
-          "reference": "Code du travail, art. L. 3121-21",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035653102",
-          "citation": "En cas de circonstances exceptionnelles […] le dépassement de la durée maximale […] peut être autorisé par l’autorité administrative […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "cultes-alsace-moselle",
-    "type": "Différence territoriale",
-    "domaine": "Laïcité",
-    "titre": "L’État rémunère certains ministres du culte en Alsace-Moselle",
-    "explication": [
-      "L’article 2 de la loi de 1905 pose que la République ne salarie aucun culte. Dans le Bas-Rhin, le Haut-Rhin et la Moselle, cet article n’a pas été rendu applicable. Le droit local y prévoit notamment la rémunération des pasteurs des Églises consistoriales.",
-      "Le Conseil constitutionnel a validé cette disposition en 2013. Il a relevé que les constituants avaient entendu maintenir les dispositions particulières déjà applicables dans certaines parties du territoire, malgré l’inscription du principe de laïcité dans la Constitution. Les deux régimes coexistent par leur champ territorial."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000508749/",
-        "label": "Loi de 1905, article 2"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027097740",
-        "label": "QPC 2012-297, § 4 à 6"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/guide-de-legistique/2025_10_06_fiche_3.7.1_alsace-moselle.pdf",
-        "label": "Guide de légistique, Alsace-Moselle"
-      }
-    ],
-    "relation": {
-      "question": "Où s’applique la règle de non-rémunération des cultes ?",
-      "participants": [
-        {
-          "role": "Règle de séparation",
-          "reference": "Loi de 1905, art. 2",
-          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000508749/",
-          "citation": "La République ne reconnaît, ne salarie ni ne subventionne aucun culte."
-        },
-        {
-          "role": "Champ territorial",
-          "reference": "Conseil constitutionnel, QPC 2012-297, § 4",
-          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000027097740",
-          "citation": "[…] n’ont pas été rendues applicables aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle les dispositions de la loi du 9 décembre 1905 […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "documents",
-    "type": "Exception explicite",
-    "domaine": "Administration",
-    "titre": "Un document public peut être communiqué après masquage",
-    "explication": [
-      "L’administration doit en principe publier ou communiquer les documents administratifs qu’elle détient. Certaines mentions, comme celles protégées par le secret médical ou la vie privée, limitent cette communication.",
-      "Si les mentions protégées peuvent être masquées ou retirées, l’article L. 311-7 prévoit la communication du reste du document."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031367692",
-        "label": "Articles L. 311-1, L. 311-6 et L. 311-7"
-      },
-      {
-        "label": "CRPA, article L. 311-5 · secrets protégés",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181/2026-04-23"
-      }
-    ],
-    "relation": {
-      "question": "Que doit communiquer l’administration quand un document comporte des informations protégées ?",
-      "participants": [
-        {
-          "role": "Principe de communication",
-          "reference": "CRPA, art. L. 311-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946",
-          "citation": "Sous réserve des dispositions des articles L. 311-5 et L. 311-6, les administrations […] sont tenues de publier en ligne ou de communiquer les documents administratifs […]"
-        },
-        {
-          "role": "Protection de certaines informations",
-          "reference": "CRPA, art. L. 311-6",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367716",
-          "citation": "Ne sont communicables qu’à l’intéressé les documents administratifs […] dont la communication porterait atteinte à la protection de la vie privée, au secret médical et au secret des affaires […]"
-        },
-        {
-          "role": "Communication partielle",
-          "reference": "CRPA, art. L. 311-7",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367719",
-          "citation": "Le document est communiqué au demandeur après occultation ou disjonction de ces mentions."
-        }
-      ]
-    }
-  },
-  {
-    "id": "recours-algorithme",
-    "type": "Exception explicite",
-    "domaine": "Administration et données personnelles",
-    "titre": "L’administration peut automatiser une décision, puis doit réexaminer le recours autrement",
-    "explication": [
-      "Le RGPD encadre les décisions fondées exclusivement sur un traitement automatisé qui produisent des effets juridiques ou affectent significativement une personne. En France, l’article 47 de la loi Informatique et Libertés autorise sous conditions certaines décisions administratives individuelles entièrement automatisées. La décision doit notamment signaler le recours à l’algorithme et l’administration doit pouvoir expliquer son application à la personne concernée.",
-      "Si la personne forme un recours administratif, la décision qui statue sur ce recours ne peut reposer uniquement sur un traitement automatisé de données personnelles. Les garanties changent entre la décision initiale et le réexamen."
-    ],
-    "sources": [
-      {
-        "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=fr",
-        "label": "RGPD, article 22"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000037822948",
-        "label": "Loi Informatique et Libertés, article 47"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033205535",
-        "label": "Article L. 311-3-1 du code des relations entre le public et l’administration"
-      },
-      {
-        "label": "CRPA, article L. 311-5 · secrets protégés",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033265181/2026-04-23"
-      }
-    ],
-    "relation": {
-      "question": "Le réexamen peut-il être entièrement automatisé ?",
-      "participants": [
-        {
-          "role": "Information de la personne",
-          "reference": "CRPA, art. L. 311-3-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033205535",
-          "citation": "[…] une décision individuelle prise sur le fondement d’un traitement algorithmique comporte une mention explicite en informant l’intéressé."
-        },
-        {
-          "role": "Garantie spécifique au recours",
-          "reference": "Loi Informatique et Libertés, art. 47",
-          "url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000037822948",
-          "citation": "[…] ne peut être prise sur le seul fondement d’un traitement automatisé de données à caractère personnel."
-        }
-      ]
-    }
-  },
-  {
-    "id": "secret-signalement",
-    "type": "Exception explicite",
-    "domaine": "Secret professionnel",
-    "titre": "Le secret professionnel admet un signalement au procureur en cas de danger immédiat",
-    "explication": [
-      "Le code pénal sanctionne la révélation d’une information couverte par le secret professionnel. L’article 226-14 prévoit toutefois des exceptions, dont une pour les professionnels de santé face à certaines violences au sein du couple.",
-      "Le signalement au procureur est permis lorsque le professionnel estime que la vie de la victime majeure est en danger immédiat et que l’emprise exercée par l’auteur l’empêche de se protéger. Le professionnel doit s’efforcer d’obtenir son accord. S’il ne peut l’obtenir, il doit informer la victime du signalement."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049532171",
-        "label": "Code pénal, article 226-14, 3°"
-      }
-    ],
-    "relation": {
-      "question": "Dans quel cas le professionnel de santé peut-il signaler les faits au procureur ?",
-      "participants": [
-        {
-          "role": "Secret professionnel",
-          "reference": "Code pénal, art. 226-13",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006417945",
-          "citation": "La révélation d’une information à caractère secret par une personne qui en est dépositaire […] est punie […]"
-        },
-        {
-          "role": "Exception encadrée",
-          "reference": "Code pénal, art. 226-14, 3°",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049532171",
-          "citation": "[…] ces violences mettent la vie de la victime majeure en danger immédiat et […] celle-ci n’est pas en mesure de se protéger […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "silence-environnement",
-    "type": "Exception explicite",
-    "domaine": "Autorisation environnementale",
-    "titre": "Le silence du préfet peut valoir refus là où la règle générale prévoit un accord",
-    "explication": [
-      "Le code des relations entre le public et l’administration pose en principe que deux mois de silence sur une demande valent acceptation. Cette règle connaît des exceptions.",
-      "Pour une demande d’autorisation environnementale, l’article R. 181-42 du code de l’environnement donne au silence du préfet l’effet inverse. À l’expiration des délais propres à la procédure, prévus à l’article R. 181-41, le silence vaut rejet. La nature de la demande détermine donc le sens du silence et le délai applicable."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367605/",
-        "label": "Règle générale et exceptions"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033929472/2026-10-10",
-        "label": "Code de l’environnement, article R. 181-42"
-      }
-    ],
-    "relation": {
-      "question": "Quel effet a le silence de l’administration ?",
-      "participants": [
-        {
-          "reference": "CRPA, art. L. 231-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367611",
-          "citation": "Le silence gardé pendant deux mois par l’administration sur une demande vaut décision d’acceptation.",
-          "role": "Principe général"
-        },
-        {
-          "reference": "Code de l’environnement, art. R. 181-42",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033929472",
-          "citation": "Le silence gardé par le préfet […] vaut décision implicite de rejet.",
-          "role": "Exception"
-        }
-      ]
-    }
-  },
-  {
-    "id": "enquete",
-    "type": "Exception explicite",
-    "domaine": "Procédure pénale",
-    "titre": "Le procureur peut communiquer pendant une enquête secrète",
-    "explication": [
-      "L’article 11 du code de procédure pénale prévoit le secret de l’enquête et de l’instruction. Il autorise aussi le procureur à rendre publics des éléments objectifs, par exemple pour éviter la propagation d’informations inexactes, faire cesser un trouble à l’ordre public ou répondre à un autre impératif d’intérêt public.",
-      "Cette communication ne doit comporter aucune appréciation sur le bien-fondé des charges. L’article 11 reste en vigueur au 20 novembre 2026, avec une abrogation programmée au 1er janvier 2029."
-    ],
-    "sources": [
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568210/2026-11-20",
-        "label": "Code de procédure pénale, article 11"
-      }
-    ],
-    "relation": {
-      "question": "Quelles informations peuvent sortir d’une enquête secrète ?",
-      "participants": [
-        {
-          "role": "Secret de principe",
-          "reference": "Code de procédure pénale, art. 11, al. 1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568210/2026-11-20",
-          "citation": "[…] la procédure au cours de l’enquête et de l’instruction est secrète."
-        },
-        {
-          "role": "Communication encadrée",
-          "reference": "Code de procédure pénale, art. 11, al. 3",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568210/2026-11-20",
-          "citation": "[…] rendre publics des éléments objectifs tirés de la procédure […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "integration-emplois-specifiques",
-    "type": "Renvoi obsolète",
-    "domaine": "Fonction publique",
-    "titre": "Le délai d’intégration des emplois spécifiques renvoie à une loi abrogée",
-    "explication": [
-      "Le décret n° 2009-414 reste affiché en vigueur. Pour les agents qui ne remplissaient pas les conditions à sa publication, son article 4 fait partir le délai de candidature d’un an du moment où ils les réunissent. Il renvoie au diplôme et aux quinze années de carrière définis par l’article 139 ter, abrogé depuis le 1er mars 2022.",
-      "Le dispositif se limite aux titulaires d’emplois spécifiques créés sous l’ancien code des communes. Les sources vérifiées établissent le décalage entre le décret et la loi. Le sort des demandes individuelles après 2022 reste à établir."
-    ],
-    "sources": [
-      {
-        "label": "Décret n° 2009-414 consolidé",
-        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020527306"
-      },
-      {
-        "label": "Loi du 26 janvier 1984 et historique de l’article 139 ter",
-        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000320434/2026-09-30"
-      }
-    ],
-    "relation": {
-      "question": "À partir de quand court le délai de candidature à l’intégration ?",
-      "participants": [
-        {
-          "role": "Délai dans le décret en vigueur",
-          "reference": "Décret n° 2009-414, art. 4",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020528621/2009-04-18",
-          "citation": "[…] à compter de la date à laquelle ils réunissent les conditions prévues à l’article 139 ter […]"
-        },
-        {
-          "role": "Conditions dans la disposition abrogée",
-          "reference": "Loi n° 84-53, ancien art. 139 ter",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006367144",
-          "citation": "[…] un diplôme de niveau licence ainsi que quinze années de carrière dans un emploi spécifique […]"
-        }
-      ]
+      "titre": "Comment appliquer deux paragraphes que le même article ordonne de supprimer ?",
+      "texte": "En Polynésie française, un article dit de modifier les deux premiers paragraphes qui définissent une communauté d’agglomération. Il dit aussi de supprimer les trois derniers.",
+      "raison": "Les instructions sont incohérentes puisque le texte visé compte trois paragraphes en tout. Les deux paragraphes à modifier sont donc aussi à supprimer. Le Sénat a proposé de corriger le texte.",
+      "ordre": 1
     }
   },
   {
@@ -1717,470 +97,317 @@
     "entree": {
       "titre": "Un père peut-il bénéficier du même recul de la limite d’âge qu’une mère ?",
       "texte": "L’ancien décret de l’Assistance publique à Paris parle des femmes. Le code de la fonction publique parle de toute personne qui élève ou a élevé un enfant. Pour un concours concerné, la règle du code prime. Les deux formulations restent consultables aujourd’hui.",
-      "ordre": 1,
+      "ordre": 2,
       "raison": "La rédaction du décret est incohérente avec le code puisque, pour un même concours soumis à une limite d’âge, elle énonce un avantage pour les femmes là où le code l’accorde aussi aux hommes qui remplissent la même condition. Le code a priorité."
     }
   },
   {
-    "id": "mayotte-avis-reconstruction",
-    "type": "Exception explicite",
-    "domaine": "Urbanisme",
-    "titre": "À Mayotte, quinze jours de silence peuvent suffire pour un accord préalable",
+    "id": "concentrations-medias",
+    "type": "Lacune d’application",
+    "domaine": "Médias et droit européen",
+    "titre": "Le règlement européen exige un contrôle que le juge ne peut confier à l’Arcom",
     "explication": [
-      "En urbanisme, le délai ordinaire au terme duquel un avis non transmis est réputé favorable est d’un mois, sous réserve des délais propres à certaines consultations. La loi d’urgence pour Mayotte ramène à quinze jours le délai des avis, accords ou autorisations préalables dans les dossiers couverts par son chapitre sur la reconstruction.",
-      "Ce régime s’applique notamment aux travaux concernant les biens endommagés par les événements climatiques visés par la loi, pour les dossiers déposés dans les deux ans suivant sa promulgation le 24 février 2025. Le silence en question est celui de l’organisme consulté. Il ne vaut pas, à lui seul, délivrance du permis."
+      "L’article 22 du règlement européen sur la liberté des médias, applicable depuis le 8 août 2025, demande aux États de prévoir une évaluation des concentrations susceptibles de peser sur le pluralisme ou l’indépendance éditoriale. Cette évaluation est distincte du contrôle de la concurrence.",
+      "Saisi au sujet de la cession de Challenges, le Conseil d’État a jugé le 27 juillet 2026 que la législation française ne prévoyait pas le dispositif requis. Il a rejeté le recours. L’Arcom ne pouvait procéder à cette évaluation sur ce fondement et le gouvernement ne pouvait créer le régime par décret, car il relevait du législateur. Une proposition d’adaptation a été déposée le 27 octobre 2026. Les sources consultées jusqu’au 20 novembre ne font pas apparaître de loi promulguée qui comble cette lacune."
     ],
     "sources": [
       {
-        "label": "Loi d’urgence pour Mayotte, article 13",
-        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051245539"
+        "url": "https://eur-lex.europa.eu/eli/reg/2024/1083/oj?locale=fr",
+        "label": "Règlement (UE) 2024/1083, articles 22 et 29"
       },
       {
-        "label": "Code de l’urbanisme, délais de consultation",
-        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006143422"
+        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-07-27/512798",
+        "label": "Conseil d’État, n° 512798, points 2 à 8"
       },
       {
-        "label": "Champ et durée du régime",
-        "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000051244586"
+        "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L17B3415.raw",
+        "label": "Proposition de loi n° 3415"
       }
     ],
     "relation": {
-      "question": "Après quel délai le silence de l’organisme consulté vaut-il avis favorable ?",
+      "question": "Qui peut définir les règles pour évaluer l’effet d’une concentration sur le pluralisme ?",
       "participants": [
         {
-          "role": "Délai ordinaire",
-          "reference": "Code de l’urbanisme, art. R. 423-59",
-          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006143422",
-          "citation": "[…] dans le délai d’un mois à compter de la réception de la demande d’avis […]"
+          "role": "Obligation européenne",
+          "reference": "Règlement (UE) 2024/1083, art. 22",
+          "url": "https://eur-lex.europa.eu/eli/reg/2024/1083/oj?locale=fr",
+          "citation": "Les États membres établissent, dans leur droit national, des règles de fond et de procédure permettant d’évaluer les concentrations sur le marché des médias […]"
         },
         {
-          "role": "Délai spécial",
-          "reference": "Loi n° 2025-176, art. 13, X",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051245539",
-          "citation": "[…] le silence gardé passé ce délai vaut, selon le cas, avis favorable ou accord tacite."
-        },
-        {
-          "role": "Fenêtre de dépôt",
-          "reference": "Loi n° 2025-176, art. 7",
-          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000051244586",
-          "citation": "[…] déposées dans un délai de deux ans à compter de la promulgation de la présente loi."
-        }
-      ]
-    }
-  },
-  {
-    "id": "mayotte-reconstruction-plu",
-    "type": "Exception explicite",
-    "domaine": "Urbanisme",
-    "titre": "À Mayotte, le plan local ne suffit pas à interdire certaines reconstructions",
-    "explication": [
-      "Le code de l’urbanisme laisse la carte communale ou le plan local d’urbanisme faire obstacle au droit de reconstruire à l’identique. Pour les projets couverts par la loi d’urgence pour Mayotte, l’article 8 écarte cet obstacle. Le dispositif vise les dommages causés par les événements climatiques du 13 décembre 2024 au 13 mai 2025 et s’applique aux dossiers déposés dans les deux ans suivant la promulgation de la loi.",
-      "Les règles relatives aux risques continuent de s’appliquer. Les constructions achevées après le 1er janvier 2013 doivent notamment avoir bénéficié d’une autorisation ou d’une décision de non-opposition à déclaration préalable."
-    ],
-    "sources": [
-      {
-        "label": "Code de l’urbanisme, article L. 111-15",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210209/"
-      },
-      {
-        "label": "Loi d’urgence pour Mayotte, champ du dispositif",
-        "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000051244586"
-      }
-    ],
-    "relation": {
-      "question": "Le plan local peut-il à lui seul faire obstacle à la reconstruction ?",
-      "participants": [
-        {
-          "role": "Réserve de droit commun",
-          "reference": "Code de l’urbanisme, art. L. 111-15",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210209/",
-          "citation": "[…] sauf si la carte communale, le plan local d’urbanisme ou le plan de prévention des risques naturels prévisibles en dispose autrement."
-        },
-        {
-          "role": "Dérogation temporaire",
-          "reference": "Loi n° 2025-176, art. 8, I",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051245529/2025-02-26",
-          "citation": "[…] y compris si la carte communale ou le plan local d’urbanisme en dispose autrement."
-        },
-        {
-          "role": "Règles de prévention maintenues",
-          "reference": "Loi n° 2025-176, art. 8, III",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051245529/2025-02-26",
-          "citation": "[…] dans la limite des règles applicables en matière de risques naturels, technologiques ou miniers […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "captage-eau-baux-juge",
-    "type": "Exception explicite",
-    "domaine": "Agriculture",
-    "titre": "Certains baux ruraux protégeant l’eau potable relèvent du juge administratif",
-    "explication": [
-      "Le tribunal paritaire des baux ruraux est normalement compétent pour les contestations entre bailleurs et preneurs relevant du statut du fermage. Dans un périmètre de protection rapprochée d’un captage d’eau potable, une collectivité publique qui a acquis un terrain peut prescrire des modes d’utilisation du sol à l’instauration ou au renouvellement du bail.",
-      "Le code de la santé publique attribue au seul tribunal administratif les litiges concernant les baux renouvelés en application de cette règle. Le texte permet de prescrire des conditions à la conclusion ou au renouvellement, mais la clause de compétence vise expressément les baux renouvelés."
-    ],
-    "sources": [
-      {
-        "label": "Code rural et de la pêche maritime",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119787"
-      },
-      {
-        "label": "Code de la santé publique",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054715836/2026-09-30"
-      }
-    ],
-    "relation": {
-      "question": "Quel juge connaît du litige concernant un bail renouvelé pour protéger un captage ?",
-      "participants": [
-        {
-          "role": "Compétence de droit commun",
-          "reference": "Code rural et de la pêche maritime, art. L. 491-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119787",
-          "citation": "[…] un tribunal paritaire des baux ruraux qui est seul compétent pour connaître des contestations entre bailleurs et preneurs […]"
-        },
-        {
-          "role": "Compétence spéciale",
-          "reference": "Code de la santé publique, art. L. 1321-2",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054715836/2026-09-30",
-          "citation": "[…] le tribunal administratif est seul compétent pour régler les litiges concernant les baux renouvelés en application de l’alinéa précédent."
-        }
-      ]
-    }
-  },
-  {
-    "id": "concours-jury-trois-membres",
-    "type": "Exception explicite",
-    "domaine": "Fonction publique",
-    "titre": "Un jury de trois personnes peut comporter deux membres du même sexe",
-    "explication": [
-      "La règle ordinaire impose au moins 40 % de chaque sexe. Avec trois personnes, un sexe représente nécessairement au plus un tiers du jury. Le dernier alinéa du même article autorise cette répartition en exigeant au moins une personne de chaque sexe.",
-      "Pour ces petits jurys, le règlement permet aussi de nommer des membres d’une autre administration, même si une autre disposition s’y oppose."
-    ],
-    "sources": [
-      {
-        "label": "Composition des jurys dans le code général de la fonction publique",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044426914"
-      },
-      {
-        "label": "Membres issus d’une autre administration",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051961925/2026-11-09"
-      }
-    ],
-    "relation": {
-      "question": "Comment composer un jury de trois personnes quand le seuil ordinaire est de 40 % ?",
-      "participants": [
-        {
-          "role": "Seuil ordinaire",
-          "reference": "Code général de la fonction publique, art. L. 325-17, al. 2",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044426914",
-          "citation": "[…] une proportion minimale de 40 % de personnes de chaque sexe."
-        },
-        {
-          "role": "Règle pour trois personnes",
-          "reference": "Code général de la fonction publique, art. L. 325-17, al. 4",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044426914",
-          "citation": "[…] il est procédé à la nomination d’au moins une personne de chaque sexe."
-        },
-        {
-          "role": "Provenance des membres",
-          "reference": "Code général de la fonction publique, art. R. 325-85",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051961925/2026-11-09",
-          "citation": "[…] appartenir à une administration autre que celle qui organise le concours."
-        }
-      ]
-    }
-  },
-  {
-    "id": "territoriaux-report-conges",
-    "type": "Articulation de régimes",
-    "domaine": "Fonction publique",
-    "titre": "Le motif du report change le nombre de semaines récupérables",
-    "explication": [
-      "Un fonctionnaire territorial empêché de prendre ses congés annuels peut bénéficier d’un report de quinze mois. Si l’empêchement résulte d’un congé pour raison de santé, le report est plafonné aux droits non utilisés des quatre premières semaines.",
-      "La rédaction applicable depuis août 2026 écarte ce plafond lorsque l’empêchement tient à un congé lié aux responsabilités parentales ou familiales ou à l’intérêt du service. Le motif conditionne donc le report des droits au-delà de la quatrième semaine."
-    ],
-    "sources": [
-      {
-        "label": "Décret sur les congés annuels des fonctionnaires territoriaux",
-        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000690444/2026-09-25"
-      }
-    ],
-    "relation": {
-      "question": "Dans quels cas les droits de la cinquième semaine peuvent-ils être reportés ?",
-      "participants": [
-        {
-          "role": "Plafond",
-          "reference": "Décret n° 85-1250, art. 5-1, IV",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054670012/2026-08-13",
-          "citation": "[…] le report est limité aux droits non-utilisés relevant des quatre premières semaines de congé annuel par période de référence."
-        },
-        {
-          "role": "Motifs qui écartent le plafond",
-          "reference": "Décret n° 85-1250, art. 5-1, IV",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054670012/2026-08-13",
-          "citation": "[…] responsabilités parentales ou familiales ou pour des raisons tirées de l’intérêt du service […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "territoriaux-conges-indemnisation",
-    "type": "Articulation de régimes",
-    "domaine": "Fonction publique",
-    "titre": "Un congé reportable peut rester sans indemnité au départ de l’agent",
-    "explication": [
-      "Pour un fonctionnaire territorial empêché de prendre ses congés annuels dans l’intérêt du service, l’article 5-1 permet le report des droits au-delà des quatre premières semaines. À la fin de la relation de travail, l’article 5-2 limite pourtant l’indemnité aux droits non utilisés des quatre premières semaines par période de référence.",
-      "Le congé lié aux responsabilités parentales ou familiales écarte le plafond dans les deux cas. Le décret distingue ainsi la possibilité de prendre des jours plus tard et la possibilité d’obtenir leur paiement au départ."
-    ],
-    "sources": [
-      {
-        "label": "Décret n° 85-1250 consolidé",
-        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000690444/2026-10-05"
-      }
-    ],
-    "relation": {
-      "question": "Les jours que l’agent pouvait reporter dans l’intérêt du service sont-ils tous indemnisables ?",
-      "participants": [
-        {
-          "role": "Report lié à l’intérêt du service",
-          "reference": "Décret n° 85-1250, art. 5-1, IV",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054670012/2026-08-13",
-          "citation": "A l’exclusion du cas où le fonctionnaire bénéficie d’un report […] pour des raisons tirées de l’intérêt du service le report est limité […]"
-        },
-        {
-          "role": "Plafond de l’indemnité au départ",
-          "reference": "Décret n° 85-1250, art. 5-2",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054670008/2026-08-13",
-          "citation": "[…] cette indemnité ne compense que les droits non-utilisés relevant des quatre premières semaines de congé annuel par période de référence."
+          "role": "Compétence du Parlement",
+          "reference": "Conseil d’État, n° 512798, point 5",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-07-27/512798",
+          "citation": "[…] la définition des règles nécessaires à la mise en œuvre de l’article 22 […] relève du législateur […]"
         }
       ]
     },
     "entree": {
-      "titre": "La cinquième semaine de congés compte encore. Pourquoi n’est-elle pas payée au départ ?",
-      "texte": "Un agent territorial n’a pas pu prendre sa cinquième semaine parce que son service avait besoin de lui. L’article 5-1 lui permet de la prendre plus tard. S’il quitte son emploi avant de la prendre, l’article 5-2 limite le paiement aux quatre premières semaines. Pour ces jours-là, il a donc un droit au report, mais aucune indemnité au départ.",
-      "ordre": 2,
-      "raison": "L’effet peut surprendre puisque les mêmes jours restent utilisables tant que l’agent est en poste, puis cessent d’être indemnisables à son départ. Les articles distinguent le droit de prendre des jours et le droit d’en obtenir le paiement."
+      "titre": "L’Europe exige un contrôle des rachats de médias. Qui peut le faire en France ?",
+      "texte": "Le règlement européen exige un examen de l’effet de certains rachats sur le pluralisme. Quand le Conseil d’État a examiné le rachat de Challenges, la loi française ne donnait pas à l’Arcom de pouvoir pour faire cet examen.",
+      "raison": "Le système est incohérent puisque le contrôle est exigé mais que le texte français ne donne pas les moyens de l’effectuer. Le Conseil d’État a indiqué qu’une intervention du législateur était nécessaire.",
+      "ordre": 3
     }
   },
   {
-    "id": "recherche-personne-juge",
-    "type": "Exception explicite",
-    "domaine": "Santé",
-    "titre": "Le juge judiciaire indemnise les dommages liés à une recherche impliquant la personne humaine",
+    "id": "plateforme-covid-long",
+    "type": "Lacune d’application",
+    "domaine": "Santé publique",
+    "titre": "La loi prévoit une plateforme pour le Covid long. Le décret tarde.",
     "explication": [
-      "La loi de 1790 sépare les fonctions judiciaires et administratives. Le code de la santé publique déroge expressément à cette séparation pour attribuer au tribunal judiciaire les actions en indemnisation des dommages résultant d’une recherche impliquant la personne humaine. Cette attribution vaut aussi lorsque la recherche est conduite dans un établissement public.",
-      "La dérogation vise la demande d’indemnisation. L’article régit cette action précise, tandis que les autres contestations obéissent à leurs règles de compétence propres."
+      "La loi n° 2022-53 du 24 janvier 2022 prévoit une plateforme de référencement et de prise en charge des malades chroniques de la Covid-19. Elle renvoie à un décret pour préciser ses modalités, après avis de la CNIL.",
+      "Le 1er juillet 2025, le Conseil d’État a annulé le refus de prendre ce décret et a enjoint au Premier ministre de l’édicter dans un délai de douze mois à compter de la notification de la décision. En octobre 2026, une question au Sénat signalait encore l’absence de publication. Au 20 novembre, les sources consultées ne font pas apparaître le décret. L’espace d’information et les dispositifs de coordination évoqués par le gouvernement sont des mesures distinctes de la plateforme prévue par la loi."
     ],
     "sources": [
       {
-        "label": "Loi des 16 et 24 août 1790",
-        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038776265"
+        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-07-01/498369",
+        "label": "Conseil d’État, n° 498369"
       },
       {
-        "label": "Code de la santé publique",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046122246/2026-06-04"
+        "url": "https://www.senat.fr/questions/base/2026/qSEQ261010254.html",
+        "label": "Question au Sénat, octobre 2026"
       }
     ],
     "relation": {
-      "question": "Quel juge indemnise un dommage résultant d’une recherche conduite dans un établissement public ?",
+      "question": "Quelles mesures manquent pour mettre en place la plateforme ?",
       "participants": [
         {
-          "role": "Séparation des fonctions",
-          "reference": "Loi des 16 et 24 août 1790, art. 13",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038776265",
-          "citation": "Les fonctions judiciaires sont distinctes et demeureront toujours séparées des fonctions administratives."
+          "role": "Décret prévu",
+          "reference": "Loi n° 2022-53, art. 1, cité par le Conseil d’État",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-07-01/498369",
+          "citation": "Un décret en Conseil d’État, pris après avis de la Commission nationale de l’informatique et des libertés, précise les modalités d’application de la plateforme."
         },
         {
-          "role": "Compétence pour l’indemnisation",
-          "reference": "Code de la santé publique, art. L. 1128-7",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046122246/2026-06-04",
-          "citation": "[…] le tribunal judiciaire est seul compétent pour statuer sur toute action en indemnisation des dommages résultant d’une recherche impliquant la personne humaine […]"
+          "role": "Injonction",
+          "reference": "Conseil d’État, n° 498369, dispositif, art. 3",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-07-01/498369",
+          "citation": "[…] dans un délai de douze mois à compter de la notification de la présente décision."
         }
       ]
+    },
+    "entree": {
+      "titre": "La loi promet une plateforme pour les malades. Pourquoi ne peuvent-ils pas l’utiliser ?",
+      "texte": "Une loi de 2022 prévoit une plateforme pour les personnes atteintes de Covid long. Le décret devait préciser comment elle fonctionnerait. Le Conseil d’État a ordonné au gouvernement de le prendre.",
+      "raison": "La promesse reste sans mode d’emploi puisque les recherches au 20 novembre 2026 n’ont pas retrouvé le décret demandé. Les pages d’information existantes ne remplissent pas à elles seules le rôle prévu par la loi.",
+      "ordre": 4
     }
   },
   {
-    "id": "vehicule-domaine-public-routier",
-    "type": "Articulation de régimes",
-    "domaine": "Compétence juridictionnelle",
-    "titre": "Un véhicule endommage une route publique. Quel juge intervient ?",
+    "id": "avocats-cfe",
+    "type": "Inconstitutionnalité constatée",
+    "domaine": "Fiscalité",
+    "titre": "L’exonération fiscale des jeunes avocats dépend de leur voie d’accès",
     "explication": [
-      "La loi de 1957 attribue au juge judiciaire les actions en responsabilité pour les dommages causés par un véhicule et dirigées contre une personne publique. Elle exclut les dommages causés au domaine public.",
-      "Le code de la voirie routière donne néanmoins au juge judiciaire compétence pour réprimer les infractions à la police de la conservation du domaine public routier. Le Tribunal des conflits a précisé que l’exclusion de 1957 ne fait pas obstacle à cette compétence. Le type d’action importe donc autant que la nature du bien endommagé."
+      "Le 8° de l’article 1460 du code général des impôts réserve deux ans d’exonération de cotisation foncière des entreprises aux avocats issus d’une certaine formation. L’objectif était d’aider ceux qui débutent sans expérience suffisante. Le Conseil constitutionnel a jugé contraire à l’égalité l’exclusion des avocats formés à l’étranger et admis par dérogation alors qu’ils n’ont pas d’expérience professionnelle juridique antérieure.",
+      "L’abrogation de la condition est reportée au 31 octobre 2027. Les juridictions doivent suspendre les procédures dont l’issue dépend de cette condition jusqu’à l’entrée en vigueur de la nouvelle loi ou, au plus tard, jusqu’à cette date."
     ],
     "sources": [
       {
-        "label": "Tribunal des conflits, 17 décembre 2001",
-        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000007045578"
-      }
-    ],
-    "relation": {
-      "question": "L’exclusion des dommages au domaine public empêche-t-elle toute intervention du juge judiciaire ?",
-      "participants": [
-        {
-          "role": "Compétence pour les dommages causés par un véhicule",
-          "reference": "Loi n° 57-1424, art. 1, al. 1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006451425/",
-          "citation": "[…] les tribunaux de l’ordre judiciaire sont seuls compétents […]"
-        },
-        {
-          "role": "Exclusion des dommages au domaine public",
-          "reference": "Loi n° 57-1424, art. 1, dernier alinéa",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006451425/",
-          "citation": "La présente loi ne s’applique pas aux dommages occasionnés au domaine public."
-        },
-        {
-          "role": "Infractions relatives à la conservation des routes",
-          "reference": "Code de la voirie routière, art. L. 116-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006398464",
-          "citation": "[…] est poursuivie devant la juridiction judiciaire […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "accident-scolaire-juge",
-    "type": "Articulation de régimes",
-    "domaine": "Éducation",
-    "titre": "Le juge compétent pour un dommage scolaire dépend de la faute invoquée",
-    "explication": [
-      "Si le dommage est imputé à une faute de surveillance d’un membre de l’enseignement public alors que l’élève lui est confié, l’article L. 911-4 substitue la responsabilité de l’État à celle de l’agent. L’action contre l’État relève dans ce cas de l’ordre judiciaire.",
-      "La juridiction administrative reste compétente lorsque le dommage résulte d’un défaut d’organisation du service. Une surveillance défaillante peut donc relever de l’un ou l’autre ordre selon que le recours met en cause la faute d’un surveillant déterminé ou l’organisation du service de surveillance."
-    ],
-    "sources": [
-      {
-        "label": "Tribunal des conflits, 6 mars 1989",
-        "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000007606065"
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051217560",
+        "label": "Code général des impôts, article 1460"
       },
       {
-        "label": "Tribunal judiciaire de Reims, 15 juillet 2025",
-        "url": "https://www.courdecassation.fr/decision/687e8d7141388e7853ac07a3"
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054595452",
+        "label": "QPC 2026-1216, § 7 à 15"
       }
     ],
     "relation": {
-      "question": "Quel ordre de juridiction connaît d’une défaillance de surveillance à l’école ?",
+      "question": "Que doit faire le juge quand le litige dépend de la condition censurée ?",
       "participants": [
         {
-          "role": "Faute de surveillance d’un agent",
-          "reference": "Code de l’éducation, art. L. 911-4",
-          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000030254395/2026-07-10",
-          "citation": "[…] est portée devant le tribunal de l’ordre judiciaire du lieu où le dommage a été causé […]"
+          "role": "Condition fiscale",
+          "reference": "CGI, art. 1460, 8°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051217560",
+          "citation": "Les avocats ayant suivi la formation prévue au chapitre II du titre Ier de la loi n° 71-1130 du 31 décembre 1971 […]"
         },
         {
-          "role": "Défaut d’organisation du service",
-          "reference": "Tribunal judiciaire de Reims, RG n° 23/01712",
-          "url": "https://www.courdecassation.fr/decision/687e8d7141388e7853ac07a3",
-          "citation": "[…] le défaut de surveillance n’est pas imputable à un surveillant déterminé mais résulte de l’absence ou de la mauvaise organisation du service de la surveillance."
+          "role": "Instruction transitoire",
+          "reference": "Conseil constitutionnel, QPC 2026-1216, § 15",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054595452",
+          "citation": "[…] il appartient aux juridictions saisies de surseoir à statuer jusqu’à l’entrée en vigueur de la nouvelle loi ou, au plus tard, jusqu’au 31 octobre 2027 […]"
         }
       ]
+    },
+    "entree": {
+      "titre": "Deux jeunes avocats débutent sans expérience. Pourquoi un seul a-t-il droit à l’exonération ?",
+      "texte": "Un avocat qui débute après le parcours de formation prévu en France peut obtenir deux ans d’exonération. Un avocat formé à l’étranger et admis par dérogation peut en être exclu même s’il débute sans expérience juridique.",
+      "raison": "La différence est incohérente avec le but de l’aide puisque les deux avocats rencontrent la même difficulté de début de carrière. Le Conseil constitutionnel a censuré la condition et a demandé de suspendre les procès qui en dépendent jusqu’à sa suppression ou son remplacement.",
+      "ordre": 5
     }
   },
   {
-    "id": "recours-notification-czabaj",
-    "type": "Articulation de régimes",
-    "domaine": "Procédure administrative",
-    "titre": "Un recours peut être tardif même si la notification omet le délai",
+    "id": "justice-mineurs",
+    "type": "Inconstitutionnalité constatée",
+    "domaine": "Justice des mineurs",
+    "titre": "Un délai d’appel censuré reste inscrit dans le code",
     "explication": [
-      "Le code de justice administrative rend les délais réglementaires inopposables lorsque la notification omet les voies ou les délais de recours. Le Conseil d’État juge toutefois que le destinataire d’une décision administrative individuelle doit agir dans un délai raisonnable dès lors que la décision lui a été notifiée ou qu’il est établi qu’il en a eu connaissance.",
-      "Pour une décision expresse, ce délai raisonnable est en principe d’un an à partir de la notification ou de la connaissance établie. Des circonstances particulières ou les règles propres à certains recours administratifs peuvent modifier cette limite."
+      "Pour les appels en cour d’assises des mineurs, l’article L. 531-2 renvoie au code de procédure pénale. Ce renvoi permettait d’appliquer aux mineurs certains délais de comparution en appel prévus pour les adultes détenus.",
+      "Le Conseil constitutionnel a censuré ce renvoi pour les délais et le renouvellement qu’il désigne. L’abrogation prend effet le 31 octobre 2027 selon la décision. Une suppression immédiate aurait fait disparaître le délai maximal. Le Conseil précise que les mesures prises avant cette date ne peuvent être contestées sur le fondement de cette inconstitutionnalité."
     ],
     "sources": [
       {
-        "label": "Code de justice administrative",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449946/2026-03-26"
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039088473/2026-11-20",
+        "label": "Article L. 531-2"
       },
       {
-        "label": "Conseil d’État, assemblée, 13 juillet 2016, n° 387763",
-        "url": "https://www.legifrance.gouv.fr/juri/id/CETATEXT000032892416"
+        "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000053910508",
+        "label": "QPC 2026-1194, § 15 à 22"
       }
     ],
     "relation": {
-      "question": "L’omission des voies de recours laisse-t-elle la décision contestable sans limite de temps ?",
+      "question": "Quelle règle fixe le délai de comparution en appel ?",
       "participants": [
         {
-          "role": "Délai réglementaire inopposable",
-          "reference": "Code de justice administrative, art. R. 421-5",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449946/2026-03-26",
-          "citation": "Les délais de recours contre une décision administrative ne sont opposables qu’à la condition d’avoir été mentionnés, ainsi que les voies de recours […]"
+          "role": "Renvoi général",
+          "reference": "CJPM, art. L. 531-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039088473",
+          "citation": "Il est fait application des dispositions du code de procédure pénale pour les appels portés contre les arrêts de la cour d’assises des mineurs […]"
         },
         {
-          "role": "Délai raisonnable",
-          "reference": "Conseil d’État, décision n° 387763",
-          "url": "https://www.legifrance.gouv.fr/juri/id/CETATEXT000032892416",
-          "citation": "[…] le destinataire de la décision ne peut exercer de recours juridictionnel au-delà d’un délai raisonnable […]"
+          "role": "Effet de la censure",
+          "reference": "Conseil constitutionnel, QPC 2026-1194, § 21",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000053910508",
+          "citation": "[…] il y a lieu de reporter au 31 octobre 2027 la date de l’abrogation de ces dispositions."
         }
       ]
+    },
+    "entree": {
+      "titre": "Un mineur peut-il attendre son appel en prison aussi longtemps qu’un adulte ?",
+      "texte": "Le code des mineurs emprunte les délais prévus pour les adultes détenus. Le Conseil constitutionnel a jugé que ces délais étaient trop longs pour les mineurs. Il laisse pourtant le texte en place jusqu’au 31 octobre 2027, car le supprimer immédiatement ferait disparaître le délai maximal.",
+      "ordre": 6,
+      "raison": "La règle est contraire à la Constitution puisque des délais prévus pour les adultes ont été repris sans tenir suffisamment compte de la situation des mineurs. Le Conseil a différé leur suppression pour éviter de laisser les mineurs sans délai maximal."
     }
   },
   {
-    "id": "recours-silence-cnil",
-    "type": "Articulation de régimes",
-    "domaine": "Procédure administrative",
-    "titre": "Le silence de la CNIL ne suffit pas à faire courir le délai raisonnable",
+    "id": "prospection-double-sanction",
+    "type": "Inconstitutionnalité constatée",
+    "domaine": "Prospection automatisée",
+    "titre": "Un plafond commun n’empêche pas deux autorités de poursuivre les mêmes faits",
     "explication": [
-      "En matière d’accès indirect à certaines données, la CNIL dispose de quatre mois pour répondre. Dans l’affaire jugée en février 2026, aucune indication ne permettait au demandeur de savoir clairement à quelles conditions ce silence ferait naître une décision implicite.",
-      "Le Conseil d’État en a déduit que l’expiration du délai raisonnable issu de la jurisprudence Czabaj ne pouvait pas être opposée au demandeur. La naissance de la décision implicite et la possibilité d’opposer la tardiveté du recours sont deux questions distinctes."
+      "L’article L. 34-5 du code des postes et des communications électroniques permettait à plusieurs autorités de sanctionner des manquements aux règles sur la prospection directe automatisée. Le Conseil constitutionnel a censuré la possibilité de réprimer les mêmes faits, qualifiés de la même façon, par des sanctions de même nature visant les mêmes intérêts sociaux.",
+      "L’abrogation est reportée au 31 octobre 2027. Dès la publication de la décision, une autre autorité ne peut engager ou continuer des poursuites pour les mêmes faits contre la même personne si de premières poursuites sont déjà engagées ou ont abouti à une sanction définitive. Les décisions prises avant la publication ne peuvent être contestées sur le fondement de cette inconstitutionnalité."
     ],
     "sources": [
       {
-        "label": "Conseil d’État, 20 février 2026, n° 501808",
-        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/analyse/2026-02-20/501808"
-      }
-    ],
-    "relation": {
-      "question": "Le délai raisonnable est-il opposable dès la naissance de la décision implicite ?",
-      "participants": [
-        {
-          "role": "Principe de sécurité juridique",
-          "reference": "Conseil d’État, n° 387763",
-          "url": "https://www.legifrance.gouv.fr/juri/id/CETATEXT000032892416",
-          "citation": "[…] le destinataire de la décision ne peut exercer de recours juridictionnel au-delà d’un délai raisonnable […]"
-        },
-        {
-          "role": "Absence d’information sur la naissance du rejet",
-          "reference": "Conseil d’État, n° 501808",
-          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/analyse/2026-02-20/501808",
-          "citation": "[…] le ministre ne saurait lui opposer la tardiveté de sa requête […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "motifs-rejet-implicite-delai",
-    "type": "Articulation de régimes",
-    "domaine": "Procédure administrative",
-    "titre": "Demander les motifs d’un rejet implicite ne prolonge pas le recours indéfiniment",
-    "explication": [
-      "Lorsque le rejet implicite aurait dû être motivé s’il avait été exprès, le demandeur peut demander ses motifs dans le délai de recours. Le code prévoit alors une prolongation jusqu’à deux mois après la communication des motifs. Il fixe un mois à l’administration pour répondre.",
-      "Le Conseil d’État fixe une limite d’un an à compter de la demande de motifs, y compris si l’administration garde le silence. Pour les demandes de motifs antérieures à la publication de l’avis, cette année court à compter de la publication."
-    ],
-    "sources": [
-      {
-        "label": "Code des relations entre le public et l’administration",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367639/2025-07-01"
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042155961/2026-11-01",
+        "label": "Article L. 34-5"
       },
       {
-        "label": "Conseil d’État, avis du 2 octobre 2025, points 5 et 6",
-        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-10-02/504677"
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054311753",
+        "label": "QPC 2026-1210"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000054993122",
+        "label": "Conseil d’État, n° 501268"
       }
     ],
     "relation": {
-      "question": "Jusqu’à quand le recours reste-t-il possible si les motifs sont demandés à temps ?",
+      "question": "Le plafonnement des sanctions suffit-il à empêcher les doubles poursuites ?",
       "participants": [
         {
-          "role": "Prolongation légale",
-          "reference": "CRPA, art. L. 232-4",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367639/2025-07-01",
-          "citation": "[…] prorogé jusqu’à l’expiration de deux mois suivant le jour où les motifs lui auront été communiqués."
+          "role": "Plafond cumulé",
+          "reference": "CPCE, art. L. 34-5",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042155961/2026-11-01",
+          "citation": "[…] le montant global des sanctions prononcées contre la même personne à raison des mêmes faits n’excède pas le maximum légal le plus élevé."
         },
         {
-          "role": "Limite posée par le juge",
-          "reference": "Conseil d’État, avis n° 504677, point 5",
-          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-10-02/504677",
-          "citation": "[…] au-delà d’un délai d’un an à compter de la date à laquelle il a demandé communication des motifs […]"
+          "role": "Règle transitoire",
+          "reference": "Conseil constitutionnel, QPC 2026-1210, § 20",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054311753",
+          "citation": "[…] des poursuites ne pourront être engagées ou continuées […] dès lors que des premières poursuites auront déjà été engagées pour les mêmes faits […]"
         }
       ]
+    },
+    "entree": {
+      "titre": "Deux autorités peuvent-elles poursuivre deux fois le même démarchage ?",
+      "texte": "Pour les mêmes messages, une entreprise pouvait être poursuivie par deux autorités au titre du même manquement.",
+      "raison": "Le Conseil constitutionnel a censuré le cumul puisque les deux régimes pouvaient sanctionner les mêmes faits de la même façon pour protéger les mêmes intérêts. Sa décision bloque dès maintenant les secondes poursuites dans les cas qu’elle définit.",
+      "ordre": 7
+    }
+  },
+  {
+    "id": "garde-a-vue-majeur-protege",
+    "type": "Inconstitutionnalité constatée",
+    "domaine": "Droits de la défense",
+    "titre": "La protection d’un majeur peut n’apparaître qu’en cours de garde à vue",
+    "explication": [
+      "Le premier alinéa de l’article 706-112-1 du code de procédure pénale prévoit d’aviser la personne chargée de la protection juridique lorsque la mesure de protection apparaît au cours de la garde à vue. Le Conseil constitutionnel a censuré l’absence de garantie suffisante en cas de prolongation ou d’audition sur des faits nouveaux.",
+      "L’abrogation est reportée au 31 octobre 2027. Entre-temps, si la mesure de protection ressort des éléments recueillis, l’officier ou l’agent de police judiciaire doit aviser le tuteur, le curateur ou le mandataire spécial en cas de prolongation ou d’audition sur des faits autres que ceux ayant motivé le placement."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042779759/",
+        "label": "Code de procédure pénale, article 706-112-1"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/juri/id/CONSTEXT000053915387",
+        "label": "QPC 2026-1191"
+      }
+    ],
+    "relation": {
+      "question": "Quand faut-il avertir le tuteur, le curateur ou le mandataire ?",
+      "participants": [
+        {
+          "role": "Déclenchement de l’avis",
+          "reference": "Code de procédure pénale, art. 706-112-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042779759/",
+          "citation": "Lorsque les éléments recueillis au cours de la garde à vue […] font apparaître que cette personne fait l’objet d’une mesure de protection juridique […]"
+        },
+        {
+          "role": "Cas couverts par la règle transitoire",
+          "reference": "Conseil constitutionnel, QPC 2026-1191",
+          "url": "https://www.legifrance.gouv.fr/juri/id/CONSTEXT000053915387",
+          "citation": "[…] en cas de prolongation de la garde à vue ou d’audition du majeur protégé sur des faits autres que ceux ayant justifié son placement […]"
+        }
+      ]
+    },
+    "entree": {
+      "titre": "On découvre qu’une personne gardée à vue est sous tutelle. Pourquoi la règle ne suffisait-elle pas ?",
+      "texte": "La police peut découvrir la mesure de protection après le début de la garde à vue. Le texte ne garantissait pas suffisamment que la personne chargée de la protection soit prévenue si la garde à vue était prolongée ou si l’audition portait sur de nouveaux faits.",
+      "raison": "La garantie était insuffisante puisque la personne pouvait être confrontée à une nouvelle étape de la procédure sans que son protecteur en soit averti. Le Conseil constitutionnel a imposé cet avis pendant la période qui précède l’abrogation.",
+      "ordre": 8
+    }
+  },
+  {
+    "id": "energie-silence",
+    "type": "Inconstitutionnalité constatée",
+    "domaine": "Régulation de l’énergie",
+    "titre": "Le droit de répondre implique le droit d’être averti qu’on peut se taire",
+    "explication": [
+      "Le comité de règlement des différends et des sanctions de la Commission de régulation de l’énergie peut recueillir les observations de la personne mise en cause. Le code prévoit qu’elle puisse présenter sa défense, mais les dispositions censurées omettaient la notification de son droit de se taire.",
+      "Le Conseil constitutionnel reporte leur abrogation au 31 octobre 2027 pour préserver la possibilité de présenter des observations et d’être entendu. Dès la publication de la décision, il impose au comité d’informer la personne de son droit de se taire, jusqu’à l’entrée en vigueur d’une nouvelle loi ou jusqu’à l’abrogation."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000023985804",
+        "label": "Code de l’énergie, articles L. 134-25-1 et L. 134-31"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054633605",
+        "label": "QPC 2026-1219, § 29 à 31"
+      }
+    ],
+    "relation": {
+      "question": "Quelle garantie accompagner la présentation d’observations ?",
+      "participants": [
+        {
+          "role": "Disposition du code",
+          "reference": "Code de l’énergie, art. L. 134-31",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042144977",
+          "citation": "[…] de présenter ses observations écrites et, lors de la séance publique, orales."
+        },
+        {
+          "role": "Garantie applicable immédiatement",
+          "reference": "Conseil constitutionnel, QPC 2026-1219, § 30",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054633605",
+          "citation": "[…] la personne mise en cause […] doit être informée de son droit de se taire."
+        }
+      ]
+    },
+    "entree": {
+      "titre": "On vous demande de répondre avant de vous sanctionner. Doit-on vous dire que vous pouvez vous taire ?",
+      "texte": "Le code prévoit que l’autorité de régulation de l’énergie recueille les observations du mis en cause. Les passages censurés ne prévoyaient pas de l’informer de son droit de se taire.",
+      "raison": "La procédure est incomplète puisque la personne est invitée à s’expliquer sans être avertie qu’elle peut garder le silence. Le Conseil constitutionnel impose cet avertissement dès maintenant.",
+      "ordre": 9
     }
   },
   {
@@ -2228,345 +455,8 @@
     "entree": {
       "titre": "Le plafond d’indemnisation est jugé contraire à la Charte sociale. Pourquoi reste-t-il appliqué ?",
       "texte": "Le Comité européen des droits sociaux estime que le plafond français peut empêcher une réparation suffisante. La Cour de cassation juge que le salarié ne peut pas invoquer directement la disposition de la Charte contre son employeur. Le constat européen ne suffit donc pas à écarter le plafond aux prud’hommes.",
-      "ordre": 5,
+      "ordre": 10,
       "raison": "La tension subsiste puisque le barème reste applicable devant le juge français alors que le Comité européen a conclu qu’il contrevient à la Charte. La Cour de cassation juge que cette disposition de la Charte ne peut pas être invoquée directement entre salarié et employeur."
-    }
-  },
-  {
-    "id": "licenciement-nul-plancher",
-    "type": "Exception explicite",
-    "domaine": "Travail",
-    "titre": "À deux ans d’ancienneté, un licenciement nul change l’échelle de l’indemnité",
-    "explication": [
-      "Pour un licenciement sans cause réelle et sérieuse, si la réintégration est refusée, le barème fixe à trois mois et demi de salaire brut le maximum pour deux années complètes d’ancienneté.",
-      "Si le juge constate une nullité visée par l’article L. 1235-3-1, par exemple pour discrimination ou harcèlement, il écarte ce barème. Lorsque la poursuite du contrat n’est pas demandée ou que la réintégration est impossible, l’indemnité ne peut alors être inférieure aux salaires des six derniers mois."
-    ],
-    "sources": [
-      {
-        "label": "Barème du code du travail",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762052/2026-09-24"
-      },
-      {
-        "label": "Nullités et indemnisation",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762026/2026-03-18"
-      }
-    ],
-    "relation": {
-      "question": "Comment la qualification du licenciement change-t-elle l’indemnité sans réintégration ?",
-      "participants": [
-        {
-          "role": "Plafond selon l’ancienneté",
-          "reference": "Code du travail, art. L. 1235-3",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762052/2026-09-24",
-          "citation": "[…] compris entre les montants minimaux et maximaux fixés dans le tableau ci-dessous."
-        },
-        {
-          "role": "Minimum en cas de nullité",
-          "reference": "Code du travail, art. L. 1235-3-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762026/2026-03-18",
-          "citation": "[…] ne peut être inférieure aux salaires des six derniers mois."
-        }
-      ]
-    },
-    "entree": {
-      "titre": "Pour deux ans d’ancienneté, 3,5 mois maximum ou six mois minimum ?",
-      "texte": "Si le juge écarte le motif du licenciement et qu’il n’y a pas de réintégration, l’article L. 1235-3 plafonne l’indemnité à 3,5 mois de salaire. Si le licenciement est nul, par exemple pour discrimination, l’article suivant écarte ce plafond et garantit au moins six mois dans les conditions qu’il fixe. Le montant dépend de ce que le juge constate.",
-      "ordre": 3,
-      "raison": "Les deux montants sont incompatibles si on applique les deux calculs au même licenciement. Le code règle le problème puisque, dès que le juge constate une des nullités prévues, le plafond ordinaire est écarté."
-    }
-  },
-  {
-    "id": "prescription-discrimination-travail",
-    "type": "Exception explicite",
-    "domaine": "Travail",
-    "titre": "Le délai de contestation de la rupture ne gouverne pas la réparation d’une discrimination",
-    "explication": [
-      "Le code du travail fixe en principe un délai de douze mois à compter de la notification de la rupture pour agir à son sujet. Le même article écarte ce délai pour les actions relevant de l’article L. 1134-5.",
-      "L’action en réparation du préjudice résultant d’une discrimination se prescrit par cinq ans à compter de sa révélation. Dans un litige qui suit une rupture, il faut donc identifier la demande formulée et les faits sur lesquels elle repose."
-    ],
-    "sources": [
-      {
-        "label": "Prescription de droit commun",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035643612/"
-      },
-      {
-        "label": "Réparation du préjudice discriminatoire",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461494"
-      }
-    ],
-    "relation": {
-      "question": "Quel délai s’applique à la demande de réparation d’une discrimination révélée après la rupture ?",
-      "participants": [
-        {
-          "role": "Délai ordinaire de la rupture",
-          "reference": "Code du travail, art. L. 1471-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035643612/",
-          "citation": "[…] douze mois à compter de la notification de la rupture."
-        },
-        {
-          "role": "Délai spécial de réparation",
-          "reference": "Code du travail, art. L. 1134-5",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461494",
-          "citation": "[…] cinq ans à compter de la révélation de la discrimination."
-        }
-      ]
-    }
-  },
-  {
-    "id": "heures-supplementaires-repos-prescription",
-    "type": "Articulation de régimes",
-    "domaine": "Travail",
-    "titre": "Les heures supplémentaires et le repos manqué peuvent relever de deux délais",
-    "explication": [
-      "Une demande de paiement d’heures supplémentaires relève de la prescription salariale de trois ans. Lorsque l’employeur a privé le salarié de la possibilité de prendre sa contrepartie obligatoire en repos en omettant de l’informer de ses droits, la Cour de cassation qualifie l’indemnité demandée de dommages-intérêts.",
-      "Cette demande indemnitaire relève du délai de deux ans applicable à l’exécution du contrat. Les mêmes heures peuvent donc être à l’origine de demandes dont la prescription diffère selon la créance invoquée."
-    ],
-    "sources": [
-      {
-        "label": "Cour de cassation, 25 juin 2025, n° 23-19.887",
-        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000051823986"
-      },
-      {
-        "label": "Cour de cassation, 3 juillet 2024, rappel de salaire pour heures supplémentaires",
-        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000049989006"
-      }
-    ],
-    "relation": {
-      "question": "Quel délai s’applique selon que les heures doivent être payées ou que le repos a été perdu ?",
-      "participants": [
-        {
-          "role": "Paiement du salaire",
-          "reference": "Code du travail, art. L. 3245-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027566295/2026-09-07",
-          "citation": "L’action en paiement ou en répétition du salaire se prescrit par trois ans […]"
-        },
-        {
-          "role": "Exécution du contrat",
-          "reference": "Code du travail, art. L. 1471-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035643612/",
-          "citation": "Toute action portant sur l’exécution du contrat de travail se prescrit par deux ans […]"
-        },
-        {
-          "role": "Qualification du repos manqué",
-          "reference": "Cour de cassation, n° 23-19.887",
-          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000051823986",
-          "citation": "[…] a la nature de dommages-intérêts et porte sur l’exécution du contrat de travail […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "preuve-heures-plafond",
-    "type": "Articulation de régimes",
-    "domaine": "Travail",
-    "titre": "Les deux parties documentent les heures travaillées, l’employeur prouve le respect des plafonds",
-    "explication": [
-      "Pour un rappel de salaire, le salarié présente des éléments suffisamment précis sur les heures qu’il affirme avoir travaillées. L’employeur y répond avec ses propres éléments et le juge apprécie l’ensemble.",
-      "Quand le litige porte sur le respect des durées maximales, la charge de la preuve incombe à l’employeur. La Cour de cassation distingue les deux questions dans un même arrêt du 20 novembre 2024."
-    ],
-    "sources": [
-      {
-        "label": "Code du travail, preuve des horaires",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902808/2026-10-01"
-      },
-      {
-        "label": "Cour de cassation, 20 novembre 2024, n° 23-12.604",
-        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000050784083"
-      }
-    ],
-    "relation": {
-      "question": "Qui doit prouver quoi quand le salarié affirme avoir travaillé trop longtemps ?",
-      "participants": [
-        {
-          "role": "Preuve des heures accomplies",
-          "reference": "Code du travail, art. L. 3171-4",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902808/2026-10-01",
-          "citation": "Au vu de ces éléments et de ceux fournis par le salarié à l’appui de sa demande, le juge forme sa conviction […]"
-        },
-        {
-          "role": "Preuve du respect des plafonds",
-          "reference": "Cour de cassation, n° 23-12.604",
-          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000050784083",
-          "citation": "[…] à la preuve du respect des seuils et plafonds […] qui incombe à l’employeur."
-        }
-      ]
-    }
-  },
-  {
-    "id": "succession-usufruit-conjoint",
-    "type": "Articulation de régimes",
-    "domaine": "Successions",
-    "titre": "En famille recomposée, un époux peut prévoir un usufruit que la loi n’attribue pas d’office",
-    "explication": [
-      "Lorsque tous les enfants sont communs aux deux époux, le conjoint survivant a, au titre de la succession légale, le choix entre l’usufruit de la totalité des biens existants et la pleine propriété du quart. Lorsqu’au moins un enfant du défunt n’est pas commun, l’article 757 lui attribue le quart en pleine propriété et ne lui donne pas cette option.",
-      "L’article 1094-1 permet toutefois à un époux de disposer en faveur de l’autre de la totalité de ses biens en usufruit, même en présence de descendants non communs. Le résultat dépend donc de l’existence d’une libéralité et de son contenu."
-    ],
-    "sources": [
-      {
-        "label": "Droits successoraux légaux du conjoint",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431087"
-      },
-      {
-        "label": "Libéralités entre époux en présence de descendants",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435800"
-      }
-    ],
-    "relation": {
-      "question": "Le conjoint survivant peut-il recevoir l’usufruit de tous les biens si le défunt laisse un enfant d’une autre union ?",
-      "participants": [
-        {
-          "role": "Dévolution légale",
-          "reference": "Code civil, art. 757",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431087",
-          "citation": "[…] la propriété du quart en présence d’un ou plusieurs enfants qui ne sont pas issus des deux époux."
-        },
-        {
-          "role": "Libéralité entre époux",
-          "reference": "Code civil, art. 1094-1",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435800",
-          "citation": "[…] soit encore de la totalité de ses biens en usufruit seulement."
-        }
-      ]
-    }
-  },
-  {
-    "id": "succession-logement-testament",
-    "type": "Articulation de régimes",
-    "domaine": "Successions",
-    "titre": "Le testament peut écarter le droit viager au logement, mais la première année est protégée",
-    "explication": [
-      "Lorsque le conjoint survivant occupait à titre principal un logement appartenant aux époux ou dépendant entièrement de la succession, l’article 763 lui garantit une année de jouissance gratuite. Cette protection est d’ordre public.",
-      "Le droit d’habitation jusqu’au décès, prévu à l’article 764 sous ses propres conditions, peut être écarté par le défunt dans les formes du testament authentique prévues par l’article 971. Cette faculté concerne le droit viager."
-    ],
-    "sources": [
-      {
-        "label": "Droit temporaire au logement",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431113/2026-09-01"
-      },
-      {
-        "label": "Droit viager au logement",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431120/2026-09-01"
-      }
-    ],
-    "relation": {
-      "question": "Dans quelle mesure le défunt peut-il écarter le droit du conjoint survivant de rester dans le logement ?",
-      "participants": [
-        {
-          "role": "Protection temporaire",
-          "reference": "Code civil, art. 763",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431113/2026-09-01",
-          "citation": "[…] pendant une année, la jouissance gratuite de ce logement […]. […] Le présent article est d’ordre public."
-        },
-        {
-          "role": "Droit viager aménageable",
-          "reference": "Code civil, art. 764",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431120/2026-09-01",
-          "citation": "Sauf volonté contraire du défunt exprimée dans les conditions de l’article 971 […]"
-        }
-      ]
-    }
-  },
-  {
-    "id": "pacs-logement-temporaire",
-    "type": "Articulation de régimes",
-    "domaine": "Successions",
-    "titre": "Le Pacs reprend le droit temporaire au logement sans sa protection d’ordre public",
-    "explication": [
-      "Lorsque les conditions légales sont remplies, le conjoint marié et le partenaire pacsé survivant peuvent bénéficier d’une année de jouissance gratuite du logement principal. L’article 515-6 étend au partenaire les deux premiers alinéas de l’article 763.",
-      "Le renvoi s’arrête avant l’alinéa qui rend la protection d’ordre public pour le conjoint marié. Pour un logement dont le défunt était propriétaire, celui-ci peut donc écarter par testament le droit d’occupation temporaire du partenaire pacsé."
-    ],
-    "sources": [
-      {
-        "label": "DILA, logement du partenaire survivant",
-        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1621"
-      }
-    ],
-    "relation": {
-      "question": "Un testament peut-il écarter la première année de jouissance gratuite ?",
-      "participants": [
-        {
-          "role": "Protection d’ordre public du conjoint marié",
-          "reference": "Code civil, art. 763",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431113/2026-09-01",
-          "citation": "Le présent article est d’ordre public."
-        },
-        {
-          "role": "Renvoi limité pour le partenaire pacsé",
-          "reference": "Code civil, art. 515-6",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006428547/2026-10-27",
-          "citation": "[…] le survivant peut se prévaloir des dispositions des deux premiers alinéas de l’article 763."
-        }
-      ]
-    }
-  },
-  {
-    "id": "pacs-heritage-fiscalite",
-    "type": "Articulation de régimes",
-    "domaine": "Successions",
-    "titre": "Le partenaire pacsé est exonéré sur un legs sans être héritier de droit",
-    "explication": [
-      "La dévolution légale bénéficie aux parents et au conjoint successibles. Le partenaire pacsé ne reçoit donc pas de part de la succession en cette seule qualité. Un testament peut lui attribuer un legs dans les limites fixées par le droit civil.",
-      "Le code général des impôts exonère le conjoint survivant et le partenaire pacsé de droits de mutation par décès. Cette exonération s’applique à ce que le partenaire reçoit et ne lui donne aucune part dans la dévolution légale."
-    ],
-    "sources": [
-      {
-        "label": "DILA, succession après le décès du partenaire",
-        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1621"
-      }
-    ],
-    "relation": {
-      "question": "L’exonération de droits de succession fait-elle du partenaire pacsé un héritier de droit ?",
-      "participants": [
-        {
-          "role": "Personnes appelées par la loi",
-          "reference": "Code civil, art. 731",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430924/2026-08-28",
-          "citation": "La succession est dévolue par la loi aux parents et au conjoint successibles du défunt […]"
-        },
-        {
-          "role": "Exonération fiscale",
-          "reference": "Code général des impôts, art. 796-0 bis",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305480/2026-10-28",
-          "citation": "Sont exonérés de droits de mutation par décès le conjoint survivant et le partenaire lié au défunt par un pacte civil de solidarité."
-        }
-      ]
-    }
-  },
-  {
-    "id": "reserve-renonciation-anticipee",
-    "type": "Articulation de régimes",
-    "domaine": "Successions",
-    "titre": "Un héritier peut renoncer à faire réduire une libéralité avant l’ouverture de la succession",
-    "explication": [
-      "La réserve héréditaire protège une part de la succession pour certains héritiers. L’article 929 permet toutefois à un héritier réservataire présomptif de renoncer à exercer l’action en réduction au profit d’une ou de plusieurs personnes déterminées.",
-      "La renonciation vise l’action contre une atteinte à la réserve. Elle peut être limitée à une fraction de celle-ci ou à une libéralité portant sur un bien déterminé. Elle laisse subsister la qualité d’héritier."
-    ],
-    "sources": [
-      {
-        "label": "Réserve héréditaire",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435530/2026-08-28"
-      },
-      {
-        "label": "Renonciation anticipée à l’action en réduction",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433772/2026-05-28"
-      }
-    ],
-    "relation": {
-      "question": "La réserve peut-elle être protégée par la loi alors que l’héritier renonce d’avance à agir ?",
-      "participants": [
-        {
-          "role": "Part protégée",
-          "reference": "Code civil, art. 912",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006435530/2026-08-28",
-          "citation": "[…] dont la loi assure la dévolution libre de charges à certains héritiers dits réservataires […]"
-        },
-        {
-          "role": "Renonciation à l’action",
-          "reference": "Code civil, art. 929",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006433772/2026-05-28",
-          "citation": "Tout héritier réservataire présomptif peut renoncer à exercer une action en réduction dans une succession non ouverte."
-        }
-      ]
     }
   },
   {
@@ -2601,45 +491,51 @@
           "citation": "[…] peuvent effectuer un prélèvement compensatoire sur les biens existants situés en France au jour du décès […]"
         }
       ]
+    },
+    "entree": {
+      "titre": "Une loi étrangère régit toute la succession. Pourquoi la France peut-elle quand même prélever une part ?",
+      "texte": "Le règlement européen désigne une loi pour l’ensemble de la succession. Si cette loi ne prévoit aucune réserve pour les enfants, le code français leur permet, sous conditions, de prélever une part sur les biens situés en France.",
+      "raison": "Les deux règles se heurtent puisque la loi étrangère peut permettre de ne rien laisser aux enfants alors que la règle française leur ouvre un prélèvement sur les biens en France. La Commission européenne a engagé un dialogue avec la France sur cette compatibilité.",
+      "ordre": 11
     }
   },
   {
-    "id": "rsa-droit-versement-suspendu",
+    "id": "territoriaux-conges-indemnisation",
     "type": "Articulation de régimes",
-    "domaine": "Aide sociale",
-    "titre": "Le foyer remplit la condition de ressources du RSA et le département peut suspendre le versement",
-    "entree": {
-      "ordre": 6,
-      "titre": "Le code dit que j’ai droit au RSA. Pourquoi peut-on suspendre mon versement ?",
-      "texte": "Le foyer a toujours aussi peu de ressources. L’article L. 262-2 ouvre le droit au RSA sous les conditions du chapitre. L’article L. 262-37 permet au département d’en suspendre le paiement si le bénéficiaire ne respecte pas certaines obligations sans motif légitime.",
-      "raison": "Les deux articles peuvent donner l’impression de se contredire puisque le besoin d’aide reste le même alors que le paiement peut s’arrêter. Le premier article définit le droit sous conditions. Le second prévoit une sanction distincte du calcul des ressources."
-    },
+    "domaine": "Fonction publique",
+    "titre": "Un congé reportable peut rester sans indemnité au départ de l’agent",
     "explication": [
-      "Le président du conseil départemental peut suspendre tout ou partie du versement si, sans motif légitime, le bénéficiaire refuse d’élaborer ou d’actualiser son contrat d’engagement ou manque à une obligation prévue par celui-ci.",
-      "Si le bénéficiaire se conforme à ses obligations avant la fin de la suspension, le président du conseil départemental y met fin. Le seul niveau de ressources ne permet donc pas de déterminer si le paiement sera effectué pendant la période concernée."
+      "Pour un fonctionnaire territorial empêché de prendre ses congés annuels dans l’intérêt du service, l’article 5-1 permet le report des droits au-delà des quatre premières semaines. À la fin de la relation de travail, l’article 5-2 limite pourtant l’indemnité aux droits non utilisés des quatre premières semaines par période de référence.",
+      "Le congé lié aux responsabilités parentales ou familiales écarte le plafond dans les deux cas. Le décret distingue ainsi la possibilité de prendre des jours plus tard et la possibilité d’obtenir leur paiement au départ."
     ],
     "sources": [
       {
-        "label": "Code de l’action sociale et des familles, chapitre sur le RSA",
-        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006128458"
+        "label": "Décret n° 85-1250 consolidé",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000690444/2026-10-05"
       }
     ],
     "relation": {
-      "question": "Le département peut-il suspendre le paiement même si les ressources du foyer ne changent pas ?",
+      "question": "Les jours que l’agent pouvait reporter dans l’intérêt du service sont-ils tous indemnisables ?",
       "participants": [
         {
-          "role": "Ouverture du droit",
-          "reference": "Code de l’action sociale et des familles, art. L. 262-2",
-          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031087764/2026-08-05",
-          "citation": "[…] a droit au revenu de solidarité active dans les conditions définies au présent chapitre."
+          "role": "Report lié à l’intérêt du service",
+          "reference": "Décret n° 85-1250, art. 5-1, IV",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054670012/2026-08-13",
+          "citation": "A l’exclusion du cas où le fonctionnaire bénéficie d’un report […] pour des raisons tirées de l’intérêt du service le report est limité […]"
         },
         {
-          "role": "Suspension du paiement",
-          "reference": "Code de l’action sociale et des familles, art. L. 262-37, I",
-          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006128458",
-          "citation": "[…] peut décider la suspension, en tout ou partie et pour une durée qu’il fixe, du versement du revenu de solidarité active […]"
+          "role": "Plafond de l’indemnité au départ",
+          "reference": "Décret n° 85-1250, art. 5-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054670008/2026-08-13",
+          "citation": "[…] cette indemnité ne compense que les droits non-utilisés relevant des quatre premières semaines de congé annuel par période de référence."
         }
       ]
+    },
+    "entree": {
+      "titre": "La cinquième semaine de congés compte encore. Pourquoi n’est-elle pas payée au départ ?",
+      "texte": "Un agent territorial n’a pas pu prendre sa cinquième semaine parce que son service avait besoin de lui. L’article 5-1 lui permet de la prendre plus tard. S’il quitte son emploi avant de la prendre, l’article 5-2 limite le paiement aux quatre premières semaines. Pour ces jours-là, il a donc un droit au report, mais aucune indemnité au départ.",
+      "ordre": 12,
+      "raison": "L’effet peut surprendre puisque les mêmes jours restent utilisables tant que l’agent est en poste, puis cessent d’être indemnisables à son départ. Les articles distinguent le droit de prendre des jours et le droit d’en obtenir le paiement."
     }
   }
 ]
