@@ -4966,5 +4966,48 @@
         "permis-construire-affichage-fin-travaux"
       ]
     }
+  },
+  {
+    "id": "cloture-declaration-limite-communale",
+    "type": "Articulation de régimes",
+    "domaine": "Urbanisme",
+    "titre": "Un même grillage peut être dispensé de déclaration d’un côté de la rue et soumis à déclaration de l’autre",
+    "entree": {
+      "ordre": 112,
+      "titre": "Même grillage, deux côtés d’une limite communale. Un seul propriétaire doit le déclarer.",
+      "face_a_face": "L’article R. 421-2 du Code de l’urbanisme dispense en principe les clôtures de formalité, tandis que l’article R. 421-12 exige une déclaration préalable dans les communes ou secteurs qui ont décidé d’en demander une.",
+      "texte": "Deux voisins posent le même grillage autour de leur jardin. Leurs terrains sont dans deux communes différentes et hors des zones spécialement protégées. Une seule commune a décidé de soumettre les clôtures à déclaration. Seul le propriétaire du terrain situé de ce côté de la limite doit déposer une déclaration préalable.",
+      "raison": "Le grillage peut avoir exactement la même hauteur et le même aspect. L’obligation administrative change parce que la décision locale s’applique à la parcelle d’un seul voisin."
+    },
+    "explication": [
+      "La dispense de formalité ne dispense pas de respecter les règles d’urbanisme applicables au terrain. L’article R. 421-12 prévoit aussi des cas liés au classement ou à la protection du secteur. L’exemple concerne un grillage de jardin ordinaire."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050497056/2026-11-21",
+        "label": "Code de l’urbanisme, article R. 421-2"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355392/2026-11-21",
+        "label": "Code de l’urbanisme, article R. 421-12"
+      }
+    ],
+    "relation": {
+      "question": "Une décision locale peut-elle rendre obligatoire une déclaration pour le même grillage ?",
+      "participants": [
+        {
+          "role": "Dispense de principe",
+          "reference": "Code de l’urbanisme, art. R. 421-2, g",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050497056/2026-11-21",
+          "citation": "« Les clôtures, en dehors des cas prévus à l’article R. 421-12 […] »"
+        },
+        {
+          "role": "Déclaration sur décision locale",
+          "reference": "Code de l’urbanisme, art. R. 421-12, d",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355392/2026-11-21",
+          "citation": "« […] a décidé de soumettre les clôtures à déclaration. »"
+        }
+      ]
+    }
   }
 ]
