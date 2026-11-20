@@ -8227,11 +8227,11 @@
     "id": "hlm-surloyer-et-depart-plafonds",
     "type": "Articulation de régimes",
     "domaine": "Logement",
-    "titre": "Vos revenus augmentent en HLM. Vous pouvez payer un surloyer ou perdre le droit de rester.",
+    "titre": "Deux ménages au même revenu. L’un peut rester en HLM, l’autre peut devoir partir.",
     "explication": [
       "L’exemple suppose des logements financés par un prêt locatif social, en zone concernée et sans exception applicable. Pour le surloyer, le plafond dépend du logement occupé. Pour la perte du droit de rester, le texte prend comme référence le plafond des logements financés par un prêt locatif social, dit PLS.",
       "À 130 % du plafond PLS, vous restez sous le seuil de 150 % si vous répondez à l’enquête. Si vous ne répondez pas deux ans de suite, l’article L. 442-3-4 peut en revanche vous faire perdre le droit de rester à l’issue d’un délai de 18 mois, dans les zones visées et hors exceptions. Pour retrouver ce droit pendant le délai sur le fondement de son II, il faut fournir les documents demandés et prouver des ressources inférieures au plafond PLS. À 130 %, communiquer les documents tardivement ne suffit donc pas à remplir cette condition.",
-      "Le même article L. 442-3-3 utilise deux seuils. Avec des revenus à 130 % du plafond PLS depuis le début, vous ne déclenchez pas la procédure liée au dépassement de 150 %. En revanche, si vos revenus ont d’abord dépassé 150 % deux années de suite puis retombent à 130 % pendant le délai de 18 mois, cette baisse ne suffit pas, à elle seule, à retrouver le droit de rester. Le II exige de prouver qu’ils sont devenus inférieurs à 100 % du plafond PLS, par exemple 95 %."
+      "L’article L. 441-3 prévoit un surloyer dès que les revenus dépassent d’au moins 20 % le plafond du logement. Dans les zones visées, l’article L. 442-3-3 peut faire perdre le droit de rester après 2 années consécutives au-dessus de 150 % du plafond PLS. Deux ménages occupent des logements sociaux financés par le même type de prêt. Le premier atteint 130 % du plafond PLS et paie un surloyer, mais ce dépassement ne suffit pas à lui faire perdre le bail. Le second atteint 160 % deux années de suite. Sauf exception, le droit de rester peut prendre fin 18 mois après le 1er janvier qui suit les résultats de la deuxième enquête."
     ],
     "sources": [
       {
@@ -8248,7 +8248,7 @@
       }
     ],
     "relation": {
-      "question": "À quel moment la hausse des revenus change-t-elle le droit d’habiter dans le logement ?",
+      "question": "Pourquoi deux ménages aux mêmes revenus actuels peuvent-ils avoir un droit différent à rester ?",
       "participants": [
         {
           "role": "Supplément de loyer à partir de 20 % de dépassement",
@@ -8280,10 +8280,10 @@
       ]
     },
     "entree": {
-      "titre": "Vos revenus augmentent en HLM. Vous pouvez payer un surloyer ou perdre le droit de rester.",
-      "face_a_face": "L’article L. 441-3 prévoit un surloyer dès que les revenus dépassent d’au moins 20 % le plafond du logement. Dans les zones visées, l’article L. 442-3-3 peut faire perdre le droit de rester après 2 années consécutives au-dessus de 150 % du plafond PLS.",
-      "texte": "Deux ménages occupent des logements sociaux financés par le même type de prêt. Le premier atteint 130 % du plafond PLS et paie un surloyer, mais ce dépassement ne suffit pas à lui faire perdre le bail. Le second atteint 160 % deux années de suite. Sauf exception, le droit de rester peut prendre fin 18 mois après le 1er janvier qui suit les résultats de la deuxième enquête.",
-      "raison": "Le seuil qui augmente la facture est inférieur au seuil qui peut faire perdre le logement. La perte du droit de rester exige aussi que le dépassement dure deux années de suite.",
+      "titre": "Deux ménages au même revenu. L’un peut rester en HLM, l’autre peut devoir partir.",
+      "face_a_face": "Le I de l’article L. 442-3-3 déclenche la procédure au-dessus de 150 % du plafond des logements financés par un prêt locatif social (PLS) pendant deux ans de suite. Le II exige de redescendre sous 100 % de ce plafond pendant les 18 mois suivants pour retrouver le droit de rester.",
+      "texte": "Deux ménages en HLM ont aujourd’hui des revenus à 130 % du plafond PLS. Le premier n’a jamais dépassé 150 %. Le second vient de retomber de 160 %, après deux années consécutives à ce niveau. Dans une zone concernée et en l’absence d’exception, le premier peut rester. Le second risque encore de devoir partir.",
+      "raison": "Le seuil pour éviter la procédure est plus haut que celui pour en sortir. À revenu égal aujourd’hui, les revenus des deux années précédentes peuvent décider qui garde son logement.",
       "ordre": 170
     }
   }
