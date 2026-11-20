@@ -4485,5 +4485,52 @@
         "licenciement-discrimination-deux-delais"
       ]
     }
+  },
+  {
+    "id": "condamnation-appel-revision-fait-nouveau",
+    "type": "Articulation de régimes",
+    "domaine": "Justice pénale",
+    "titre": "Dix jours pour faire appel, mais un élément nouveau peut rouvrir une condamnation devenue définitive",
+    "entree": {
+      "ordre": 102,
+      "titre": "Votre condamnation est définitive. Une preuve inconnue au procès peut encore tout changer.",
+      "face_a_face": "L’article 498 du Code de procédure pénale donne en principe dix jours pour faire appel d’un jugement correctionnel, tandis que l’article 622 permet de demander la révision d’une condamnation définitive si un élément nouveau fait douter de la culpabilité.",
+      "texte": "Vous êtes condamné pour un délit et le jugement devient définitif. Trois ans plus tard, une expertise jusque-là inconnue permet de remettre en question votre identification. Le délai d’appel est passé, mais cet élément peut justifier une demande de révision.",
+      "raison": "L’appel sert à contester le jugement dans les délais ordinaires. La révision peut rouvrir le dossier parce qu’un fait nouveau ou un élément inconnu des juges au procès change ce qu’on sait de votre culpabilité."
+    },
+    "explication": [
+      "L’article 498 prévoit des exceptions au point de départ du délai. Si la cour de révision estime la demande fondée, elle peut annuler la condamnation et, si de nouveaux débats sont possibles, renvoyer l’affaire devant une autre juridiction de même ordre et de même degré."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021331547/2026-11-21",
+        "label": "Code de procédure pénale, article 498"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029122006/2026-11-21",
+        "label": "Code de procédure pénale, article 622"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000029112899",
+        "label": "Code de procédure pénale, article 624-7"
+      }
+    ],
+    "relation": {
+      "question": "Peut-on rouvrir un dossier pénal après la fin des délais d’appel ?",
+      "participants": [
+        {
+          "role": "Délai ordinaire d’appel correctionnel",
+          "reference": "Code de procédure pénale, art. 498",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021331547/2026-11-21",
+          "citation": "« […] l’appel est interjeté dans le délai de dix jours à compter du prononcé du jugement contradictoire. »"
+        },
+        {
+          "role": "Révision pour élément nouveau",
+          "reference": "Code de procédure pénale, art. 622",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029122006/2026-11-21",
+          "citation": "« […] un fait nouveau ou […] un élément inconnu de la juridiction au jour du procès […] »"
+        }
+      ]
+    }
   }
 ]
