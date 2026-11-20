@@ -24,3 +24,10 @@ Le décompte repose sur des identifiants de versions et leurs dates. Les listes 
 Le relevé des dérogations explicites repère des formulations comme « nonobstant toutes dispositions contraires », y compris sans article cité. Un résultat peut être une exception voulue, une règle intégrée au même article ou une mesure dont la période est terminée. Le script produit des pistes à relire, sans conclure à un conflit.
 
 [Archives LEGI de la DILA](https://echanges.dila.gouv.fr/OPENDATA/LEGI/)
+
+Pour le décompte au 21 novembre, appliquer ensuite l’archive supplémentaire et changer la date de validité. Le tirage publié et sa relecture restent rattachés à l’extraction du 20 novembre.
+
+```bash
+curl -fsSL "${base}LEGI_20261120-222218.tar.gz" | python3 index.py legi.sqlite
+python3 coverage.py legi.sqlite 2026-11-21 > coverage-2026-11-21.csv
+```
