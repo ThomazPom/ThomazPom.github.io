@@ -1411,5 +1411,51 @@
         }
       ]
     }
+  },
+  {
+    "id": "assurance-sans-permis-victime",
+    "type": "Articulation de régimes",
+    "domaine": "Assurance",
+    "titre": "Même si le contrat exclut le conducteur sans permis, l’assureur paie la victime",
+    "entree": {
+      "ordre": 32,
+      "titre": "Un conducteur sans permis vous blesse. Son assureur peut-il refuser de payer ?",
+      "face_a_face": "L’article R. 211-10 autorise une clause excluant la garantie si le conducteur n’a pas le permis requis, tandis que l’article R. 211-13 interdit à l’assureur d’opposer cette exclusion à la victime.",
+      "texte": "Si la clause s’applique, l’assureur paie l’indemnité à la victime pour le compte du responsable, puis peut lui demander de rembourser les sommes versées.",
+      "raison": "Ça semble contradictoire puisque l’assureur peut refuser la garantie au responsable tout en étant tenu de payer le même dommage à la victime. Le code sépare l’indemnisation de la victime et la personne qui supportera finalement le coût."
+    },
+    "explication": [
+      "L’exclusion doit figurer au contrat et respecter les conditions de l’article R. 211-10. Cet article réserve notamment le cas du vol, de la violence ou de l’utilisation à l’insu de l’assuré.",
+      "Le recours en remboursement concerne le responsable. Le droit de la victime à l’indemnisation ne dépend pas du succès de ce recours."
+    ],
+    "sources": [
+      {
+        "label": "Code des assurances, exclusions et recours de l’assureur",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073984/LEGISCTA000006175427/2026-08-10"
+      }
+    ],
+    "relation": {
+      "question": "L’assureur peut-il invoquer l’absence de permis pour refuser de payer la victime ?",
+      "participants": [
+        {
+          "role": "Clause d’exclusion autorisée",
+          "reference": "Code des assurances, art. R. 211-10, 1°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006812132/2026-02-14",
+          "citation": "[…] ne possède pas les certificats, en état de validité, exigés par la réglementation en vigueur pour la conduite du véhicule […]"
+        },
+        {
+          "role": "Protection de la victime",
+          "reference": "Code des assurances, art. R. 211-13, 4°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048656110/2026-10-14",
+          "citation": "[…] Les exclusions de garanties prévues aux articles R. 211-10 et R. 211-11."
+        },
+        {
+          "role": "Recours de l’assureur",
+          "reference": "Code des assurances, art. R. 211-13, dernier alinéa",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048656110/2026-10-14",
+          "citation": "Il peut exercer contre ce dernier une action en remboursement […]"
+        }
+      ]
+    }
   }
 ]
