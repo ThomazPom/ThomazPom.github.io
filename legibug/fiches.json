@@ -4686,5 +4686,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "assises-acquittement-liberte-appel",
+    "type": "Articulation de régimes",
+    "domaine": "Justice pénale",
+    "titre": "Aux assises, un acquittement fait sortir de prison immédiatement même si un second procès reste possible",
+    "entree": {
+      "ordre": 106,
+      "titre": "Vous êtes acquitté. Vous sortez de prison, mais vous pouvez être rejugé.",
+      "face_a_face": "L’article 367 du Code de procédure pénale exige de libérer immédiatement l’accusé acquitté aux assises, sauf s’il est détenu pour une autre cause, tandis que l’article 380-2 permet au procureur général de faire appel de l’acquittement.",
+      "texte": "Vous comparaissez détenu devant la cour d’assises et elle vous acquitte. Si aucune autre affaire ne justifie votre détention, vous devez être libéré immédiatement. Le procureur général peut néanmoins faire appel et vous pouvez alors être jugé de nouveau.",
+      "raison": "La décision produit deux effets à deux moments différents. L’acquittement suffit tout de suite à mettre fin à la détention dans cette affaire, tandis que l’existence d’une voie d’appel laisse la décision pénale ouverte à un second procès."
+    },
+    "explication": [
+      "La comparaison concerne un acquittement rendu en premier ressort et une personne qui n’est pas détenue pour une autre cause. La partie civile ne dispose pas du même droit d’appel sur la culpabilité : son appel ne porte que sur ses intérêts civils."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048441580/2026-11-21",
+        "label": "Code de procédure pénale, article 367"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006121325/2026-11-21/",
+        "label": "Code de procédure pénale, article 380-2"
+      }
+    ],
+    "relation": {
+      "question": "Faut-il attendre que l’acquittement soit définitif pour être libéré ?",
+      "participants": [
+        {
+          "role": "Libération immédiate après acquittement",
+          "reference": "Code de procédure pénale, art. 367",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048441580/2026-11-21",
+          "citation": "« […] il est mis immédiatement en liberté s’il n’est retenu pour autre cause. »"
+        },
+        {
+          "role": "Appel possible de l’acquittement",
+          "reference": "Code de procédure pénale, art. 380-2",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006121325/2026-11-21/",
+          "citation": "« Le procureur général peut également faire appel des arrêts d’acquittement. »"
+        }
+      ]
+    }
   }
 ]
