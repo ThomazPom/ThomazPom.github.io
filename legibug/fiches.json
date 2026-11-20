@@ -4986,7 +4986,8 @@
       "raison": "Les deux textes donnent un sens opposé au silence du bail. Le Code civil permet en principe la sous-location si elle n’est pas interdite. La loi spéciale exige un accord écrit, y compris sur le prix, et fixe un plafond au mètre carré."
     },
     "explication": [
-      "L’article 1717 pose la règle générale sous réserve des régimes spéciaux. L’article 8 exige aussi de transmettre au sous-locataire l’accord écrit et une copie du bail principal. La surface utilisée pour le calcul est la surface habitable."
+      "L’article 1717 pose la règle générale sous réserve des régimes spéciaux. L’article 8 exige aussi de transmettre au sous-locataire l’accord écrit et une copie du bail principal. La surface utilisée pour le calcul est la surface habitable.",
+      "Supposons que vous ayez l’accord écrit du propriétaire pour sous-louer votre résidence principale à des touristes, que le prix respecte le plafond du bail et que les autres conditions soient remplies. L’article L. 324-1-1 du Code du tourisme fixe en principe un plafond de 120 jours par année civile et permet à la commune de le ramener à 90 jours par décision motivée. Louer 100 jours peut donc respecter le plafond dans une commune et le dépasser de 10 jours dans une autre, malgré le même accord du bailleur. Le texte réserve l’obligation professionnelle, la raison de santé et la force majeure."
     ],
     "sources": [
       {
@@ -4996,6 +4997,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806569",
         "label": "Loi du 6 juillet 1989, article 8"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050623378/2026-11-21",
+        "label": "Code du tourisme, article L. 324-1-1"
       }
     ],
     "relation": {
@@ -5012,6 +5017,12 @@
           "reference": "Loi du 6 juillet 1989, art. 8",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806569",
           "citation": "« […] sauf avec l’accord écrit du bailleur, y compris sur le prix du loyer. »"
+        },
+        {
+          "role": "Sous-location touristique de la résidence principale, plafond annuel",
+          "reference": "Code du tourisme, art. L. 324-1-1, IV",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050623378/2026-11-21",
+          "citation": "« […] dans la limite de quatre-vingt-dix jours. »"
         }
       ]
     }
