@@ -1943,5 +1943,49 @@
         }
       ]
     }
+  },
+  {
+    "id": "copropriete-charges-clause-illegale",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Gagner contre une mauvaise répartition des charges ne la corrige que pour l’avenir",
+    "entree": {
+      "ordre": 44,
+      "titre": "Le juge vous donne raison sur les charges d’ascenseur. Pourquoi la facture ne change-t-elle que l’année suivante ?",
+      "face_a_face": "L’article 10 de la loi sur la copropriété impose de répartir les charges d’ascenseur selon l’utilité de l’équipement pour chaque lot, tandis que l’article 43 ne fait démarrer la répartition corrigée qu’au premier jour de l’exercice comptable suivant le jugement définitif.",
+      "texte": "Votre appartement au rez-de-chaussée n’a ni cave ni autre espace desservi par l’ascenseur, mais le règlement vous fait participer aux frais. Si le juge écarte la clause et que sa décision devient définitive en mars, la nouvelle répartition ne s’applique qu’au 1er janvier suivant dans une copropriété dont les comptes suivent l’année civile.",
+      "raison": "Le juge peut constater que la clause enfreint la loi tout en fixant une nouvelle répartition uniquement pour l’avenir. Vous ne pouvez donc pas obtenir un remboursement des anciennes charges en recalculant simplement les factures avec la nouvelle grille."
+    },
+    "explication": [
+      "Ce qui compte est l’utilité pour le lot. Si l’ascenseur dessert aussi la cave ou le parking du copropriétaire, le fait de ne jamais l’emprunter ne suffit pas à l’exonérer.",
+      "La Cour de cassation a rappelé en 2024 que la nouvelle répartition ne vaut que pour l’avenir. Le point de départ indiqué dans cette fiche est celui du texte actuellement applicable."
+    ],
+    "sources": [
+      {
+        "label": "Cour de cassation, 25 avril 2024, n° 22-21.828 et 22-21.921",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000049533497"
+      },
+      {
+        "label": "Cour de cassation, 2 juillet 2026, n° 24-19.787",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000054422675"
+      }
+    ],
+    "relation": {
+      "question": "À partir de quand s’applique la répartition des charges corrigée par le juge ?",
+      "participants": [
+        {
+          "role": "Répartition selon l’utilité",
+          "reference": "Loi du 10 juillet 1965, art. 10",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000880200/2026-10-06",
+          "citation": "« au regard de l’utilité objective que ces services et éléments présentent à l’égard de chaque lot »"
+        },
+        {
+          "role": "Effet reporté",
+          "reference": "Loi du 10 juillet 1965, art. 43",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000039313649",
+          "citation": "« … au premier jour de l’exercice comptable suivant la date à laquelle la décision est devenue définitive. »"
+        }
+      ]
+    }
   }
 ]
