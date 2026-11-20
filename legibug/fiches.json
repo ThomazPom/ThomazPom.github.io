@@ -5189,5 +5189,52 @@
         }
       ]
     }
+  },
+  {
+    "id": "tutelle-mariage-contrat-notaire",
+    "type": "Articulation de régimes",
+    "domaine": "Famille",
+    "titre": "Un adulte sous tutelle peut se marier sans autorisation préalable, mais doit être assisté pour signer le contrat de mariage",
+    "entree": {
+      "ordre": 117,
+      "titre": "Vous êtes sous tutelle. Vous pouvez dire oui à la mairie, mais vous ne pouvez pas signer seul le contrat chez le notaire.",
+      "face_a_face": "L’article 460 du Code civil impose d’informer le tuteur ou le curateur avant le mariage, tandis que l’article 1399 exige son assistance pour signer un contrat de mariage.",
+      "texte": "Vous êtes sous tutelle et souhaitez vous marier sous le régime de la séparation de biens. Pour le mariage, vous devez informer votre tuteur à l’avance, sans avoir à obtenir son autorisation. Pour signer le contrat qui prévoit la séparation de biens, il doit vous assister.",
+      "raison": "La loi laisse à la personne protégée le choix de se marier. Elle soumet à une protection supplémentaire le contrat qui fixe la manière dont les époux gèrent leurs biens."
+    },
+    "explication": [
+      "Le tuteur ou le curateur peut former opposition au mariage selon l’article 175. La personne chargée de la protection peut également demander au juge l’autorisation de conclure seule une convention matrimoniale dans l’intérêt de la personne protégée."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310497/2026-11-21",
+        "label": "Code civil, article 460"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310488/2026-11-21",
+        "label": "Code civil, article 1399"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310517/2026-11-21",
+        "label": "Code civil, article 175"
+      }
+    ],
+    "relation": {
+      "question": "Le tuteur doit-il seulement être informé ou aussi assister la personne ?",
+      "participants": [
+        {
+          "role": "Information préalable au mariage",
+          "reference": "Code civil, art. 460",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310497/2026-11-21",
+          "citation": "« La personne chargée de la mesure de protection est préalablement informée du projet de mariage […] »"
+        },
+        {
+          "role": "Assistance lors de la signature du contrat",
+          "reference": "Code civil, art. 1399",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310488/2026-11-21",
+          "citation": "« Le majeur en tutelle ou en curatelle ne peut passer de conventions matrimoniales sans être assisté […] »"
+        }
+      ]
+    }
   }
 ]
