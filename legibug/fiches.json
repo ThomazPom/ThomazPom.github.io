@@ -6992,7 +6992,7 @@
     "id": "livraison-en-retard-date-essentielle-remboursement",
     "type": "Articulation de régimes",
     "domaine": "Consommation",
-    "titre": "Une robe de mariage livrée trop tard peut être annulée dès le premier retard",
+    "titre": "La robe de mariage manque à la date convenue. Vous pouvez annuler sans attendre.",
     "explication": [
       "Une fois le contrat valablement annulé, l’article L. 216-7 donne au vendeur 14 jours pour rendre toutes les sommes versées. L’article L. 241-4 majore de plein droit le remboursement tardif de 10 % jusqu’à 14 jours de retard, de 20 % jusqu’à 30 jours et de 50 % ensuite."
     ],
@@ -7034,7 +7034,7 @@
       ]
     },
     "entree": {
-      "titre": "Une robe de mariage livrée trop tard peut être annulée dès le premier retard",
+      "titre": "La robe de mariage manque à la date convenue. Vous pouvez annuler sans attendre.",
       "face_a_face": "L’article L. 216-6 donne en principe au vendeur un délai supplémentaire raisonnable après une mise en demeure. Son paragraphe II autorise l’acheteur à annuler immédiatement quand le vendeur a raté une date qui était essentielle au contrat.",
       "texte": "Vous commandez une robe à 300 € en précisant avant de payer que la livraison avant votre mariage est indispensable. La date convenue passe et le vendeur propose une livraison après la cérémonie. Vous pouvez annuler aussitôt. Si le vendeur rembourse 20 jours après la fin de son délai de remboursement de 14 jours, il doit 360 € en vertu de l’article L. 241-4.",
       "raison": "Une livraison après le mariage ne remplit plus le besoin annoncé au vendeur. Pour une robe commandée sans cette échéance essentielle, un simple retard vous oblige en principe à laisser une chance au vendeur de livrer avant d’annuler.",
