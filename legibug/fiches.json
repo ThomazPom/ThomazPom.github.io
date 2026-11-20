@@ -6444,5 +6444,48 @@
         "permis-construire-affichage-fin-travaux"
       ]
     }
+  },
+  {
+    "id": "maison-detruite-reconstruction-identique",
+    "type": "Articulation de régimes",
+    "domaine": "Urbanisme",
+    "titre": "Une maison détruite peut être reconstruite là où une maison neuve serait interdite",
+    "entree": {
+      "ordre": 140,
+      "titre": "Votre maison brûle. Le terrain n’est plus constructible, mais vous pouvez parfois refaire la même maison.",
+      "face_a_face": "L’article L. 152-1 impose aux constructions de respecter le plan local d’urbanisme, tandis que l’article L. 111-15 permet de reconstruire à l’identique un bâtiment régulièrement édifié dans les dix ans de sa destruction, sauf règle contraire applicable à cette reconstruction.",
+      "texte": "Votre maison a été construite légalement. Depuis, le plan d’urbanisme interdit les nouvelles maisons dans le secteur. Après un incendie, vous pouvez en principe rebâtir la même maison dans le délai de dix ans si les règles locales ou le plan de prévention des risques ne s’opposent pas à cette reconstruction.",
+      "raison": "Le même terrain peut faire l’objet de deux réponses parce que la loi protège la reconstruction à l’identique d’un bâtiment qui existait légalement. Cette protection dépend aussi des règles locales et de prévention des risques."
+    },
+    "explication": [
+      "La reconstruction doit être à l’identique. L’article L. 111-15 réserve les dérogations prévues par la carte communale, le plan local d’urbanisme ou le plan de prévention des risques naturels prévisibles. Le droit de reconstruire ne dispense pas de demander l’autorisation d’urbanisme requise."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031211275/2026-11-21",
+        "label": "Code de l’urbanisme, article L. 152-1"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210209/2026-11-21",
+        "label": "Code de l’urbanisme, article L. 111-15"
+      }
+    ],
+    "relation": {
+      "question": "Une interdiction de construire empêche-t-elle de reconstruire à l’identique ?",
+      "participants": [
+        {
+          "role": "Conformité au plan local d’urbanisme",
+          "reference": "Code de l’urbanisme, art. L. 152-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031211275/2026-11-21",
+          "citation": "« […] sont conformes au règlement et à ses documents graphiques. »"
+        },
+        {
+          "role": "Reconstruction à l’identique dans les dix ans",
+          "reference": "Code de l’urbanisme, art. L. 111-15",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031210209/2026-11-21",
+          "citation": "« […] sa reconstruction à l’identique est autorisée dans un délai de dix ans nonobstant toute disposition d’urbanisme contraire […] »"
+        }
+      ]
+    }
   }
 ]
