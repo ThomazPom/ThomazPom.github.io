@@ -6987,5 +6987,58 @@
       "raison": "Vous avez demandé la même chose dans les deux cas. Le résultat dépend de ce que fait le vendeur. La réparation prolonge la garantie de l’ancien appareil, alors que le remplacement dans ces conditions ouvre une garantie complète à compter de la nouvelle livraison.",
       "ordre": 149
     }
+  },
+  {
+    "id": "livraison-en-retard-date-essentielle-remboursement",
+    "type": "Articulation de régimes",
+    "domaine": "Consommation",
+    "titre": "Une robe de mariage livrée trop tard peut être annulée dès le premier retard",
+    "explication": [
+      "Une fois le contrat valablement annulé, l’article L. 216-7 donne au vendeur 14 jours pour rendre toutes les sommes versées. L’article L. 241-4 majore de plein droit le remboursement tardif de 10 % jusqu’à 14 jours de retard, de 20 % jusqu’à 30 jours et de 50 % ensuite."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226955/2026-11-20",
+        "label": "Code de la consommation, article L. 216-6"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032221247/2026-11-20/",
+        "label": "Code de la consommation, article L. 216-7"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142708/2026-11-20",
+        "label": "Code de la consommation, art. L. 241-4"
+      }
+    ],
+    "relation": {
+      "question": "Faut-il laisser une deuxième chance au vendeur avant d’annuler ?",
+      "participants": [
+        {
+          "role": "Délai supplémentaire en principe",
+          "reference": "Code de la consommation, art. L. 216-6, I",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226955/2026-11-20",
+          "citation": "« […] dans un délai supplémentaire raisonnable […] »"
+        },
+        {
+          "role": "Annulation immédiate si la date est essentielle",
+          "reference": "Code de la consommation, art. L. 216-6, II",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226955/2026-11-20",
+          "citation": "« […] peut toutefois immédiatement résoudre le contrat […] »"
+        },
+        {
+          "role": "Majoration du remboursement tardif",
+          "reference": "Code de la consommation, art. L. 241-4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142708/2026-11-20",
+          "citation": "« […] de 20 % jusqu’à trente jours et de 50 % ultérieurement »"
+        }
+      ]
+    },
+    "entree": {
+      "titre": "Une robe de mariage livrée trop tard peut être annulée dès le premier retard",
+      "face_a_face": "L’article L. 216-6 donne en principe au vendeur un délai supplémentaire raisonnable après une mise en demeure. Son paragraphe II autorise l’acheteur à annuler immédiatement quand le vendeur a raté une date qui était essentielle au contrat.",
+      "texte": "Vous commandez une robe à 300 € en précisant avant de payer que la livraison avant votre mariage est indispensable. La date convenue passe et le vendeur propose une livraison après la cérémonie. Vous pouvez annuler aussitôt. Si le vendeur rembourse 20 jours après la fin de son délai de remboursement de 14 jours, il doit 360 € en vertu de l’article L. 241-4.",
+      "raison": "Une livraison après le mariage ne remplit plus le besoin annoncé au vendeur. Pour une robe commandée sans cette échéance essentielle, un simple retard vous oblige en principe à laisser une chance au vendeur de livrer avant d’annuler.",
+      "ordre": 150
+    }
   }
 ]
