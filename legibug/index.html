@@ -2300,6 +2300,14 @@ const cards = Array.from(document.querySelectorAll('#catalogue article'), card =
   text: normalize(card.textContent),
   type: card.querySelector('.topic').textContent.split(' · ')[0],
 }));
+const typesAvecDefaut = new Set([
+  'Inconstitutionnalité constatée',
+  'Lacune d’application',
+  'Renvoi incohérent',
+  'Renvoi obsolète',
+]);
+const nbDefauts = cards.filter(({ type }) => typesAvecDefaut.has(type)).length;
+category.add(new Option('Censures, renvois défectueux et lacunes (' + nbDefauts + ')', 'defauts'));
 const totals = new Map();
 for (const { type } of cards) {
   totals.set(type, (totals.get(type) ?? 0) + 1);
@@ -2312,7 +2320,10 @@ function filterCards() {
   const terms = normalize(search.value).trim().split(/\s+/);
   let visible = 0;
   for (const { card, text, type } of cards) {
-    const matchesType = !category.value || type === category.value;
+    const selected = category.value;
+    const matchesType = selected === 'defauts'
+      ? typesAvecDefaut.has(type)
+      : !selected || type === selected;
     card.hidden = !(matchesType && terms.every(term => text.includes(term)));
     if (!card.hidden) visible += 1;
   }
