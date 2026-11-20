@@ -125,6 +125,19 @@ function filterCards() {
 panel.hidden = false;
 search.addEventListener('input', filterCards);
 category.addEventListener('change', filterCards);
+function revealLinkedCard() {
+  const target = document.getElementById(location.hash.slice(1));
+  if (!target || target.tagName !== 'ARTICLE' || !target.hidden) return;
+  search.value = '';
+  category.value = '';
+  filterCards();
+  target.scrollIntoView();
+}
+window.addEventListener('hashchange', revealLinkedCard);
+document.addEventListener('click', event => {
+  const link = event.target.closest('a[href^="#"]');
+  if (link && link.hash === location.hash) revealLinkedCard();
+});
 filterCards();
 </script>
 </body>

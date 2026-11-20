@@ -11,7 +11,13 @@ fiches = json.loads((root / "fiches.json").read_text(encoding="utf-8"))
 template = (root / "modele.html").read_text(encoding="utf-8")
 
 def article_ids(fiche):
-    entries = fiche["relation"]["participants"] + fiche["sources"]
+    relation = fiche["relation"]
+    entries = relation["participants"] + fiche["sources"]
+    entries += [
+        renvoi[role]
+        for renvoi in relation.get("renvois", [])
+        for role in ("source", "cible")
+    ]
     return {
         match.group()
         for entry in entries
