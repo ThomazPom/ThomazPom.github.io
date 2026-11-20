@@ -2108,5 +2108,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "detention-visio-comparution",
+    "type": "Inconstitutionnalité constatée",
+    "domaine": "Justice pénale",
+    "titre": "Le Conseil constitutionnel étend le droit de refuser une audience par vidéo avant l’abrogation du texte",
+    "entree": {
+      "ordre": 48,
+      "titre": "Vous demandez à sortir de prison avant les assises. Pouvez-vous demander à voir le juge en personne ?",
+      "face_a_face": "L’article 706-71 du code de procédure pénale prévoyait le droit de refuser la vidéo dans certains recours sur la détention, tandis que la décision 2026-1192 QPC étend cette garantie, sous les mêmes conditions, aux accusés qui demandent leur mise en liberté en attendant les assises.",
+      "texte": "Avant la décision, un accusé pouvait rester détenu jusqu’à un an en attendant son procès sans pouvoir s’opposer à une audience par vidéo sur sa demande de libération. Depuis la publication de la décision, il peut s’y opposer dans les conditions fixées par le Conseil constitutionnel.",
+      "raison": "Les droits de la défense justifient la possibilité de se présenter physiquement devant les juges. Une suppression immédiate du texte aurait aussi supprimé le droit de refuser la vidéo pour les détenus déjà protégés. Le Conseil reporte donc l’abrogation au 31 octobre 2027 et étend provisoirement la garantie."
+    },
+    "explication": [
+      "La décision concerne les demandes de mise en liberté présentées sur le fondement de l’article 148-1 par une personne mise en accusation dans l’attente des assises. Elle renvoie aux mêmes conditions que le texte, notamment celles relatives à la durée de détention et aux comparutions antérieures, ainsi qu’aux exceptions liées aux risques du transport."
+    ],
+    "sources": [
+      {
+        "label": "Conseil constitutionnel, décision du 10 avril 2026, § 7 à 15",
+        "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053915388"
+      },
+      {
+        "label": "Cour de cassation, 29 juillet 2026, n° 26-83.216",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000054658344"
+      }
+    ],
+    "relation": {
+      "question": "La garantie vaut-elle aussi pour une demande de libération avant les assises ?",
+      "participants": [
+        {
+          "role": "Texte du code cité et appliqué par la Cour de cassation",
+          "reference": "Code de procédure pénale, art. 706-71, al. 4",
+          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000054658344",
+          "citation": "« … refuser l’utilisation d’un moyen de télécommunication audiovisuelle […] »"
+        },
+        {
+          "role": "Extension provisoire",
+          "reference": "Conseil constitutionnel, décision 2026-1192 QPC, § 14",
+          "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000053915388",
+          "citation": "« … s’appliquent, dans les mêmes conditions, lorsqu’il est statué sur les demandes de mise en liberté […] »"
+        }
+      ]
+    }
   }
 ]
