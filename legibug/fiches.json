@@ -3,13 +3,14 @@
     "id": "registre-elevage-porcin",
     "type": "Renvoi obsolète",
     "domaine": "Agriculture",
-    "titre": "Le registre des mouvements porcins renvoie à une disposition abrogée en 2025",
+    "titre": "Huit renvois au régime porcin abrogé subsistent dans un arrêté",
     "explication": [
       "L’article 12 de l’arrêté sur l’identification du cheptel porcin définit les pièces du registre d’élevage et prévoit leur conservation pendant au moins cinq ans. Il identifie cette partie du registre par un renvoi à l’article D. 212-44 du code rural et de la pêche maritime.",
-      "L’article D. 212-44, qui imposait la conservation de certains documents, a été abrogé le 24 octobre 2025. L’arrêté consolidé conserve le renvoi et formule aussi sa propre règle de conservation. La fiche constate l’écart de rédaction. Elle ne tranche pas l’ensemble des obligations actuelles d’un élevage."
+      "L’article D. 212-44, qui imposait la conservation de certains documents, a été abrogé le 24 octobre 2025. L’arrêté consolidé conserve le renvoi et formule aussi sa propre règle de conservation. La fiche constate l’écart de rédaction. Elle ne tranche pas l’ensemble des obligations actuelles d’un élevage.",
+      "La même abrogation touche trois autres articles visés par l’arrêté. D. 212-36 est cité aux articles 3, 6 et 7, D. 212-42 aux articles 9-1 et 9-5, et D. 212-43 aux articles 10 et 10-1. Avec l’article 12, cela donne huit occurrences pour quatre articles cibles. La fiche regroupe ces renvois dans une même réforme."
     ],
     "relation": {
-      "question": "Quel fondement le texte cite-t-il pour le registre des mouvements porcins ?",
+      "question": "Quels renvois de l’arrêté ont survécu à la réforme du code rural ?",
       "participants": [
         {
           "role": "Renvoi dans l’arrêté",
@@ -22,6 +23,18 @@
           "reference": "Code rural, art. D. 212-44 · statut",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006587836",
           "citation": "Abrogé par Décret n°2025-988 du 22 octobre 2025 - art. 2"
+        },
+        {
+          "role": "Autre renvoi dans l’arrêté",
+          "reference": "Arrêté du 24 novembre 2005, art. 9-1",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036112717",
+          "citation": "Conformément à l’article D. 212-42 du code rural […]"
+        },
+        {
+          "role": "Autre renvoi dans l’arrêté",
+          "reference": "Arrêté du 24 novembre 2005, art. 10-1",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000036112711",
+          "citation": "Conformément à l’article D. 212-43 du code rural […]"
         }
       ]
     },
@@ -29,6 +42,10 @@
       {
         "label": "Sous-section du code rural sur l’identification",
         "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006183206/2025-10-20"
+      },
+      {
+        "label": "État des articles D. 212-36 et D. 212-42 à D. 212-44",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006193362/"
       }
     ]
   },
