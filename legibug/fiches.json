@@ -5009,5 +5009,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "abri-jardin-emprise-surface-cinq-metres",
+    "type": "Articulation de régimes",
+    "domaine": "Urbanisme",
+    "titre": "Un abri de jardin de moins de 5 m² à l’intérieur peut être soumis à déclaration",
+    "entree": {
+      "ordre": 113,
+      "titre": "Votre abri fait 4,8 m² à l’intérieur. Pourquoi faut-il quand même le déclarer ?",
+      "face_a_face": "L’article R. 421-2 dispense de formalité un petit abri si son emprise au sol et sa surface de plancher ne dépassent ni l’une ni l’autre 5 m², tandis que l’article R. 421-9 exige une déclaration dès que l’une de ces deux mesures franchit le seuil dans le cas ordinaire.",
+      "texte": "Votre abri a 4,8 m² de surface de plancher, mais ses murs extérieurs lui donnent une emprise de 5,8 m². Hors secteur protégé, pour un abri ordinaire de 2,5 mètres de haut, la déclaration préalable est requise. Avec 4,8 m² de surface de plancher et 5 m² d’emprise, il serait dispensé de formalité dans le même jardin.",
+      "raison": "Le code vérifie deux surfaces pour le même abri. La surface de plancher peut rester sous le seuil alors que la place occupée au sol dépasse 5 m². Une seule mesure au-dessus du seuil suffit à déclencher la déclaration."
+    },
+    "explication": [
+      "L’exemple vise une construction nouvelle indépendante, hors secteur protégé. Pour ce régime de déclaration, la hauteur doit rester au plus à 12 mètres et chacune des deux surfaces au plus à 20 m². La dispense de formalité ne dispense pas de respecter les règles locales."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050497056/2026-11-21",
+        "label": "Code de l’urbanisme, article R. 421-2"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050497051/2026-11-21",
+        "label": "Code de l’urbanisme, article R. 421-9"
+      }
+    ],
+    "relation": {
+      "question": "Une petite surface intérieure suffit-elle à dispenser l’abri de déclaration ?",
+      "participants": [
+        {
+          "role": "Double seuil pour la dispense",
+          "reference": "Code de l’urbanisme, art. R. 421-2, a",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050497056/2026-11-21",
+          "citation": "« […] une emprise au sol inférieure ou égale à cinq mètres carrés […] une surface de plancher inférieure ou égale à cinq mètres carrés […] »"
+        },
+        {
+          "role": "Un seuil franchi suffit",
+          "reference": "Code de l’urbanisme, art. R. 421-9, a",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000050497051/2026-11-21",
+          "citation": "« […] soit l’emprise au sol, soit la surface de plancher est supérieure à cinq mètres carrés […] »"
+        }
+      ]
+    }
   }
 ]
