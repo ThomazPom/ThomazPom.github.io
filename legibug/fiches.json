@@ -3011,21 +3011,25 @@
     "id": "prudhommes-enregistrement-clandestin",
     "type": "Conflit de droits",
     "domaine": "Travail",
-    "titre": "Une conversation enregistrée à l’insu de l’employeur peut être examinée aux prud’hommes",
+    "titre": "Un enregistrement clandestin a été admis comme preuve d’un accident du travail",
     "entree": {
       "ordre": 69,
-      "titre": "Un enregistrement secret peut-il servir à prouver un harcèlement au travail ?",
+      "titre": "Un salarié enregistre une altercation à l’insu de son dirigeant. La justice peut accepter la preuve.",
       "face_a_face": "L’article 226-1 du code pénal sanctionne sous conditions l’enregistrement sans consentement de paroles privées ou confidentielles, tandis que la Cour de cassation admet qu’un juge civil examine une preuve déloyale si elle est indispensable et si l’atteinte est strictement proportionnée.",
-      "texte": "Un salarié disait avoir subi des pressions pour accepter une rupture conventionnelle. Il a produit un enregistrement fait à l’insu de son employeur. La Cour de cassation a annulé la décision qui avait écarté la pièce sans vérifier concrètement si elle était indispensable pour prouver le harcèlement allégué et si l’atteinte était proportionnée.",
+      "texte": "Après une altercation avec le dirigeant de son entreprise, un salarié a présenté la transcription d’un enregistrement fait à son insu pour faire reconnaître un accident du travail et la faute inexcusable de l’employeur. Le 6 juin 2024, la Cour de cassation a validé la décision de garder cette preuve parce qu’elle était indispensable et que l’atteinte à la vie privée était strictement proportionnée.",
       "raison": "Le juge doit mettre en balance la vie privée et le droit de prouver les faits. La façon dont la pièce a été obtenue peut poser un problème juridique, tandis que son utilisation dans le procès peut être admise après cet examen."
     },
     "explication": [
-      "L’arrêt du 10 juillet 2024 ne décide pas que l’enregistrement devait être admis ni qu’une infraction pénale avait été commise. L’article 226-1 vise les paroles privées ou confidentielles dans les conditions qu’il fixe."
+      "Dans une autre affaire, le 10 juillet 2024, la Cour de cassation a demandé aux juges de vérifier si un enregistrement était indispensable pour prouver les pressions invoquées par une salariée. Elle n’a pas décidé que cette pièce devait être admise. L’article 226-1 vise les paroles privées ou confidentielles dans les conditions qu’il fixe."
     ],
     "sources": [
       {
         "label": "Cour de cassation, assemblée plénière, 22 décembre 2023, n° 20-20.648",
         "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000048769030"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000049689596",
+        "label": "Cour de cassation, 6 juin 2024, n° 22-11.736, preuve admise"
       }
     ],
     "relation": {
