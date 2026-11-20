@@ -428,8 +428,21 @@
       }
     ],
     "relation": {
-      "question": null,
-      "participants": []
+      "question": "Quand faut-il avertir le tuteur, le curateur ou le mandataire ?",
+      "participants": [
+        {
+          "role": "Déclenchement de l’avis",
+          "reference": "Code de procédure pénale, art. 706-112-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042779759/",
+          "citation": "Lorsque les éléments recueillis au cours de la garde à vue […] font apparaître que cette personne fait l’objet d’une mesure de protection juridique […]"
+        },
+        {
+          "role": "Cas couverts par la règle transitoire",
+          "reference": "Conseil constitutionnel, QPC 2026-1191",
+          "url": "https://www.legifrance.gouv.fr/juri/id/CONSTEXT000053915387",
+          "citation": "[…] en cas de prolongation de la garde à vue ou d’audition du majeur protégé sur des faits autres que ceux ayant justifié son placement […]"
+        }
+      ]
     }
   },
   {
@@ -530,8 +543,21 @@
       }
     ],
     "relation": {
-      "question": null,
-      "participants": []
+      "question": "Le plafonnement des sanctions suffit-il à empêcher les doubles poursuites ?",
+      "participants": [
+        {
+          "role": "Plafond cumulé",
+          "reference": "CPCE, art. L. 34-5",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042155961/2026-11-01",
+          "citation": "[…] le montant global des sanctions prononcées contre la même personne à raison des mêmes faits n’excède pas le maximum légal le plus élevé."
+        },
+        {
+          "role": "Règle transitoire",
+          "reference": "Conseil constitutionnel, QPC 2026-1210, § 20",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054311753",
+          "citation": "[…] des poursuites ne pourront être engagées ou continuées […] dès lors que des premières poursuites auront déjà été engagées pour les mêmes faits […]"
+        }
+      ]
     }
   },
   {
