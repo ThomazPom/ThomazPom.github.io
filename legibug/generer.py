@@ -1,7 +1,8 @@
 """Génère la page statique de Légibug à partir des fiches JSON."""
+import csv
 import json
 import re
-from collections import defaultdict
+from collections import Counter, defaultdict
 from html import escape
 from pathlib import Path
 
@@ -78,7 +79,31 @@ def render(fiche):
     output.append('</article>')
     return '\n'.join(output)
 
+def render_review():
+    with (root / "analyse" / "sample.csv").open(encoding="utf-8", newline="") as stream:
+        sample = list(csv.DictReader(stream))
+    with (root / "analyse" / "relecture.csv").open(encoding="utf-8", newline="") as stream:
+        review = list(csv.DictReader(stream))
+    seen = set()
+    for row in review:
+        rank = int(row["rang"])
+        if rank in seen or not 1 <= rank <= len(sample):
+            raise ValueError(f"Rang de relecture invalide ou en double : {rank}")
+        if any(row[key] != sample[rank - 1][key] for key in ("id_source", "id_vise")):
+            raise ValueError(f"Identifiants de relecture divergents au rang {rank}")
+        seen.add(rank)
+    counts = Counter(row["statut"] for row in review)
+    if counts.keys() - {"confirmé", "écarté", "à vérifier"}:
+        raise ValueError("Statut de relecture inconnu")
+    return (
+        f"<p>{len(review)} pistes examinées sur {len(sample)} dans le tirage. "
+        f"{counts['confirmé']} renvois confirmés, {counts['écarté']} pistes écartées "
+        f"et {counts['à vérifier']} à approfondir.</p>"
+    )
+
+
 assert template.count('<!-- FICHES -->') == 1
 assert len({fiche["id"] for fiche in fiches}) == len(fiches)
 output = template.replace('<!-- FICHES -->', '\n'.join(map(render, fiches)))
+output = output.replace("<!-- RELECTURE -->", render_review())
 (root / "index.html").write_text(output, encoding="utf-8")
