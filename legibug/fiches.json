@@ -8089,5 +8089,51 @@
       "raison": "La note énergétique est la même. La date à laquelle elle devient un obstacle dépend de l’usage du logement. Cela peut laisser l’appartement disponible pour quelques nuits alors qu’il ne remplit plus les critères d’un nouveau bail d’habitation.",
       "ordre": 167
     }
+  },
+  {
+    "id": "sous-location-recettes-sans-deduction-loyer",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Vous avez payé votre loyer. Le propriétaire peut aussi récupérer les recettes de votre sous-location non autorisée.",
+    "explication": [
+      "Les deux arrêts appliquent les règles du Code civil sur les revenus de la propriété. La décision de 2023 renvoie l’affaire à une autre cour d’appel pour qu’elle statue à nouveau sur le montant à restituer."
+    ],
+    "sources": [
+      {
+        "label": "Cour de cassation, 12 septembre 2019, n° 18-20.727",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000039122828"
+      },
+      {
+        "label": "Cour de cassation, 21 septembre 2023, n° 22-18.251",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000048139521"
+      }
+    ],
+    "relation": {
+      "question": "Le loyer versé au propriétaire vient-il diminuer la restitution des sous-loyers ?",
+      "participants": [
+        {
+          "role": "Les recettes reviennent au propriétaire",
+          "reference": "Cour de cassation, 12 septembre 2019, n° 18-20.727",
+          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000039122828",
+          "citation": "« […] les sous-loyers perçus par le preneur constituent des fruits civils qui appartiennent par accession au propriétaire […] »"
+        },
+        {
+          "role": "Le loyer payé ne se déduit pas",
+          "reference": "Cour de cassation, 21 septembre 2023, n° 22-18.251",
+          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000048139521",
+          "citation": "« […] le loyer constitue un fruit civil de la propriété […] »"
+        }
+      ],
+      "fiches_liees": [
+        "sous-location-silence-accord-bailleur"
+      ]
+    },
+    "entree": {
+      "titre": "Vous avez payé votre loyer. Le propriétaire peut aussi récupérer les recettes de votre sous-location non autorisée.",
+      "face_a_face": "L’article 8 de la loi de 1989 exige l’accord écrit du bailleur pour sous-louer. En appliquant les articles 548 et 549 du Code civil, la Cour de cassation a jugé que le loyer déjà payé ne pouvait pas être déduit des recettes à restituer dans une affaire de sous-location interdite.",
+      "texte": "Dans l’affaire jugée en 2023, la cour d’appel avait retenu au moins 313 nuitées à 35 €, soit 10 955 € de recettes, puis ramené la restitution à environ 2 548 € en déduisant des loyers déjà versés. La Cour de cassation a annulé ce calcul.",
+      "raison": "Le propriétaire peut recevoir le loyer prévu par le bail et réclamer aussi l’argent payé par les sous-locataires. La Cour considère que ces deux recettes reviennent au propriétaire dans ce cas. Le locataire ne peut donc pas faire déduire son loyer au motif que c’était le coût de sa sous-location.",
+      "ordre": 168
+    }
   }
 ]
