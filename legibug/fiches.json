@@ -4772,5 +4772,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "vente-logement-vide-meuble-priorite-achat",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Le congé pour vente donne au locataire d’un logement vide une priorité que le bail meublé ne donne pas",
+    "entree": {
+      "ordre": 108,
+      "titre": "Votre propriétaire vend l’appartement 200 000 €. Votre bail vous donne-t-il la priorité pour l’acheter ?",
+      "face_a_face": "L’article 15 de la loi du 6 juillet 1989 fait du congé pour vendre un logement loué vide une offre adressée au locataire, tandis que l’article 25-8 autorise le congé pour vendre un logement loué meublé sans créer cette priorité d’achat.",
+      "texte": "Votre propriétaire vous donne congé à la fin du bail pour vendre l’appartement à 200 000 €. En location vide, dans le cas ordinaire, le congé doit vous proposer le logement à ce prix et vous avez les deux premiers mois du préavis pour accepter. En location meublée, le propriétaire peut choisir directement un autre acheteur, sauf droit de priorité applicable pour un autre motif.",
+      "raison": "Vous occupez le logement dans les deux cas. La priorité d’achat vient des règles du congé pour vendre dans un bail vide. Le congé d’un bail meublé peut vous obliger à partir sans vous donner cette priorité."
+    },
+    "explication": [
+      "L’exemple concerne un congé pour vendre à l’échéance du bail de résidence principale. Il exclut notamment la vente à un proche relevant de l’exception prévue à l’article 15 et les droits distincts applicables à certaines ventes après division de l’immeuble."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/2026-11-21",
+        "label": "Loi du 6 juillet 1989, article 15, II"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900072/2026-11-21",
+        "label": "Loi du 6 juillet 1989, article 25-8"
+      }
+    ],
+    "relation": {
+      "question": "Le congé pour vente vaut-il offre d’achat au locataire ?",
+      "participants": [
+        {
+          "role": "Offre de vente en location vide",
+          "reference": "Loi du 6 juillet 1989, art. 15, II",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/2026-11-21",
+          "citation": "« Le congé vaut offre de vente au profit du locataire […] »"
+        },
+        {
+          "role": "Congé pour vendre en location meublée",
+          "reference": "Loi du 6 juillet 1989, art. 25-8",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900072/2026-11-21",
+          "citation": "« […] par sa décision de reprendre ou de vendre le logement […] »"
+        }
+      ]
+    }
   }
 ]
