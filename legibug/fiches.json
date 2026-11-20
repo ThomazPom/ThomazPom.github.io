@@ -5625,11 +5625,12 @@
       "ordre": 125,
       "titre": "Votre employeur peut ouvrir un fichier de travail en votre absence. Peut-il faire pareil avec un fichier marqué « personnel » ?",
       "face_a_face": "La Cour de cassation présume professionnels les fichiers créés sur l’ordinateur de travail, mais exige en principe que le salarié soit présent ou dûment appelé pour ouvrir ceux qu’il a identifiés comme personnels.",
-      "texte": "Deux fichiers sont enregistrés sur votre ordinateur de travail. Votre employeur peut ouvrir un tableau professionnel en votre absence. Si vous avez identifié l’autre fichier comme personnel, il doit en principe vous appeler avant de l’ouvrir hors de votre présence.",
+      "texte": "Deux fichiers sont enregistrés sur votre ordinateur de travail. Votre employeur peut ouvrir un tableau professionnel en votre absence. Si vous avez identifié l’autre fichier comme personnel, il peut en principe l’ouvrir si vous êtes présent ou si vous avez été dûment appelé.",
       "raison": "La protection dépend du caractère personnel signalé par le salarié, même quand les deux fichiers sont sur le même ordinateur fourni par l’employeur."
     },
     "explication": [
-      "La Cour de cassation réserve le cas d’un risque ou d’un événement particulier. La fiche concerne les fichiers sur l’ordinateur professionnel."
+      "La Cour de cassation réserve le cas d’un risque ou d’un événement particulier. La fiche concerne les fichiers sur l’ordinateur professionnel.",
+      "Le simple fait de consulter sa boîte mail personnelle sur l’ordinateur de travail ne transforme pas les messages en documents professionnels. Dans l’arrêt du 26 janvier 2016, la Cour de cassation a approuvé l’exclusion de courriels provenant d’une messagerie personnelle distincte de la boîte professionnelle pour protéger le secret des correspondances."
     ],
     "sources": [
       {
@@ -5639,6 +5640,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000007048803/",
         "label": "Cour de cassation, 17 mai 2005, n° 03-40.017"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000031949915",
+        "label": "Cour de cassation, 26 janvier 2016, n° 14-15.360, messagerie personnelle"
       }
     ],
     "relation": {
