@@ -3566,5 +3566,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "proces-sante-audience-civile",
+    "type": "Articulation de régimes",
+    "domaine": "Justice pénale",
+    "titre": "Une audience peut régler l’indemnisation alors que le procès pénal doit attendre",
+    "entree": {
+      "ordre": 83,
+      "titre": "La personne poursuivie ne peut plus se défendre. La victime doit-elle attendre pour être indemnisée ?",
+      "face_a_face": "L’article 10 du code de procédure pénale distingue deux suites lorsqu’un problème de santé empêche durablement la personne poursuivie de comparaître et de se défendre. Le délai pour poursuivre au pénal peut être suspendu, tandis que le président peut tenir une audience sur la seule réparation civile.",
+      "texte": "Une expertise établit que la personne renvoyée devant le tribunal est durablement incapable de comparaître dans des conditions lui permettant de se défendre. Si cette incapacité suspend la prescription des poursuites, le tribunal peut tout de même tenir une audience publique pour examiner la demande d’indemnisation. Un avocat doit alors représenter la personne poursuivie.",
+      "raison": "La culpabilité pénale ne peut pas être jugée à cette audience. La loi permet néanmoins à la victime de faire examiner sa demande de réparation sans attendre que la personne poursuivie puisse participer à son procès."
+    },
+    "explication": [
+      "L’audience civile est une possibilité, décidée après expertise. La fiche vise l’état de santé qui empêche de se défendre pendant la procédure. Le discernement au moment des faits relève d’autres règles."
+    ],
+    "sources": [
+      {
+        "label": "Code de procédure pénale, art. 10",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311450/2026-11-09"
+      }
+    ],
+    "relation": {
+      "question": "Que peut juger le tribunal après le constat de l’incapacité à se défendre ?",
+      "participants": [
+        {
+          "role": "Empêchement durable et délai des poursuites suspendu",
+          "reference": "Code de procédure pénale, art. 10, dernier alinéa",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311450/2026-11-09",
+          "citation": "« … rend durablement impossible sa comparution personnelle […] »"
+        },
+        {
+          "role": "Audience sur la réparation seule",
+          "reference": "Même article, audience civile",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311450/2026-11-09",
+          "citation": "« … une audience publique pour statuer uniquement sur l’action civile. »"
+        }
+      ]
+    }
   }
 ]
