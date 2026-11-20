@@ -830,5 +830,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "isolation-location-prime",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "La loi exige un logement économe, la prime pour isoler seule a disparu de MaPrimeRénov’ par geste",
+    "entree": {
+      "ordre": 19,
+      "titre": "Votre logement est trop énergivore pour être loué. L’État aide-t-il encore à l’isoler ?",
+      "face_a_face": "L’article 6 de la loi sur les locations exige un niveau minimal de performance énergétique, tandis que l’article 4 du décret du 25 août 2026 retire l’isolation de la liste des travaux financés par MaPrimeRénov’ « par geste ».",
+      "texte": "Pour une demande déposée depuis le 1er septembre 2026, des travaux d’isolation seuls ne donnent plus droit à cette prime. Le décret maintient pourtant l’accès des logements F et G au parcours par geste pour les travaux qui restent éligibles.",
+      "raison": "Ça coince puisque le propriétaire peut avoir besoin d’isoler pour repasser au-dessus du seuil de location, alors que le parcours d’aide pour un seul type de travaux ne finance plus cette intervention. Une rénovation d’ampleur relève de règles différentes."
+    },
+    "explication": [
+      "Le décret remplace la liste des dépenses éligibles du parcours par geste. Cette liste est à lire avec l’arrêté qui fixe les montants de primes.",
+      "Ce changement concerne les demandes déposées depuis le 1er septembre 2026. Il ne supprime pas tous les financements possibles pour l’isolation."
+    ],
+    "sources": [
+      {
+        "label": "Arrêté du 25 août 2026, forfaits de la prime",
+        "url": "https://www.legifrance.gouv.fr/eli/arrete/2026/8/25/VLOL2620603A/jo/texte"
+      }
+    ],
+    "relation": {
+      "question": "L’obligation énergétique suffit-elle à rendre l’isolation éligible à la prime par geste ?",
+      "participants": [
+        {
+          "role": "Niveau de décence",
+          "reference": "Loi du 6 juillet 1989, art. 6",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043977105",
+          "citation": "Le bailleur est tenu de remettre au locataire un logement décent […]"
+        },
+        {
+          "role": "Liste des dépenses financées",
+          "reference": "Décret n° 2026-822, art. 4",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054750363",
+          "citation": "L’annexe 1 du même décret est remplacée par l’annexe au présent décret."
+        }
+      ]
+    }
   }
 ]
