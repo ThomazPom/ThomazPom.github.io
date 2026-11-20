@@ -7475,5 +7475,58 @@
       "raison": "Vous n’avez commis aucune faute, mais la loi peut faire peser sur vous la faute de votre ami lorsque vous demandez réparation en tant que propriétaire de la voiture. Elle vous protège davantage lorsque vous la demandez en tant que passager blessé.",
       "ordre": 158
     }
+  },
+  {
+    "id": "assureur-accident-offre-trois-huit-mois",
+    "type": "Articulation de régimes",
+    "domaine": "Indemnisation",
+    "titre": "L’assureur dit qu’il a 8 mois après l’accident. Il pouvait déjà devoir répondre au bout de 3 mois.",
+    "explication": [
+      "Quand la responsabilité est contestée ou le dommage n’est pas entièrement chiffré, le délai de 3 mois suivant la demande impose une réponse motivée, et l’offre pour la victime blessée suit aussi ses propres délais. Si l’assureur n’a pas été informé dans les 3 mois suivant l’accident que l’état de santé s’est stabilisé, l’offre à 8 mois peut être provisoire. L’offre définitive doit alors suivre dans les 5 mois après l’information sur cette stabilisation.",
+      "L’article L. 211-13 fait courir les intérêts doublés de la fin du délai applicable jusqu’à l’offre ou au jugement devenu définitif. Le juge peut réduire la pénalité si le retard n’est pas imputable à l’assureur."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795447/2026-11-21",
+        "label": "Code des assurances, art. L. 211-9"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795491/2026-11-21",
+        "label": "Code des assurances, art. L. 211-13"
+      }
+    ],
+    "relation": {
+      "question": "Quelle date compte si les deux délais s’appliquent ?",
+      "participants": [
+        {
+          "role": "Trois mois après la demande dans le cas d’un dommage déjà chiffré",
+          "reference": "Code des assurances, art. L. 211-9",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795447/2026-11-21",
+          "citation": "« […] dans le délai de trois mois à compter de la demande d’indemnisation […] »"
+        },
+        {
+          "role": "Huit mois après l’accident pour la victime blessée",
+          "reference": "Code des assurances, art. L. 211-9",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795447/2026-11-21",
+          "citation": "« En tout état de cause, le délai le plus favorable à la victime s’applique. »"
+        },
+        {
+          "role": "Offre tardive, intérêts doublés",
+          "reference": "Code des assurances, art. L. 211-13",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006795491/2026-11-21",
+          "citation": "« […] au double du taux de l’intérêt légal […] »"
+        }
+      ],
+      "fiches_liees": [
+        "accident-blessure-telephone"
+      ]
+    },
+    "entree": {
+      "titre": "L’assureur dit qu’il a 8 mois après l’accident. Il pouvait déjà devoir répondre au bout de 3 mois.",
+      "face_a_face": "L’article L. 211-9 donne au plus 8 mois après l’accident pour présenter une offre à la victime blessée. Le même article impose une offre sous 3 mois après sa demande si la responsabilité est admise et le dommage entièrement chiffré. La première échéance applicable l’emporte.",
+      "texte": "L’accident survient le 10 janvier. Le 10 février, vous présentez une demande dont le dommage est entièrement chiffré et la responsabilité n’est pas contestée. L’offre est due au plus tard le 10 mai, sans attendre l’échéance du 10 août. Une première offre suffisante faite en juillet peut donc être tardive.",
+      "raison": "Les 8 mois sont un plafond après l’accident. Si le délai de 3 mois expire avant, l’assureur doit respecter cette date. L’article L. 211-13 prévoit alors des intérêts au double du taux légal pour une offre tardive.",
+      "ordre": 159
+    }
   }
 ]
