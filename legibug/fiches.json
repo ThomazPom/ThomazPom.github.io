@@ -1,5 +1,37 @@
 [
   {
+    "id": "concours-ouvriers",
+    "type": "Renvoi obsolète",
+    "domaine": "Fonction publique",
+    "titre": "Un décret de concours renvoie encore à une liste d’admission abrogée",
+    "explication": [
+      "L’article 13 du décret du 2 novembre 1965 fixe un plafond pour le nombre de personnes inscrites sur une liste d’admission. Il identifie cette liste par un renvoi à l’article 6 du décret statutaire du 23 septembre 1975.",
+      "L’article 6 a été abrogé le 5 mai 2002. Le renvoi figure encore dans la version consolidée de l’article 13. Le relevé établit le décalage entre les textes. L’existence de concours encore organisés selon ce régime reste à vérifier."
+    ],
+    "textes": [
+      {
+        "reference": "Décret n° 65-923, article 13",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023098768",
+        "citation": "Le nombre des candidats inscrits sur la liste d’admission prévue au cinquième alinéa de l’article 6 du décret du 23 septembre 1975 […]"
+      },
+      {
+        "reference": "Décret n° 75-887, article 6 · statut sur Légifrance",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006509565/2025-04-19",
+        "citation": "Abrogé par Décret n°2002-764 du 3 mai 2002"
+      }
+    ],
+    "sources": [
+      {
+        "label": "Décret de 1965 consolidé",
+        "url": "https://www.legifrance.gouv.fr/loda/id/LEGISCTA000006091659"
+      },
+      {
+        "label": "Décret de 1975 abrogé",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000500784"
+      }
+    ]
+  },
+  {
     "id": "renvoi-saint-pierre",
     "type": "Renvoi obsolète",
     "domaine": "Collectivités territoriales",
