@@ -6585,7 +6585,8 @@
       "raison": "Le droit de propriété protège normalement le voisin contre le dépassement. La loi crée une exception limitée à l’isolation extérieure des bâtiments existants, avec des conditions et un droit d’opposition."
     },
     "explication": [
-      "Le surplomb doit en principe commencer au moins deux mètres au-dessus du pied du mur, du pied de l’héberge ou du sol. Avant les travaux, le propriétaire doit notifier son projet au voisin, qui dispose de six mois pour s’y opposer pour un motif sérieux et légitime ou contester le respect des conditions prévues par le texte."
+      "Le surplomb doit en principe commencer au moins deux mètres au-dessus du pied du mur, du pied de l’héberge ou du sol. Avant les travaux, le propriétaire doit notifier son projet au voisin, qui dispose de six mois pour s’y opposer pour un motif sérieux et légitime ou contester le respect des conditions prévues par le texte.",
+      "Deux ans après la pose de votre isolation, le voisin obtient une autorisation de construire en limite de propriété. Si son projet nécessite le retrait de cette isolation, le IV de l’article L. 113-5-1 met les frais de dépose à votre charge. Le voisin garde l’indemnité que vous lui aviez versée pour le surplomb."
     ],
     "sources": [
       {
@@ -6611,6 +6612,12 @@
           "reference": "CCH, art. L. 113-5-1",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043966798/2026-11-21",
           "citation": "« […] bénéficie d’un droit de surplomb du fonds voisin de trente-cinq centimètres au plus […] »"
+        },
+        {
+          "role": "Dépose nécessaire à la construction autorisée du voisin",
+          "reference": "CCH, art. L. 113-5-1, IV",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043966798/2026-11-21",
+          "citation": "« […] les frais de cette dépose incombent au propriétaire du bâtiment isolé. L’indemnité prévue au I demeure acquise. »"
         }
       ],
       "fiches_liees": [
