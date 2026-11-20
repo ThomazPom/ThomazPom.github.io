@@ -2600,17 +2600,18 @@
     "id": "pacs-deces-logement-un-an",
     "type": "Articulation de régimes",
     "domaine": "Famille et succession",
-    "titre": "Le partenaire pacsé peut rester un an dans le logement sans en hériter",
+    "titre": "Après le décès, le Pacs peut protéger le logement un an, le mariage jusqu’à la fin de la vie",
     "entree": {
       "ordre": 60,
-      "titre": "Votre partenaire pacsé décède. Vous pouvez rester un an dans son logement, mais qui en hérite ?",
-      "face_a_face": "Les articles 515-6 et 763 du code civil permettent au partenaire pacsé de rester gratuitement un an dans la résidence principale commune sous certaines conditions, tandis que l’article 732 réserve les droits successoraux du conjoint à l’époux survivant non divorcé.",
-      "texte": "Le logement où vous vivez appartient entièrement à votre partenaire pacsé. Il décède sans testament. Vous pouvez en principe y rester gratuitement pendant un an, même si le logement revient aux héritiers. À la fin de cette année, le Pacs ne vous donne à lui seul aucun droit pour y rester.",
-      "raison": "La loi protège temporairement votre logement sans vous donner une part de la succession. Le droit d’habiter pendant douze mois et la propriété peuvent donc revenir à des personnes différentes."
+      "titre": "Vous perdez la personne avec qui vous vivez. Pouvez-vous rester un an dans votre logement ou y rester à vie ?",
+      "face_a_face": "L’article 515-6 renvoie à l’article 763 et donne au partenaire pacsé un droit temporaire d’un an, tandis que l’article 764 permet à l’époux survivant de bénéficier d’un droit d’habitation à vie.",
+      "texte": "Votre résidence principale appartient entièrement à la personne avec qui vous vivez. Elle décède sans testament. Si vous étiez pacsés, vous pouvez en principe rester gratuitement un an. Si vous étiez mariés, vous pouvez en plus demander à y vivre jusqu’à votre décès, à condition de manifester votre volonté dans l’année qui suit le décès de votre époux.",
+      "raison": "Les deux survivants peuvent rester la première année. Après cela, le statut du couple change la durée du droit au logement : le Pacs seul cesse de vous protéger, alors que le mariage peut vous permettre de rester à vie."
     },
     "explication": [
       "Le Pacs seul ne donne pas la qualité d’héritier. Un testament peut transmettre des biens dans les limites prévues par le droit des successions. Le défunt peut aussi avoir écarté le droit temporaire au logement par testament.",
-      "L’exemple vise la résidence principale effectivement occupée et appartenant entièrement au défunt."
+      "L’exemple vise la résidence principale effectivement occupée et appartenant entièrement au défunt.",
+      "L’article 765-1 fixe le délai d’un an pour manifester sa volonté. La valeur du droit à vie s’impute sur les droits successoraux de l’époux suivant l’article 765. Le défunt peut écarter ce droit viager par testament authentique."
     ],
     "sources": [
       {
@@ -2620,10 +2621,14 @@
       {
         "label": "Code civil, art. 763, jouissance gratuite pendant un an",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431113/2026-10-07"
+      },
+      {
+        "label": "Code civil, articles 764 à 765-1",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150139/2026-11-21/"
       }
     ],
     "relation": {
-      "question": "Le partenaire survivant peut-il rester dans un logement dont il n’hérite pas ?",
+      "question": "Peut-on rester dans le logement au-delà d’un an après le décès ?",
       "participants": [
         {
           "role": "Droit temporaire au logement par renvoi",
@@ -2636,6 +2641,12 @@
           "reference": "Code civil, art. 732",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430936/2026-10-27",
           "citation": "« Est conjoint successible le conjoint survivant non divorcé. »"
+        },
+        {
+          "role": "Droit d’habitation à vie pour l’époux survivant",
+          "reference": "Code civil, art. 764",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431120/2026-11-21",
+          "citation": "« […] a sur ce logement, jusqu’à son décès, un droit d’habitation […] »"
         }
       ],
       "fiches_liees": [
