@@ -3442,5 +3442,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "immeuble-saisi-vente-entretien",
+    "type": "Réserve d’interprétation",
+    "domaine": "Justice pénale",
+    "titre": "Le juge peut autoriser la vente d’un immeuble saisi avant le procès, sauf si le propriétaire peut le conserver et l’entretient",
+    "entree": {
+      "ordre": 80,
+      "titre": "Votre immeuble est saisi et coûte cher à conserver. Peut-il être vendu avant le procès ?",
+      "face_a_face": "L’article 706-152 du code de procédure pénale permet au juge d’autoriser une vente anticipée quand les frais de conservation sont disproportionnés, tandis que le Conseil constitutionnel interdit cette vente sur ce fondement si le propriétaire entretient le bien et peut payer ces frais.",
+      "texte": "Un immeuble saisi risque de perdre de la valeur et coûte cher à conserver. Le juge peut, sous conditions, autoriser sa vente avant le procès. Mais si le propriétaire assure l’entretien et peut supporter les frais, leur montant ne permet plus à lui seul de justifier cette vente.",
+      "raison": "La vente peut éviter que le bien se dégrade pendant la procédure. Mais si le propriétaire peut effectivement s’en occuper et en payer l’entretien, le Conseil constitutionnel estime que le droit de propriété empêche d’utiliser cette procédure."
+    },
+    "explication": [
+      "La vente anticipée intervient pendant la saisie. Le produit est conservé et peut être restitué au propriétaire sur demande selon l’issue de la procédure et sous réserve des exceptions prévues par le code."
+    ],
+    "sources": [
+      {
+        "label": "Conseil constitutionnel, décision 2026-1224 QPC, § 7 à 11",
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054966178"
+      }
+    ],
+    "relation": {
+      "question": "Des frais disproportionnés suffisent-ils à autoriser la vente ?",
+      "participants": [
+        {
+          "role": "Vente anticipée possible",
+          "reference": "Code de procédure pénale, art. 706-152",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000022456781/2026-07-24/",
+          "citation": "« Lorsque les frais de conservation de l’immeuble saisi sont disproportionnés par rapport à sa valeur en l’état […] »"
+        },
+        {
+          "role": "Limite liée à la capacité du propriétaire",
+          "reference": "Conseil constitutionnel, décision 2026-1224 QPC, § 11",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054966178",
+          "citation": "« … lorsque le propriétaire n’est pas défaillant dans l’entretien de ce bien et qu’il est capable de supporter la charge […] »"
+        }
+      ]
+    }
   }
 ]
