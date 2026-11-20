@@ -2732,5 +2732,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "legs-concubin-pacs-droits",
+    "type": "Articulation de régimes",
+    "domaine": "Fiscalité",
+    "titre": "Un legs de 100 000 € peut coûter 0 € ou environ 59 044 € de droits",
+    "entree": {
+      "ordre": 63,
+      "titre": "Même testament, même legs de 100 000 €. Quel effet a le Pacs ?",
+      "face_a_face": "L’article 796-0 bis du code des impôts exonère de droits le legs au partenaire pacsé, tandis que l’article 777 applique au concubin sans lien de parenté le taux de 60 % après l’abattement prévu à l’article 788.",
+      "texte": "Le testament vous lègue 100 000 €. Si vous étiez pacsés au jour du décès, les droits de succession sur ce legs sont de 0 €. Si vous viviez en concubinage sans lien de parenté, l’abattement ordinaire est de 1 594 €. Les droits s’élèvent alors à environ 59 044 €.",
+      "raison": "Le testament peut transmettre la même somme dans les deux cas. C’est le statut du couple au jour du décès qui change la facture fiscale, même après plusieurs années de vie commune."
+    },
+    "explication": [
+      "Calcul dans le cas du concubin : (100 000 € − 1 594 €) × 60 %. L’exemple suppose un legs valable, imposable en France et sans abattement spécial. Le Pacs ne donne pas à lui seul le droit d’hériter sans testament."
+    ],
+    "sources": [
+      {
+        "label": "Service Public, fiscalité du legs entre concubins",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F904"
+      }
+    ],
+    "relation": {
+      "question": "Combien coûte le même legs selon que le couple est pacsé ou en concubinage ?",
+      "participants": [
+        {
+          "role": "Exonération du partenaire pacsé",
+          "reference": "Code général des impôts, art. 796-0 bis",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305480/2026-10-28",
+          "citation": "« Sont exonérés de droits de mutation par décès […] le partenaire lié au défunt par un pacte civil de solidarité. »"
+        },
+        {
+          "role": "Tarif hors parenté et abattement",
+          "reference": "Code général des impôts, art. 777 et 788",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069577/LEGISCTA000006191748/2026-09-01/",
+          "citation": "« Entre parents au-delà du 4e degré et entre personnes non-parentes […] 60 »"
+        }
+      ]
+    }
   }
 ]
