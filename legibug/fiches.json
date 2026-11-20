@@ -1,5 +1,38 @@
 [
   {
+    "id": "acompte-formation",
+    "type": "Renvoi obsolète",
+    "domaine": "Formation professionnelle",
+    "titre": "Un acompte de formation renvoie à un article abrogé",
+    "explication": [
+      "L’article R. 6341-41 permet de verser un acompte sur la rémunération du stagiaire avant que la décision soit notifiée, lorsque la rémunération est fixée par décret sur le fondement des articles L. 6341-7 et L. 6341-8.",
+      "L’article L. 6341-8 est abrogé depuis le 1er janvier 2021. L’article L. 6341-7 reste en vigueur et encadre le montant de la rémunération. Le décalage porte sur l’un des deux fondements cités par l’article réglementaire. Il ne suffit pas à déterminer l’effet du renvoi sur une demande individuelle d’acompte."
+    ],
+    "relation": {
+      "question": "Sur quelles dispositions le versement anticipé de l’acompte repose-t-il ?",
+      "participants": [
+        {
+          "role": "Règle de versement",
+          "reference": "Code du travail, art. R. 6341-41",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018522438/2026-07-07",
+          "citation": "Lorsque la rémunération des stagiaires est déterminée par décret en application des articles L. 6341-7 et L. 6341-8, le paiement de l’acompte peut être opéré […]"
+        },
+        {
+          "role": "Disposition visée",
+          "reference": "Code du travail, art. L. 6341-8 · statut",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006904374/2026-07-29",
+          "citation": "ABROGÉ"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Section sur le montant de la rémunération",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006189911/2026-05-11"
+      }
+    ]
+  },
+  {
     "id": "ecole-privee-ancienne-reference",
     "type": "Renvoi obsolète",
     "domaine": "Éducation",
