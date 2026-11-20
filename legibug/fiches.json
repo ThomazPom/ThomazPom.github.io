@@ -4729,5 +4729,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "vote-prison-liberation-enveloppe-urne",
+    "type": "Articulation de régimes",
+    "domaine": "Élections",
+    "titre": "Après une sortie de prison, le bulletin transmis en détention peut céder la place à un vote en personne",
+    "entree": {
+      "ordre": 107,
+      "titre": "Vous avez voté par correspondance en prison. Après votre sortie, vous pouvez encore voter en personne si votre enveloppe est hors de l’urne.",
+      "face_a_face": "L’article L. 79 du Code électoral prévoit le vote par correspondance pour les détenus inscrits à ce titre, tandis que l’article L. 80 permet, après leur libération, de voter en personne ou par procuration si le bulletin postal n’a pas encore été mis dans l’urne.",
+      "texte": "Vous remettez votre pli électoral en prison, puis êtes libéré avant le scrutin. Si vous vous présentez au bureau de vote avant que votre enveloppe ait été placée dans l’urne, vous pouvez voter en personne. Si elle y est déjà, votre vote par correspondance tient.",
+      "raison": "La remise du pli en prison et son dépôt dans l’urne sont deux actes distincts. C’est le dépôt dans l’urne qui ferme la possibilité de voter en personne après votre libération. Une seule voix doit être comptée."
+    },
+    "explication": [
+      "Le mécanisme concerne les électeurs inscrits au titre du III de l’article L. 12-1. L’article L. 80 prévoit aussi la possibilité pour un mandataire de se présenter avant la mise dans l’urne."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051923621",
+        "label": "Code électoral, article L. 79"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000021064671/2026-11-21/",
+        "label": "Code électoral, article L. 80"
+      }
+    ],
+    "relation": {
+      "question": "Après sa libération, à quel moment est-il trop tard pour voter en personne ?",
+      "participants": [
+        {
+          "role": "Vote par correspondance en détention",
+          "reference": "Code électoral, art. L. 79",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051923621",
+          "citation": "« […] votent par correspondance sous pli fermé […] »"
+        },
+        {
+          "role": "Vote en personne possible jusqu’à la mise dans l’urne",
+          "reference": "Code électoral, art. L. 80",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000021064671/2026-11-21/",
+          "citation": "« […] avant que leur enveloppe de vote par correspondance ait été placée dans l’urne. »"
+        }
+      ]
+    }
   }
 ]
