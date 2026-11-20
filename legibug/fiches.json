@@ -5978,5 +5978,51 @@
         "pension-paiement-direct-six-mois-cinq-ans"
       ]
     }
+  },
+  {
+    "id": "retrait-autorite-entretien-parent-enfant",
+    "type": "Articulation de régimes",
+    "domaine": "Famille",
+    "titre": "Le retrait total de l’autorité parentale change l’aide due dans un seul sens",
+    "entree": {
+      "ordre": 132,
+      "titre": "Un parent perd tous ses droits parentaux. Il peut encore devoir payer une pension, alors que l’enfant est en principe dispensé de l’aider plus tard.",
+      "face_a_face": "L’article 371-2 maintient en principe l’obligation du parent de contribuer à l’entretien de l’enfant après le retrait de l’autorité parentale, tandis que l’article 379 dispense en principe l’enfant de l’obligation alimentaire envers ce parent en cas de retrait total.",
+      "texte": "Un juge retire totalement l’autorité parentale à votre père. Il peut rester tenu de contribuer à votre entretien selon ses ressources et vos besoins. Des années plus tard, s’il se retrouve dans le besoin, le retrait total vous dispense en principe de l’obligation alimentaire envers lui, sauf disposition contraire du jugement.",
+      "raison": "Le même retrait ne produit pas le même effet dans les deux sens. Il préserve en principe le soutien dû à l’enfant et dispense celui-ci de soutenir le parent qui a perdu l’autorité parentale."
+    },
+    "explication": [
+      "La dispense de l’article 379 vise le retrait total. L’article 371-2 prévoit que le retrait de l’autorité parentale ou de son exercice ne met pas automatiquement fin à la contribution du parent."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039778192/2026-11-21",
+        "label": "Code civil, article 371-2"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039778170/2026-11-21",
+        "label": "Code civil, article 379"
+      }
+    ],
+    "relation": {
+      "question": "Le retrait total efface-t-il les obligations financières du parent et de l’enfant ?",
+      "participants": [
+        {
+          "role": "Contribution du parent à l’entretien de l’enfant",
+          "reference": "Code civil, art. 371-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039778192/2026-11-21",
+          "citation": "« Cette obligation ne cesse de plein droit ni lorsque l’autorité parentale ou son exercice est retiré […] »"
+        },
+        {
+          "role": "Dispense pour l’enfant après retrait total",
+          "reference": "Code civil, art. 379",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039778170/2026-11-21",
+          "citation": "« Il emporte, pour l’enfant, dispense de l’obligation alimentaire […] sauf disposition contraire dans le jugement de retrait. »"
+        }
+      ],
+      "fiches_liees": [
+        "majorite-fin-autorite-pension-maintien"
+      ]
+    }
   }
 ]
