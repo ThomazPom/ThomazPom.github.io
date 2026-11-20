@@ -3245,10 +3245,10 @@
     "titre": "Un élu municipal européen peut siéger sans pouvoir devenir maire ni adjoint",
     "entree": {
       "ordre": 75,
-      "titre": "Vous êtes élu au conseil municipal. Pourquoi ne pouvez-vous pas remplacer le maire ?",
-      "face_a_face": "L’article LO 228-1 du code électoral rend éligibles au conseil municipal les citoyens des autres pays de l’Union européenne qui remplissent les conditions, tandis que l’article LO 2122-4-1 interdit à un conseiller sans nationalité française d’être maire ou adjoint, même temporairement.",
-      "texte": "Vous êtes ressortissant belge et vivez en France. Si vous remplissez les conditions pour être élu, vous pouvez siéger et voter au conseil municipal. Même si le conseil souhaite vous choisir, vous ne pouvez pas exercer les fonctions de maire ou d’adjoint sans la nationalité française.",
-      "raison": "Les électeurs choisissent les membres du conseil municipal, puis ces membres élisent le maire et les adjoints. L’ouverture de la première élection aux citoyens européens ne leur ouvre pas les fonctions attribuées par la seconde."
+      "titre": "Vous êtes élu au conseil municipal. Pourtant, un candidat battu peut voter à votre place aux sénatoriales.",
+      "face_a_face": "L’article LO 228-1 permet à un citoyen belge d’être élu au conseil municipal en France, tandis que l’article LO 286-2 fait voter à sa place un candidat français non élu aux sénatoriales dans les communes où tous les conseillers sont normalement électeurs de droit.",
+      "texte": "Vous êtes belge et votre liste vous fait élire au conseil municipal. Vous pouvez voter le budget de la ville. En revanche, vous ne pouvez devenir ni maire ni adjoint, même temporairement. Si tous les conseillers de votre commune sont normalement électeurs de droit aux sénatoriales, c’est le premier candidat français non élu qui suit les élus de votre liste qui prend votre place pour ce vote.",
+      "raison": "Le résultat est surprenant parce que votre élection vous donne une voix pour les décisions de la commune, mais qu’une personne qui n’a pas obtenu de siège peut prendre cette voix pour élire les sénateurs. L’article 88-3 de la Constitution autorise l’ouverture des élections municipales aux citoyens de l’Union et pose lui-même les limites pour le maire et le Sénat."
     },
     "explication": [
       "L’article 88-3 de la Constitution prévoit lui-même cette distinction. L’article LO 2122-4-1 couvre aussi l’exercice temporaire des fonctions."
@@ -3257,10 +3257,14 @@
       {
         "label": "Conseil constitutionnel, décision 2025-882 DC, article 88-3 de la Constitution",
         "url": "https://www.legifrance.gouv.fr/cons/id/CONSTEXT000051680046"
+      },
+      {
+        "label": "Constitution, article 88-3",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006527627"
       }
     ],
     "relation": {
-      "question": "L’élection au conseil municipal donne-t-elle accès aux fonctions de maire ?",
+      "question": "Peut-on être élu au conseil municipal, exercer les fonctions de maire et voter aux sénatoriales ?",
       "participants": [
         {
           "role": "Éligibilité au conseil municipal",
@@ -3273,6 +3277,12 @@
           "reference": "Code général des collectivités territoriales, art. LO 2122-4-1",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006389917/2026-10-30",
           "citation": "« … ne peut être élu maire ou adjoint, ni en exercer même temporairement les fonctions. »"
+        },
+        {
+          "role": "Remplacement pour le vote sénatorial dans certaines communes",
+          "reference": "Code électoral, art. LO 286-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006353681/2026-11-21",
+          "citation": "« […] sont remplacés au collège électoral des sénateurs […] par les candidats français venant immédiatement après le dernier candidat élu […] »"
         }
       ]
     }
