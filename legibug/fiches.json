@@ -1857,5 +1857,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "garde-alternee-allocation-handicap",
+    "type": "Articulation de régimes",
+    "domaine": "Famille",
+    "titre": "Deux parents peuvent partager les allocations familiales sans pouvoir partager l’aide au handicap",
+    "entree": {
+      "ordre": 42,
+      "titre": "Une semaine chez chaque parent. Pourquoi la CAF partage-t-elle une aide et pas l’autre ?",
+      "face_a_face": "L’article L. 521-2 permet de partager les allocations familiales entre les parents en résidence alternée, tandis que la Cour de cassation juge que l’allocation d’éducation de l’enfant handicapé ne peut être versée qu’à un seul parent.",
+      "texte": "Imaginez deux enfants qui passent une semaine chez chacun de leurs parents, et dont l’un ouvre droit à cette aide au handicap. Les deux parents peuvent recevoir une part des allocations familiales s’ils remplissent les conditions. La CAF verse en revanche l’allocation liée au handicap à un seul parent.",
+      "raison": "Le code autorise le partage de la charge des enfants pour calculer les allocations familiales. Le texte sur l’aide au handicap renvoie à cet article, mais la Cour de cassation a jugé que ce renvoi ne couvre pas la règle du partage. Deux parents peuvent donc assumer la même durée de garde et recevoir des versements différents."
+    },
+    "explication": [
+      "L’article L. 541-3 renvoie à l’article L. 521-2 depuis 2005. La règle permettant le partage des allocations familiales en résidence alternée a été ajoutée après ce renvoi. La Cour a jugé que cette règle ne s’étendait pas à l’aide au handicap."
+    ],
+    "sources": [
+      {
+        "label": "Code de la sécurité sociale, art. L. 541-3",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006743355/2026-07-02"
+      },
+      {
+        "label": "Service Public, prestations familiales et garde alternée",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21248"
+      }
+    ],
+    "relation": {
+      "question": "La résidence alternée permet-elle de partager les deux versements ?",
+      "participants": [
+        {
+          "role": "Partage possible",
+          "reference": "Code de la sécurité sociale, art. L. 521-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052043015/",
+          "citation": "« La charge de l’enfant pour le calcul des allocations familiales est partagée par moitié entre les deux parents […] »"
+        },
+        {
+          "role": "Versement à un seul parent",
+          "reference": "Cour de cassation, 25 novembre 2021, n° 19-25.456 et 20-21.978",
+          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000044384754",
+          "citation": "« ce renvoi n’inclut pas les dispositions du deuxième alinéa de ce texte […] »"
+        }
+      ]
+    }
   }
 ]
