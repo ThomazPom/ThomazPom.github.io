@@ -3721,7 +3721,8 @@
       "raison": "Le plafond dépend du domicile fiscal du client et de la catégorie du vendeur. Deux personnes de même nationalité peuvent donc avoir des plafonds différents à la même caisse."
     },
     "explication": [
-      "Le plafond de 15 000 € concerne ici le 3° de l’article D. 112-3. D’autres catégories de paiements relèvent d’autres plafonds. L’exemple porte seulement sur le plafond applicable au paiement en espèces."
+      "Le plafond de 15 000 € concerne ici le 3° de l’article D. 112-3. D’autres catégories de paiements relèvent d’autres plafonds. L’exemple porte seulement sur le plafond applicable au paiement en espèces.",
+      "Même sous le plafond, le commerçant peut vous demander de faire l’appoint. L’article R. 642-3 du code pénal sanctionne en principe le refus de billets ou pièces ayant cours légal, mais l’article L. 112-5 met l’appoint à la charge du client. Pour un achat de 9 €, un commerçant peut donc refuser un billet de 50 € si vous n’avez pas le montant exact."
     ],
     "sources": [
       {
@@ -3743,6 +3744,18 @@
           "reference": "Même article, I, 3°",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036824549/2026-11-09",
           "citation": "« … à 15 000 euros pour les paiements effectués en espèces ou au moyen de monnaie électronique. »"
+        },
+        {
+          "role": "Acceptation de principe des espèces",
+          "reference": "Code pénal, art. R. 642-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022375969/2026-07-16",
+          "citation": "« Le fait de refuser de recevoir des pièces de monnaie ou des billets de banque ayant cours légal en France […] »"
+        },
+        {
+          "role": "Appoint à la charge du client",
+          "reference": "Code monétaire et financier, art. L. 112-5",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006643951/2026-11-09",
+          "citation": "« En cas de paiement en billets et pièces, il appartient au débiteur de faire l’appoint. »"
         }
       ]
     }
