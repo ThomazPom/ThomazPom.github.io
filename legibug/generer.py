@@ -112,7 +112,10 @@ def render_review():
 
 assert template.count('<!-- FICHES -->') == 1
 assert len({fiche["id"] for fiche in fiches}) == len(fiches)
-vedettes = [fiche for fiche in fiches if "entree" in fiche]
+vedettes = sorted(
+    (fiche for fiche in fiches if "entree" in fiche),
+    key=lambda fiche: fiche["entree"]["ordre"],
+)
 cas = [fiche for fiche in fiches if not fiche.get("note_technique")]
 notes = [fiche for fiche in fiches if fiche.get("note_technique")]
 intro = "\n".join(
