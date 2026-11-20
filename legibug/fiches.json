@@ -2190,5 +2190,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "licenciement-reconversion-seuil-mille",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "À 999 ou à 1 000 salariés, la reconversion peut commencer avec ou sans contrat de travail",
+    "entree": {
+      "ordre": 50,
+      "titre": "999 ou 1 000 salariés. Un salarié de plus peut changer la date de fin de votre contrat",
+      "face_a_face": "L’article L. 1233-67 du code du travail met fin au contrat du salarié qui accepte le contrat de sécurisation professionnelle, tandis que l’article L. 1233-72 prolonge le préavis jusqu’à la fin du congé de reclassement si ce congé dure plus longtemps.",
+      "texte": "Deux entreprises indépendantes envisagent un licenciement économique. Celle de 999 salariés propose un contrat de sécurisation professionnelle. Si vous acceptez, votre contrat de travail s’arrête à la fin du délai de réflexion de 21 jours. Celle de 1 000 salariés propose un congé de reclassement. Si vous acceptez un congé de six mois avec un préavis de deux mois, votre contrat dure jusqu’à la fin du congé.",
+      "raison": "Le seuil détermine le parcours proposé. Dans le premier cas, France Travail accompagne la reconversion après la rupture. Dans le second, la reconversion peut se dérouler pendant plusieurs mois alors que vous faites encore partie de l’entreprise."
+    },
+    "explication": [
+      "L’exemple suppose des entreprises hors redressement ou liquidation judiciaires et dont le seuil est apprécié à leur propre niveau. En redressement ou liquidation, le contrat de sécurisation professionnelle doit être proposé quel que soit l’effectif."
+    ],
+    "sources": [
+      {
+        "label": "Service Public, contrat de sécurisation professionnelle",
+        "url": "https://entreprendre.service-public.gouv.fr/vosdroits/F13819"
+      },
+      {
+        "label": "Service Public, congé de reclassement",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2906"
+      }
+    ],
+    "relation": {
+      "question": "Quand le contrat de travail prend-il fin si le salarié accepte le parcours de reconversion ?",
+      "participants": [
+        {
+          "role": "Rupture du contrat",
+          "reference": "Code du travail, art. L. 1233-67",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031014016/2026-04-30",
+          "citation": "« L’adhésion du salarié au contrat de sécurisation professionnelle emporte rupture du contrat de travail. »"
+        },
+        {
+          "role": "Préavis prolongé jusqu’à la fin du congé",
+          "reference": "Code du travail, art. L. 1233-72",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000006177859/2026-06-06/",
+          "citation": "« … le terme de ce dernier est reporté jusqu’à la fin du congé de reclassement. »"
+        }
+      ]
+    }
   }
 ]
