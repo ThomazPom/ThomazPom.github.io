@@ -5066,7 +5066,8 @@
       "raison": "Le grillage peut avoir exactement la même hauteur et le même aspect. L’obligation administrative change parce que la décision locale s’applique à la parcelle d’un seul voisin."
     },
     "explication": [
-      "La dispense de formalité ne dispense pas de respecter les règles d’urbanisme applicables au terrain. L’article R. 421-12 prévoit aussi des cas liés au classement ou à la protection du secteur. L’exemple concerne un grillage de jardin ordinaire."
+      "La dispense de formalité ne dispense pas de respecter les règles d’urbanisme applicables au terrain. L’article R. 421-12 prévoit aussi des cas liés au classement ou à la protection du secteur. L’exemple concerne un grillage de jardin ordinaire.",
+      "Même dispensé de déclaration, votre grillage ne peut pas condamner le passage auquel le voisin a droit. L’article 647 du Code civil permet de clôturer son terrain, mais réserve l’article 682. Si le terrain du voisin n’a aucun accès suffisant à la voie publique, il peut réclamer un passage, moyennant une indemnité proportionnée au dommage occasionné."
     ],
     "sources": [
       {
@@ -5076,6 +5077,14 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000034355392/2026-11-21",
         "label": "Code de l’urbanisme, article R. 421-12"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006429909/2026-11-21",
+        "label": "Code civil, article 647"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430276/2026-11-21",
+        "label": "Code civil, article 682"
       }
     ],
     "relation": {
