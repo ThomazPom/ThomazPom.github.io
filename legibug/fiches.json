@@ -5294,5 +5294,54 @@
         "tutelle-mariage-contrat-notaire"
       ]
     }
+  },
+  {
+    "id": "dette-menagere-achat-echelonne",
+    "type": "Articulation de régimes",
+    "domaine": "Famille",
+    "titre": "Même lave-linge, l’époux qui n’a rien signé peut devoir payer ou être protégé selon le mode d’achat",
+    "entree": {
+      "ordre": 119,
+      "titre": "Votre conjoint achète seul un lave-linge à 600 €. Le vendeur peut-il vous réclamer la facture ?",
+      "face_a_face": "L’article 220 du Code civil rend en principe les époux solidaires des dettes ordinaires du ménage, mais exclut les achats à paiement échelonné conclus sans l’accord des deux. L’article 515-4 prévoit une règle comparable pour le Pacs.",
+      "texte": "Votre conjoint commande seul un lave-linge ordinaire à 600 € pour le foyer. Si le prix est payable en une fois et reste raisonnable au regard du train de vie du ménage, le vendeur peut en principe vous réclamer la somme impayée. Si le contrat est un achat à tempérament conclu sans votre accord, vous n’êtes pas solidaire de cette dette au titre de l’article 220.",
+      "raison": "Le lave-linge répond au même besoin dans les deux cas. La forme de paiement peut pourtant décider si le vendeur a le droit de vous poursuivre pour une commande que vous n’avez pas passée."
+    },
+    "explication": [
+      "Un achat à tempérament prévoit le paiement du prix par versements successifs. Le Code civil distingue ce cas de certains emprunts modestes et nécessaires à la vie courante, qui peuvent engager les deux membres du couple dans les conditions prévues par les textes."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028748098/2026-11-21",
+        "label": "Code civil, article 220"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028748096/2026-11-21",
+        "label": "Code civil, article 515-4"
+      }
+    ],
+    "relation": {
+      "question": "Le vendeur peut-il réclamer le prix à l’autre membre du couple ?",
+      "participants": [
+        {
+          "role": "Solidarité des époux pour les dettes du ménage",
+          "reference": "Code civil, art. 220, al. 1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028748098/2026-11-21",
+          "citation": "« […] toute dette ainsi contractée par l’un oblige l’autre solidairement. »"
+        },
+        {
+          "role": "Exception pour certains achats échelonnés",
+          "reference": "Code civil, art. 220, al. 3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028748098/2026-11-21",
+          "citation": "« Elle n’a pas lieu non plus, s’ils n’ont été conclus du consentement des deux époux, pour les achats à tempérament […] »"
+        },
+        {
+          "role": "Règle comparable pour le Pacs",
+          "reference": "Code civil, art. 515-4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028748096/2026-11-21",
+          "citation": "« Elle n’a pas lieu non plus, s’ils n’ont été conclus du consentement des deux partenaires, pour les achats à tempérament […] »"
+        }
+      ]
+    }
   }
 ]
