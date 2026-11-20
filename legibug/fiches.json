@@ -4010,5 +4010,50 @@
         }
       ]
     }
+  },
+  {
+    "id": "accident-travail-collegue-tiers",
+    "type": "Articulation de régimes",
+    "domaine": "Accidents du travail",
+    "titre": "Même blessure au travail, une indemnisation complémentaire qui dépend de l’auteur de l’accident",
+    "entree": {
+      "ordre": 92,
+      "titre": "Un chariot vous blesse au travail. Le conducteur est-il votre collègue ou un prestataire extérieur ?",
+      "face_a_face": "L’article L. 451-1 du Code de la sécurité sociale empêche en principe le salarié blessé de demander à son collègue une indemnisation selon les règles ordinaires, tandis que l’article L. 454-1 lui permet de réclamer à un tiers responsable la part du dommage que le régime des accidents du travail ne répare pas.",
+      "texte": "Dans un entrepôt, un conducteur de chariot vous blesse par imprudence. Si c’est un collègue du même employeur, une simple imprudence ne vous ouvre pas de recours ordinaire contre lui. Si c’est le salarié d’une entreprise extérieure, un recours contre le responsable peut compléter la prise en charge de la caisse.",
+      "raison": "La même blessure peut donc laisser à votre charge une part du dommage selon qui a causé l’accident. Le régime spécial couvre l’accident du travail dans les deux cas, mais le recours ordinaire est ouvert pour ce que la caisse n’a pas réparé lorsque le responsable est extérieur à l’employeur."
+    },
+    "explication": [
+      "L’article L. 451-1 prévoit des exceptions, notamment des voies propres à la faute inexcusable de l’employeur, à la faute intentionnelle de l’employeur ou de son préposé et à certains accidents de circulation. L’exemple porte sur une imprudence dans un entrepôt, hors voie ouverte à la circulation publique.",
+      "En présence d’un tiers, l’article L. 454-1 permet d’agir pour la part du préjudice que le régime des accidents du travail ne répare pas. Il faut encore établir la responsabilité du tiers selon les règles ordinaires."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006743111/2026-11-21",
+        "label": "Code de la sécurité sociale, article L. 451-1"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393227/2026-11-21",
+        "label": "Code de la sécurité sociale, article L. 454-1"
+      }
+    ],
+    "relation": {
+      "question": "La victime peut-elle demander au responsable de couvrir ce que la caisse ne répare pas ?",
+      "participants": [
+        {
+          "role": "Principe du régime des accidents du travail",
+          "reference": "Code de la sécurité sociale, art. L. 451-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006743111/2026-11-21",
+          "citation": "« […] aucune action en réparation […] ne peut être exercée conformément au droit commun […] »"
+        },
+        {
+          "role": "Recours contre le tiers responsable",
+          "reference": "Code de la sécurité sociale, art. L. 454-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036393227/2026-11-21",
+          "citation": "« […] conserve contre l’auteur de l’accident le droit de demander la réparation du préjudice causé […] »"
+        }
+      ],
+      "fiches_liees": []
+    }
   }
 ]
