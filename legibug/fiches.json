@@ -1874,5 +1874,38 @@
         }
       ]
     }
+  },
+  {
+    "id": "territoriaux-report-conges",
+    "type": "Articulation de régimes",
+    "domaine": "Fonction publique",
+    "titre": "Le motif du report change le nombre de semaines récupérables",
+    "explication": [
+      "Un fonctionnaire territorial empêché de prendre ses congés annuels peut bénéficier d’un report de quinze mois. Si l’empêchement résulte d’un congé pour raison de santé, le report est plafonné aux droits non utilisés des quatre premières semaines.",
+      "La rédaction applicable depuis août 2026 écarte ce plafond lorsque l’empêchement tient à un congé lié aux responsabilités parentales ou familiales ou à l’intérêt du service. Le motif conditionne donc le report des droits au-delà de la quatrième semaine."
+    ],
+    "sources": [
+      {
+        "label": "Décret sur les congés annuels des fonctionnaires territoriaux",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000690444/2026-09-25"
+      }
+    ],
+    "relation": {
+      "question": "Dans quels cas les droits de la cinquième semaine peuvent-ils être reportés ?",
+      "participants": [
+        {
+          "role": "Plafond",
+          "reference": "Décret n° 85-1250, art. 5-1, IV",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054670012/2026-08-13",
+          "citation": "[…] le report est limité aux droits non-utilisés relevant des quatre premières semaines de congé annuel par période de référence."
+        },
+        {
+          "role": "Motifs qui écartent le plafond",
+          "reference": "Décret n° 85-1250, art. 5-1, IV",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054670012/2026-08-13",
+          "citation": "[…] responsabilités parentales ou familiales ou pour des raisons tirées de l’intérêt du service […]"
+        }
+      ]
+    }
   }
 ]
