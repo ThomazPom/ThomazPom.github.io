@@ -1457,5 +1457,51 @@
         }
       ]
     }
+  },
+  {
+    "id": "secheresse-assurance-deux-cinq-ans",
+    "type": "Articulation de régimes",
+    "domaine": "Assurance",
+    "titre": "Les fissures dues à la sécheresse peuvent donner deux ou cinq ans pour agir",
+    "entree": {
+      "ordre": 33,
+      "titre": "Deux maisons se fissurent après la même sécheresse. Deux ans ou cinq ans pour agir contre l’assureur ?",
+      "face_a_face": "L’article L. 114-1 du code des assurances prévoit cinq ans pour agir après certains dommages dus à la sécheresse reconnue comme catastrophe naturelle, tandis que l’article 10 de la loi de 2021 exclut de cette réforme les contrats déjà en cours le jour de sa publication.",
+      "texte": "Le délai ordinaire est de deux ans. Pour les contrats auxquels la réforme s’applique, il passe à cinq ans pour les dommages dus aux mouvements de terrain liés à la sécheresse et à la réhydratation des sols, sous les conditions prévues par le code.",
+      "raison": "Ça surprend puisque la cause des fissures peut être la même chez deux voisins, alors que la règle sur le délai dépend aussi du contrat qui couvre leur sinistre."
+    },
+    "explication": [
+      "La loi a été publiée le 29 décembre 2021. Il faut identifier le contrat applicable au sinistre et vérifier la portée de la règle transitoire, notamment si le contrat a été renouvelé depuis.",
+      "Les deux durées concernent le délai d’action en justice. Le délai pour déclarer le sinistre et le point de départ de la prescription doivent être vérifiés séparément."
+    ],
+    "sources": [
+      {
+        "label": "Loi du 28 décembre 2021, règle transitoire",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044604411/2021-12-30"
+      }
+    ],
+    "relation": {
+      "question": "Pourquoi la même sécheresse ne donne-t-elle pas toujours le même délai contre l’assureur ?",
+      "participants": [
+        {
+          "role": "Délai ordinaire",
+          "reference": "Code des assurances, art. L. 114-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740/2026-10-22",
+          "citation": "Toutes actions dérivant d’un contrat d’assurance sont prescrites par deux ans […]"
+        },
+        {
+          "role": "Délai pour la sécheresse reconnue",
+          "reference": "Code des assurances, art. L. 114-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044607740/2026-10-22",
+          "citation": "[…] sont prescrites par cinq ans à compter de l’événement qui y donne naissance."
+        },
+        {
+          "role": "Contrats exclus par la règle transitoire",
+          "reference": "Loi n° 2021-1837, art. 10",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000044604411/2021-12-30",
+          "citation": "La présente loi ne s’applique pas aux contrats en cours à la date de sa publication."
+        }
+      ]
+    }
   }
 ]
