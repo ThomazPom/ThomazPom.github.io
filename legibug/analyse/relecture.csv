@@ -22,3 +22,4 @@ rang,id_source,id_vise,statut,motif,source
 27,LEGIARTI000006228724,LEGIARTI000006740658,écarté,La référence vise explicitement la rédaction issue de 2003 pour un dispositif limité à l’année 2004.,https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006228724
 29,LEGIARTI000029922814,LEGIARTI000006747596,écarté,Le taux fixé par l’arrêté concerne exclusivement l’année 2015.,https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000029922814
 30,LEGIARTI000006600777,LEGIARTI000006620690,écarté,L’article source prononce lui-même l’abrogation du groupe d’articles comprenant l’article 51.,https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006600777
+17,LEGIARTI000030092884,LEGIARTI000006818744,écarté,Le décret de 2025 a supprimé l’astérisque et conservé le numéro 321-18. Le contrôle voisin de R. 321-19 a révélé un écart de consolidation distinct.,https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000051336614
