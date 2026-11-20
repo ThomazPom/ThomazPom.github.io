@@ -13,13 +13,17 @@ def render(fiche):
         f'<div class="topic">{escape(fiche["type"])} · {escape(fiche["domaine"])}</div>',
         f'<h3>{escape(fiche["titre"])}</h3>',
     ]
-    if fiche["textes"]:
+    relation = fiche["relation"]
+    if relation["question"]:
+        output.append(f'<p class="question">{escape(relation["question"])}</p>')
+    if relation["participants"]:
         output.append('<div class="comparaison">')
-        for texte in fiche["textes"]:
+        for texte in relation["participants"]:
             href = escape(texte["url"])
             label = escape(texte["reference"])
             output.extend([
                 '<figure>',
+                f'<div class="topic">{escape(texte["role"])}</div>',
                 f'<blockquote>{escape(texte["citation"])}</blockquote>',
                 f'<figcaption><a href="{href}">{label}</a></figcaption>',
                 '</figure>',

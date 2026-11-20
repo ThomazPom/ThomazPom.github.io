@@ -8,18 +8,6 @@
       "L’article 13 du décret du 2 novembre 1965 fixe un plafond pour le nombre de personnes inscrites sur une liste d’admission. Il identifie cette liste par un renvoi à l’article 6 du décret statutaire du 23 septembre 1975.",
       "L’article 6 a été abrogé le 5 mai 2002. Le renvoi figure encore dans la version consolidée de l’article 13. Le relevé établit le décalage entre les textes. L’existence de concours encore organisés selon ce régime reste à vérifier."
     ],
-    "textes": [
-      {
-        "reference": "Décret n° 65-923, article 13",
-        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023098768",
-        "citation": "Le nombre des candidats inscrits sur la liste d’admission prévue au cinquième alinéa de l’article 6 du décret du 23 septembre 1975 […]"
-      },
-      {
-        "reference": "Décret n° 75-887, article 6 · statut sur Légifrance",
-        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006509565/2025-04-19",
-        "citation": "Abrogé par Décret n°2002-764 du 3 mai 2002"
-      }
-    ],
     "sources": [
       {
         "label": "Décret de 1965 consolidé",
@@ -29,7 +17,24 @@
         "label": "Décret de 1975 abrogé",
         "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000500784"
       }
-    ]
+    ],
+    "relation": {
+      "question": "Quelle liste d’admission sert à calculer le plafond ?",
+      "participants": [
+        {
+          "reference": "Décret n° 65-923, article 13",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000023098768",
+          "citation": "Le nombre des candidats inscrits sur la liste d’admission prévue au cinquième alinéa de l’article 6 du décret du 23 septembre 1975 […]",
+          "role": "Règle qui renvoie"
+        },
+        {
+          "reference": "Décret n° 75-887, article 6 · statut sur Légifrance",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006509565/2025-04-19",
+          "citation": "Abrogé par Décret n°2002-764 du 3 mai 2002",
+          "role": "Disposition visée"
+        }
+      ]
+    }
   },
   {
     "id": "renvoi-saint-pierre",
@@ -40,7 +45,6 @@
       "Le III de l’article L. 1424-49 du code général des collectivités territoriales régit le service d’incendie et de secours de Saint-Pierre-et-Miquelon. Pour son règlement opérationnel, il vise notamment l’article L. 1424-8-2 du même code. Cet article a été abrogé le 1er mai 2012 lors de la création du code de la sécurité intérieure.",
       "L’article L. 724-2 du code de la sécurité intérieure contient aujourd’hui la règle générale sur la création et le financement d’une réserve communale de sécurité civile. En 2024, un rapport du Sénat a proposé de supprimer la référence devenue obsolète. Le défaut relevé ici est dans le texte en vigueur qui conserve cette référence. Son effet pratique sur un règlement particulier n’a pas été établi dans cette fiche."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044374354",
@@ -58,7 +62,11 @@
         "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
         "label": "Rapport du Sénat, article 17"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "renvoi-parental",
@@ -69,7 +77,6 @@
       "Le second alinéa de l’article L. 3221-9 du code général des collectivités territoriales prévoit que le procureur informe le président du conseil départemental de certaines décisions concernant des mineurs. Il rattache cette transmission à une compétence précise, définie à l’article L. 222-4-1 du code de l’action sociale et des familles.",
       "Cet article, qui portait sur le contrat de responsabilité parentale, a été abrogé en 2013. Le rapport du Sénat propose de supprimer tout le second alinéa. Le renvoi subsiste dans la version consolidée consultée. Ce constat ne détermine pas le régime des transmissions fondées sur d’autres dispositions."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027573875/2026-10-08",
@@ -83,7 +90,11 @@
         "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
         "label": "Rapport du Sénat, article 17"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "renvoi-mobilite-rurale",
@@ -94,7 +105,6 @@
       "L’article L. 1213-4-1 du code des transports écarte deux articles pour l’Île-de-France. L’un des deux, l’article L. 1213-3-2, concernait les plans de mobilité rurale et a été abrogé par la loi d’orientation des mobilités de 2019.",
       "La mention de l’ancien article demeure dans le texte de l’exception territoriale. Le Sénat a proposé de la retirer. La fiche porte uniquement sur ce renvoi, parmi les deux références de l’article."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028528845",
@@ -108,7 +118,11 @@
         "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
         "label": "Rapport du Sénat, article 18"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "renvoi-ferroviaire-outre-mer",
@@ -119,7 +133,6 @@
       "Les articles L. 2311-1, L. 2331-1 et L. 2341-1 du code des transports écartent l’application de l’article L. 2112-1, respectivement dans les départements d’outre-mer, à Saint-Barthélemy et à Saint-Martin. L’article visé attribuait aux départements une compétence sur les infrastructures de transport non urbain de personnes, ferrées ou guidées, d’intérêt local.",
       "La loi du 7 août 2015 a abrogé l’article L. 2112-1 avec effet au 1er février 2017. Les trois textes conservent ce même renvoi. Cette fiche regroupe les trois occurrences et laisse de côté les autres références que ces articles contiennent."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000023084097",
@@ -133,7 +146,11 @@
         "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
         "label": "Rapport du Sénat, article 18"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "renvoi-partenariat",
@@ -144,7 +161,6 @@
       "L’article L. 2211-1 du code de la commande publique exclut certains organismes publics des marchés de partenariat. Pour identifier les organismes concernés parmi les administrations publiques centrales, il renvoie à la liste établie par un arrêté prévu par l’article 12 de la loi de programmation des finances publiques de 2010.",
       "La loi de programmation de 2023 a abrogé cet article 12 et repris la disposition de référence à son article 23. Le code conserve l’ancienne référence. Le Sénat a proposé de l’actualiser. La fiche établit le décalage de rédaction, sans conclure à une modification de la liste des acheteurs autorisés."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037703923",
@@ -158,7 +174,11 @@
         "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
         "label": "Rapport du Sénat, article 18"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "renvoi-archives",
@@ -169,7 +189,6 @@
       "Le code général des collectivités territoriales cite l’ancien article L. 212-33 du code du patrimoine parmi les règles générales des archives territoriales (L. 1421-1). Pour la préemption des archives privées, il renvoie encore aux anciens articles L. 212-34 à L. 212-36 (L. 1421-3).",
       "Ces dispositions du code du patrimoine ont été abrogées au 1er janvier 2018. Le droit actuel figure notamment aux articles L. 123-1 à L. 123-3. Ce dernier permet à l’État d’exercer la préemption à la demande et pour le compte d’une collectivité ou d’un groupement de collectivités, entre autres bénéficiaires."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006181317/2026-02-22",
@@ -183,7 +202,11 @@
         "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000035110299/2026-08-18",
         "label": "Code du patrimoine, article L. 123-3"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "alineas-polynesie",
@@ -193,18 +216,6 @@
     "explication": [
       "L’article L. 5842-25 du code général des collectivités territoriales adapte la définition des communautés d’agglomération à la Polynésie française. Il prévoit des substitutions au premier et au deuxième alinéa de l’article L. 5216-1, puis ordonne de supprimer les trois derniers alinéas.",
       "Or l’article L. 5216-1 compte trois alinéas. Une lecture littérale de la suppression emporte donc les passages que l’article vient d’adapter. Le Sénat a relevé ce défaut rédactionnel et proposé de supprimer le 2° ter. La fiche compare les deux textes consolidés et le rapport parlementaire. Elle n’établit pas comment cette difficulté est résolue dans un litige."
-    ],
-    "textes": [
-      {
-        "reference": "CGCT, art. L. 5842-25, II, 2°",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031106714",
-        "citation": "À la fin de la troisième phrase du premier alinéa et au second alinéa […]"
-      },
-      {
-        "reference": "CGCT, art. L. 5842-25, II, 2° ter",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031106714",
-        "citation": "Les trois derniers alinéas sont supprimés"
-      }
     ],
     "sources": [
       {
@@ -219,7 +230,24 @@
         "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
         "label": "Rapport du Sénat, article 17"
       }
-    ]
+    ],
+    "relation": {
+      "question": "Quels alinéas de la définition s’appliquent en Polynésie française ?",
+      "participants": [
+        {
+          "reference": "CGCT, art. L. 5842-25, II, 2°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031106714",
+          "citation": "À la fin de la troisième phrase du premier alinéa et au second alinéa […]",
+          "role": "Modification"
+        },
+        {
+          "reference": "CGCT, art. L. 5842-25, II, 2° ter",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031106714",
+          "citation": "Les trois derniers alinéas sont supprimés",
+          "role": "Suppression"
+        }
+      ]
+    }
   },
   {
     "id": "secours-presente-loi",
@@ -230,7 +258,6 @@
       "L’article L. 1424-50 du code général des collectivités territoriales prévoit un décret en Conseil d’État pour fixer les modalités d’application de « la présente loi ». Dans le code consolidé, la formule ne désigne plus explicitement le périmètre du texte visé.",
       "Le Sénat rattache cette formule à la loi du 3 mai 1996 relative aux services d’incendie et de secours, dont les dispositions ont été codifiées. Il a proposé de viser la section du code, qui contient les dispositions diverses et transitoires. La formule d’origine demeure dans la version consultée."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006389424/2026-10-29",
@@ -240,7 +267,11 @@
         "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
         "label": "Rapport du Sénat, article 17"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "renvoi-budget-communal",
@@ -251,7 +282,6 @@
       "Le 8° de l’article L. 2313-1 du code général des collectivités territoriales vise le tableau des acquisitions et cessions immobilières mentionné au c de l’article L. 300-5 du code de l’urbanisme. Le tableau se trouve plus précisément au c du 3° du II de cet article, dans les annexes du compte rendu financier d’une concession d’aménagement.",
       "Le Sénat a proposé de compléter le renvoi. Le nom du tableau permet de le retrouver dans le texte visé. Ce défaut de précision ne suffit donc pas à établir une incertitude sur le contenu de l’annexe."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006164574/",
@@ -265,7 +295,11 @@
         "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
         "label": "Rapport du Sénat, article 17"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "justice-mineurs",
@@ -276,7 +310,6 @@
       "Pour les appels en cour d’assises des mineurs, l’article L. 531-2 renvoie au code de procédure pénale. Ce renvoi permettait d’appliquer aux mineurs certains délais de comparution en appel prévus pour les adultes détenus.",
       "Le Conseil constitutionnel a censuré ce renvoi pour les délais et le renouvellement qu’il désigne. L’abrogation prend effet le 31 octobre 2027 selon la décision. Une suppression immédiate aurait fait disparaître le délai maximal. Le Conseil précise que les mesures prises avant cette date ne peuvent être contestées sur le fondement de cette inconstitutionnalité."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039088473/2026-11-20",
@@ -286,7 +319,11 @@
         "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000053910508",
         "label": "QPC 2026-1194, § 15 à 22"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "garde-a-vue-majeur-protege",
@@ -297,7 +334,6 @@
       "Le premier alinéa de l’article 706-112-1 du code de procédure pénale prévoit d’aviser la personne chargée de la protection juridique lorsque la mesure de protection apparaît au cours de la garde à vue. Le Conseil constitutionnel a censuré l’absence de garantie suffisante en cas de prolongation ou d’audition sur des faits nouveaux.",
       "L’abrogation est reportée au 31 octobre 2027. Entre-temps, si la mesure de protection ressort des éléments recueillis, l’officier ou l’agent de police judiciaire doit aviser le tuteur, le curateur ou le mandataire spécial en cas de prolongation ou d’audition sur des faits autres que ceux ayant motivé le placement."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042779759/",
@@ -307,7 +343,11 @@
         "url": "https://www.legifrance.gouv.fr/juri/id/CONSTEXT000053915387",
         "label": "QPC 2026-1191"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "avocats-cfe",
@@ -318,7 +358,6 @@
       "Le 8° de l’article 1460 du code général des impôts réserve deux ans d’exonération de cotisation foncière des entreprises aux avocats issus d’une certaine formation. L’objectif était d’aider ceux qui débutent sans expérience suffisante. Le Conseil constitutionnel a jugé contraire à l’égalité l’exclusion des avocats formés à l’étranger et admis par dérogation alors qu’ils n’ont pas d’expérience professionnelle juridique antérieure.",
       "L’abrogation de la condition est reportée au 31 octobre 2027. Les juridictions doivent suspendre les procédures dont l’issue dépend de cette condition jusqu’à l’entrée en vigueur de la nouvelle loi ou, au plus tard, jusqu’à cette date."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051217560",
@@ -328,7 +367,11 @@
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054595452",
         "label": "QPC 2026-1216, § 7 à 15"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "energie-silence",
@@ -339,7 +382,6 @@
       "Le comité de règlement des différends et des sanctions de la Commission de régulation de l’énergie peut recueillir les observations de la personne mise en cause. Le code prévoit qu’elle puisse présenter sa défense, mais les dispositions censurées omettaient la notification de son droit de se taire.",
       "Le Conseil constitutionnel reporte leur abrogation au 31 octobre 2027 pour préserver la possibilité de présenter des observations et d’être entendu. Dès la publication de la décision, il impose au comité d’informer la personne de son droit de se taire, jusqu’à l’entrée en vigueur d’une nouvelle loi ou jusqu’à l’abrogation."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000023985804",
@@ -349,7 +391,11 @@
         "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000054633605",
         "label": "QPC 2026-1219, § 29 à 31"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "prospection-double-sanction",
@@ -360,7 +406,6 @@
       "L’article L. 34-5 du code des postes et des communications électroniques permettait à plusieurs autorités de sanctionner des manquements aux règles sur la prospection directe automatisée. Le Conseil constitutionnel a censuré la possibilité de réprimer les mêmes faits, qualifiés de la même façon, par des sanctions de même nature visant les mêmes intérêts sociaux.",
       "L’abrogation est reportée au 31 octobre 2027. Dès la publication de la décision, une autre autorité ne peut engager ou continuer des poursuites pour les mêmes faits contre la même personne si de premières poursuites sont déjà engagées ou ont abouti à une sanction définitive. Les décisions prises avant la publication ne peuvent être contestées sur le fondement de cette inconstitutionnalité."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042155961/2026-11-01",
@@ -374,7 +419,11 @@
         "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000054993122",
         "label": "Conseil d’État, n° 501268"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "concentrations-medias",
@@ -385,7 +434,6 @@
       "L’article 22 du règlement européen sur la liberté des médias, applicable depuis le 8 août 2025, demande aux États de prévoir une évaluation des concentrations susceptibles de peser sur le pluralisme ou l’indépendance éditoriale. Cette évaluation est distincte du contrôle de la concurrence.",
       "Saisi au sujet de la cession de Challenges, le Conseil d’État a jugé le 27 juillet 2026 que la législation française ne prévoyait pas le dispositif requis. Il a rejeté le recours. L’Arcom ne pouvait procéder à cette évaluation sur ce fondement et le gouvernement ne pouvait créer le régime par décret, car il relevait du législateur. Une proposition d’adaptation a été déposée le 27 octobre 2026. Les sources consultées jusqu’au 20 novembre ne font pas apparaître de loi promulguée qui comble cette lacune."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://eur-lex.europa.eu/eli/reg/2024/1083/oj?locale=fr",
@@ -399,7 +447,11 @@
         "url": "https://www.assemblee-nationale.fr/dyn/docs/PIONANR5L17B3415.raw",
         "label": "Proposition de loi n° 3415"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "plateforme-covid-long",
@@ -410,7 +462,6 @@
       "La loi n° 2022-53 du 24 janvier 2022 prévoit une plateforme de référencement et de prise en charge des malades chroniques de la Covid-19. Elle renvoie à un décret pour préciser ses modalités, après avis de la CNIL.",
       "Le 1er juillet 2025, le Conseil d’État a annulé le refus de prendre ce décret et a enjoint au Premier ministre de l’édicter dans un délai de douze mois à compter de la notification de la décision. En octobre 2026, une question au Sénat signalait encore l’absence de publication. Au 20 novembre, les sources consultées ne font pas apparaître le décret. L’espace d’information et les dispositifs de coordination évoqués par le gouvernement sont des mesures distinctes de la plateforme prévue par la loi."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-07-01/498369",
@@ -420,7 +471,11 @@
         "url": "https://www.senat.fr/questions/base/2026/qSEQ261010254.html",
         "label": "Question au Sénat, octobre 2026"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "voix",
@@ -431,7 +486,6 @@
       "Un artiste reprend, sans autorisation, un extrait d’une interview dans une chanson. Dans son arrêt du 24 juin 2026, la Cour de cassation rattache le droit à la voix au respect de la vie privée et demande au juge de le mettre en balance avec la liberté d’expression artistique.",
       "Le fait que l’entretien ait été public entre dans l’examen du contexte. La Cour casse partiellement l’arrêt d’appel. L’issue dépend de la mise en balance opérée dans l’affaire."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419288/2026-11-20",
@@ -441,7 +495,11 @@
         "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000054339869",
         "label": "Cour de cassation, 25-20.483"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "preuve",
@@ -452,13 +510,16 @@
       "Dans un litige du travail, l’employeur avait produit des enregistrements effectués à l’insu du salarié. En matière civile, la Cour de cassation demande, lorsqu’elle est saisie de la question, d’apprécier l’équité de la procédure dans son ensemble et de mettre en balance le droit à la preuve avec les droits concurrents.",
       "La production de la preuve peut être justifiée si elle est indispensable à l’exercice de ce droit et si l’atteinte est strictement proportionnée au but poursuivi."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000048769030/",
         "label": "Assemblée plénière, 20-20.648"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "gpa-filiation",
@@ -469,7 +530,6 @@
       "L’article 16-7 du code civil frappe de nullité la convention de gestation pour autrui. Lorsqu’un enfant est né à l’étranger, le juge français peut être saisi d’une autre question, celle de la reconnaissance du jugement étranger qui établit sa filiation.",
       "La Cour de cassation juge que, compte tenu de l’intérêt de l’enfant et de son droit au respect de la vie privée, la GPA et l’absence de lien biologique avec le parent d’intention ne suffisent pas à écarter ce jugement. Le juge contrôle notamment l’absence de fraude et le consentement des personnes concernées."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006419302",
@@ -479,7 +539,11 @@
         "url": "https://www.courdecassation.fr/publications/bulletin-des-arrets-des-chambres-civiles/numero-11-novembre-2024/conflit-de-juridictions",
         "label": "Cour de cassation, 23-50.016"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "discernement",
@@ -490,7 +554,6 @@
       "En principe, un trouble psychique ou neuropsychique qui abolit le discernement ou le contrôle des actes au moment des faits écarte la responsabilité pénale. En droit civil, la personne qui cause un dommage sous l’empire d’un trouble mental reste tenue de le réparer.",
       "Les deux règles répondent à des questions différentes pour les mêmes faits. Le code pénal prévoit en outre une exception ciblée pour l’abolition temporaire liée à une consommation volontaire de substances psychoactives dans un temps très voisin de l’action et dans le dessein de commettre ou de faciliter l’infraction, ou une infraction de même nature."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029370748",
@@ -504,7 +567,11 @@
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427995",
         "label": "Code civil, article 414-3"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "conges-maladie",
@@ -515,7 +582,6 @@
       "Un salarié tombe malade pendant ses vacances. La Cour de cassation juge que les jours de congé payé qui coïncident avec un arrêt de travail pour maladie notifié à l’employeur doivent pouvoir être pris ultérieurement.",
       "La Cour interprète le droit français à la lumière du droit de l’Union. Elle distingue la finalité du congé payé, qui permet le repos et les loisirs, et celle de l’arrêt maladie, qui permet le rétablissement. Le chevauchement des dates peut donc ouvrir un droit au report, distinct de la question de l’acquisition de congés pendant la maladie."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.courdecassation.fr/decision/export/68c13314021d8d629a161218/1",
@@ -525,7 +591,11 @@
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:62011CJ0078",
         "label": "CJUE, C-78/11"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "durees-travail",
@@ -536,7 +606,6 @@
       "La durée légale de 35 heures sert de seuil pour les heures supplémentaires dans le régime de droit commun. Le code fixe séparément une durée maximale de 48 heures au cours d’une même semaine. Il prévoit aussi une moyenne de 44 heures sur douze semaines consécutives, sous réserve des dérogations prévues par le code.",
       "En cas de circonstances exceptionnelles, l’autorité administrative peut autoriser temporairement un dépassement de la limite hebdomadaire, dans la limite de 60 heures. Le seuil de décompte et les plafonds répondent à des questions distinctes."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072050/LEGISCTA000033020381/",
@@ -546,7 +615,11 @@
         "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006902459/2026-11-13",
         "label": "Articles L. 3121-20 à L. 3121-22"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "cultes-alsace-moselle",
@@ -557,7 +630,6 @@
       "L’article 2 de la loi de 1905 pose que la République ne salarie aucun culte. Dans le Bas-Rhin, le Haut-Rhin et la Moselle, cet article n’a pas été rendu applicable. Le droit local y prévoit notamment la rémunération des pasteurs des Églises consistoriales.",
       "Le Conseil constitutionnel a validé cette disposition en 2013. Il a relevé que les constituants avaient entendu maintenir les dispositions particulières déjà applicables dans certaines parties du territoire, malgré l’inscription du principe de laïcité dans la Constitution. Les deux régimes coexistent par leur champ territorial."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000508749/",
@@ -571,7 +643,11 @@
         "url": "https://www.legifrance.gouv.fr/contenu/Media/files/autour-de-la-loi/guide-de-legistique/2025_10_06_fiche_3.7.1_alsace-moselle.pdf",
         "label": "Guide de légistique, Alsace-Moselle"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "documents",
@@ -582,13 +658,16 @@
       "L’administration doit en principe publier ou communiquer les documents administratifs qu’elle détient. Certaines mentions, comme celles protégées par le secret médical ou la vie privée, limitent cette communication.",
       "Si les mentions protégées peuvent être masquées ou retirées, l’article L. 311-7 prévoit la communication du reste du document."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031367692",
         "label": "Articles L. 311-1, L. 311-6 et L. 311-7"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "recours-algorithme",
@@ -599,7 +678,6 @@
       "Le RGPD encadre les décisions fondées exclusivement sur un traitement automatisé qui produisent des effets juridiques ou affectent significativement une personne. En France, l’article 47 de la loi Informatique et Libertés autorise sous conditions certaines décisions administratives individuelles entièrement automatisées. La décision doit notamment signaler le recours à l’algorithme et l’administration doit pouvoir expliquer son application à la personne concernée.",
       "Si la personne forme un recours administratif, la décision qui statue sur ce recours ne peut reposer uniquement sur un traitement automatisé de données personnelles. Les garanties changent entre la décision initiale et le réexamen."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj?locale=fr",
@@ -613,7 +691,11 @@
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033205535",
         "label": "Article L. 311-3-1 du code des relations entre le public et l’administration"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "secret-signalement",
@@ -624,13 +706,16 @@
       "Le code pénal sanctionne la révélation d’une information couverte par le secret professionnel. L’article 226-14 prévoit toutefois des exceptions, dont une pour les professionnels de santé face à certaines violences au sein du couple.",
       "Le signalement au procureur est permis lorsque le professionnel estime que la vie de la victime majeure est en danger immédiat et que l’emprise exercée par l’auteur l’empêche de se protéger. Le professionnel doit s’efforcer d’obtenir son accord. S’il ne peut l’obtenir, il doit informer la victime du signalement."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049532171",
         "label": "Code pénal, article 226-14, 3°"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   },
   {
     "id": "silence-environnement",
@@ -641,18 +726,6 @@
       "Le code des relations entre le public et l’administration pose en principe que deux mois de silence sur une demande valent acceptation. Cette règle connaît des exceptions.",
       "Pour une demande d’autorisation environnementale, l’article R. 181-42 du code de l’environnement donne au silence du préfet l’effet inverse. À l’expiration des délais propres à la procédure, prévus à l’article R. 181-41, le silence vaut rejet. La nature de la demande détermine donc le sens du silence et le délai applicable."
     ],
-    "textes": [
-      {
-        "reference": "CRPA, art. L. 231-1",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367611",
-        "citation": "Le silence gardé pendant deux mois par l’administration sur une demande vaut décision d’acceptation."
-      },
-      {
-        "reference": "Code de l’environnement, art. R. 181-42",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033929472",
-        "citation": "Le silence gardé par le préfet […] vaut décision implicite de rejet."
-      }
-    ],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000031366350/LEGISCTA000031367605/",
@@ -662,7 +735,24 @@
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033929472/2026-10-10",
         "label": "Code de l’environnement, article R. 181-42"
       }
-    ]
+    ],
+    "relation": {
+      "question": "Quel effet a le silence de l’administration ?",
+      "participants": [
+        {
+          "reference": "CRPA, art. L. 231-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367611",
+          "citation": "Le silence gardé pendant deux mois par l’administration sur une demande vaut décision d’acceptation.",
+          "role": "Principe général"
+        },
+        {
+          "reference": "Code de l’environnement, art. R. 181-42",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033929472",
+          "citation": "Le silence gardé par le préfet […] vaut décision implicite de rejet.",
+          "role": "Exception"
+        }
+      ]
+    }
   },
   {
     "id": "enquete",
@@ -673,12 +763,15 @@
       "L’article 11 du code de procédure pénale prévoit le secret de l’enquête et de l’instruction. Il autorise aussi le procureur à rendre publics des éléments objectifs, par exemple pour éviter la propagation d’informations inexactes, faire cesser un trouble à l’ordre public ou répondre à un autre impératif d’intérêt public.",
       "Cette communication ne doit comporter aucune appréciation sur le bien-fondé des charges. L’article 11 reste en vigueur au 20 novembre 2026, avec une abrogation programmée au 1er janvier 2029."
     ],
-    "textes": [],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568210/2026-11-20",
         "label": "Code de procédure pénale, article 11"
       }
-    ]
+    ],
+    "relation": {
+      "question": null,
+      "participants": []
+    }
   }
 ]
