@@ -5099,5 +5099,52 @@
         }
       ]
     }
+  },
+  {
+    "id": "droit-oubli-moteur-archive-journal",
+    "type": "Conflit de droits",
+    "domaine": "Vie privée",
+    "titre": "Un article peut rester dans les archives d’un journal tout en disparaissant des recherches sur votre nom",
+    "entree": {
+      "ordre": 115,
+      "titre": "Votre nom disparaît des résultats de recherche. L’article du journal reste en ligne.",
+      "face_a_face": "L’article 17 du RGPD permet de demander l’effacement de données personnelles sous certaines conditions, mais protège aussi la liberté d’informer. La justice européenne distingue l’article publié par le journal et le lien que le moteur affiche quand on cherche votre nom.",
+      "texte": "Un journal a publié un article à votre sujet il y a longtemps. Si votre demande de déréférencement aboutit, le moteur retire le lien des résultats d’une recherche sur votre nom. L’article peut rester accessible dans les archives du journal ou par d’autres recherches.",
+      "raison": "Chercher une personne par son nom rend l’information beaucoup plus facile à retrouver que consulter les archives d’un journal. Le moteur peut donc devoir retirer le lien pour cette recherche alors que le journal peut encore publier l’article pour informer ses lecteurs."
+    },
+    "explication": [
+      "L’issue dépend notamment de la nature et de l’ancienneté de l’information, du rôle public de la personne et de l’intérêt du public à retrouver cette information par son nom. La demande auprès du moteur ne porte pas sur la suppression de l’article à sa source."
+    ],
+    "sources": [
+      {
+        "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/fra",
+        "label": "RGPD, article 17"
+      },
+      {
+        "url": "https://curia.europa.eu/site/upload/docs/application/pdf/2014-05/cp140070fr.pdf",
+        "label": "CJUE, arrêt Google Spain, C-131/12"
+      },
+      {
+        "url": "https://conseil-etat.fr/actualites/droit-a-l-oubli-le-conseil-d-etat-donne-le-mode-d-emploi",
+        "label": "Conseil d’État, décisions du 6 décembre 2019"
+      }
+    ],
+    "relation": {
+      "question": "Peut-on faire retirer un lien du moteur sans faire retirer l’article du journal ?",
+      "participants": [
+        {
+          "role": "Droit à l’effacement dans les situations prévues",
+          "reference": "RGPD, art. 17, § 1",
+          "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/fra",
+          "citation": "« […] l’effacement, dans les meilleurs délais, de données à caractère personnel la concernant […] »"
+        },
+        {
+          "role": "Liberté d’expression et d’information",
+          "reference": "RGPD, art. 17, § 3, a",
+          "url": "https://eur-lex.europa.eu/eli/reg/2016/679/oj/fra",
+          "citation": "« […] à l’exercice du droit à la liberté d’expression et d’information […] »"
+        }
+      ]
+    }
   }
 ]
