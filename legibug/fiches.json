@@ -1624,5 +1624,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "integration-emplois-specifiques",
+    "type": "Renvoi obsolète",
+    "domaine": "Fonction publique",
+    "titre": "Le délai d’intégration des emplois spécifiques renvoie à une loi abrogée",
+    "explication": [
+      "Le décret n° 2009-414 reste affiché en vigueur. Pour les agents qui ne remplissaient pas les conditions à sa publication, son article 4 fait partir le délai de candidature d’un an du moment où ils les réunissent. Il renvoie au diplôme et aux quinze années de carrière définis par l’article 139 ter, abrogé depuis le 1er mars 2022.",
+      "Le dispositif se limite aux titulaires d’emplois spécifiques créés sous l’ancien code des communes. Les sources vérifiées établissent le décalage entre le décret et la loi. Le sort des demandes individuelles après 2022 reste à établir."
+    ],
+    "sources": [
+      {
+        "label": "Décret n° 2009-414 consolidé",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000020527306"
+      },
+      {
+        "label": "Loi du 26 janvier 1984 et historique de l’article 139 ter",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000320434/2026-09-30"
+      }
+    ],
+    "relation": {
+      "question": "À partir de quand court le délai de candidature à l’intégration ?",
+      "participants": [
+        {
+          "role": "Délai dans le décret en vigueur",
+          "reference": "Décret n° 2009-414, art. 4",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000020528621/2009-04-18",
+          "citation": "[…] à compter de la date à laquelle ils réunissent les conditions prévues à l’article 139 ter […]"
+        },
+        {
+          "role": "Conditions dans la disposition abrogée",
+          "reference": "Loi n° 84-53, ancien art. 139 ter",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006367144",
+          "citation": "[…] un diplôme de niveau licence ainsi que quinze années de carrière dans un emploi spécifique […]"
+        }
+      ]
+    }
   }
 ]
