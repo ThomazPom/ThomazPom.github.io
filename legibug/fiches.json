@@ -5932,5 +5932,51 @@
         "reparation-penale-echeancier"
       ]
     }
+  },
+  {
+    "id": "majorite-fin-autorite-pension-maintien",
+    "type": "Articulation de régimes",
+    "domaine": "Famille",
+    "titre": "À 18 ans, l’autorité parentale prend fin, mais l’obligation d’entretien peut continuer",
+    "entree": {
+      "ordre": 131,
+      "titre": "Votre enfant a 18 ans. Vous ne décidez plus à sa place, mais vous pouvez devoir continuer à l’aider financièrement.",
+      "face_a_face": "L’article 371-1 du Code civil met fin à l’autorité parentale à la majorité, tandis que l’article 371-2 précise que l’obligation de contribuer à l’entretien et à l’éducation ne cesse pas de plein droit à cette date.",
+      "texte": "Votre enfant fête ses 18 ans et commence des études sans avoir les moyens de vivre seul. Il est majeur et prend ses décisions lui-même. La pension fixée pour contribuer à ses besoins ne s’arrête pas automatiquement le jour de son anniversaire.",
+      "raison": "L’autonomie juridique arrive à la majorité. Le soutien financier répond à une autre question : de quoi l’enfant a-t-il besoin et que peuvent payer ses parents ? Il peut donc continuer après la fin de l’autorité parentale."
+    },
+    "explication": [
+      "La contribution est appréciée selon les besoins de l’enfant et les ressources des deux parents. Les études sont un exemple de situation dans laquelle l’enfant majeur peut encore avoir besoin d’un soutien."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049164413/2026-11-21",
+        "label": "Code civil, article 371-1"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039778192/2026-11-21",
+        "label": "Code civil, article 371-2"
+      }
+    ],
+    "relation": {
+      "question": "Le même anniversaire met-il fin à l’autorité parentale et à la pension ?",
+      "participants": [
+        {
+          "role": "Fin de l’autorité parentale",
+          "reference": "Code civil, art. 371-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049164413/2026-11-21",
+          "citation": "« Elle appartient aux parents jusqu’à la majorité ou l’émancipation de l’enfant […] »"
+        },
+        {
+          "role": "Maintien possible de l’obligation d’entretien",
+          "reference": "Code civil, art. 371-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039778192/2026-11-21",
+          "citation": "« Cette obligation ne cesse de plein droit […] ni lorsque l’enfant est majeur. »"
+        }
+      ],
+      "fiches_liees": [
+        "pension-paiement-direct-six-mois-cinq-ans"
+      ]
+    }
   }
 ]
