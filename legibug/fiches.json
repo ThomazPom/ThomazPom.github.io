@@ -6780,5 +6780,50 @@
       "raison": "Le même décès fait courir deux délais de transfert selon le produit. Au bout de quatre ans, il faut donc s’adresser à deux interlocuteurs différents pour retrouver l’argent.",
       "ordre": 145
     }
+  },
+  {
+    "id": "train-retard-billet-seuil-quatre-euros",
+    "type": "Articulation de régimes",
+    "domaine": "Transports",
+    "titre": "Train retardé de 90 minutes, billet à 12 €. Vous renoncez, 12 € remboursés. Vous partez, parfois 0 €.",
+    "explication": [
+      "L’exemple suppose un train couvert par les deux articles, un retard annoncé après l’achat et aucune autre cause d’exclusion de l’indemnité. Le seuil est facultatif. Le règlement autorise la compagnie à le fixer à 4 € au maximum et permet des conditions plus favorables au voyageur."
+    ],
+    "sources": [
+      {
+        "url": "https://eur-lex.europa.eu/eli/reg/2021/782/oj/fra",
+        "label": "Règlement (UE) 2021/782, articles 18 et 19"
+      }
+    ],
+    "relation": {
+      "question": "Combien récupérez-vous si vous partez quand même ?",
+      "participants": [
+        {
+          "role": "Renoncer au trajet et récupérer le prix du billet",
+          "reference": "Règlement (UE) 2021/782, art. 18, § 1",
+          "url": "https://eur-lex.europa.eu/eli/reg/2021/782/oj/fra",
+          "citation": "« le remboursement intégral du billet »"
+        },
+        {
+          "role": "Faire le trajet malgré le retard",
+          "reference": "Règlement (UE) 2021/782, art. 19, § 1",
+          "url": "https://eur-lex.europa.eu/eli/reg/2021/782/oj/fra",
+          "citation": "« 25 % du prix du billet »"
+        },
+        {
+          "role": "Dispense de paiement sous le seuil choisi",
+          "reference": "Règlement (UE) 2021/782, art. 19, § 8",
+          "url": "https://eur-lex.europa.eu/eli/reg/2021/782/oj/fra",
+          "citation": "« Ce seuil ne dépasse pas 4 EUR par billet. »"
+        }
+      ]
+    },
+    "entree": {
+      "titre": "Train retardé de 90 minutes, billet à 12 €. Vous renoncez, 12 € remboursés. Vous partez, parfois 0 €.",
+      "face_a_face": "L’article 18 prévoit le remboursement du billet si vous renoncez au trajet quand un retard d’au moins 60 minutes est prévisible à l’arrivée. L’article 19 prévoit au moins 25 % du prix si vous voyagez et arrivez avec 60 à 119 minutes de retard, mais il autorise la compagnie à écarter les indemnités inférieures à un seuil pouvant atteindre 4 €.",
+      "texte": "Votre train doit arriver avec 90 minutes de retard. Vous avez payé 12 €. Si vous renoncez à ce trajet, vous pouvez récupérer les 12 €. Si vous prenez le train et arrivez 90 minutes en retard, 25 % du prix font 3 €. Une compagnie qui applique le seuil de 4 € et le taux de 25 % peut ne rien verser.",
+      "raison": "Le seuil de 4 € s’applique à la compensation calculée sur le prix du billet quand vous voyagez. Le remboursement quand vous renoncez au trajet suit l’autre article.",
+      "ordre": 146
+    }
   }
 ]
