@@ -7908,5 +7908,48 @@
       "raison": "Le logement et l’erreur restent les mêmes. Franchir le seuil de 6 mois change seulement le remboursement du passé, puisque la baisse peut encore jouer pour la suite.",
       "ordre": 164
     }
+  },
+  {
+    "id": "achat-occupe-reprise-vente-deux-quatre-ans",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Vous achetez un logement déjà loué. Le locataire peut devoir partir dans 2 ans si vous l’habitez, ou dans 4 ans si vous voulez le vendre vide.",
+    "explication": [
+      "L’exemple suppose une location vide et une première reconduction de 3 ans, avec un propriétaire personne physique. Le congé doit respecter les autres conditions légales. Le propriétaire peut aussi vendre le logement occupé, avec le bail en cours."
+    ],
+    "sources": [
+      {
+        "label": "Loi du 6 juillet 1989, art. 15, I",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/"
+      }
+    ],
+    "relation": {
+      "question": "Le locataire quitte-t-il les lieux à la même date selon le motif du congé ?",
+      "participants": [
+        {
+          "role": "Reprendre le logement pour y habiter",
+          "reference": "Loi du 6 juillet 1989, art. 15, I",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/",
+          "citation": "« […] deux ans à compter de la date d’acquisition. »"
+        },
+        {
+          "role": "Donner congé pour vendre",
+          "reference": "Loi du 6 juillet 1989, art. 15, I",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/",
+          "citation": "« […] au terme de la première reconduction tacite ou du premier renouvellement […] »"
+        }
+      ],
+      "fiches_liees": [
+        "vente-logement-vide-meuble-priorite-achat",
+        "loyer-preavis-auteur-conge"
+      ]
+    },
+    "entree": {
+      "titre": "Vous achetez un logement déjà loué. Le locataire peut devoir partir dans 2 ans si vous l’habitez, ou dans 4 ans si vous voulez le vendre vide.",
+      "face_a_face": "L’article 15 reporte le congé pour reprise à 2 ans après l’achat si le bail expire avant. Pour un congé pour vendre, si le bail expire moins de 3 ans après l’achat, il faut en principe attendre la fin de son premier renouvellement ou de sa première reconduction.",
+      "texte": "Vous achetez un appartement déjà loué vide et le bail expire dans un an. Pour y habiter, un congé régulier peut prendre effet 2 ans après votre achat. Pour vendre avec le logement libéré, si le bail est reconduit pour 3 ans, il faudra attendre 4 ans après votre achat pour que le congé pour vendre prenne effet.",
+      "raison": "Le délai de reprise se calcule depuis votre achat. Le délai du congé pour vendre dépend de la prochaine fin de bail. Avec le même achat et le même locataire, le motif du congé peut donc décaler son départ de 2 ans.",
+      "ordre": 165
+    }
   }
 ]
