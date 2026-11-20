@@ -7250,5 +7250,65 @@
       "raison": "Pour le même départ, deux règles produisent deux résultats. La faute grave exclut une somme qui aurait été due au titre du licenciement. Les 3 000 € étaient déjà acquis au titre d’un accord approuvé avant le licenciement.",
       "ordre": 154
     }
+  },
+  {
+    "id": "licenciement-rupture-conventionnelle-six-mois",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "À 6 mois d’ancienneté, un licenciement peut donner 0 € et une rupture conventionnelle au moins 300 €",
+    "explication": [
+      "L’exemple compare l’indemnité légale de licenciement et l’indemnité spécifique de rupture conventionnelle. Le calcul retient une rémunération de référence de 2 400 € et six mois complets à la date d’effet de la rupture conventionnelle. Une convention collective peut prévoir un montant supérieur. Le préavis, les congés acquis et les éventuels dommages-intérêts obéissent à leurs propres règles."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644154/2026-11-21",
+        "label": "Code du travail, art. L. 1234-9"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071182/2026-11-21",
+        "label": "Code du travail, art. L. 1237-13"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644692/2026-11-21",
+        "label": "Code du travail, art. R. 1234-2"
+      },
+      {
+        "url": "https://travail-emploi.gouv.fr/la-rupture-conventionnelle-du-contrat-de-travail-duree-indeterminee",
+        "label": "Ministère du Travail, indemnité calculée au prorata avant 8 mois"
+      }
+    ],
+    "relation": {
+      "question": "Le seuil de 8 mois vaut-il pour les deux façons de quitter un CDI ?",
+      "participants": [
+        {
+          "role": "Licenciement, condition de 8 mois",
+          "reference": "Code du travail, art. L. 1234-9",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644154/2026-11-21",
+          "citation": "« […] 8 mois d’ancienneté ininterrompus […] »"
+        },
+        {
+          "role": "Rupture conventionnelle, indemnité spécifique",
+          "reference": "Code du travail, art. L. 1237-13",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071182/2026-11-21",
+          "citation": "« […] montant de l’indemnité spécifique de rupture conventionnelle […] »"
+        },
+        {
+          "role": "Calcul, quart de mois de salaire par année",
+          "reference": "Code du travail, art. R. 1234-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644692/2026-11-21",
+          "citation": "« Un quart de mois de salaire par année d’ancienneté […] »"
+        }
+      ],
+      "fiches_liees": [
+        "faute-grave-indemnite-rupture-conventionnelle"
+      ]
+    },
+    "entree": {
+      "titre": "À 6 mois d’ancienneté, un licenciement peut donner 0 € et une rupture conventionnelle au moins 300 €",
+      "face_a_face": "L’article L. 1234-9 exige 8 mois d’ancienneté pour ouvrir droit à l’indemnité légale de licenciement. L’article L. 1237-13 prévoit une indemnité spécifique de rupture conventionnelle, due au prorata même avant 8 mois selon le ministère du Travail.",
+      "texte": "Deux salariés en CDI ont un salaire de référence de 2 400 € et six mois d’ancienneté au moment retenu pour chacun. Le premier est licencié et ne touche aucune indemnité légale de licenciement. Le second quitte l’entreprise par rupture conventionnelle homologuée. Sur la base d’un quart de mois par année et de six mois de présence, il touche au moins 300 €.",
+      "raison": "Le texte sur la rupture conventionnelle renvoie au montant de l’indemnité de licenciement. Selon le ministère, le renvoi sert à calculer le montant et le seuil de 8 mois ne prive pas de cette indemnité le salarié qui part d’un commun accord.",
+      "ordre": 155
+    }
   }
 ]
