@@ -49,7 +49,7 @@
       "titre": "Comment appliquer deux paragraphes que le même article ordonne de supprimer ?",
       "texte": "En Polynésie française, un article dit de modifier les deux premiers paragraphes qui définissent une communauté d’agglomération. Il dit aussi de supprimer les trois derniers.",
       "raison": "Les instructions sont incohérentes puisque le texte visé compte trois paragraphes en tout. Les deux paragraphes à modifier sont donc aussi à supprimer. Le Sénat a proposé de corriger le texte.",
-      "ordre": 20,
+      "ordre": 21,
       "face_a_face": "Le 2° de l’article L. 5842-25 dit de modifier les deux premiers alinéas de l’article L. 5216-1, tandis que le 2° ter dit d’en supprimer les trois derniers."
     }
   },
@@ -98,7 +98,7 @@
     "entree": {
       "titre": "Un père peut-il bénéficier du même recul de la limite d’âge qu’une mère ?",
       "texte": "L’ancien décret de l’Assistance publique à Paris parle des femmes. Le code de la fonction publique parle de toute personne qui élève ou a élevé un enfant. Pour un concours concerné, la règle du code prime. Les deux formulations restent consultables aujourd’hui.",
-      "ordre": 18,
+      "ordre": 19,
       "raison": "La rédaction du décret est incohérente avec le code puisque, pour un même concours soumis à une limite d’âge, elle énonce un avantage pour les femmes là où le code l’accorde aussi aux hommes qui remplissent la même condition. Le code a priorité.",
       "face_a_face": "L’article 22 du décret de 1977 vise les femmes qui élèvent ou ont élevé un enfant, tandis que l’article L. 324-7 du code accorde le même relèvement à 45 ans aux personnes qui remplissent cette condition, quel que soit leur sexe."
     }
@@ -147,7 +147,7 @@
       "titre": "L’Europe exige un contrôle des rachats de médias. Qui peut le faire en France ?",
       "texte": "Le règlement européen exige un examen de l’effet de certains rachats sur le pluralisme. Quand le Conseil d’État a examiné le rachat de Challenges, la loi française ne donnait pas à l’Arcom de pouvoir pour faire cet examen.",
       "raison": "Le système est incohérent puisque le contrôle est exigé mais que le texte français ne donne pas les moyens de l’effectuer. Le Conseil d’État a indiqué qu’une intervention du législateur était nécessaire.",
-      "ordre": 21,
+      "ordre": 22,
       "face_a_face": "L’article 22 du règlement européen exige un contrôle de l’effet des rachats de médias sur le pluralisme, tandis que le Conseil d’État constate que la loi française ne permet pas à l’Arcom de réaliser le contrôle demandé."
     }
   },
@@ -191,7 +191,7 @@
       "titre": "La loi promet une plateforme pour les malades. Pourquoi ne peuvent-ils pas l’utiliser ?",
       "texte": "Une loi de 2022 prévoit une plateforme pour les personnes atteintes de Covid long. Le décret devait préciser comment elle fonctionnerait. Le Conseil d’État a ordonné au gouvernement de le prendre.",
       "raison": "La promesse reste sans mode d’emploi puisque les recherches au 20 novembre 2026 n’ont pas retrouvé le décret demandé. Les pages d’information existantes ne remplissent pas à elles seules le rôle prévu par la loi.",
-      "ordre": 22,
+      "ordre": 23,
       "face_a_face": "L’article 1er de la loi de 2022 prévoit une plateforme pour le Covid long, et le Conseil d’État a ordonné de prendre son décret dans les douze mois suivant la notification de sa décision, mais la recherche au 20 novembre n’a pas retrouvé ce décret."
     }
   },
@@ -235,7 +235,7 @@
       "titre": "Deux jeunes avocats débutent sans expérience. Pourquoi un seul a-t-il droit à l’exonération ?",
       "texte": "Un avocat qui débute après le parcours de formation prévu en France peut obtenir deux ans d’exonération. Un avocat formé à l’étranger et admis par dérogation peut en être exclu même s’il débute sans expérience juridique.",
       "raison": "La différence est incohérente avec le but de l’aide puisque les deux avocats rencontrent la même difficulté de début de carrière. Le Conseil constitutionnel a censuré la condition et a demandé de suspendre les procès qui en dépendent jusqu’à sa suppression ou son remplacement.",
-      "ordre": 23,
+      "ordre": 24,
       "face_a_face": "L’article 1460 accorde deux ans d’exonération aux avocats issus d’une certaine formation, tandis que le Conseil constitutionnel juge injustifiée l’exclusion de certains avocats formés à l’étranger qui débutent eux aussi sans expérience."
     }
   },
@@ -333,7 +333,7 @@
       "titre": "Deux autorités peuvent-elles poursuivre deux fois le même démarchage ?",
       "texte": "Pour les mêmes messages, une entreprise pouvait être poursuivie par deux autorités au titre du même manquement.",
       "raison": "Le Conseil constitutionnel a censuré le cumul puisque les deux régimes pouvaient sanctionner les mêmes faits de la même façon pour protéger les mêmes intérêts. Sa décision bloque dès maintenant les secondes poursuites dans les cas qu’elle définit.",
-      "ordre": 24,
+      "ordre": 25,
       "face_a_face": "L’article L. 34-5 permettait à plusieurs autorités de sanctionner le même démarchage, tandis que le Conseil constitutionnel interdit les secondes poursuites pour les mêmes faits dans les conditions qu’il fixe."
     }
   },
@@ -377,7 +377,7 @@
       "titre": "On découvre qu’une personne gardée à vue est sous tutelle. Pourquoi la règle ne suffisait-elle pas ?",
       "texte": "La police peut découvrir la mesure de protection après le début de la garde à vue. Le texte ne garantissait pas suffisamment que la personne chargée de la protection soit prévenue si la garde à vue était prolongée ou si l’audition portait sur de nouveaux faits.",
       "raison": "La garantie était insuffisante puisque la personne pouvait être confrontée à une nouvelle étape de la procédure sans que son protecteur en soit averti. Le Conseil constitutionnel a imposé cet avis pendant la période qui précède l’abrogation.",
-      "ordre": 25,
+      "ordre": 26,
       "face_a_face": "L’article 706-112-1 prévoit d’aviser le tuteur ou le curateur lorsque la protection est découverte pendant la garde à vue, et le Conseil constitutionnel exige aussi une garantie en cas de prolongation ou d’audition sur de nouveaux faits."
     }
   },
@@ -421,7 +421,7 @@
       "titre": "On vous demande de répondre avant de vous sanctionner. Doit-on vous dire que vous pouvez vous taire ?",
       "texte": "Le code prévoit que l’autorité de régulation de l’énergie recueille les observations du mis en cause. Les passages censurés ne prévoyaient pas de l’informer de son droit de se taire.",
       "raison": "La procédure est incomplète puisque la personne est invitée à s’expliquer sans être avertie qu’elle peut garder le silence. Le Conseil constitutionnel impose cet avertissement dès maintenant.",
-      "ordre": 26,
+      "ordre": 27,
       "face_a_face": "L’article L. 134-31 prévoit que la personne poursuivie puisse présenter ses observations, et le Conseil constitutionnel exige qu’on l’avertisse d’abord qu’elle peut se taire."
     }
   },
@@ -470,7 +470,7 @@
     "entree": {
       "titre": "Votre indemnité est plafonnée, même si le plafond peut laisser une partie du préjudice sans réparation.",
       "texte": "Le Comité européen des droits sociaux estime que le plafond français peut empêcher une réparation suffisante. La Cour de cassation juge que le salarié ne peut pas invoquer directement la disposition de la Charte contre son employeur. Le constat européen ne suffit donc pas à écarter le plafond aux prud’hommes.",
-      "ordre": 17,
+      "ordre": 18,
       "raison": "La tension subsiste puisque le barème reste applicable devant le juge français alors que le Comité européen a conclu qu’il contrevient à la Charte. La Cour de cassation juge que cette disposition de la Charte ne peut pas être invoquée directement entre salarié et employeur.",
       "face_a_face": "L’article L. 1235-3 impose un plafond, tandis que le Comité européen des droits sociaux juge ce plafonnement contraire à l’article 24 de la Charte sociale européenne."
     }
@@ -512,7 +512,7 @@
       "titre": "Une loi étrangère régit toute la succession. Pourquoi la France peut-elle quand même prélever une part ?",
       "texte": "Le règlement européen désigne une loi pour l’ensemble de la succession. Si cette loi ne prévoit aucune réserve pour les enfants, le code français leur permet, sous conditions, de prélever une part sur les biens situés en France.",
       "raison": "Les deux règles se heurtent puisque la loi étrangère peut permettre de ne rien laisser aux enfants alors que la règle française leur ouvre un prélèvement sur les biens en France. La Commission européenne a engagé un dialogue avec la France sur cette compatibilité.",
-      "ordre": 27,
+      "ordre": 28,
       "face_a_face": "Les articles 21 et 22 du règlement européen désignent une loi pour l’ensemble de la succession, tandis que l’article 913 du code civil prévoit sous conditions de prélever une part sur les biens situés en France si la loi étrangère ne prévoit aucune réserve pour les enfants."
     }
   },
@@ -551,7 +551,7 @@
     "entree": {
       "titre": "Vous avez encore des jours de congé. En quittant votre emploi, vous les perdez.",
       "texte": "Un agent territorial n’a pas pu prendre sa cinquième semaine parce que son service avait besoin de lui. L’article 5-1 lui permet de la prendre plus tard. S’il quitte son emploi avant de la prendre, l’article 5-2 limite le paiement aux quatre premières semaines. Pour ces jours-là, il a donc un droit au report, mais aucune indemnité au départ.",
-      "ordre": 14,
+      "ordre": 15,
       "raison": "L’effet peut surprendre puisque les mêmes jours restent utilisables tant que l’agent est en poste, puis cessent d’être indemnisables à son départ. Les articles distinguent le droit de prendre des jours et le droit d’en obtenir le paiement.",
       "face_a_face": "L’article 5-1 permet de reporter la cinquième semaine perdue dans l’intérêt du service, tandis que l’article 5-2 limite l’indemnité au départ aux droits inutilisés des quatre premières semaines dans ce cas."
     }
@@ -562,7 +562,7 @@
     "domaine": "Procédure pénale",
     "titre": "La loi demande au décret de désigner qui peut déposer plainte, le décret renvoie à un arrêté",
     "entree": {
-      "ordre": 28,
+      "ordre": 29,
       "titre": "Agressé au travail, quel organisme peut déposer plainte pour vous ?",
       "texte": "Pour certaines professions de santé libérales, la loi charge un décret de désigner l’organisme pouvant porter plainte pour la victime. Le décret publié en juillet 2026 renvoie cette désignation à un arrêté du ministre de la santé.",
       "raison": "Le dispositif reste incomplet pour les professionnels concernés puisque le décret ne permet pas de savoir à quel organisme donner mandat. Les recherches au 20 novembre 2026 n’ont pas retrouvé l’arrêté de désignation. La victime peut déposer plainte elle-même.",
@@ -602,7 +602,7 @@
     "domaine": "Santé",
     "titre": "La loi prévoit un hébergement des parents près de l’hôpital, le décret se fait attendre",
     "entree": {
-      "ordre": 19,
+      "ordre": 20,
       "titre": "Votre enfant est hospitalisé loin de chez vous. Pouvez-vous compter sur le dispositif d’hébergement prévu par la loi ?",
       "texte": "La loi permet aux hôpitaux d’organiser un hébergement pour les parents de certains enfants atteints d’une affection de longue durée. Elle renvoie à un décret pour fixer les conditions.",
       "raison": "La mesure reste incomplète puisque la loi annonce un dispositif sans fixer ses conditions pratiques. Le 10 novembre, le gouvernement confirmait que le décret restait à préparer. La recherche au 20 novembre n’a pas retrouvé sa publication.",
@@ -648,7 +648,7 @@
     "domaine": "Santé",
     "titre": "Le bilan est censé être remboursé, mais le dispositif de prise en charge reste à mettre en place",
     "entree": {
-      "ordre": 9,
+      "ordre": 10,
       "titre": "Le médecin prescrit un bilan à votre enfant. La Sécu dit-elle oui ou non ?",
       "texte": "Votre enfant a une maladie grave et son médecin lui prescrit un bilan neuropsychologique. La loi prévoit une prise en charge pour les enfants qui remplissent ses conditions. Parmi ces conditions, le psychologue doit avoir été sélectionné et avoir signé une convention avec l’assurance maladie.",
       "raison": "Ça coince puisque la loi prévoit le remboursement, mais que les règles permettant au psychologue d’être reconnu et payé dans ce dispositif restent à fixer. Le gouvernement le confirmait le 10 novembre. Le 20 novembre, je n’ai pas retrouvé le décret.",
@@ -694,7 +694,7 @@
     "domaine": "Stationnement",
     "titre": "Contester un forfait de stationnement ne met pas le paiement en pause",
     "entree": {
-      "ordre": 10,
+      "ordre": 11,
       "titre": "Vous contestez un forfait de stationnement. En attendant, la somme peut grimper.",
       "texte": "Vous estimez avoir déjà payé et contestez le forfait. La loi vous oblige à passer d’abord par un recours administratif avant de saisir le tribunal contre l’avis initial. Pendant ce temps, les trois mois pour payer continuent de courir.",
       "raison": "Ça coince puisque vous pouvez encore attendre le résultat de votre contestation quand le forfait impayé est majoré d’au moins 50 €. Le recours permet de faire annuler un forfait injustifié, mais il ne suspend pas le délai de paiement.",
@@ -744,7 +744,7 @@
     "domaine": "Logement",
     "titre": "Un logement peut manquer d’isolation sans que le juge puisse ordonner les travaux nécessaires",
     "entree": {
-      "ordre": 11,
+      "ordre": 12,
       "titre": "Votre logement est trop mal isolé pour être décent. Le juge peut-il obliger le propriétaire à le rénover ?",
       "face_a_face": "L’article 6 oblige le propriétaire à fournir un logement qui atteint un niveau minimal de performance énergétique, tandis que l’article 20-1 interdit au juge d’ordonner les travaux nécessaires dans certains cas de blocage en copropriété ou de contraintes du bâtiment.",
       "texte": "Si votre propriétaire prouve qu’il a fait les démarches nécessaires pour les travaux communs et réalisé les travaux adaptés chez lui sans atteindre le seuil, le juge peut constater le défaut et rester empêché d’ordonner ces travaux.",
@@ -790,7 +790,7 @@
     "domaine": "Logement",
     "titre": "Le calcul du diagnostic peut rendre un logement de nouveau louable sans rénovation",
     "entree": {
-      "ordre": 12,
+      "ordre": 13,
       "titre": "Même appartement, même chauffage. Comment peut-il redevenir louable ?",
       "face_a_face": "L’article 6 de la loi sur les locations écarte les logements classés G du seuil de décence énergétique en métropole, tandis que l’article 3 de l’arrêté du 13 août 2025 permet de remplacer une ancienne étiquette en recalculant le diagnostic sans travaux.",
       "texte": "Depuis le 1er janvier 2026, l’électricité compte avec un coefficient de 1,9 au lieu de 2,3 dans le diagnostic. Certains logements chauffés à l’électricité peuvent passer de G à F avec une attestation de l’ADEME.",
@@ -837,7 +837,7 @@
     "domaine": "Logement",
     "titre": "La loi exige un logement économe, la prime pour isoler seule a disparu de MaPrimeRénov’ par geste",
     "entree": {
-      "ordre": 29,
+      "ordre": 30,
       "titre": "Votre logement est trop énergivore pour être loué. L’État aide-t-il encore à l’isoler ?",
       "face_a_face": "L’article 6 de la loi sur les locations exige un niveau minimal de performance énergétique, tandis que l’article 4 du décret du 25 août 2026 retire l’isolation de la liste des travaux financés par MaPrimeRénov’ « par geste ».",
       "texte": "Pour une demande déposée depuis le 1er septembre 2026, des travaux d’isolation seuls ne donnent plus droit à cette prime. Le décret maintient pourtant l’accès des logements F et G au parcours par geste pour les travaux qui restent éligibles.",
@@ -877,7 +877,7 @@
     "domaine": "Logement",
     "titre": "Quand l’aide au logement est retenue, la part qu’elle couvrait ne devient pas une dette du locataire",
     "entree": {
-      "ordre": 30,
+      "ordre": 31,
       "titre": "La caisse retient 200 € d’aide sur un loyer de 650 €. Le propriétaire peut-il vous réclamer les 200 € ?",
       "face_a_face": "L’article L. 843-1 autorise la caisse à retenir l’aide au logement lorsqu’elle constate la non-décence, tandis que l’article L. 843-2 interdit au propriétaire de réclamer au locataire la part retenue si le logement n’a pas été mis en conformité à l’issue du délai.",
       "texte": "Avec un loyer de 650 € hors charges et une allocation de 200 €, le locataire paie 450 € hors charges pendant la retenue notifiée par la caisse.",
@@ -917,7 +917,7 @@
     "domaine": "Logement",
     "titre": "Une expulsion ordonnée par un juge peut rester inexécutée avec l’appui de la police",
     "entree": {
-      "ordre": 31,
+      "ordre": 32,
       "titre": "Le propriétaire a gagné son procès. Pourquoi l’État peut-il quand même refuser d’expulser ?",
       "face_a_face": "L’article L. 153-1 oblige l’État à aider à exécuter les jugements, tandis que le Conseil d’État admet qu’il refuse d’envoyer la force publique si des circonstances nouvelles font craindre une atteinte à la dignité humaine.",
       "texte": "Par exemple, une expulsion peut exposer une personne gravement malade à un danger que le juge n’avait pas pu prendre en compte, si elle se retrouve sans hébergement adapté.",
@@ -963,7 +963,7 @@
     "domaine": "Logement",
     "titre": "L’État peut devoir vous reloger et vous expulser avant de l’avoir fait",
     "entree": {
-      "ordre": 2,
+      "ordre": 3,
       "titre": "L’État vous doit un logement. Peut-il quand même vous faire expulser avant de vous reloger ?",
       "face_a_face": "L’article L. 441-2-3-1 permet au juge d’ordonner à l’État de vous reloger en urgence, tandis que l’article L. 153-1 oblige en principe ce même État à aider à exécuter le jugement qui ordonne votre expulsion.",
       "texte": "Vous pouvez être reconnu prioritaire au titre du droit au logement opposable et attendre encore un logement adapté lors de l’arrivée de la police.",
@@ -1007,7 +1007,7 @@
     "domaine": "Logement",
     "titre": "L’argent de l’astreinte pour vous reloger est versé à un fonds",
     "entree": {
-      "ordre": 32,
+      "ordre": 33,
       "titre": "Vous gagnez votre recours pour être relogé. Qui reçoit l’argent si l’État tarde ?",
       "face_a_face": "L’article L. 441-2-3-1 permet au juge d’obliger l’État à payer une astreinte pour vous reloger, mais en verse le produit à un fonds national, tandis qu’une indemnisation personnelle passe par une demande distincte.",
       "texte": "Le juge utilise l’astreinte pour faire pression sur l’État. Si vous voulez être indemnisé du préjudice causé par l’attente, le Conseil d’État reconnaît une autre voie de recours.",
@@ -1047,7 +1047,7 @@
     "domaine": "Logement",
     "titre": "Une ancienne dette de loyer peut être effacée sans que la rupture du bail soit immédiatement écartée",
     "entree": {
-      "ordre": 13,
+      "ordre": 14,
       "titre": "Votre dette de loyer est effacée. Pourquoi pouvez-vous encore perdre votre logement ?",
       "face_a_face": "L’article L. 741-2 du code de la consommation efface les dettes couvertes par un rétablissement personnel sans liquidation, tandis que l’article 24, VIII, de la loi sur les locations suspend pendant deux ans les effets de la clause qui permet de rompre le bail.",
       "texte": "Si vous payez les loyers et les charges comme prévu pendant ces deux ans, la loi considère que la clause n’a jamais joué. Si vous ne le faites pas, elle reprend effet.",
@@ -1108,7 +1108,7 @@
     "domaine": "Surendettement",
     "titre": "Une dette effacée pour le locataire peut rester à la charge de son garant",
     "entree": {
-      "ordre": 15,
+      "ordre": 16,
       "titre": "Le loyer impayé est effacé pour votre proche. Pourquoi le bailleur peut-il encore vous le réclamer ?",
       "face_a_face": "L’article L. 741-2 du code de la consommation efface les dettes couvertes par le rétablissement personnel, tandis que l’article 2298 du code civil empêche en principe la caution d’invoquer les mesures dont bénéficie le débiteur à cause de sa défaillance.",
       "texte": "Prenons 1 200 € de loyer impayé effacés pour un locataire. Si le cautionnement valable couvre ces impayés, le bailleur peut encore demander le paiement à la personne qui s’est portée garante, dans les limites de son engagement.",
@@ -1152,7 +1152,7 @@
     "domaine": "Surendettement",
     "titre": "Un échéancier peut être refusé dans le dossier de surendettement et accordé dans une autre procédure",
     "entree": {
-      "ordre": 33,
+      "ordre": 34,
       "titre": "Vous devez indemniser une victime. Un juge peut-il vous laisser payer en plusieurs fois ?",
       "face_a_face": "L’article L. 711-4 exclut en principe l’échelonnement des indemnités dues aux victimes dans une procédure de surendettement, tandis que l’article 1343-5 permet au juge civil d’accorder jusqu’à deux ans pour payer.",
       "texte": "En juillet 2025, le juge de l’exécution de Nanterre a considéré que le délai civil pouvait s’appliquer à la réparation d’un dommage causé par une infraction. Il a accordé un délai dans cette affaire.",
@@ -1198,7 +1198,7 @@
     "domaine": "Indemnisation",
     "titre": "Le jugement vous accorde 10 000 €, le fonds peut n’en avancer que 3 000 €",
     "entree": {
-      "ordre": 34,
+      "ordre": 35,
       "titre": "Le tribunal vous accorde 10 000 €. Pourquoi le fonds ne vous avance-t-il que 3 000 € ?",
       "face_a_face": "L’article 706-15-1 permet à certaines victimes munies d’un jugement définitif d’obtenir une aide au recouvrement, tandis que l’article L. 422-7 limite l’avance du fonds à 30 % pour les sommes supérieures à 1 000 €, avec un plafond de 3 000 €.",
       "texte": "L’auteur de l’infraction doit 10 000 € et ne paie pas. Si vous remplissez les conditions du dispositif, le fonds avance 3 000 € et intervient pour recouvrer le solde auprès de l’auteur.",
@@ -1242,7 +1242,7 @@
     "domaine": "Indemnisation",
     "titre": "La même faute peut compter pour le téléphone cassé et pas pour la blessure",
     "entree": {
-      "ordre": 16,
+      "ordre": 17,
       "titre": "Une voiture vous renverse. Votre blessure peut être indemnisée et votre téléphone cassé rester à votre charge.",
       "face_a_face": "L’article 3 de la loi du 5 juillet 1985 protège le piéton blessé contre les conséquences d’une faute ordinaire, tandis que l’article 5 permet de réduire ou de refuser l’indemnisation de ses biens à cause de cette même faute.",
       "texte": "Supposons qu’une imprudence du piéton contribue à un accident. Si elle relève d’une faute ordinaire, elle peut lui être opposée pour son téléphone cassé alors qu’elle ne l’est pas pour ses blessures.",
@@ -1288,7 +1288,7 @@
     "domaine": "Circulation",
     "titre": "Deux engins électriques limités à 25 km/h ne sont pas soumis à la même obligation d’assurance",
     "entree": {
-      "ordre": 35,
+      "ordre": 36,
       "titre": "À 25 km/h, pourquoi faut-il assurer la trottinette électrique et pas le vélo à assistance ?",
       "face_a_face": "L’article R. 311-1 classe le vélo à assistance conforme parmi les cycles, tandis que l’article L. 211-1 impose une assurance de responsabilité civile aux véhicules automoteurs, dont la trottinette électrique.",
       "texte": "Dans un vélo à pédalage assisté conforme, le moteur auxiliaire de 250 W au maximum coupe son assistance à 25 km/h ou dès que vous cessez de pédaler. Une trottinette électrique peut avancer grâce à son moteur.",
@@ -1328,7 +1328,7 @@
     "domaine": "Circulation",
     "titre": "Une voiture laissée au garage peut rester soumise à l’assurance obligatoire",
     "entree": {
-      "ordre": 36,
+      "ordre": 37,
       "titre": "Vous ne conduisez plus. Pourquoi devez-vous encore assurer la voiture qui dort au garage ?",
       "face_a_face": "L’article L. 211-1 impose une assurance de responsabilité civile pour le véhicule susceptible de circuler, tandis que l’article R. 322-6 prévoit une déclaration formelle pour retirer un véhicule immatriculé de la circulation.",
       "texte": "La Cour de justice de l’Union européenne a tranché le cas d’une voiture stationnée dans une cour privée. La propriétaire ne voulait plus conduire, mais son fils a pris la voiture sans son accord et a eu un accident.",
@@ -1378,7 +1378,7 @@
     "domaine": "Assurance",
     "titre": "L’assurance d’une voiture volée peut couvrir le passant blessé sans couvrir le voleur blessé",
     "entree": {
-      "ordre": 37,
+      "ordre": 38,
       "titre": "Une voiture volée provoque un accident. Pourquoi son assurance intervient-elle quand même ?",
       "face_a_face": "L’article L. 211-1 oblige l’assurance du véhicule à couvrir la responsabilité du conducteur même s’il n’est pas autorisé à conduire, mais exclut la réparation des dommages subis par les auteurs, coauteurs ou complices du vol.",
       "texte": "Si le voleur renverse un passant et se blesse lui-même, l’assurance du véhicule peut couvrir la responsabilité du conducteur envers le passant. L’exclusion prévue pour le voleur concerne ses propres dommages.",
@@ -1418,7 +1418,7 @@
     "domaine": "Assurance",
     "titre": "Même si le contrat exclut le conducteur sans permis, l’assureur paie la victime",
     "entree": {
-      "ordre": 38,
+      "ordre": 39,
       "titre": "Un conducteur sans permis vous blesse. Son assureur peut-il refuser de payer ?",
       "face_a_face": "L’article R. 211-10 autorise une clause excluant la garantie si le conducteur n’a pas le permis requis, tandis que l’article R. 211-13 interdit à l’assureur d’opposer cette exclusion à la victime.",
       "texte": "Si la clause s’applique, l’assureur paie l’indemnité à la victime pour le compte du responsable, puis peut lui demander de rembourser les sommes versées.",
@@ -1464,7 +1464,7 @@
     "domaine": "Assurance",
     "titre": "Les fissures dues à la sécheresse peuvent donner deux ou cinq ans pour agir",
     "entree": {
-      "ordre": 39,
+      "ordre": 40,
       "titre": "Deux maisons se fissurent après la même sécheresse. Deux ans ou cinq ans pour agir contre l’assureur ?",
       "face_a_face": "L’article L. 114-1 du code des assurances prévoit cinq ans pour agir après certains dommages dus à la sécheresse reconnue comme catastrophe naturelle, tandis que l’article 10 de la loi de 2021 exclut de cette réforme les contrats déjà en cours le jour de sa publication.",
       "texte": "Le délai ordinaire est de deux ans. Pour les contrats auxquels la réforme s’applique, il passe à cinq ans pour les dommages dus aux mouvements de terrain liés à la sécheresse et à la réhydratation des sols, sous les conditions prévues par le code.",
@@ -1516,7 +1516,7 @@
     "domaine": "Assurance",
     "titre": "La garantie sécheresse d’une maison récente peut dépendre d’une attestation de construction",
     "entree": {
-      "ordre": 40,
+      "ordre": 41,
       "titre": "La sécheresse est reconnue, votre maison est assurée. Pourquoi l’assureur peut-il quand même refuser ?",
       "face_a_face": "L’article L. 125-1 ouvre la garantie catastrophe naturelle pour les biens assurés, tandis que l’article L. 125-7 écarte la garantie sécheresse de certains bâtiments récents si le dépôt d’une attestation de construction ne peut pas être prouvé.",
       "texte": "Vous achetez une maison récente. Elle se fissure après une sécheresse reconnue. Si le bâtiment est soumis aux règles visées par la loi, que le permis a été déposé après le 1er janvier 2024 et que la réception remonte à moins de dix ans, il faut pouvoir justifier du dépôt de l’attestation.",
@@ -1556,7 +1556,7 @@
     "domaine": "Assurance",
     "titre": "Vendre sans avoir réparé peut laisser l’acompte d’assurance à rembourser",
     "entree": {
-      "ordre": 41,
+      "ordre": 42,
       "titre": "L’assureur vous verse un acompte. Pouvez-vous le garder si vous vendez la maison sans la réparer ?",
       "face_a_face": "L’article L. 125-2 prévoit le versement d’une provision après une catastrophe naturelle, tandis que l’article R. 125-6-1 permet à l’assureur de réclamer cet acompte si les travaux de réparation dus à la sécheresse ne sont pas justifiés dans les conditions prévues.",
       "texte": "Si la réparation est obligatoire et que vous n’engagez pas les travaux dans le délai prévu, l’assureur peut vous mettre en demeure. Faute de factures, il peut retenir le solde et réclamer l’acompte. En cas de vente, le vendeur doit aussi signaler certains travaux non réalisés s’il dispose du rapport d’expertise.",
@@ -1596,7 +1596,7 @@
     "domaine": "Transports",
     "titre": "Train bloqué par une inondation exceptionnelle : la compagnie peut devoir payer l’hôtel sans indemniser le retard",
     "entree": {
-      "ordre": 42,
+      "ordre": 43,
       "titre": "Trois heures de retard, une nuit à l’hôtel et 0 € d’indemnité légale sur le billet",
       "face_a_face": "L’article 19 du règlement ferroviaire prévoit au minimum 50 % du prix du billet à partir de deux heures de retard à l’arrivée mais dispense la compagnie de payer dans certaines circonstances exceptionnelles, tandis que l’article 20 l’oblige dès une heure de retard à fournir un hébergement si la nuit sur place est nécessaire et que c’est matériellement possible.",
       "texte": "Imaginez un TGV qui prend trois heures de retard et vous fait manquer le dernier train d’une correspondance couverte par le même billet. Si la compagnie prouve que le retard est dû à une inondation exceptionnelle qu’elle ne pouvait ni éviter ni surmonter malgré les précautions requises, l’indemnité légale de retard peut tomber de 50 € à 0 € pour un billet de 100 €. La compagnie doit quand même proposer un hébergement gratuit si vous devez passer la nuit sur place et qu’elle peut matériellement vous loger.",
@@ -1640,7 +1640,7 @@
     "domaine": "Transports",
     "titre": "Une quatrième nuit peut rester à votre charge en train et être couverte en avion",
     "entree": {
-      "ordre": 43,
+      "ordre": 44,
       "titre": "Une éruption vous bloque quatre nuits. Qui paie la quatrième ?",
       "face_a_face": "L’article 20 du règlement sur les trains autorise la compagnie à s’arrêter à trois nuits d’hôtel en cas de circonstances exceptionnelles, tandis que les articles 5 et 9 du règlement sur les vols imposent de vous héberger tant que c’est nécessaire pour attendre le réacheminement, sans plafond de nuits.",
       "texte": "Imaginez une catastrophe naturelle qui annule votre départ et vous bloque quatre nuits avant le premier trajet de remplacement disponible. Pour un train couvert par le règlement, la compagnie peut limiter l’hébergement gratuit à trois nuits. Pour un vol couvert par les règles actuelles, la quatrième nuit reste due si elle est nécessaire pendant l’attente du réacheminement au plus tôt.",
@@ -1684,7 +1684,7 @@
     "domaine": "Transports",
     "titre": "Deux délais pour demander réparation du même retard d’avion",
     "entree": {
-      "ordre": 6,
+      "ordre": 7,
       "titre": "Même vol en retard, deux délais pour saisir le juge",
       "face_a_face": "L’article 2224 du code civil donne en principe cinq ans pour réclamer en justice le forfait européen devant un tribunal français, tandis que l’article 35 de la convention de Montréal ne donne que deux ans pour faire réparer le dommage personnel causé par ce même retard.",
       "texte": "Votre Paris–New York arrive avec cinq heures de retard et vous perdez une réservation prépayée. Trois ans plus tard, vous pouvez en principe encore demander le forfait européen de 600 € si ses conditions sont remplies. En revanche, le délai pour saisir le juge en réparation de la perte de votre réservation est déjà passé.",
@@ -1736,7 +1736,7 @@
     "domaine": "Famille et succession",
     "titre": "Refuser la succession de son père peut laisser une facture d’obsèques à payer",
     "entree": {
-      "ordre": 44,
+      "ordre": 45,
       "titre": "Vous refusez l’héritage de votre père. Pourquoi vous réclame-t-on ses obsèques ?",
       "face_a_face": "L’article 805 du code civil dit que si vous refusez la succession, vous êtes réputé n’avoir jamais été héritier, tandis que l’article 806 vous oblige quand même à contribuer aux obsèques de votre parent selon vos moyens si la succession ne suffit pas à les payer.",
       "texte": "Votre père laisse des crédits impayés et aucun argent pour ses obsèques. Si vous renoncez à sa succession, vous ne reprenez pas ses dettes comme héritier. Vous pouvez toutefois devoir payer tout ou partie des obsèques selon vos ressources.",
@@ -1786,7 +1786,7 @@
     "domaine": "Fonction publique",
     "titre": "Une heure de grève peut coûter cinq fois plus à un agent de l’État",
     "entree": {
-      "ordre": 4,
+      "ordre": 5,
       "titre": "Une heure de grève, 80 € de moins à l’État et environ 16 € de moins à la mairie",
       "face_a_face": "L’article L. 711-3 impose de retirer un trentième du salaire mensuel à un agent de l’État même pour une heure de grève, tandis que le Conseil d’État exige pour un agent territorial une retenue proportionnelle à la durée de la grève.",
       "texte": "Deux agents ont chacun 2 400 € de rémunération mensuelle prise en compte pour la retenue. Pour une heure de grève, l’État retire 80 €. Une mairie retire environ 15,82 € si elle applique le calcul horaire de 1/151,67 pour un temps plein classique.",
@@ -1825,7 +1825,7 @@
     "domaine": "Fiscalité",
     "titre": "Une pénalité fiscale peut empêcher l’effacement de l’impôt lui-même",
     "entree": {
-      "ordre": 45,
+      "ordre": 46,
       "titre": "Deux dettes d’impôt de 1 000 €. Pourquoi l’une peut-elle rester due ?",
       "face_a_face": "L’article L. 741-2 du code de la consommation efface en principe les dettes au rétablissement personnel, tandis que l’article L. 711-4 exclut les dettes fiscales dont l’impôt a fait l’objet d’une des majorations que le code des impôts protège.",
       "texte": "Si votre dossier est recevable et aboutit à un rétablissement personnel, une dette ordinaire d’impôt de 1 000 € peut être effacée. Si une autre dette de 1 000 € a fait l’objet d’une majoration visée par le texte, les 1 000 € d’impôt eux-mêmes restent en principe dus.",
@@ -1864,7 +1864,7 @@
     "domaine": "Famille",
     "titre": "Deux parents peuvent partager les allocations familiales sans pouvoir partager l’aide au handicap",
     "entree": {
-      "ordre": 5,
+      "ordre": 6,
       "titre": "Une semaine chez chaque parent. Pourquoi la CAF partage-t-elle une aide et pas l’autre ?",
       "face_a_face": "L’article L. 521-2 permet de partager les allocations familiales entre les parents en résidence alternée, tandis que la Cour de cassation juge que l’allocation d’éducation de l’enfant handicapé ne peut être versée qu’à un seul parent.",
       "texte": "Imaginez deux enfants qui passent une semaine chez chacun de leurs parents, et dont l’un ouvre droit à cette aide au handicap. Les deux parents peuvent recevoir une part des allocations familiales s’ils remplissent les conditions. La CAF verse en revanche l’allocation liée au handicap à un seul parent.",
@@ -1907,7 +1907,7 @@
     "domaine": "Fiscalité",
     "titre": "Une pension reste non déductible quand l’enfant compte déjà dans le quotient familial",
     "entree": {
-      "ordre": 46,
+      "ordre": 47,
       "titre": "Vous versez 3 600 € de pension. Pourquoi pouvez-vous déduire 0 € ?",
       "face_a_face": "L’article 194 du code des impôts présume que l’enfant en garde alternée est à la charge des deux parents à parts égales, tandis que l’article 156 interdit de déduire la pension si l’enfant compte déjà dans votre quotient familial.",
       "texte": "Votre enfant vit une semaine sur deux chez vous et vous versez 300 € par mois à l’autre parent. Si l’enfant compte pour vous dans le calcul de l’impôt, vous ne pouvez déduire aucun des 3 600 € versés dans l’année. Le versement ne sert pas non plus à prouver au fisc que vous assumez la charge principale de l’enfant.",
@@ -1950,7 +1950,7 @@
     "domaine": "Logement",
     "titre": "Gagner contre une mauvaise répartition des charges ne la corrige que pour l’avenir",
     "entree": {
-      "ordre": 8,
+      "ordre": 9,
       "titre": "Le juge vous donne raison sur les charges d’ascenseur. Pourquoi la facture ne change-t-elle que l’année suivante ?",
       "face_a_face": "L’article 10 de la loi sur la copropriété impose de répartir les charges d’ascenseur selon l’utilité de l’équipement pour chaque lot, tandis que l’article 43 ne fait démarrer la répartition corrigée qu’au premier jour de l’exercice comptable suivant le jugement définitif.",
       "texte": "Votre appartement au rez-de-chaussée n’a ni cave ni autre espace desservi par l’ascenseur, mais le règlement vous fait participer aux frais. Si le juge écarte la clause et que sa décision devient définitive en mars, la nouvelle répartition ne s’applique qu’au 1er janvier suivant dans une copropriété dont les comptes suivent l’année civile.",
@@ -1994,7 +1994,7 @@
     "domaine": "Logement",
     "titre": "L’évacuation d’urgence peut précéder la suspension du loyer",
     "entree": {
-      "ordre": 3,
+      "ordre": 4,
       "titre": "Vous devez quitter l’immeuble le 2 novembre. Pourquoi le loyer ne s’arrête-t-il que le 1er décembre ?",
       "face_a_face": "L’article L. 511-19 du code de la construction permet d’ordonner une évacuation immédiate en cas de danger imminent, tandis que l’article L. 521-2 suspend le loyer à partir du premier jour du mois suivant l’envoi de la notification de l’arrêté.",
       "texte": "Un arrêté d’urgence envoyé le 2 novembre ordonne de quitter immédiatement votre appartement le temps des travaux. Dans le régime ordinaire de suspension prévu par cet article, novembre reste dû et le loyer est suspendu à partir du 1er décembre.",
@@ -2033,7 +2033,7 @@
     "domaine": "Logement",
     "titre": "Un propriétaire de 70 ans doit proposer un relogement à certains locataires protégés",
     "entree": {
-      "ordre": 47,
+      "ordre": 48,
       "titre": "Même propriétaire de 70 ans, deux locataires protégés, deux résultats",
       "face_a_face": "Le III de l’article 15 de la loi de 1989 dispense un propriétaire de plus de 65 ans de proposer un relogement à son locataire âgé aux revenus modestes, tandis que le IV exige une offre adaptée si le locataire reçoit l’allocation de présence parentale et remplit la condition de ressources.",
       "texte": "Un propriétaire de 70 ans veut reprendre son logement à la fin du bail. Si son locataire de 72 ans est protégé uniquement en raison de son âge et de ses revenus, le propriétaire peut donner congé sans offre de relogement si les autres conditions sont remplies. Si son locataire touche l’allocation de présence parentale et a des revenus sous le plafond, le même propriétaire doit proposer un autre logement adapté à proximité.",
@@ -2076,7 +2076,7 @@
     "domaine": "Logement",
     "titre": "Un refus d’expulser en hiver peut n’engager la responsabilité de l’État qu’en avril",
     "entree": {
-      "ordre": 48,
+      "ordre": 49,
       "titre": "Le préfet refuse d’aider à expulser en novembre. Pourquoi l’État ne répond-il des pertes qu’à partir d’avril ?",
       "face_a_face": "L’article R. 154-1 fait en principe courir la responsabilité de l’État dès le refus du préfet de prêter la force publique, mais le même article en reporte le début à la fin de la trêve si le refus intervient pendant que l’occupant en bénéficie.",
       "texte": "Vous avez un jugement d’expulsion, et le préfet refuse l’aide de la police le 20 novembre. Si l’occupant est protégé par la trêve du 1er novembre au 31 mars, la responsabilité de l’État au titre de ce refus peut commencer le 1er avril, si les autres conditions sont réunies.",
@@ -2115,7 +2115,7 @@
     "domaine": "Justice pénale",
     "titre": "Le Conseil constitutionnel étend le droit de refuser une audience par vidéo avant l’abrogation du texte",
     "entree": {
-      "ordre": 49,
+      "ordre": 50,
       "titre": "Vous demandez à sortir de prison avant les assises. Pouvez-vous demander à voir le juge en personne ?",
       "face_a_face": "L’article 706-71 du code de procédure pénale prévoyait le droit de refuser la vidéo dans certains recours sur la détention, tandis que la décision 2026-1192 QPC étend cette garantie, sous les mêmes conditions, aux accusés qui demandent leur mise en liberté en attendant les assises.",
       "texte": "Avant la décision, un accusé pouvait rester détenu jusqu’à un an en attendant son procès sans pouvoir s’opposer à une audience par vidéo sur sa demande de libération. Depuis la publication de la décision, il peut s’y opposer dans les conditions fixées par le Conseil constitutionnel.",
@@ -2158,7 +2158,7 @@
     "domaine": "Justice pénale",
     "titre": "Le jour où le tribunal a été saisi change la motivation exigée pour incarcérer une personne malgré son appel",
     "entree": {
-      "ordre": 7,
+      "ordre": 8,
       "titre": "Même audience en novembre, mais une garantie différente selon la date de saisine du tribunal",
       "face_a_face": "L’article 464-2 permet au tribunal d’ordonner dans certains cas une incarcération malgré l’appel, tandis que la décision 2026-1195 QPC exige une justification spéciale de cette exécution, uniquement pour les dossiers dont le tribunal a été saisi après le 2 mai 2026.",
       "texte": "Deux personnes sont jugées en novembre et font appel de leur condamnation. Pour le dossier arrivé au tribunal le 30 avril, la nouvelle exigence constitutionnelle ne s’applique pas. Pour celui arrivé le 4 mai, le juge qui veut faire exécuter le mandat avant l’issue de l’appel doit expliquer pourquoi cette décision est proportionnée, notamment au regard de la situation familiale et sociale de la personne.",
@@ -2197,7 +2197,7 @@
     "domaine": "Travail",
     "titre": "À 999 ou à 1 000 salariés, la reconversion peut commencer avec ou sans contrat de travail",
     "entree": {
-      "ordre": 50,
+      "ordre": 51,
       "titre": "999 ou 1 000 salariés. Un salarié de plus peut changer la date de fin de votre contrat",
       "face_a_face": "L’article L. 1233-67 du code du travail met fin au contrat du salarié qui accepte le contrat de sécurisation professionnelle, tandis que l’article L. 1233-72 prolonge le préavis jusqu’à la fin du congé de reclassement si ce congé dure plus longtemps.",
       "texte": "Deux entreprises indépendantes envisagent un licenciement économique. Celle de 999 salariés propose un contrat de sécurisation professionnelle. Si vous acceptez, votre contrat de travail s’arrête à la fin du délai de réflexion de 21 jours. Celle de 1 000 salariés propose un congé de reclassement. Si vous acceptez un congé de six mois avec un préavis de deux mois, votre contrat dure jusqu’à la fin du congé.",
@@ -2240,7 +2240,7 @@
     "domaine": "Travail",
     "titre": "Sept heures un jour férié peuvent ajouter une journée de salaire ou zéro euro",
     "entree": {
-      "ordre": 51,
+      "ordre": 52,
       "titre": "Sept heures de travail un jour férié, 105 € de plus ou 0 € de plus",
       "face_a_face": "L’article L. 3133-6 du code du travail impose de payer double les heures travaillées le 1er mai dans les services qui ne peuvent pas s’arrêter, tandis que l’article L. 3133-8 prévoit jusqu’à sept heures sans supplément de salaire pour la journée de solidarité d’un salarié mensualisé.",
       "texte": "À 15 € brut de l’heure, sept heures le 1er mai valent 105 € de salaire et 105 € d’indemnité. Si vous travaillez sept heures le lundi de Pentecôte choisi comme journée de solidarité, alors que ce jour était habituellement chômé dans votre entreprise, votre salaire mensuel reste le même.",
@@ -2290,7 +2290,7 @@
     "domaine": "Travail",
     "titre": "Un accident de trajet compte comme accident du travail pour la caisse, avec une protection différente pour l’emploi",
     "entree": {
-      "ordre": 52,
+      "ordre": 53,
       "titre": "Même blessure sur le trajet ou au travail, protection différente contre le licenciement",
       "face_a_face": "L’article L. 411-2 du code de la sécurité sociale assimile l’accident de trajet à un accident du travail sous conditions, tandis que les articles L. 1226-7 et L. 1226-9 du code du travail réservent la protection spéciale contre la rupture du contrat aux accidents du travail hors trajet et aux maladies professionnelles.",
       "texte": "Vous vous blessez en allant au travail et la caisse reconnaît un accident de trajet. Elle peut prendre en charge vos soins comme pour un accident arrivé au travail. Mais si votre employeur veut vous licencier pendant l’arrêt, vous ne bénéficiez pas du régime spécial qui limite la rupture à une faute grave ou à une impossibilité de maintenir le contrat pour un motif étranger à l’accident.",
@@ -2329,7 +2329,7 @@
     "domaine": "Travail",
     "titre": "Douze mois d’arrêt peuvent donner quatre ou cinq semaines de congés payés",
     "entree": {
-      "ordre": 53,
+      "ordre": 54,
       "titre": "Même année d’arrêt, six jours de vacances d’écart",
       "face_a_face": "Les articles L. 3141-3 et L. 3141-5 du code du travail accordent deux jours et demi ouvrables de congés par mois d’arrêt pour accident du travail ou maladie professionnelle, tandis que l’article L. 3141-5-1 n’en accorde que deux par mois d’arrêt non professionnel.",
       "texte": "Deux salariés restent en arrêt pendant les douze mois de la période de calcul. Celui dont la maladie est reconnue professionnelle acquiert 30 jours ouvrables de congés payés, soit cinq semaines. Celui dont la maladie est non professionnelle en acquiert 24, soit quatre semaines au titre de cet arrêt.",
@@ -2368,7 +2368,7 @@
     "domaine": "Banque",
     "titre": "Un paiement peut passer les contrôles de la banque sans être autorisé par le client",
     "entree": {
-      "ordre": 54,
+      "ordre": 55,
       "titre": "Vous contestez un débit de 800 €. La mention « authentifié » permet-elle à la banque de garder l’argent ?",
       "face_a_face": "L’article L. 133-18 du code monétaire et financier impose en principe de rembourser un paiement non autorisé au plus tard le jour ouvrable suivant, tandis que l’article L. 133-23 précise qu’un paiement enregistré par la banque ne prouve pas à lui seul que vous y avez consenti.",
       "texte": "Vous signalez un débit de 800 € que vous n’avez pas autorisé. La banque indique que l’opération a passé ses contrôles. Si le paiement est bien non autorisé et signalé à temps, elle doit en principe vous rembourser immédiatement, au plus tard à la fin du jour ouvrable suivant. Pour invoquer une fraude ou une négligence grave de votre part, elle doit apporter des éléments de preuve.",
@@ -2408,7 +2408,7 @@
     "domaine": "Consommation",
     "titre": "Le même roman peut donner quatorze jours de rétractation ou faire perdre ce droit dès le téléchargement",
     "entree": {
-      "ordre": 55,
+      "ordre": 56,
       "titre": "Le même roman en papier ou en ebook, 14 jours de rétractation ou un droit qui s’arrête dès le téléchargement",
       "face_a_face": "L’article L. 221-18 du code de la consommation donne 14 jours après réception pour se rétracter de l’achat en ligne d’un livre papier, tandis que l’article L. 221-28 permet de perdre ce droit dès que la fourniture de l’ebook commence si les conditions de consentement sont remplies.",
       "texte": "Vous achetez le même roman sur le même site. Pour le livre papier ordinaire, vous avez en principe 14 jours après réception pour changer d’avis. Pour l’ebook payant, le droit peut prendre fin dès le démarrage du téléchargement si vous avez expressément accepté la fourniture immédiate, reconnu la perte du droit et reçu la confirmation du vendeur.",
@@ -2447,7 +2447,7 @@
     "domaine": "Logement",
     "titre": "L’eau reste protégée toute l’année, l’électricité peut être coupée hors trêve",
     "entree": {
-      "ordre": 56,
+      "ordre": 57,
       "titre": "Deux factures impayées en été. Pourquoi l’eau reste ouverte et l’électricité peut être coupée ?",
       "face_a_face": "L’article L. 115-3 du code de l’action sociale interdit les coupures d’eau pour impayé toute l’année dans une résidence principale, tandis qu’il interdit les coupures d’électricité du 1er novembre au 31 mars et les autorise sous conditions le reste de l’année.",
       "texte": "En juillet, vous avez des impayés chez les deux fournisseurs de votre résidence principale. Le distributeur d’eau ne peut pas vous couper l’eau pour ce motif. Le fournisseur d’électricité peut aller jusqu’à la coupure après la procédure prévue et au moins un mois de réduction de puissance. Laisser couler un simple filet d’eau pour faire pression en cas d’impayé est également interdit.",
@@ -2491,7 +2491,7 @@
     "domaine": "Consommation",
     "titre": "On peut demander au juge de réduire le prix d’un service imparfait sans avoir d’abord tout payé",
     "entree": {
-      "ordre": 57,
+      "ordre": 58,
       "titre": "Votre eau est coupée régulièrement. Faut-il payer toute la facture avant de demander au juge de la réduire ?",
       "face_a_face": "Le second alinéa de l’article 1223 du code civil prévoit expressément la saisine du juge après paiement en l’absence d’accord, tandis que la Cour de cassation juge que la réduction peut aussi être demandée avant paiement.",
       "texte": "À Mayotte, des abonnés dont le robinet subissait des coupures programmées ont demandé une réduction de 90 % de leur abonnement. La cour d’appel a rejeté la demande parce qu’ils n’avaient pas d’abord payé le prix contesté. La Cour de cassation a annulé ce rejet. Elle n’a pas fixé la réduction à 90 %.",
@@ -2531,7 +2531,7 @@
     "domaine": "Logement",
     "titre": "Huit mois de vie commune peuvent suffire à conserver le bail selon le statut du couple",
     "entree": {
-      "ordre": 58,
+      "ordre": 59,
       "titre": "Le bail était à son nom. Après huit mois de vie commune, pouvez-vous rester ?",
       "face_a_face": "L’article 14 de la loi de 1989 permet au partenaire pacsé de reprendre le bail au décès du locataire sans durée minimale de vie commune, tandis qu’il exige au moins un an de cohabitation du concubin notoire.",
       "texte": "Votre partenaire décède après huit mois de vie commune. Lui seul avait signé le bail. Si vous étiez pacsés, vous pouvez demander à reprendre le bail. Si vous viviez en concubinage connu de votre entourage, huit mois ne suffisent pas à remplir la condition prévue pour le concubin survivant.",
@@ -2570,7 +2570,7 @@
     "domaine": "Famille et succession",
     "titre": "Le partenaire pacsé peut rester un an dans le logement sans en hériter",
     "entree": {
-      "ordre": 59,
+      "ordre": 60,
       "titre": "Votre partenaire pacsé décède. Vous pouvez rester un an dans son logement, mais qui en hérite ?",
       "face_a_face": "Les articles 515-6 et 763 du code civil permettent au partenaire pacsé de rester gratuitement un an dans la résidence principale commune sous certaines conditions, tandis que l’article 732 réserve les droits successoraux du conjoint à l’époux survivant non divorcé.",
       "texte": "Le logement où vous vivez appartient entièrement à votre partenaire pacsé. Il décède sans testament. Vous pouvez en principe y rester gratuitement pendant un an, même si le logement revient aux héritiers. À la fin de cette année, le Pacs ne vous donne à lui seul aucun droit pour y rester.",
@@ -2614,7 +2614,7 @@
     "domaine": "Retraite",
     "titre": "Un ex-époux peut toucher une réversion que le partenaire pacsé survivant ne reçoit pas",
     "entree": {
-      "ordre": 60,
+      "ordre": 61,
       "titre": "Vingt ans de Pacs, 0 € de réversion. Pourquoi l’ex-époux peut-il en toucher une ?",
       "face_a_face": "L’article L. 353-1 du code de la sécurité sociale réserve la réversion du régime général au conjoint survivant sous conditions, et l’article L. 353-3 assimile l’ex-époux divorcé à ce conjoint, sans étendre ce droit au partenaire pacsé.",
       "texte": "Une personne décède après vingt ans de Pacs. Elle n’a été mariée qu’une fois, avec une autre personne dont elle a divorcé. Si sa retraite de base était de 1 200 € par mois, l’ex-époux peut en principe toucher 648 € par mois avant application du plafond de ressources, s’il remplit les conditions. Le partenaire pacsé survivant ne touche aucune réversion de ce régime au titre du Pacs.",
@@ -2653,7 +2653,7 @@
     "domaine": "Retraite",
     "titre": "Un remariage peut supprimer une pension de réversion publique et laisser subsister celle du régime général",
     "entree": {
-      "ordre": 61,
+      "ordre": 62,
       "titre": "Vous vous remariez. Votre pension de réversion peut tomber à 0 €",
       "face_a_face": "L’article L. 46 du code des pensions civiles et militaires supprime le droit à la réversion en cas de remariage, tandis que l’article L. 353-1 du code de la sécurité sociale permet de prendre en compte les ressources du nouveau ménage sans exclure automatiquement la réversion du régime général.",
       "texte": "Deux personnes touchent chacune 500 € de réversion et se remarient. Celle qui touche une pension au titre d’un ancien conjoint fonctionnaire de l’État perd ces 500 €. Celle qui touche la pension de base du régime général peut conserver ses 500 € si elle remplit encore les conditions de ressources.",
@@ -2696,7 +2696,7 @@
     "domaine": "Protection sociale",
     "titre": "Le Pacs peut ouvrir le droit au capital décès sans ouvrir droit à la réversion",
     "entree": {
-      "ordre": 62,
+      "ordre": 63,
       "titre": "Votre partenaire pacsé décède. Un versement de 4 009 € est possible, mais aucune pension de réversion",
       "face_a_face": "L’article L. 361-4 du code de la sécurité sociale prévoit le versement du capital décès au partenaire pacsé dans certains cas, tandis que les articles L. 353-1 et L. 353-3 réservent la pension de réversion du régime général aux époux et ex-époux.",
       "texte": "Votre partenaire pacsé travaillait comme salarié au moment de son décès. Si les conditions sont remplies et qu’aucune personne prioritaire ne fait valoir son droit, vous pouvez recevoir le capital forfaitaire de 4 009 €, montant applicable depuis le 1er avril 2026. Vous ne percevez pas de pension de réversion de base au titre de ce Pacs.",
@@ -2739,7 +2739,7 @@
     "domaine": "Fiscalité",
     "titre": "Un legs de 100 000 € peut coûter 0 € ou environ 59 044 € de droits",
     "entree": {
-      "ordre": 63,
+      "ordre": 64,
       "titre": "Même testament, même legs de 100 000 €. Quel effet a le Pacs ?",
       "face_a_face": "L’article 796-0 bis du code des impôts exonère de droits le legs au partenaire pacsé, tandis que l’article 777 applique au concubin sans lien de parenté le taux de 60 % après l’abattement prévu à l’article 788.",
       "texte": "Le testament vous lègue 100 000 €. Si vous étiez pacsés au jour du décès, les droits de succession sur ce legs sont de 0 €. Si vous viviez en concubinage sans lien de parenté, l’abattement ordinaire est de 1 594 €. Les droits s’élèvent alors à environ 59 044 €.",
@@ -2778,7 +2778,7 @@
     "domaine": "Fiscalité",
     "titre": "Deux déclarations de revenus, mais un seul patrimoine imposable",
     "entree": {
-      "ordre": 64,
+      "ordre": 65,
       "titre": "800 000 € d’immobilier chacun. Pourquoi le fisc additionne-t-il vos biens alors que vous déclarez vos revenus séparément ?",
       "face_a_face": "L’article 6 du code général des impôts conduit à imposer séparément les revenus des concubins, tandis que l’article 964 impose ensemble les personnes vivant en concubinage notoire pour l’impôt sur la fortune immobilière.",
       "texte": "Vous vivez en concubinage notoire et détenez chacun 800 000 € de patrimoine immobilier net taxable. Chacun déclare ses revenus de son côté. Pour l’impôt sur la fortune immobilière, le fisc additionne les patrimoines. Le total de 1,6 million d’euros dépasse le seuil de 1,3 million, alors que chacun reste sous le seuil pris séparément.",
@@ -2821,7 +2821,7 @@
     "domaine": "Protection sociale",
     "titre": "Le même salaire du conjoint compte pour le RSA et peut être ignoré pour l’AAH",
     "entree": {
-      "ordre": 65,
+      "ordre": 66,
       "titre": "Votre conjoint gagne 2 000 € par mois. La CAF compte-t-elle son salaire ?",
       "face_a_face": "L’article L. 821-3 du code de la sécurité sociale retient vos ressources personnelles pour calculer l’allocation aux adultes handicapés, tandis que l’article L. 262-3 du code de l’action sociale retient les ressources du foyer pour calculer le RSA.",
       "texte": "Vous vivez en couple. Votre conjoint gagne 2 000 € par mois. Dans le calcul individuel de votre allocation aux adultes handicapés, son salaire ne compte pas. Dans le calcul du RSA du même foyer, le salaire entre dans les ressources prises en compte selon les règles de cette aide.",
@@ -2861,7 +2861,7 @@
     "domaine": "Transports",
     "titre": "Le tribunal peut faire payer une amende sans condamner son destinataire comme conducteur",
     "entree": {
-      "ordre": 66,
+      "ordre": 67,
       "titre": "Votre voiture est flashée. Comment pouvez-vous devoir payer tout en gardant vos points ?",
       "face_a_face": "L’article L. 121-1 du code de la route rend le conducteur pénalement responsable, tandis que l’article L. 121-3 permet au tribunal de mettre l’amende à la charge du titulaire de la carte grise sans le déclarer pénalement responsable ni lui retirer de points.",
       "texte": "Un radar relève un excès de vitesse, mais le tribunal ne peut établir qui conduisait. Si vous êtes titulaire de la carte grise et que vous n’apportez pas d’éléments établissant que vous n’étiez pas au volant, le tribunal peut vous faire payer au titre de l’article L. 121-3. Une décision qui vous déclare seulement redevable ne retire aucun point.",
@@ -2907,7 +2907,7 @@
     "domaine": "Travail",
     "titre": "Une lettre demandant de revenir au travail doit aussi avertir du risque de démission présumée",
     "entree": {
-      "ordre": 67,
+      "ordre": 68,
       "titre": "Vous ne revenez pas après la lettre de votre employeur. Peut-il vous considérer comme démissionnaire ?",
       "face_a_face": "L’article L. 1237-1-1 du code du travail prévoit une démission présumée si le salarié qui a volontairement abandonné son poste ne revient pas dans le délai fixé, tandis que le Conseil d’État exige que la lettre l’avertisse aussi des conséquences d’une absence de reprise sans motif légitime.",
       "texte": "Votre employeur vous donne quinze jours pour justifier votre absence et revenir. Si sa lettre se borne à demander votre retour sans vous avertir des conséquences de votre silence ou de votre non-retour sans motif légitime, elle ne suffit pas pour déclencher la présomption de démission.",
@@ -2950,7 +2950,7 @@
     "domaine": "Travail",
     "titre": "Une conversation enregistrée à l’insu de l’employeur peut être examinée aux prud’hommes",
     "entree": {
-      "ordre": 68,
+      "ordre": 69,
       "titre": "Un enregistrement secret peut-il servir à prouver un harcèlement au travail ?",
       "face_a_face": "L’article 226-1 du code pénal sanctionne sous conditions l’enregistrement sans consentement de paroles privées ou confidentielles, tandis que la Cour de cassation admet qu’un juge civil examine une preuve déloyale si elle est indispensable et si l’atteinte est strictement proportionnée.",
       "texte": "Un salarié disait avoir subi des pressions pour accepter une rupture conventionnelle. Il a produit un enregistrement fait à l’insu de son employeur. La Cour de cassation a annulé la décision qui avait écarté la pièce sans vérifier concrètement si elle était indispensable pour prouver le harcèlement allégué et si l’atteinte était proportionnée.",
@@ -2989,7 +2989,7 @@
     "domaine": "Famille",
     "titre": "Un enfant peut être entendu sur sa résidence sans pouvoir témoigner sur les fautes reprochées à ses parents",
     "entree": {
-      "ordre": 69,
+      "ordre": 70,
       "titre": "Dans le même divorce, le juge peut entendre l’enfant sur un sujet et doit écarter son témoignage sur un autre",
       "face_a_face": "L’article 388-1 du code civil donne à un mineur capable de discernement le droit d’être entendu à sa demande sur les décisions qui le concernent, tandis que l’article 259 interdit d’entendre les descendants sur les reproches invoqués par les époux pour obtenir le divorce.",
       "texte": "Une adolescente peut demander à expliquer au juge comment elle veut organiser ses semaines entre les deux foyers. Elle ne peut pas être appelée à témoigner pour prouver une faute invoquée par un parent contre l’autre dans le divorce.",
@@ -3028,7 +3028,7 @@
     "domaine": "Santé",
     "titre": "Un médecin peut soigner un mineur sans accord parental pour préserver sa santé et le secret",
     "entree": {
-      "ordre": 70,
+      "ordre": 71,
       "titre": "À 16 ans, pouvez-vous recevoir un traitement sans en parler à vos parents ?",
       "face_a_face": "L’article 371-1 du code civil confie aux parents la protection de la santé du mineur, tandis que l’article L. 1111-5 du code de la santé publique permet au médecin ou à la sage-femme de se passer de leur accord quand les soins sont nécessaires et que le mineur demande expressément le secret.",
       "texte": "Vous avez 16 ans et refusez que vos parents soient consultés au sujet d’un traitement nécessaire à votre santé. Le professionnel doit d’abord essayer de vous convaincre d’accepter qu’ils soient consultés. Si vous maintenez votre refus, il peut assurer le traitement. Vous devez alors être accompagné par un adulte de votre choix.",
@@ -3080,7 +3080,7 @@
     "domaine": "Assurance",
     "titre": "Le même prêt de 400 000 € peut être assuré avec ou sans questionnaire médical",
     "entree": {
-      "ordre": 71,
+      "ordre": 72,
       "titre": "Un prêt à deux de 400 000 €. Faut-il répondre à un questionnaire de santé ?",
       "face_a_face": "L’article L. 113-2 du code des assurances oblige en principe l’assuré à répondre exactement aux questions de l’assureur, tandis que l’article L. 113-2-1 interdit les questions de santé si la part assurée ne dépasse pas 200 000 € par personne sur l’ensemble des prêts concernés et si le crédit finit avant ses 60 ans.",
       "texte": "Vous empruntez 400 000 € à deux, sans autre prêt assuré, avec une dernière échéance avant vos 60 ans. Si chacun assure 50 %, vos parts assurées sont de 200 000 € chacune et l’assureur ne peut pas demander de questionnaire de santé. Si chacun est assuré à 100 %, sa part monte à 400 000 € et l’assureur peut poser des questions de santé.",
@@ -3137,7 +3137,7 @@
     "domaine": "Logement",
     "titre": "Deux délais de dix jours qui fonctionnent en sens inverse lors d’un achat immobilier",
     "entree": {
-      "ordre": 72,
+      "ordre": 73,
       "titre": "Compromis et prêt immobilier, deux délais de dix jours qui n’ont pas le même effet",
       "face_a_face": "L’article L. 271-1 du code de la construction donne dix jours pour se rétracter après la notification du compromis de vente, tandis que l’article L. 313-34 du code de la consommation impose d’attendre dix jours avant de pouvoir accepter l’offre de prêt.",
       "texte": "Vous avez signé un compromis pour acheter un appartement. Cinq jours après sa notification, vous pouvez en principe encore revenir sur cette signature. Cinq jours après avoir reçu l’offre de prêt, vous ne pouvez pas encore l’accepter.",
@@ -3176,7 +3176,7 @@
     "domaine": "Logement",
     "titre": "Sans prêt et avec le même acompte, le résultat dépend des démarches de l’acheteur",
     "entree": {
-      "ordre": 73,
+      "ordre": 74,
       "titre": "Vous avez avancé 10 000 € pour un appartement. Que se passe-t-il si le prêt ne vient pas ?",
       "face_a_face": "L’article L. 313-41 du code de la consommation impose de restituer l’intégralité de l’acompte quand le prêt dont dépend l’achat n’est pas obtenu, tandis que l’article 1304-3 du code civil permet de considérer la condition comme remplie si l’acheteur en a empêché l’accomplissement.",
       "texte": "Vous avancez 10 000 € et demandez dans les délais un prêt conforme au compromis. Si la banque le refuse et que la condition n’est pas réalisée, les 10 000 € doivent vous être rendus. Si vous empêchez vous-même l’obtention du prêt, par exemple en ne déposant aucune demande alors que vous deviez le faire, vous pouvez perdre le droit au remboursement fondé sur cette condition.",
@@ -3215,7 +3215,7 @@
     "domaine": "Élections",
     "titre": "Un élu municipal européen peut siéger sans pouvoir devenir maire ni adjoint",
     "entree": {
-      "ordre": 74,
+      "ordre": 75,
       "titre": "Vous êtes élu au conseil municipal. Pourquoi ne pouvez-vous pas remplacer le maire ?",
       "face_a_face": "L’article LO 228-1 du code électoral rend éligibles au conseil municipal les citoyens des autres pays de l’Union européenne qui remplissent les conditions, tandis que l’article LO 2122-4-1 interdit à un conseiller sans nationalité française d’être maire ou adjoint, même temporairement.",
       "texte": "Vous êtes ressortissant belge et vivez en France. Si vous remplissez les conditions pour être élu, vous pouvez siéger et voter au conseil municipal. Même si le conseil souhaite vous choisir, vous ne pouvez pas exercer les fonctions de maire ou d’adjoint sans la nationalité française.",
@@ -3254,7 +3254,7 @@
     "domaine": "Justice pénale",
     "titre": "Un tribunal peut relaxer le conducteur et indemniser la victime",
     "entree": {
-      "ordre": 75,
+      "ordre": 76,
       "titre": "Le conducteur est relaxé. Pourquoi le tribunal peut-il quand même indemniser la victime ?",
       "face_a_face": "L’article 4-1 du code de procédure pénale permet de demander réparation au civil malgré l’absence de faute pénale non intentionnelle, tandis que l’article 470-1 permet, sous conditions, au tribunal correctionnel qui prononce la relaxe d’accorder lui-même une indemnité.",
       "texte": "Après un accident, un conducteur est poursuivi pour blessures involontaires. Le tribunal juge que l’infraction n’est pas établie et le relaxe. Pourtant, si la victime a formulé sa demande à temps et si les règles civiles lui donnent droit à réparation, le même tribunal peut lui accorder une indemnité.",
@@ -3293,7 +3293,7 @@
     "domaine": "Justice pénale",
     "titre": "Être déclaré irresponsable au pénal n’efface pas l’obligation de réparer",
     "entree": {
-      "ordre": 76,
+      "ordre": 77,
       "titre": "La justice déclare une personne pénalement irresponsable. Peut-elle quand même devoir indemniser la victime ?",
       "face_a_face": "L’article 122-1 du code pénal écarte en principe la responsabilité pénale lorsque le trouble a aboli le discernement ou le contrôle des actes, tandis que l’article 414-3 du code civil maintient l’obligation de réparer le dommage causé à autrui sous l’effet d’un trouble mental.",
       "texte": "Une personne cause un dommage et la justice constate qu’un trouble mental avait aboli son discernement au moment des faits. Cette personne peut être déclarée pénalement irresponsable et devoir néanmoins indemniser la victime.",
@@ -3332,7 +3332,7 @@
     "domaine": "Justice pénale",
     "titre": "Six mois de détention provisoire peuvent être indemnisés ou non selon le motif de la décision",
     "entree": {
-      "ordre": 77,
+      "ordre": 78,
       "titre": "Six mois de prison provisoire, aucune condamnation. L’État doit-il indemniser ?",
       "face_a_face": "L’article 149 du code de procédure pénale prévoit la réparation intégrale du préjudice causé par la détention provisoire après un non-lieu, une relaxe ou un acquittement définitif, mais écarte ce droit si la décision repose uniquement sur l’irresponsabilité pénale prévue à l’article 122-1.",
       "texte": "Deux personnes ont passé six mois en détention provisoire. Pour la première, l’affaire se termine par une relaxe définitive parce que l’infraction n’a pas été établie. Elle peut en principe obtenir réparation sur demande. Pour la seconde, la seule raison de la décision est l’abolition de son discernement au moment des faits. L’article 149 exclut alors cette indemnisation.",
@@ -3371,11 +3371,11 @@
     "domaine": "Justice des mineurs",
     "titre": "Un mineur pouvait être renvoyé vers un procès pour crime dans un cas où un adulte restait jugé pour un délit",
     "entree": {
-      "ordre": 78,
-      "titre": "Pour les mêmes faits, un mineur pouvait risquer un procès plus sévère qu’un adulte",
+      "ordre": 2,
+      "titre": "Un mineur risque-t-il un procès plus sévère qu’un adulte pour les mêmes faits ?",
       "face_a_face": "L’article L. 521-4 était interprété comme obligeant le tribunal pour enfants à renvoyer l’affaire si les faits relevaient d’un crime, tandis que le dernier alinéa de l’article 469 protège en principe un adulte contre ce renvoi lorsque la victime était partie civile et assistée d’un avocat lors du renvoi en jugement.",
-      "texte": "Un juge d’instruction renvoie une affaire devant un tribunal pour qu’elle soit jugée comme un délit. Si les faits paraissent finalement criminels, les textes pouvaient conduire à un nouveau procès pour le mineur, alors que l’adulte restait en principe devant le tribunal correctionnel dans le cas prévu à l’article 469. Le Conseil constitutionnel a étendu cette garantie aux mineurs pour les affaires renvoyées en jugement après la publication de sa décision du 13 novembre 2026.",
-      "raison": "Sans cette lecture, le mineur pouvait encourir une qualification et une peine plus sévères pour les mêmes faits. La correction dépend de la date du renvoi en jugement."
+      "texte": "Un juge d’instruction renvoie une affaire devant un tribunal pour qu’elle soit jugée comme un délit. Si les faits paraissent finalement criminels, les textes pouvaient conduire à un nouveau procès pour le mineur, alors que l’adulte restait en principe devant le tribunal correctionnel dans le cas prévu à l’article 469. Le Conseil constitutionnel a étendu cette garantie aux mineurs pour les affaires renvoyées en jugement après le 14 novembre 2026, date de publication de sa décision au Journal officiel.",
+      "raison": "Sans cette lecture, le mineur pouvait encourir une qualification et une peine plus sévères pour les mêmes faits. Deux affaires jugées le même jour peuvent encore relever de règles différentes si l’une a été renvoyée avant le 14 novembre et l’autre après."
     },
     "explication": [
       "La garantie suppose que la juridiction ait été saisie par un juge d’instruction ou une chambre de l’instruction et que la victime ait été partie civile et assistée d’un avocat au moment du renvoi. Une exception subsiste notamment si les poursuites visaient un délit non intentionnel mais que les débats révèlent des faits intentionnels de nature criminelle."
@@ -3390,10 +3390,10 @@
       "question": "Le tribunal pour enfants applique-t-il la même garantie que le tribunal correctionnel ?",
       "participants": [
         {
-          "role": "Renvoi possible d’un dossier de mineur",
+          "role": "Renvoi prévu en cas de qualification criminelle",
           "reference": "Code de la justice pénale des mineurs, art. L. 521-4",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039088403/2026-10-29",
-          "citation": "« … le tribunal pour enfants peut maintenir le mineur en détention […] dans les conditions prévues à l’article 469 […] »"
+          "citation": "« Si le fait déféré sous la qualification de délit est de nature à entraîner une peine criminelle, la juridiction renvoie le ministère public […] »"
         },
         {
           "role": "Garantie de l’article 469 étendue aux mineurs",
