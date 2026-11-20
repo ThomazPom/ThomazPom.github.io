@@ -6400,7 +6400,8 @@
     "explication": [
       "La fiche vise la demande d’un particulier pour violation des règles d’urbanisme ou des servitudes d’utilité publique, lorsque la construction a été édifiée conformément au permis. Le texte prévoit une exception pour certaines actions du préfet. Lorsqu’elle est ouverte, l’action doit être engagée dans les deux ans suivant la décision administrative devenue définitive.",
       "Même hors des zones où un voisin peut obtenir la démolition sur ce fondement, le 2° permet de demander des dommages-intérêts si le permis a été annulé ou si le juge administratif a constaté son illégalité. Il faut notamment établir le préjudice et son lien avec l’irrégularité invoquée. Le délai de deux ans se compte ici à partir de la fin des travaux, alors que pour la démolition il se compte à partir de la décision administrative devenue définitive.",
-      "Si les travaux ont été réalisés sans autorisation requise ou en méconnaissance de celle-ci, l’article L. 480-14 ouvre une autre action à la commune ou à l’intercommunalité compétente. Elle peut demander au tribunal judiciaire la démolition ou la mise en conformité dans les dix ans suivant l’achèvement. Exemple : sept ans après la fin d’une extension réalisée sans le permis nécessaire, la commune peut encore agir si les conditions du texte sont réunies."
+      "Si les travaux ont été réalisés sans autorisation requise ou en méconnaissance de celle-ci, l’article L. 480-14 ouvre une autre action à la commune ou à l’intercommunalité compétente. Elle peut demander au tribunal judiciaire la démolition ou la mise en conformité dans les dix ans suivant l’achèvement. Exemple : sept ans après la fin d’une extension réalisée sans le permis nécessaire, la commune peut encore agir si les conditions du texte sont réunies.",
+      "Onze ans après la fin de travaux réalisés sans le permis nécessaire, la commune peut avoir perdu son action en démolition sur le fondement de l’article L. 480-14. Pourtant, si le propriétaire demande une autorisation pour de nouveaux travaux, l’article L. 421-9 ne lui permet pas de faire écarter l’irrégularité initiale au seul motif que la construction a plus de dix ans. Le texte exclut précisément le cas où aucun permis n’a été obtenu alors qu’il était requis."
     ],
     "sources": [
       {
@@ -6410,6 +6411,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041411183/",
         "label": "Code de l’urbanisme, article L. 480-14"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043978491/2026-11-21",
+        "label": "Code de l’urbanisme, article L. 421-9"
       }
     ],
     "relation": {
@@ -6438,6 +6443,12 @@
           "reference": "Code de l’urbanisme, art. L. 480-14",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041411183/",
           "citation": "« L’action civile se prescrit en pareil cas par dix ans à compter de l’achèvement des travaux. »"
+        },
+        {
+          "role": "Exception à la protection des constructions anciennes",
+          "reference": "Code de l’urbanisme, art. L. 421-9, 5°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043978491/2026-11-21",
+          "citation": "« Lorsque la construction a été réalisée sans qu’aucun permis de construire n’ait été obtenu alors que celui-ci était requis […] »"
         }
       ],
       "fiches_liees": [
