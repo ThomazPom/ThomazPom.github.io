@@ -235,6 +235,12 @@
       "question": "Quels alinéas de la définition s’appliquent en Polynésie française ?",
       "participants": [
         {
+          "reference": "CGCT, art. L. 5216-1 · définition de droit commun",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031020478/",
+          "citation": "La communauté d’agglomération est un établissement public de coopération intercommunale regroupant plusieurs communes […]",
+          "role": "Disposition à adapter"
+        },
+        {
           "reference": "CGCT, art. L. 5842-25, II, 2°",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031106714",
           "citation": "À la fin de la troisième phrase du premier alinéa et au second alinéa […]",
