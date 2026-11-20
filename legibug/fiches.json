@@ -2019,18 +2019,23 @@
     "titre": "L’évacuation d’urgence peut précéder la suspension du loyer",
     "entree": {
       "ordre": 4,
-      "titre": "Vous devez quitter l’immeuble le 2 novembre. Pourquoi le loyer ne s’arrête-t-il que le 1er décembre ?",
+      "titre": "Évacué le 2 novembre, vous pouvez devoir 800 € de loyer pour novembre et 0 € en décembre.",
       "face_a_face": "L’article L. 511-19 du code de la construction permet d’ordonner une évacuation immédiate en cas de danger imminent, tandis que l’article L. 521-2 suspend le loyer à partir du premier jour du mois suivant l’envoi de la notification de l’arrêté.",
-      "texte": "Un arrêté d’urgence envoyé le 2 novembre ordonne de quitter immédiatement votre appartement le temps des travaux. Dans le régime ordinaire de suspension prévu par cet article, novembre reste dû et le loyer est suspendu à partir du 1er décembre.",
+      "texte": "Votre loyer est de 800 € par mois hors charges. Un arrêté d’urgence envoyé le 2 novembre ordonne de quitter votre appartement immédiatement pendant les travaux. Le loyer de novembre reste en principe dû en entier. Si l’arrêté est toujours en vigueur en décembre, aucun loyer n’est dû pour décembre.",
       "raison": "La date à laquelle vous devez partir dépend du danger. La date à laquelle le loyer s’arrête dépend du calendrier. Entre les deux, le propriétaire doit en principe vous héberger si l’évacuation est temporaire."
     },
     "explication": [
-      "L’exemple suppose un bail en cours, une évacuation temporaire au titre de l’arrêté, et aucune des exceptions à la suspension prévues par l’article L. 521-2. En cas d’affichage tenant lieu de notification, le texte retient l’affichage à la mairie et sur la façade."
+      "L’exemple suppose un bail en cours, une évacuation temporaire au titre de l’arrêté, et aucune des exceptions à la suspension prévues par l’article L. 521-2. En cas d’affichage tenant lieu de notification, le texte retient l’affichage à la mairie et sur la façade.",
+      "L’arrêt du loyer est lié à l’arrêté et peut aussi jouer quand l’arrêté permet au locataire de rester. L’article L. 521-2 déroge ainsi à l’obligation ordinaire de payer le loyer fixée par l’article 7 de la loi du 6 juillet 1989. Le loyer redevient dû le premier jour du mois qui suit l’envoi de la notification ou l’affichage de la levée de l’arrêté."
     ],
     "sources": [
       {
         "label": "Code de la construction et de l’habitation, art. L. 521-3-1, obligation d’hébergement",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049397643/2026-11-13"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667661/",
+        "label": "Loi du 6 juillet 1989, article 7, obligation de payer le loyer"
       }
     ],
     "relation": {
