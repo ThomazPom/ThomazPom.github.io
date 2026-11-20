@@ -2982,5 +2982,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "divorce-enfant-audition-griefs",
+    "type": "Articulation de régimes",
+    "domaine": "Famille",
+    "titre": "Un enfant peut être entendu sur sa résidence sans pouvoir témoigner sur les fautes reprochées à ses parents",
+    "entree": {
+      "ordre": 69,
+      "titre": "Dans le même divorce, le juge peut entendre l’enfant sur un sujet et doit écarter son témoignage sur un autre",
+      "face_a_face": "L’article 388-1 du code civil donne à un mineur capable de discernement le droit d’être entendu à sa demande sur les décisions qui le concernent, tandis que l’article 259 interdit d’entendre les descendants sur les reproches invoqués par les époux pour obtenir le divorce.",
+      "texte": "Une adolescente peut demander à expliquer au juge comment elle veut organiser ses semaines entre les deux foyers. Elle ne peut pas être appelée à témoigner pour prouver une faute invoquée par un parent contre l’autre dans le divorce.",
+      "raison": "Dans le premier cas, le juge recueille son avis sur une décision qui touche sa vie. Dans le second, il s’agirait de faire d’elle un témoin dans le conflit entre les époux. Le sujet de l’audition change donc ce que le juge peut lui demander."
+    },
+    "explication": [
+      "Le droit d’être entendu dépend du discernement, sans âge minimal fixe dans cet article. L’enfant donne son avis et le juge décide. L’interdiction de l’article 259 vise les descendants, y compris majeurs, sur les griefs du divorce."
+    ],
+    "sources": [
+      {
+        "label": "Code civil, audition du mineur et preuve des griefs",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427150/2026-10-30"
+      }
+    ],
+    "relation": {
+      "question": "Le juge peut-il entendre l’enfant dans le divorce de ses parents ?",
+      "participants": [
+        {
+          "role": "Droit d’être entendu sur une décision qui concerne le mineur",
+          "reference": "Code civil, art. 388-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427150/2026-10-30",
+          "citation": "« Cette audition est de droit lorsque le mineur en fait la demande. »"
+        },
+        {
+          "role": "Témoignage interdit sur les griefs du divorce",
+          "reference": "Code civil, art. 259",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006423592/2026-09-02",
+          "citation": "« Toutefois, les descendants ne peuvent jamais être entendus sur les griefs invoqués par les époux. »"
+        }
+      ]
+    }
   }
 ]
