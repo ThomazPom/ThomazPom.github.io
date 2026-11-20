@@ -2814,5 +2814,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "aah-rsa-revenus-conjoint",
+    "type": "Articulation de régimes",
+    "domaine": "Protection sociale",
+    "titre": "Le même salaire du conjoint compte pour le RSA et peut être ignoré pour l’AAH",
+    "entree": {
+      "ordre": 65,
+      "titre": "Votre conjoint gagne 2 000 € par mois. La CAF compte-t-elle son salaire ?",
+      "face_a_face": "L’article L. 821-3 du code de la sécurité sociale retient vos ressources personnelles pour calculer l’allocation aux adultes handicapés, tandis que l’article L. 262-3 du code de l’action sociale retient les ressources du foyer pour calculer le RSA.",
+      "texte": "Vous vivez en couple. Votre conjoint gagne 2 000 € par mois. Dans le calcul individuel de votre allocation aux adultes handicapés, son salaire ne compte pas. Dans le calcul du RSA du même foyer, le salaire entre dans les ressources prises en compte selon les règles de cette aide.",
+      "raison": "Pour une aide, la loi évalue vos propres moyens. Pour l’autre, elle évalue les ressources du foyer. Le même salaire peut donc être écarté dans un calcul et retenu dans l’autre."
+    },
+    "explication": [
+      "Pour certains bénéficiaires qui percevaient déjà l’AAH avant le 1er octobre 2023, le calcul historique tenant compte du conjoint peut être maintenu tant qu’il leur est plus favorable.",
+      "La comparaison porte sur la prise en compte du salaire du conjoint. Un éventuel cumul des deux prestations suit d’autres règles."
+    ],
+    "sources": [
+      {
+        "label": "Service Public, conditions et calcul de l’AAH",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F12242"
+      }
+    ],
+    "relation": {
+      "question": "Le salaire du conjoint entre-t-il dans le calcul des deux aides ?",
+      "participants": [
+        {
+          "role": "Ressources personnelles",
+          "reference": "Code de la sécurité sociale, art. L. 821-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046194125/2026-10-30",
+          "citation": "« … les ressources personnelles de l’intéressé dans la limite d’un plafond fixé par décret […] »"
+        },
+        {
+          "role": "Ressources du foyer",
+          "reference": "Code de l’action sociale et des familles, art. L. 262-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033813661/",
+          "citation": "« L’ensemble des ressources du foyer […] est pris en compte pour le calcul du revenu de solidarité active […] »"
+        }
+      ]
+    }
   }
 ]
