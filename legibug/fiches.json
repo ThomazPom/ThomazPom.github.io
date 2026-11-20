@@ -1940,5 +1940,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "recherche-personne-juge",
+    "type": "Exception explicite",
+    "domaine": "Santé",
+    "titre": "Le juge judiciaire indemnise les dommages liés à une recherche impliquant la personne humaine",
+    "explication": [
+      "La loi de 1790 sépare les fonctions judiciaires et administratives. Le code de la santé publique déroge expressément à cette séparation pour attribuer au tribunal judiciaire les actions en indemnisation des dommages résultant d’une recherche impliquant la personne humaine. Cette attribution vaut aussi lorsque la recherche est conduite dans un établissement public.",
+      "La dérogation vise la demande d’indemnisation. L’article régit cette action précise, tandis que les autres contestations obéissent à leurs règles de compétence propres."
+    ],
+    "sources": [
+      {
+        "label": "Loi des 16 et 24 août 1790",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038776265"
+      },
+      {
+        "label": "Code de la santé publique",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046122246/2026-06-04"
+      }
+    ],
+    "relation": {
+      "question": "Quel juge indemnise un dommage résultant d’une recherche conduite dans un établissement public ?",
+      "participants": [
+        {
+          "role": "Séparation des fonctions",
+          "reference": "Loi des 16 et 24 août 1790, art. 13",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000038776265",
+          "citation": "Les fonctions judiciaires sont distinctes et demeureront toujours séparées des fonctions administratives."
+        },
+        {
+          "role": "Compétence pour l’indemnisation",
+          "reference": "Code de la santé publique, art. L. 1128-7",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046122246/2026-06-04",
+          "citation": "[…] le tribunal judiciaire est seul compétent pour statuer sur toute action en indemnisation des dommages résultant d’une recherche impliquant la personne humaine […]"
+        }
+      ]
+    }
   }
 ]
