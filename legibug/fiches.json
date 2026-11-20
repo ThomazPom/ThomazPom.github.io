@@ -3802,5 +3802,47 @@
         }
       ]
     }
+  },
+  {
+    "id": "loyer-solidarite-depart-violences",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "La solidarité pour le loyer peut durer six mois ou cesser dès le lendemain d’un courrier",
+    "entree": {
+      "ordre": 88,
+      "titre": "Vous quittez le logement. Six mois de loyers à garantir, ou une solidarité qui cesse dès le lendemain ?",
+      "face_a_face": "L’article 8-1 de la loi de 1989 peut maintenir la solidarité du colocataire sortant jusqu’à six mois après la date d’effet de son congé, tandis que l’article 8-2 met fin à la solidarité pour les nouvelles dettes dès le lendemain de la première présentation du courrier au bailleur si le départ est dû à des violences et que les justificatifs requis sont joints.",
+      "texte": "Vous louez avec votre concubin et le bail prévoit que le propriétaire peut réclamer la totalité du loyer à l’un ou à l’autre. Si vous partez après un congé ordinaire, sans remplaçant inscrit au bail, cette obligation peut durer six mois après la fin de votre préavis. Si vous partez à cause de violences et que le courrier conforme est présenté au propriétaire le 20 novembre, elle cesse pour les dettes nées à partir du 21 novembre.",
+      "raison": "La règle spéciale permet à la victime de cesser de garantir les nouvelles dettes du logement qu’elle a quitté. Le point de départ est la première présentation du courrier au bailleur."
+    },
+    "explication": [
+      "La lettre recommandée doit être accompagnée de la copie d’une ordonnance de protection préalablement notifiée à l’autre membre du couple, ou d’une condamnation pénale répondant aux conditions de l’article 8-2 et rendue depuis moins de six mois. La protection vise aussi la personne qui s’est portée caution pour la victime."
+    ],
+    "sources": [
+      {
+        "label": "Loi du 6 juillet 1989, articles 8-1 et 8-2",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/2026-10-13"
+      }
+    ],
+    "relation": {
+      "question": "Combien de temps le propriétaire peut-il encore réclamer les nouveaux loyers au locataire parti ?",
+      "fiches_liees": [
+        "divorce-bail-loyer-etat-civil"
+      ],
+      "participants": [
+        {
+          "role": "Colocation, solidarité pouvant durer six mois",
+          "reference": "Loi du 6 juillet 1989, art. 8-1, VI",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/2026-10-13",
+          "citation": "« … au plus tard à l’expiration d’un délai de six mois après la date d’effet du congé. »"
+        },
+        {
+          "role": "Fin accélérée en cas de violences",
+          "reference": "Loi du 6 juillet 1989, art. 8-2",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/2026-10-13",
+          "citation": "« … prennent fin le lendemain du jour de la première présentation du courrier […] »"
+        }
+      ]
+    }
   }
 ]
