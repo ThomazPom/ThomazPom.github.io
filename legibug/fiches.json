@@ -1761,10 +1761,10 @@
     "titre": "Refuser la succession de son père peut laisser une facture d’obsèques à payer",
     "entree": {
       "ordre": 45,
-      "titre": "Vous refusez l’héritage de votre père. Pourquoi vous réclame-t-on ses obsèques ?",
-      "face_a_face": "L’article 805 du code civil dit que si vous refusez la succession, vous êtes réputé n’avoir jamais été héritier, tandis que l’article 806 vous oblige quand même à contribuer aux obsèques de votre parent selon vos moyens si la succession ne suffit pas à les payer.",
-      "texte": "Votre père laisse des crédits impayés et aucun argent pour ses obsèques. Si vous renoncez à sa succession, vous ne reprenez pas ses dettes comme héritier. Vous pouvez toutefois devoir payer tout ou partie des obsèques selon vos ressources.",
-      "raison": "La contribution aux obsèques découle du lien de parenté, qui subsiste après le refus d’hériter. Le juge peut vous décharger de tout ou partie des frais si votre parent a gravement manqué à ses obligations envers vous."
+      "titre": "Votre père laisse 20 000 € de dettes et 3 000 € de frais d’obsèques. Que change le refus de l’héritage ?",
+      "face_a_face": "L’article 805 du Code civil dit que vous êtes réputé n’avoir jamais été héritier si vous renoncez à la succession, tandis que l’article 806 vous oblige à contribuer selon vos moyens aux obsèques de votre parent si la succession ne suffit pas à les payer.",
+      "texte": "Votre père laisse 20 000 € de crédits impayés, une facture d’obsèques de 3 000 € et aucun bien pour les régler. En renonçant à la succession, vous ne devez rien sur les crédits au titre de l’héritage. Sur les 3 000 € d’obsèques, une contribution peut encore vous être réclamée. Son montant dépend de vos moyens.",
+      "raison": "Vous renoncez à la qualité d’héritier, mais vous restez son enfant. C’est ce lien familial qui fonde la contribution aux obsèques. Le juge peut vous en dispenser en tout ou partie si votre père a gravement manqué à ses obligations envers vous."
     },
     "explication": [
       "L’article 806 vise les obsèques des ascendants et descendants. L’arrêt de 2021 détaille le cas d’un enfant dont le parent décédé ne laisse pas assez de biens pour payer ses obsèques.",
