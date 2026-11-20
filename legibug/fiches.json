@@ -1,5 +1,50 @@
 [
   {
+    "id": "sante-consolidation-le-le",
+    "type": "Écart de consolidation",
+    "domaine": "Professions de santé",
+    "titre": "Trois articles redoublent le même mot après une modification",
+    "explication": [
+      "Trois articles du code de la santé publique affichent « par le le troisième alinéa ». Ils renvoient, selon le cas, à l’article 20 ou 27 de l’ordonnance sur l’exercice en société des professions libérales réglementées.",
+      "Le décret de décembre 2025 ordonne de remplacer un passage commençant par « le deuxième alinéa » par un passage commençant par « le troisième alinéa ». Le texte consolidé conserve un « le » supplémentaire. Le numéro de l’article et l’alinéa concernés restent identifiables."
+    ],
+    "relation": {
+      "question": "D’où vient le redoublement dans les trois articles ?",
+      "participants": [
+        {
+          "role": "Texte consolidé",
+          "reference": "CSP, art. R. 4113-56",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053027528",
+          "citation": "[…] par le le troisième alinéa de l’article 27 […]"
+        },
+        {
+          "role": "Texte consolidé",
+          "reference": "CSP, art. R. 4113-77",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053027508",
+          "citation": "[…] par le le troisième alinéa de l’article 20 […]"
+        },
+        {
+          "role": "Texte consolidé",
+          "reference": "CSP, art. R. 4381-59",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053027641",
+          "citation": "[…] par le le troisième alinéa de l’article 27 […]"
+        },
+        {
+          "role": "Instruction publiée au Journal officiel",
+          "reference": "Décret n° 2025-1216, art. 1, 14°, 17° et 34°",
+          "url": "https://www.legifrance.gouv.fr/eli/decret/2025/12/11/2025-1216/jo/texte",
+          "citation": "[…] sont remplacés par les mots : « le troisième alinéa […] »"
+        }
+      ]
+    },
+    "sources": [
+      {
+        "label": "Décret modificatif publié au Journal officiel",
+        "url": "https://www.legifrance.gouv.fr/eli/decret/2025/12/11/2025-1216/jo/texte"
+      }
+    ]
+  },
+  {
     "id": "preemption-directeur-general",
     "type": "Écart de consolidation",
     "domaine": "Urbanisme",
