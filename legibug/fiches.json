@@ -5236,5 +5236,51 @@
         }
       ]
     }
+  },
+  {
+    "id": "tutelle-vote-procuration-mandataire",
+    "type": "Articulation de régimes",
+    "domaine": "Élections",
+    "titre": "Un électeur sous tutelle peut donner procuration à un proche, mais pas à son mandataire judiciaire",
+    "entree": {
+      "ordre": 118,
+      "titre": "Vous êtes sous tutelle. Votre sœur peut voter pour vous, mais votre mandataire judiciaire ne le peut pas.",
+      "face_a_face": "L’article L. 71 du Code électoral permet à tout électeur de voter par procuration à sa demande, tandis que l’article L. 72-1 interdit notamment à un majeur protégé de choisir son mandataire judiciaire pour cette procuration.",
+      "texte": "Vous êtes sous tutelle et ne pouvez pas vous déplacer le jour de l’élection. Vous pouvez donner procuration à votre sœur si elle remplit les conditions et n’a aucun rôle qui l’exclut. Le mandataire judiciaire chargé de votre protection ne peut pas recevoir cette même procuration.",
+      "raison": "La tutelle ne retire pas votre droit de vote. La loi écarte certaines personnes qui vous assistent ou vous prennent en charge pour protéger votre liberté de choix."
+    },
+    "explication": [
+      "L’article L. 72-1 énumère d’autres personnes exclues, notamment certains personnels de l’établissement qui prend en charge le majeur protégé. La personne chargée de la mesure ne peut pas voter à la place du majeur au titre de son pouvoir de représentation."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000006164059/2026-11-21/",
+        "label": "Code électoral, article L. 71"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038267438/2026-11-21",
+        "label": "Code électoral, article L. 72-1"
+      }
+    ],
+    "relation": {
+      "question": "Qui peut recevoir la procuration d’un majeur protégé ?",
+      "participants": [
+        {
+          "role": "Possibilité de voter par procuration",
+          "reference": "Code électoral, art. L. 71",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070239/LEGISCTA000006164059/2026-11-21/",
+          "citation": "« Tout électeur peut, sur sa demande, exercer son droit de vote par procuration. »"
+        },
+        {
+          "role": "Mandataire judiciaire exclu",
+          "reference": "Code électoral, art. L. 72-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038267438/2026-11-21",
+          "citation": "« Le majeur protégé ne peut donner procuration à l’une des personnes suivantes : 1° Le mandataire judiciaire à sa protection […] »"
+        }
+      ],
+      "fiches_liees": [
+        "tutelle-mariage-contrat-notaire"
+      ]
+    }
   }
 ]
