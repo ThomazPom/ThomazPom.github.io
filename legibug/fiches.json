@@ -49,7 +49,7 @@
       "titre": "Comment appliquer deux paragraphes que le même article ordonne de supprimer ?",
       "texte": "En Polynésie française, un article dit de modifier les deux premiers paragraphes qui définissent une communauté d’agglomération. Il dit aussi de supprimer les trois derniers.",
       "raison": "Les instructions sont incohérentes puisque le texte visé compte trois paragraphes en tout. Les deux paragraphes à modifier sont donc aussi à supprimer. Le Sénat a proposé de corriger le texte.",
-      "ordre": 7
+      "ordre": 8
     }
   },
   {
@@ -97,7 +97,7 @@
     "entree": {
       "titre": "Un père peut-il bénéficier du même recul de la limite d’âge qu’une mère ?",
       "texte": "L’ancien décret de l’Assistance publique à Paris parle des femmes. Le code de la fonction publique parle de toute personne qui élève ou a élevé un enfant. Pour un concours concerné, la règle du code prime. Les deux formulations restent consultables aujourd’hui.",
-      "ordre": 5,
+      "ordre": 6,
       "raison": "La rédaction du décret est incohérente avec le code puisque, pour un même concours soumis à une limite d’âge, elle énonce un avantage pour les femmes là où le code l’accorde aussi aux hommes qui remplissent la même condition. Le code a priorité."
     }
   },
@@ -145,7 +145,7 @@
       "titre": "L’Europe exige un contrôle des rachats de médias. Qui peut le faire en France ?",
       "texte": "Le règlement européen exige un examen de l’effet de certains rachats sur le pluralisme. Quand le Conseil d’État a examiné le rachat de Challenges, la loi française ne donnait pas à l’Arcom de pouvoir pour faire cet examen.",
       "raison": "Le système est incohérent puisque le contrôle est exigé mais que le texte français ne donne pas les moyens de l’effectuer. Le Conseil d’État a indiqué qu’une intervention du législateur était nécessaire.",
-      "ordre": 8
+      "ordre": 9
     }
   },
   {
@@ -188,7 +188,7 @@
       "titre": "La loi promet une plateforme pour les malades. Pourquoi ne peuvent-ils pas l’utiliser ?",
       "texte": "Une loi de 2022 prévoit une plateforme pour les personnes atteintes de Covid long. Le décret devait préciser comment elle fonctionnerait. Le Conseil d’État a ordonné au gouvernement de le prendre.",
       "raison": "La promesse reste sans mode d’emploi puisque les recherches au 20 novembre 2026 n’ont pas retrouvé le décret demandé. Les pages d’information existantes ne remplissent pas à elles seules le rôle prévu par la loi.",
-      "ordre": 9
+      "ordre": 10
     }
   },
   {
@@ -231,7 +231,7 @@
       "titre": "Deux jeunes avocats débutent sans expérience. Pourquoi un seul a-t-il droit à l’exonération ?",
       "texte": "Un avocat qui débute après le parcours de formation prévu en France peut obtenir deux ans d’exonération. Un avocat formé à l’étranger et admis par dérogation peut en être exclu même s’il débute sans expérience juridique.",
       "raison": "La différence est incohérente avec le but de l’aide puisque les deux avocats rencontrent la même difficulté de début de carrière. Le Conseil constitutionnel a censuré la condition et a demandé de suspendre les procès qui en dépendent jusqu’à sa suppression ou son remplacement.",
-      "ordre": 10
+      "ordre": 11
     }
   },
   {
@@ -273,7 +273,7 @@
     "entree": {
       "titre": "Un ado attend son procès en appel en prison. Pourquoi lui applique-t-on un délai d’adulte ?",
       "texte": "Le code des mineurs emprunte les délais prévus pour les adultes détenus. Le Conseil constitutionnel a jugé que ces délais étaient trop longs pour les mineurs. Il laisse pourtant le texte en place jusqu’au 31 octobre 2027, car le supprimer immédiatement ferait disparaître le délai maximal.",
-      "ordre": 3,
+      "ordre": 4,
       "raison": "La règle est contraire à la Constitution puisque des délais prévus pour les adultes ont été repris sans tenir suffisamment compte de la situation des mineurs. Le Conseil a différé leur suppression pour éviter de laisser les mineurs sans délai maximal."
     }
   },
@@ -321,7 +321,7 @@
       "titre": "Deux autorités peuvent-elles poursuivre deux fois le même démarchage ?",
       "texte": "Pour les mêmes messages, une entreprise pouvait être poursuivie par deux autorités au titre du même manquement.",
       "raison": "Le Conseil constitutionnel a censuré le cumul puisque les deux régimes pouvaient sanctionner les mêmes faits de la même façon pour protéger les mêmes intérêts. Sa décision bloque dès maintenant les secondes poursuites dans les cas qu’elle définit.",
-      "ordre": 11
+      "ordre": 12
     }
   },
   {
@@ -364,7 +364,7 @@
       "titre": "On découvre qu’une personne gardée à vue est sous tutelle. Pourquoi la règle ne suffisait-elle pas ?",
       "texte": "La police peut découvrir la mesure de protection après le début de la garde à vue. Le texte ne garantissait pas suffisamment que la personne chargée de la protection soit prévenue si la garde à vue était prolongée ou si l’audition portait sur de nouveaux faits.",
       "raison": "La garantie était insuffisante puisque la personne pouvait être confrontée à une nouvelle étape de la procédure sans que son protecteur en soit averti. Le Conseil constitutionnel a imposé cet avis pendant la période qui précède l’abrogation.",
-      "ordre": 12
+      "ordre": 13
     }
   },
   {
@@ -407,7 +407,7 @@
       "titre": "On vous demande de répondre avant de vous sanctionner. Doit-on vous dire que vous pouvez vous taire ?",
       "texte": "Le code prévoit que l’autorité de régulation de l’énergie recueille les observations du mis en cause. Les passages censurés ne prévoyaient pas de l’informer de son droit de se taire.",
       "raison": "La procédure est incomplète puisque la personne est invitée à s’expliquer sans être avertie qu’elle peut garder le silence. Le Conseil constitutionnel impose cet avertissement dès maintenant.",
-      "ordre": 13
+      "ordre": 14
     }
   },
   {
@@ -455,7 +455,7 @@
     "entree": {
       "titre": "Votre indemnité est plafonnée, même si le plafond peut laisser une partie du préjudice sans réparation.",
       "texte": "Le Comité européen des droits sociaux estime que le plafond français peut empêcher une réparation suffisante. La Cour de cassation juge que le salarié ne peut pas invoquer directement la disposition de la Charte contre son employeur. Le constat européen ne suffit donc pas à écarter le plafond aux prud’hommes.",
-      "ordre": 4,
+      "ordre": 5,
       "raison": "La tension subsiste puisque le barème reste applicable devant le juge français alors que le Comité européen a conclu qu’il contrevient à la Charte. La Cour de cassation juge que cette disposition de la Charte ne peut pas être invoquée directement entre salarié et employeur."
     }
   },
@@ -496,7 +496,7 @@
       "titre": "Une loi étrangère régit toute la succession. Pourquoi la France peut-elle quand même prélever une part ?",
       "texte": "Le règlement européen désigne une loi pour l’ensemble de la succession. Si cette loi ne prévoit aucune réserve pour les enfants, le code français leur permet, sous conditions, de prélever une part sur les biens situés en France.",
       "raison": "Les deux règles se heurtent puisque la loi étrangère peut permettre de ne rien laisser aux enfants alors que la règle française leur ouvre un prélèvement sur les biens en France. La Commission européenne a engagé un dialogue avec la France sur cette compatibilité.",
-      "ordre": 14
+      "ordre": 15
     }
   },
   {
@@ -534,7 +534,7 @@
     "entree": {
       "titre": "Vous avez encore des jours de congé. En quittant votre emploi, vous les perdez.",
       "texte": "Un agent territorial n’a pas pu prendre sa cinquième semaine parce que son service avait besoin de lui. L’article 5-1 lui permet de la prendre plus tard. S’il quitte son emploi avant de la prendre, l’article 5-2 limite le paiement aux quatre premières semaines. Pour ces jours-là, il a donc un droit au report, mais aucune indemnité au départ.",
-      "ordre": 2,
+      "ordre": 3,
       "raison": "L’effet peut surprendre puisque les mêmes jours restent utilisables tant que l’agent est en poste, puis cessent d’être indemnisables à son départ. Les articles distinguent le droit de prendre des jours et le droit d’en obtenir le paiement."
     }
   },
@@ -544,7 +544,7 @@
     "domaine": "Procédure pénale",
     "titre": "La loi demande au décret de désigner qui peut déposer plainte, le décret renvoie à un arrêté",
     "entree": {
-      "ordre": 15,
+      "ordre": 16,
       "titre": "Agressé au travail, quel organisme peut déposer plainte pour vous ?",
       "texte": "Pour certaines professions de santé libérales, la loi charge un décret de désigner l’organisme pouvant porter plainte pour la victime. Le décret publié en juillet 2026 renvoie cette désignation à un arrêté du ministre de la santé.",
       "raison": "Le dispositif reste incomplet pour les professionnels concernés puisque le décret ne permet pas de savoir à quel organisme donner mandat. Les recherches au 20 novembre 2026 n’ont pas retrouvé l’arrêté de désignation. La victime peut déposer plainte elle-même."
@@ -583,7 +583,7 @@
     "domaine": "Santé",
     "titre": "La loi prévoit un hébergement des parents près de l’hôpital, le décret se fait attendre",
     "entree": {
-      "ordre": 6,
+      "ordre": 7,
       "titre": "Votre enfant est hospitalisé loin de chez vous. Pouvez-vous compter sur le dispositif d’hébergement prévu par la loi ?",
       "texte": "La loi permet aux hôpitaux d’organiser un hébergement pour les parents de certains enfants atteints d’une affection de longue durée. Elle renvoie à un décret pour fixer les conditions.",
       "raison": "La mesure reste incomplète puisque la loi annonce un dispositif sans fixer ses conditions pratiques. Le 10 novembre, le gouvernement confirmait que le décret restait à préparer. La recherche au 20 novembre n’a pas retrouvé sa publication."
@@ -663,6 +663,51 @@
           "reference": "Réponse du gouvernement, 10 novembre 2026",
           "url": "https://www.senat.fr/seances/s202611/s20261110/s20261110_mono.html",
           "citation": "[…] la définition des conditions de conventionnement, de tarification et de remboursement."
+        }
+      ]
+    }
+  },
+  {
+    "id": "stationnement-recours-majoration",
+    "type": "Articulation de régimes",
+    "domaine": "Stationnement",
+    "titre": "Contester un forfait de stationnement ne met pas le paiement en pause",
+    "entree": {
+      "ordre": 2,
+      "titre": "Vous contestez un forfait de stationnement. En attendant, la somme peut grimper.",
+      "texte": "Vous estimez avoir déjà payé et contestez le forfait. La loi vous oblige à passer d’abord par un recours administratif avant de saisir le tribunal contre l’avis initial. Pendant ce temps, les trois mois pour payer continuent de courir.",
+      "raison": "Ça coince puisque vous pouvez encore attendre le résultat de votre contestation quand le forfait impayé est majoré d’au moins 50 €. Le recours permet de faire annuler un forfait injustifié, mais il ne suspend pas le délai de paiement."
+    },
+    "explication": [
+      "Le délai de trois mois court à partir de la notification de l’avis. La majoration réglementaire est de 20 % de l’impayé restant dû, avec un minimum de 50 €.",
+      "Payer le forfait et le contester sont deux démarches distinctes. Le droit de contester le montant ne dépend pas d’une suspension automatique de sa mise en recouvrement."
+    ],
+    "sources": [
+      {
+        "label": "DILA, démarches de paiement et de contestation",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F34440"
+      }
+    ],
+    "relation": {
+      "question": "Les trois mois pour payer s’arrêtent-ils pendant la contestation ?",
+      "participants": [
+        {
+          "role": "Recours préalable obligatoire",
+          "reference": "CGCT, art. L. 2333-87, VI",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049919622/2026-07-11",
+          "citation": "[…] font l’objet d’un recours administratif préalable obligatoire […]"
+        },
+        {
+          "role": "Délai de paiement",
+          "reference": "CGCT, art. L. 2333-87, IV",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049919622/2026-07-11",
+          "citation": "[…] doit être réglé en totalité dans les trois mois suivant la notification de l’avis de paiement […]"
+        },
+        {
+          "role": "Montant de la majoration",
+          "reference": "CGCT, art. R. 2333-120-16",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030622753/2026-10-09",
+          "citation": "[…] sans pouvoir être inférieur à 50 euros."
         }
       ]
     }
