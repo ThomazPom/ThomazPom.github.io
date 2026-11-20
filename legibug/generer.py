@@ -38,7 +38,8 @@ def render(fiche):
         f'<h3>{escape(fiche["titre"])}</h3>',
     ]
     if entree := fiche.get("entree"):
-        output.append(f'<p class="entree">{escape(entree["texte"])}</p>')
+        output.append(f'<p class="entree">{escape(entree["face_a_face"])}</p>')
+        output.append(f'<p>{escape(entree["texte"])}</p>')
         output.append(f'<p>{escape(entree["raison"])}</p>')
     relation = fiche["relation"]
     if relation["question"]:
@@ -119,7 +120,7 @@ vedettes = sorted(
 )
 intro = "\n".join(
     f'<li><h3><a href="#{escape(fiche["id"])}">{escape(fiche["entree"]["titre"])}</a></h3>'
-    f'<p>{escape(fiche["entree"]["texte"])}</p>'
+    f'<p class="entree">{escape(fiche["entree"]["face_a_face"])}</p>'
     f'<p><strong>Pourquoi ces réponses diffèrent</strong><br>{escape(fiche["entree"]["raison"])}</p></li>'
     for fiche in vedettes
 )
