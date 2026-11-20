@@ -1692,13 +1692,14 @@
       "raison": "Une même catastrophe peut donc laisser au voyageur en train une facture d’hôtel que le voyageur en avion n’aurait pas à payer. Les deux règlements traitent différemment le coût d’une attente de plus de trois nuits."
     },
     "explication": [
+      "Sur un Paris–New York annulé à cause de la fermeture de l’espace aérien, l’article 5, paragraphe 3, dispense la compagnie du forfait de 600 € prévu à l’article 7 si elle prouve qu’elle ne pouvait éviter l’annulation malgré toutes les mesures raisonnables. Les articles 5 et 9 lui imposent quand même l’hôtel pour les nuits nécessaires avant le premier vol de remplacement disponible, si vous choisissez ce réacheminement.",
       "Dans l’arrêt McDonagh, la Cour de justice a confirmé que les circonstances extraordinaires ne suppriment pas l’assistance et que le texte ne fixe aucune limite de durée ou de montant. Si la compagnie n’a pas fourni l’assistance, les frais réclamés doivent avoir été nécessaires, appropriés et raisonnables.",
       "Le règlement modificatif (UE) 2026/2202 s’applique à partir du 23 octobre 2027. Cette fiche décrit le régime applicable au 20 novembre 2026."
     ],
     "sources": [
       {
-        "label": "CJUE, arrêt McDonagh, communiqué officiel",
-        "url": "https://curia.europa.eu/jcms/jcms/P_95639/en/"
+        "label": "CJUE, arrêt McDonagh, points 34 et 39 à 51",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A62011CJ0012"
       },
       {
         "label": "Règlement modificatif 2026/2202, article 3",
@@ -1717,8 +1718,14 @@
         {
           "role": "Avion, hébergement nécessaire",
           "reference": "Règlement (CE) 261/2004, art. 5 et 9",
-          "url": "https://eur-lex.europa.eu/eli/reg/2004/261/oj/fra",
+          "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32004R0261",
           "citation": "« un séjour d’attente d’une ou plusieurs nuits est nécessaire »"
+        },
+        {
+          "role": "Avion, dispense du forfait de 600 € dans l’exemple Paris–New York",
+          "reference": "Règlement (CE) 261/2004, art. 5, § 3, et art. 7",
+          "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A32004R0261",
+          "citation": "« […] n’est pas tenu de verser l’indemnisation prévue à l’article 7 […] »"
         }
       ]
     }
