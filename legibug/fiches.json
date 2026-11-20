@@ -6312,5 +6312,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "subvention-retrait-quatre-mois-conditions",
+    "type": "Articulation de régimes",
+    "domaine": "Administration",
+    "titre": "Une subvention peut être protégée après quatre mois et rester retirable sans délai dans un autre cas",
+    "entree": {
+      "ordre": 138,
+      "titre": "Votre association reçoit 8 000 €. Deux ans après, la mairie peut-elle retirer la subvention ?",
+      "face_a_face": "L’article L. 242-1 limite en principe à quatre mois le retrait d’une décision illégale qui crée des droits, tandis que l’article L. 242-2 permet de retirer sans condition de délai une subvention dont les conditions d’octroi n’ont pas été respectées.",
+      "texte": "La mairie accorde 8 000 € à une association pour un projet. Si l’association respecte les conditions et que la mairie découvre deux ans plus tard un vice de procédure dans sa propre décision, le délai ordinaire de retrait est passé. Si l’association n’a pas réalisé l’action exigée par la décision d’octroi, la mairie peut retirer la subvention sans être bloquée par les quatre mois.",
+      "raison": "Le versement est le même. Une erreur de procédure dans la décision et le non-respect d’une condition de l’aide n’ouvrent pas le même délai de retrait."
+    },
+    "explication": [
+      "L’exemple suppose une décision individuelle créatrice de droits et l’absence de régime spécial. Le retrait efface la décision rétroactivement. La fiche compare le délai du retrait et ne se prononce pas sur le délai propre au recouvrement de la somme versée."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031367655/",
+        "label": "Code des relations entre le public et l’administration, article L. 242-1"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367659/2026-11-21",
+        "label": "Code des relations entre le public et l’administration, article L. 242-2"
+      }
+    ],
+    "relation": {
+      "question": "La limite de quatre mois protège-t-elle toute subvention ?",
+      "participants": [
+        {
+          "role": "Délai ordinaire de retrait",
+          "reference": "CRPA, art. L. 242-1",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000031367655/",
+          "citation": "« […] dans le délai de quatre mois suivant la prise de cette décision. »"
+        },
+        {
+          "role": "Retrait pour conditions non respectées",
+          "reference": "CRPA, art. L. 242-2, 2°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367659/2026-11-21",
+          "citation": "« […] sans condition de délai […] Retirer une décision attribuant une subvention lorsque les conditions mises à son octroi n’ont pas été respectées. »"
+        }
+      ]
+    }
   }
 ]
