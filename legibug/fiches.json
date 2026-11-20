@@ -2602,5 +2602,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "rsa-droit-versement-suspendu",
+    "type": "Articulation de régimes",
+    "domaine": "Aide sociale",
+    "titre": "Le foyer remplit la condition de ressources du RSA et le département peut suspendre le versement",
+    "entree": {
+      "ordre": 6,
+      "titre": "Le code dit que j’ai droit au RSA. Pourquoi peut-on suspendre mon versement ?",
+      "texte": "Le foyer a toujours aussi peu de ressources. L’article L. 262-2 ouvre le droit au RSA sous les conditions du chapitre. L’article L. 262-37 permet au département d’en suspendre le paiement si le bénéficiaire ne respecte pas certaines obligations sans motif légitime.",
+      "raison": "Les deux articles peuvent donner l’impression de se contredire puisque le besoin d’aide reste le même alors que le paiement peut s’arrêter. Le premier article définit le droit sous conditions. Le second prévoit une sanction distincte du calcul des ressources."
+    },
+    "explication": [
+      "Le président du conseil départemental peut suspendre tout ou partie du versement si, sans motif légitime, le bénéficiaire refuse d’élaborer ou d’actualiser son contrat d’engagement ou manque à une obligation prévue par celui-ci.",
+      "Si le bénéficiaire se conforme à ses obligations avant la fin de la suspension, le président du conseil départemental y met fin. Le seul niveau de ressources ne permet donc pas de déterminer si le paiement sera effectué pendant la période concernée."
+    ],
+    "sources": [
+      {
+        "label": "Code de l’action sociale et des familles, chapitre sur le RSA",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006128458"
+      }
+    ],
+    "relation": {
+      "question": "Le département peut-il suspendre le paiement même si les ressources du foyer ne changent pas ?",
+      "participants": [
+        {
+          "role": "Ouverture du droit",
+          "reference": "Code de l’action sociale et des familles, art. L. 262-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031087764/2026-08-05",
+          "citation": "[…] a droit au revenu de solidarité active dans les conditions définies au présent chapitre."
+        },
+        {
+          "role": "Suspension du paiement",
+          "reference": "Code de l’action sociale et des familles, art. L. 262-37, I",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006128458",
+          "citation": "[…] peut décider la suspension, en tout ou partie et pour une durée qu’il fixe, du versement du revenu de solidarité active […]"
+        }
+      ]
+    }
   }
 ]
