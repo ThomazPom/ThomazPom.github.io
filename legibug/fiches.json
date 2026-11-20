@@ -5146,5 +5146,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "dossier-medical-deces-causes-mort",
+    "type": "Conflit de droits",
+    "domaine": "Santé",
+    "titre": "Après un décès, la famille peut connaître la cause de la mort sans obtenir tout le dossier médical",
+    "entree": {
+      "ordre": 116,
+      "titre": "L’hôpital peut vous expliquer de quoi votre père est mort et vous refuser ses anciens comptes rendus.",
+      "face_a_face": "L’article L. 1111-7 du Code de la santé publique ouvre au patient l’accès aux informations sur sa santé. Après le décès, il renvoie à l’article L. 1110-4, qui limite l’accès des ayants droit aux informations nécessaires à certains motifs.",
+      "texte": "Votre père décède à l’hôpital. En tant qu’ayant droit, vous demandez ce qui a causé son décès et une copie de tout son dossier. S’il ne s’y était pas opposé, l’hôpital peut vous transmettre les éléments nécessaires pour comprendre sa mort et garder confidentiels les anciens comptes rendus sans rapport avec elle.",
+      "raison": "La loi vous permet de comprendre les causes du décès sans lever le secret sur toute la vie médicale de votre père. C’est le lien avec le motif de votre demande qui détermine quelles pièces peuvent être remises."
+    },
+    "explication": [
+      "L’article L. 1110-4 prévoit les mêmes motifs pour les ayants droit, le concubin et le partenaire de Pacs : connaître les causes de la mort, défendre la mémoire du défunt ou faire valoir leurs droits. La volonté contraire exprimée du vivant de la personne fait obstacle à la communication dans ce cadre."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043895798/2026-11-21",
+        "label": "Code de la santé publique, article L. 1110-4, V"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006154977/2026-11-21/",
+        "label": "Code de la santé publique, article L. 1111-7"
+      }
+    ],
+    "relation": {
+      "question": "La famille peut-elle recevoir les mêmes informations que le patient de son vivant ?",
+      "participants": [
+        {
+          "role": "Accès du patient à ses informations de santé",
+          "reference": "Code de la santé publique, art. L. 1111-7",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006154977/2026-11-21/",
+          "citation": "« Toute personne a accès à l’ensemble des informations concernant sa santé […] »"
+        },
+        {
+          "role": "Accès limité après le décès",
+          "reference": "Code de la santé publique, art. L. 1110-4, V",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043895798/2026-11-21",
+          "citation": "« […] dans la mesure où elles leur sont nécessaires pour leur permettre de connaître les causes de la mort […] »"
+        }
+      ]
+    }
   }
 ]
