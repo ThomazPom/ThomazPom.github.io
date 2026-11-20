@@ -1779,5 +1779,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "greve-une-heure-etat-mairie",
+    "type": "Articulation de régimes",
+    "domaine": "Fonction publique",
+    "titre": "Une heure de grève peut coûter cinq fois plus à un agent de l’État",
+    "entree": {
+      "ordre": 40,
+      "titre": "Une heure de grève, 80 € de moins à l’État et environ 16 € de moins à la mairie",
+      "face_a_face": "L’article L. 711-3 impose de retirer un trentième du salaire mensuel à un agent de l’État même pour une heure de grève, tandis que le Conseil d’État exige pour un agent territorial une retenue proportionnelle à la durée de la grève.",
+      "texte": "Deux agents ont chacun 2 400 € de rémunération mensuelle prise en compte pour la retenue. Pour une heure de grève, l’État retire 80 €. Une mairie retire environ 15,82 € si elle applique le calcul horaire de 1/151,67 pour un temps plein classique.",
+      "raison": "L’État compte une fraction fixe du mois dès que l’agent fait grève pendant une partie de la journée. La mairie rapporte la durée de la grève au temps de travail de l’agent. À durée et rémunération égales dans cet exemple, l’écart est d’environ cinq à un."
+    },
+    "explication": [
+      "L’exemple suppose une heure de grève licite et une rémunération de référence de 2 400 € dans les deux cas. Le Conseil d’État demande de tenir compte des obligations de service réelles. Le calcul pour un agent travaillant par gardes peut donc être différent."
+    ],
+    "sources": [
+      {
+        "label": "Service Public, droit de grève dans la fonction publique",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F499"
+      }
+    ],
+    "relation": {
+      "question": "Une heure de grève entraîne-t-elle la même retenue pour deux agents publics ?",
+      "participants": [
+        {
+          "role": "État, retenue fixe",
+          "reference": "Code général de la fonction publique, art. L. 711-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044424829/",
+          "citation": "« L’absence de service fait, pendant une fraction quelconque de la journée, donne lieu à une retenue […] »"
+        },
+        {
+          "role": "Territoriale, retenue proportionnelle",
+          "reference": "Conseil d’État, 17 juillet 2009, n° 303588",
+          "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000020871105/",
+          "citation": "« son montant doit être proportionné à la durée de la grève »"
+        }
+      ]
+    }
   }
 ]
