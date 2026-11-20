@@ -2464,5 +2464,38 @@
         }
       ]
     }
+  },
+  {
+    "id": "pacs-heritage-fiscalite",
+    "type": "Articulation de régimes",
+    "domaine": "Successions",
+    "titre": "Le partenaire pacsé est exonéré sur un legs sans être héritier de droit",
+    "explication": [
+      "La dévolution légale bénéficie aux parents et au conjoint successibles. Le partenaire pacsé ne reçoit donc pas de part de la succession en cette seule qualité. Un testament peut lui attribuer un legs dans les limites fixées par le droit civil.",
+      "Le code général des impôts exonère le conjoint survivant et le partenaire pacsé de droits de mutation par décès. Cette exonération s’applique à ce que le partenaire reçoit et ne lui donne aucune part dans la dévolution légale."
+    ],
+    "sources": [
+      {
+        "label": "DILA, succession après le décès du partenaire",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1621"
+      }
+    ],
+    "relation": {
+      "question": "L’exonération de droits de succession fait-elle du partenaire pacsé un héritier de droit ?",
+      "participants": [
+        {
+          "role": "Personnes appelées par la loi",
+          "reference": "Code civil, art. 731",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430924/2026-08-28",
+          "citation": "La succession est dévolue par la loi aux parents et au conjoint successibles du défunt […]"
+        },
+        {
+          "role": "Exonération fiscale",
+          "reference": "Code général des impôts, art. 796-0 bis",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006305480/2026-10-28",
+          "citation": "Sont exonérés de droits de mutation par décès le conjoint survivant et le partenaire lié au défunt par un pacte civil de solidarité."
+        }
+      ]
+    }
   }
 ]
