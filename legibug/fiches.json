@@ -6644,5 +6644,51 @@
         "permis-valide-mur-chez-voisin"
       ]
     }
+  },
+  {
+    "id": "passage-trente-ans-fin-enclave",
+    "type": "Articulation de régimes",
+    "domaine": "Propriété et voisinage",
+    "titre": "30 ans à passer chez le voisin. Une nouvelle rue peut mettre fin au passage.",
+    "explication": [
+      "Si les propriétaires sont en désaccord, un juge constate la disparition du passage. Lorsque le droit de passage découle d’un acte, il faut vérifier si cet acte reconnaît un passage dû à l’absence d’accès ou s’il crée un droit indépendant."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430303/2026-11-20",
+        "label": "Code civil, art. 685"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430309/2026-11-20",
+        "label": "Code civil, art. 685-1"
+      }
+    ],
+    "relation": {
+      "question": "Le voisin doit-il encore laisser passer après l’ouverture d’un accès à la rue ?",
+      "participants": [
+        {
+          "role": "Le trajet après 30 ans",
+          "reference": "Code civil, art. 685",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430303/2026-11-20",
+          "citation": "« […] déterminés par trente ans d’usage continu. »"
+        },
+        {
+          "role": "La fin du passage",
+          "reference": "Code civil, art. 685-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006430309/2026-11-20",
+          "citation": "« […] peut, à tout moment, invoquer l’extinction de la servitude […] »"
+        }
+      ],
+      "fiches_liees": [
+        "cloture-declaration-limite-communale"
+      ]
+    },
+    "entree": {
+      "titre": "30 ans à passer chez le voisin. Une nouvelle rue peut mettre fin au passage.",
+      "face_a_face": "L’article 685 du Code civil fixe le trajet et la façon de passer après 30 ans d’usage continu. L’article 685-1 permet au voisin de faire constater la fin de ce passage dès que le terrain dispose d’un accès suffisant à la voie publique.",
+      "texte": "Depuis 30 ans, vous rentrez chez vous en voiture par l’allée du voisin parce que votre terrain ne donne sur aucune rue. Une nouvelle rue est ouverte et vous pouvez désormais rentrer directement chez vous. Le voisin peut demander la fin du passage par son allée.",
+      "raison": "Les 30 ans déterminent où et comment vous passez. Le droit même de traverser le terrain voisin dépend du manque d’un accès suffisant à la voie publique.",
+      "ordre": 143
+    }
   }
 ]
