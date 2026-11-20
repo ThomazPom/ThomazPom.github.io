@@ -2534,5 +2534,39 @@
         }
       ]
     }
+  },
+  {
+    "id": "succession-internationale-reserve",
+    "type": "Articulation de régimes",
+    "domaine": "Successions",
+    "titre": "La réserve française peut entrer en tension avec la loi étrangère applicable à la succession",
+    "explication": [
+      "Le règlement européen désigne en principe la loi de la dernière résidence habituelle du défunt. Il permet aussi de choisir la loi de sa nationalité pour régir l’ensemble de sa succession.",
+      "L’article 913 du code civil ouvre un prélèvement sur les biens situés en France lorsque la loi étrangère applicable ne protège les enfants par aucun mécanisme réservataire et que le défunt ou au moins un enfant est ressortissant de l’Union ou y réside habituellement au décès. Le prélèvement est limité aux droits réservataires français.",
+      "La Commission européenne a annoncé en août 2025 un dialogue préalable avec la France à la suite de plaintes sur la compatibilité de ce mécanisme avec le règlement. Cette étape ne tranche pas la compatibilité du dispositif."
+    ],
+    "sources": [
+      {
+        "label": "Commission européenne, suivi de la plainte multiple CPLT(2022)03325",
+        "url": "https://commission.europa.eu/document/download/cbae8845-65cd-4cfc-ab27-5abbda950ccb_fr?filename=JUST-2025-05467-00-00-FR-TRA-00.pdf"
+      }
+    ],
+    "relation": {
+      "question": "Que se passe-t-il lorsque la loi étrangère applicable à la succession ne réserve aucune part aux enfants ?",
+      "participants": [
+        {
+          "role": "Loi applicable à l’ensemble de la succession",
+          "reference": "Règlement (UE) n° 650/2012, art. 21 et 22",
+          "url": "https://eur-lex.europa.eu/eli/reg/2012/650/oj/fra",
+          "citation": "[…] la loi applicable à l’ensemble d’une succession est celle de l’État dans lequel le défunt avait sa résidence habituelle au moment de son décès."
+        },
+        {
+          "role": "Prélèvement compensatoire en France",
+          "reference": "Code civil, art. 913, al. 3",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000043982288/2026-02-23",
+          "citation": "[…] peuvent effectuer un prélèvement compensatoire sur les biens existants situés en France au jour du décès […]"
+        }
+      ]
+    }
   }
 ]
