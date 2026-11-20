@@ -1665,7 +1665,7 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <section id="bilan">
 <h2>Ce que couvre l’atlas</h2>
 <p>Les renvois obsolètes ou incohérents et les censures constitutionnelles établissent un défaut précis. Une lacune d’application signale un mécanisme juridique qui attend les règles nécessaires à sa mise en œuvre. Les autres fiches expliquent des tensions qui se résolvent par une exception, une différence de champ ou l’appréciation du juge.</p>
-<ul id="coverage"></ul>
+<p><strong>65 fiches publiées</strong> dans le catalogue.</p><ul><li>Articulation de régimes (49)</li><li>Inconstitutionnalité constatée (6)</li><li>Lacune d’application (5)</li><li>Conflit de droits (2)</li><li>Renvoi incohérent (1)</li><li>Renvoi obsolète (1)</li><li>Réserve d’interprétation (1)</li></ul>
 <h3>Contrôle d’un échantillon de renvois LEGI</h3>
 <p>30 pistes examinées sur 30 dans le tirage. 7 renvois confirmés, 23 pistes écartées et 0 à approfondir.</p>
 <p>Le tirage porte sur les couples repérés dans les métadonnées. Il mesure la qualité de ce repérage après relecture et ne donne pas la fréquence de toutes les incohérences dans le droit français.</p>
@@ -1711,13 +1711,9 @@ const totals = new Map();
 for (const { type } of cards) {
   totals.set(type, (totals.get(type) ?? 0) + 1);
 }
-const coverage = document.querySelector('#coverage');
 for (const [type, total] of totals) {
   const label = type + ' (' + total + ')';
   category.add(new Option(label, type));
-  const item = document.createElement('li');
-  item.textContent = label;
-  coverage.append(item);
 }
 function filterCards() {
   const terms = normalize(search.value).trim().split(/\s+/);
