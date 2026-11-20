@@ -2868,7 +2868,8 @@
       "raison": "La loi distingue la responsabilité du conducteur et l’obligation de payer qui peut peser sur le titulaire de la carte grise. Le tribunal peut donc fixer qui paie sans avoir établi qui conduisait."
     },
     "explication": [
-      "Le texte prévoit notamment une exception si le titulaire établit un vol, un autre événement de force majeure ou qu’il n’est pas l’auteur véritable de l’infraction. La fiche décrit une décision du tribunal, distincte du paiement direct d’un avis de contravention."
+      "Le texte prévoit notamment une exception si le titulaire établit un vol, un autre événement de force majeure ou qu’il n’est pas l’auteur véritable de l’infraction. La fiche décrit une décision du tribunal, distincte du paiement direct d’un avis de contravention.",
+      "Même si le conducteur est identifié, l’amende et les points suivent deux seuils. Avec une vitesse retenue de 54 km/h dans une zone limitée à 50, il encourt l’amende de quatrième classe sans perdre de point. À 55 km/h retenus, la classe de l’amende reste la même et il perd un point. Le seuil de 5 km/h porte sur le dépassement après application de la marge du radar."
     ],
     "sources": [
       {
@@ -2890,6 +2891,12 @@
           "reference": "Code de la route, art. L. 121-3",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039785641/2026-10-24",
           "citation": "« … le titulaire du certificat d’immatriculation du véhicule est redevable pécuniairement de l’amende […] »"
+        },
+        {
+          "role": "Même classe d’amende à +4 et +5 km/h, retrait d’un point à partir de +5",
+          "reference": "Code de la route, art. R. 413-14, I et III",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048533039",
+          "citation": "« … compris entre 5 km/h et moins de 20 km/h, réduction d’un point. »"
         }
       ]
     }
