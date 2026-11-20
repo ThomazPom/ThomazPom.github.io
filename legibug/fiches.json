@@ -5816,5 +5816,61 @@
         "victime-jugement-avance-sarvi"
       ]
     }
+  },
+  {
+    "id": "blessure-delai-penal-civil-consolidation",
+    "type": "Articulation de régimes",
+    "domaine": "Indemnisation",
+    "titre": "Une blessure peut encore donner lieu à une réparation civile après la prescription du délit",
+    "entree": {
+      "ordre": 129,
+      "titre": "Sept ans après une blessure causée par un délit, il peut être trop tard au pénal mais encore temps au civil.",
+      "face_a_face": "L’article 8 du Code de procédure pénale prévoit en principe six ans pour poursuivre un délit, tandis que l’article 2226 du Code civil donne en principe dix ans à compter de la stabilisation de la blessure pour demander réparation devant le juge civil, conformément à l’article 10 du Code de procédure pénale.",
+      "texte": "Vous êtes blessé lors de faits qui constituent un délit soumis au délai ordinaire. Votre état se stabilise quelques mois plus tard. Sept ans après les faits, en l’absence d’interruption ou de suspension, les poursuites pénales sont prescrites. La demande de réparation de la même blessure peut encore être portée devant le juge civil.",
+      "raison": "La loi fait courir deux délais pour les mêmes faits. L’un part en principe de l’infraction et sert à poursuivre son auteur. L’autre part de la stabilisation de la blessure et sert à demander réparation."
+    },
+    "explication": [
+      "On parle de consolidation quand l’état de santé est considéré comme stabilisé. L’exemple vise les délais ordinaires. Des régimes particuliers existent selon l’infraction, et le délai civil peut aussi varier selon la nature des faits."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311450/2026-11-21",
+        "label": "Code de procédure pénale, article 10"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911/2026-11-21",
+        "label": "Code de procédure pénale, article 8"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259/2026-11-21",
+        "label": "Code civil, article 2226"
+      }
+    ],
+    "relation": {
+      "question": "La prescription des poursuites ferme-t-elle la demande de réparation au civil ?",
+      "participants": [
+        {
+          "role": "Délai ordinaire pour poursuivre un délit",
+          "reference": "Code de procédure pénale, art. 8",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049531911/2026-11-21",
+          "citation": "« L’action publique des délits se prescrit par six années révolues […] »"
+        },
+        {
+          "role": "Application des délais civils devant le juge civil",
+          "reference": "Code de procédure pénale, art. 10",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038311450/2026-11-21",
+          "citation": "« Lorsqu’elle est exercée devant une juridiction civile, elle se prescrit selon les règles du code civil. »"
+        },
+        {
+          "role": "Délai de réparation du dommage corporel",
+          "reference": "Code civil, art. 2226",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017259/2026-11-21",
+          "citation": "« […] se prescrit par dix ans à compter de la date de la consolidation du dommage initial ou aggravé. »"
+        }
+      ],
+      "fiches_liees": [
+        "victime-civi-indemnisation-avant-jugement"
+      ]
+    }
   }
 ]
