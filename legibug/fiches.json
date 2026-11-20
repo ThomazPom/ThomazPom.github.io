@@ -623,8 +623,21 @@
       }
     ],
     "relation": {
-      "question": null,
-      "participants": []
+      "question": "Qui peut définir les règles pour évaluer l’effet d’une concentration sur le pluralisme ?",
+      "participants": [
+        {
+          "role": "Obligation européenne",
+          "reference": "Règlement (UE) 2024/1083, art. 22",
+          "url": "https://eur-lex.europa.eu/eli/reg/2024/1083/oj?locale=fr",
+          "citation": "Les États membres établissent, dans leur droit national, des règles de fond et de procédure permettant d’évaluer les concentrations sur le marché des médias […]"
+        },
+        {
+          "role": "Compétence du Parlement",
+          "reference": "Conseil d’État, n° 512798, point 5",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2026-07-27/512798",
+          "citation": "[…] la définition des règles nécessaires à la mise en œuvre de l’article 22 […] relève du législateur […]"
+        }
+      ]
     }
   },
   {
@@ -647,8 +660,21 @@
       }
     ],
     "relation": {
-      "question": null,
-      "participants": []
+      "question": "Quelles mesures manquent pour mettre en place la plateforme ?",
+      "participants": [
+        {
+          "role": "Décret prévu",
+          "reference": "Loi n° 2022-53, art. 1, cité par le Conseil d’État",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-07-01/498369",
+          "citation": "Un décret en Conseil d’État, pris après avis de la Commission nationale de l’informatique et des libertés, précise les modalités d’application de la plateforme."
+        },
+        {
+          "role": "Injonction",
+          "reference": "Conseil d’État, n° 498369, dispositif, art. 3",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-07-01/498369",
+          "citation": "[…] dans un délai de douze mois à compter de la notification de la présente décision."
+        }
+      ]
     }
   },
   {
