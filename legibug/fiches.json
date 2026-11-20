@@ -2361,5 +2361,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "banque-authentification-remboursement",
+    "type": "Articulation de régimes",
+    "domaine": "Banque",
+    "titre": "Un paiement peut passer les contrôles de la banque sans être autorisé par le client",
+    "entree": {
+      "ordre": 54,
+      "titre": "Vous contestez un débit de 800 €. La mention « authentifié » permet-elle à la banque de garder l’argent ?",
+      "face_a_face": "L’article L. 133-18 du code monétaire et financier impose en principe de rembourser un paiement non autorisé au plus tard le jour ouvrable suivant, tandis que l’article L. 133-23 précise qu’un paiement enregistré par la banque ne prouve pas à lui seul que vous y avez consenti.",
+      "texte": "Vous signalez un débit de 800 € que vous n’avez pas autorisé. La banque indique que l’opération a passé ses contrôles. Si le paiement est bien non autorisé et signalé à temps, elle doit en principe vous rembourser immédiatement, au plus tard à la fin du jour ouvrable suivant. Pour invoquer une fraude ou une négligence grave de votre part, elle doit apporter des éléments de preuve.",
+      "raison": "Un contrôle technique peut confirmer comment une opération est passée. Il ne suffit pas nécessairement à établir que vous avez voulu payer. Pour écarter le délai de remboursement en raison d’un soupçon de fraude du client, la banque doit avoir de bonnes raisons et les communiquer par écrit à la Banque de France."
+    },
+    "explication": [
+      "Ce régime vise une opération non autorisée. Si vous avez donné votre accord à l’opération précise, sa qualification peut être différente, même si un tiers vous a trompé.",
+      "Dans une affaire de faux conseiller, la Cour de cassation a admis que les juges retiennent l’absence de négligence grave au vu des circonstances du dossier."
+    ],
+    "sources": [
+      {
+        "label": "Cour de cassation, 23 octobre 2024, n° 23-16.267",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000050442874/"
+      }
+    ],
+    "relation": {
+      "question": "Un paiement enregistré comme authentifié suffit-il à écarter le remboursement ?",
+      "participants": [
+        {
+          "role": "Délai de remboursement",
+          "reference": "Code monétaire et financier, art. L. 133-18",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046194314/2026-07-15",
+          "citation": "« … au plus tard à la fin du premier jour ouvrable suivant […] »"
+        },
+        {
+          "role": "Preuve de l’autorisation",
+          "reference": "Code monétaire et financier, art. L. 133-23",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035430567/2026-09-21",
+          "citation": "« … ne suffit pas nécessairement en tant que telle à prouver que l’opération a été autorisée […] »"
+        }
+      ]
+    }
   }
 ]
