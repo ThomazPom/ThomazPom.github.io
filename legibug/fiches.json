@@ -7040,5 +7040,51 @@
       "raison": "Une livraison après le mariage ne remplit plus le besoin annoncé au vendeur. Pour une robe commandée sans cette échéance essentielle, un simple retard vous oblige en principe à laisser une chance au vendeur de livrer avant d’annuler.",
       "ordre": 150
     }
+  },
+  {
+    "id": "remboursement-tardif-retractation-livraison",
+    "type": "Articulation de régimes",
+    "domaine": "Consommation",
+    "titre": "Même commande de 300 €, même retard de remboursement. Le vendeur doit 330 € ou 360 €.",
+    "explication": [
+      "Les 25 jours se comptent après la date limite de remboursement applicable, pas après la commande. En cas de rétractation, le vendeur peut en principe attendre de récupérer le bien ou de recevoir la preuve de son expédition, selon l’article L. 221-24, sauf s’il propose de le récupérer lui-même. En cas d’annulation pour défaut de livraison, le délai est de 14 jours à compter de la dénonciation du contrat selon l’article L. 216-7."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226378/2026-11-20",
+        "label": "Code de la consommation, art. L. 242-4"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142708/2026-11-20",
+        "label": "Code de la consommation, art. L. 241-4"
+      }
+    ],
+    "relation": {
+      "question": "De combien le remboursement augmente-t-il pour 25 jours de retard ?",
+      "participants": [
+        {
+          "role": "Rétractation, majoration de 10 % à 25 jours de retard",
+          "reference": "Code de la consommation, art. L. 242-4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226378/2026-11-20",
+          "citation": "« […] de 10 % si le retard est compris entre vingt et trente jours […] »"
+        },
+        {
+          "role": "Annulation pour défaut de livraison, majoration de 20 % à 25 jours de retard",
+          "reference": "Code de la consommation, art. L. 241-4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142708/2026-11-20",
+          "citation": "« […] de 20 % jusqu’à trente jours […] »"
+        }
+      ],
+      "fiches_liees": [
+        "livraison-en-retard-date-essentielle-remboursement"
+      ]
+    },
+    "entree": {
+      "titre": "Même commande de 300 €, même retard de remboursement. Le vendeur doit 330 € ou 360 €.",
+      "face_a_face": "Pour 25 jours de retard après la date limite de remboursement, l’article L. 242-4 ajoute 10 % si vous avez exercé votre droit de rétractation. L’article L. 241-4 ajoute 20 % si vous avez annulé parce que le vendeur n’a pas livré.",
+      "texte": "Deux personnes commandent en ligne la même chaise à 300 €. La première reçoit la chaise, se rétracte dans les délais et la renvoie aussitôt. La seconde annule valablement parce que le vendeur ne l’a jamais livrée. Dans les deux cas, le remboursement arrive 25 jours après sa date limite. La première doit recevoir 330 € et la seconde 360 €.",
+      "raison": "Le vendeur conservait la même somme et a dépassé son délai du même nombre de jours. La majoration est pourtant deux fois plus forte quand la commande a été annulée pour défaut de livraison.",
+      "ordre": 151
+    }
   }
 ]
