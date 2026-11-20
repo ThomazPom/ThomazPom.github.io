@@ -3394,10 +3394,10 @@
     "titre": "Être déclaré irresponsable au pénal n’efface pas l’obligation de réparer",
     "entree": {
       "ordre": 77,
-      "titre": "La justice déclare une personne pénalement irresponsable. Peut-elle quand même devoir indemniser la victime ?",
+      "titre": "La justice peut écarter toute peine et accorder 2 000 € à la victime dans la même décision.",
       "face_a_face": "L’article 122-1 du code pénal écarte en principe la responsabilité pénale lorsque le trouble a aboli le discernement ou le contrôle des actes, tandis que l’article 414-3 du code civil maintient l’obligation de réparer le dommage causé à autrui sous l’effet d’un trouble mental.",
-      "texte": "Une personne cause un dommage et la justice constate qu’un trouble mental avait aboli son discernement au moment des faits. Cette personne peut être déclarée pénalement irresponsable et devoir néanmoins indemniser la victime.",
-      "raison": "La décision pénale répond à la question de savoir si la personne peut être punie. Le droit civil répond à celle de savoir qui doit réparer le dommage. L’impossibilité de prononcer une peine ne supprime pas l’obligation de réparation."
+      "texte": "Une personne cause un dommage matériel de 2 000 €. La chambre de l’instruction constate que son discernement était aboli et la déclare pénalement irresponsable. Si la victime s’est constituée partie civile et demande réparation, la même chambre peut se prononcer sur la responsabilité civile et lui accorder les 2 000 € si le dommage est établi.",
+      "raison": "Le même trouble empêche de punir la personne, mais ne prive pas la victime de son droit à réparation. L’article 706-125 permet de tirer ces deux conséquences dans la même décision."
     },
     "explication": [
       "Le code distingue l’abolition du discernement de sa simple altération, qui laisse en principe la personne punissable. Le cas présenté suppose que la juridiction a retenu l’irresponsabilité pénale. L’article 706-125 permet notamment à la chambre de l’instruction de statuer aussi sur les demandes de la partie civile."
@@ -3422,6 +3422,12 @@
           "reference": "Code civil, art. 414-3",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427995/2026-08-28",
           "citation": "« Celui qui a causé un dommage à autrui alors qu’il était sous l’empire d’un trouble mental n’en est pas moins obligé à réparation. »"
+        },
+        {
+          "role": "Décision civile dans le même arrêt sur demande de la partie civile",
+          "reference": "Code de procédure pénale, art. 706-125, 3°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032655984/",
+          "citation": "« Si la partie civile le demande, elle se prononce sur la responsabilité civile de la personne […] »"
         }
       ],
       "fiches_liees": [
