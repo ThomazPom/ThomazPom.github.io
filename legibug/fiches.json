@@ -4290,5 +4290,52 @@
         }
       ]
     }
+  },
+  {
+    "id": "legislatives-dix-huit-ans-entre-deux-tours",
+    "type": "Articulation de régimes",
+    "domaine": "Élections",
+    "titre": "Avoir 18 ans entre les deux tours permet de voter au second, sans pouvoir être élu député à cette élection",
+    "entree": {
+      "ordre": 98,
+      "titre": "Vous fêtez vos 18 ans entre les deux tours. Vous pouvez voter au second, mais pas être élu.",
+      "face_a_face": "L’article L. 11 du Code électoral permet l’inscription d’office pour le second tour si vous avez 18 ans à cette date, tandis que l’article LO 127 exige que vous remplissiez les conditions pour être électeur dès le premier tour pour être élu député.",
+      "texte": "Le premier tour des législatives a lieu dimanche et vous fêtez vos 18 ans le mercredi suivant. Si un second tour a lieu le dimanche d’après et que vous êtes inscrit, vous pouvez y voter. En revanche, vous ne pouvez pas être élu député à cette élection, même si la décision se joue au second tour.",
+      "raison": "Votre âge est vérifié à deux dates différentes pendant la même élection. Pour pouvoir voter au second tour, on regarde votre âge à ce tour. Pour pouvoir être élu député, on regarde votre âge au premier tour."
+    },
+    "explication": [
+      "L’article L. 2 fixe la majorité électorale à 18 ans accomplis. L’inscription d’office prévue par l’article L. 11 suppose que les autres conditions soient remplies. Si le député est élu dès le premier tour, il n’y a pas de second tour auquel participer."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/WAspad/UnArticleDeCode?art=L11&code=CELECTOL.rcv",
+        "label": "Code électoral, article L. 11"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023882645/2026-11-21",
+        "label": "Code électoral, article LO 127"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006353016/2026-11-21",
+        "label": "Code électoral, article L. 2"
+      }
+    ],
+    "relation": {
+      "question": "Quel dimanche compte quand vous atteignez 18 ans entre les deux tours des législatives ?",
+      "participants": [
+        {
+          "role": "Âge pour voter au second tour",
+          "reference": "Code électoral, art. L. 11",
+          "url": "https://www.legifrance.gouv.fr/WAspad/UnArticleDeCode?art=L11&code=CELECTOL.rcv",
+          "citation": "« […] à la date à laquelle ce second tour a vocation à être organisé […] »"
+        },
+        {
+          "role": "Âge pour être élu député",
+          "reference": "Code électoral, art. LO 127",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023882645/2026-11-21",
+          "citation": "« Toute personne qui, à la date du premier tour de scrutin, remplit les conditions pour être électeur […] »"
+        }
+      ]
+    }
   }
 ]
