@@ -5401,5 +5401,51 @@
         }
       ]
     }
+  },
+  {
+    "id": "divorce-logement-proprietaire-bail-judiciaire",
+    "type": "Articulation de régimes",
+    "domaine": "Famille et succession",
+    "titre": "Au divorce, le juge peut attribuer un bail à l’autre parent sur un logement qui vous appartient",
+    "entree": {
+      "ordre": 121,
+      "titre": "Vous êtes seul propriétaire. Au divorce, le juge peut faire de votre ex-époux votre locataire.",
+      "face_a_face": "L’article 225 du Code civil donne à chaque époux la gestion de ses biens personnels, tandis que l’article 285-1 permet au juge de donner à bail le logement familial à l’autre parent lorsque les enfants y résident habituellement et que leur intérêt l’exige.",
+      "texte": "La maison familiale vous appartient seul. Au divorce, votre enfant de 10 ans doit continuer à y vivre avec l’autre parent, qui exerce l’autorité parentale. Si l’intérêt de votre enfant le commande, le juge peut accorder un bail à votre ex-époux. Ce bail peut être renouvelé jusqu’aux 18 ans de votre enfant s’il est le plus jeune.",
+      "raison": "Vous gardez la propriété, mais le juge peut décider qui occupe la maison pour permettre aux enfants d’y rester. Il fixe la durée du bail et peut y mettre fin si la situation change."
+    },
+    "explication": [
+      "Le juge doit vérifier l’exercice de l’autorité parentale, la résidence habituelle des enfants dans le logement et leur intérêt. Le renouvellement jusqu’à la majorité du plus jeune est une possibilité."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006422890/2026-11-21",
+        "label": "Code civil, article 225"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006424165/2026-11-21",
+        "label": "Code civil, article 285-1"
+      }
+    ],
+    "relation": {
+      "question": "Le juge peut-il imposer un bail au seul propriétaire du logement familial ?",
+      "participants": [
+        {
+          "role": "Gestion de ses biens personnels",
+          "reference": "Code civil, art. 225",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006422890/2026-11-21",
+          "citation": "« Chacun des époux administre, oblige et aliène seul ses biens personnels. »"
+        },
+        {
+          "role": "Bail accordé par le juge dans l’intérêt des enfants",
+          "reference": "Code civil, art. 285-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006424165/2026-11-21",
+          "citation": "« […] le juge peut le concéder à bail au conjoint […] lorsque ceux-ci résident habituellement dans ce logement et que leur intérêt le commande. »"
+        }
+      ],
+      "fiches_liees": [
+        "vente-logement-familial-bien-personnel"
+      ]
+    }
   }
 ]
