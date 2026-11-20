@@ -4214,12 +4214,17 @@
       "raison": "Le logement est vide et les clés sont rendues dans les deux cas. C’est l’identité de la personne qui a donné congé qui détermine si vous devez continuer à payer."
     },
     "explication": [
-      "Cette comparaison concerne la location vide soumise à la loi du 6 juillet 1989. Si un autre locataire occupe le logement avant la fin de votre préavis avec l’accord du bailleur, vous ne devez plus le loyer pour cette période."
+      "Cette comparaison concerne la location vide soumise à la loi du 6 juillet 1989. Si un autre locataire occupe le logement avant la fin de votre préavis avec l’accord du bailleur, vous ne devez plus le loyer pour cette période.",
+      "Si c’est vous qui donnez congé et partez dès le début du préavis, le type de bail change aussi le montant. L’article 15 fixe en principe 3 mois de préavis en location vide, contre 1 mois en location meublée ordinaire selon l’article 25-8. À 900 € hors charges par mois, cela fait 2 700 € en vide et 900 € en meublé si aucun remplaçant n’occupe les lieux et si le bailleur ne vous dispense pas de payer. En location vide, certains cas donnent déjà droit à 1 mois, notamment en zone tendue."
     ],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/2026-11-21",
         "label": "Loi du 6 juillet 1989, article 15, I"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900072/",
+        "label": "Loi du 6 juillet 1989, article 25-8"
       }
     ],
     "relation": {
@@ -4236,6 +4241,12 @@
           "reference": "Loi du 6 juillet 1989, art. 15, I",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030/2026-11-21",
           "citation": "« […] du loyer et des charges concernant tout le délai de préavis si c’est lui qui a notifié le congé […] »"
+        },
+        {
+          "role": "Congé du locataire en meublé, 1 mois de préavis",
+          "reference": "Loi du 6 juillet 1989, art. 25-8",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900072/",
+          "citation": "« […] sous réserve du respect d’un préavis d’un mois […] »"
         }
       ]
     }
