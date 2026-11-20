@@ -5500,5 +5500,51 @@
         }
       ]
     }
+  },
+  {
+    "id": "succession-creancier-actif-net",
+    "type": "Articulation de régimes",
+    "domaine": "Famille et succession",
+    "titre": "En héritant de votre débiteur, vous pouvez conserver une créance que vous auriez sinon perdue",
+    "entree": {
+      "ordre": 123,
+      "titre": "Votre père vous devait 5 000 €. En devenant son seul héritier, perdez-vous la créance ?",
+      "face_a_face": "L’article 1349 du Code civil éteint en principe la créance lorsque la même personne devient créancière et débitrice, tandis que l’article 791 conserve les droits que l’héritier avait contre la succession s’il accepte à concurrence de l’actif net.",
+      "texte": "Vous avez prêté 5 000 € à votre père et vous êtes son seul héritier. En acceptant purement et simplement, vous réunissez en principe les deux côtés de la même dette et la créance s’éteint, sous réserve des droits des tiers. Si vous acceptez à concurrence de l’actif net, vous conservez votre créance contre la succession et pouvez la déclarer.",
+      "raison": "Le mode d’acceptation décide si les biens et dettes de la succession restent séparés des vôtres. Cette séparation permet de garder la créance. Le paiement effectif dépend des biens disponibles et des règles de règlement des créanciers."
+    },
+    "explication": [
+      "L’article 791 prévoit aussi de limiter le paiement des dettes successorales à la valeur des biens recueillis. Conserver sa créance ne donne pas automatiquement la priorité sur les autres créanciers."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042222/2026-11-21",
+        "label": "Code civil, article 1349"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006090271",
+        "label": "Code civil, article 791"
+      }
+    ],
+    "relation": {
+      "question": "La dette s’éteint-elle lorsque le créancier hérite du débiteur ?",
+      "participants": [
+        {
+          "role": "Réunion du créancier et du débiteur",
+          "reference": "Code civil, art. 1349",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032042222/2026-11-21",
+          "citation": "« Elle éteint la créance et ses accessoires, sous réserve des droits acquis par ou contre des tiers. »"
+        },
+        {
+          "role": "Créance conservée lorsque les patrimoines restent séparés",
+          "reference": "Code civil, art. 791",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006090271",
+          "citation": "« De conserver contre celle-ci tous les droits qu’il avait antérieurement sur les biens du défunt »"
+        }
+      ],
+      "fiches_liees": [
+        "succession-refusee-obseques"
+      ]
+    }
   }
 ]
