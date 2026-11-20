@@ -3527,5 +3527,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "juge-enfants-protection-impartialite",
+    "type": "Articulation de régimes",
+    "domaine": "Justice des mineurs",
+    "titre": "Le juge qui a protégé un enfant peut présider le procès de l’auteur présumé",
+    "entree": {
+      "ordre": 82,
+      "titre": "Le juge a déjà protégé l’enfant victime. Peut-il présider le procès ?",
+      "face_a_face": "L’article L. 251-3 interdit au juge des enfants de présider le tribunal s’il a instruit ou renvoyé l’affaire pénale, tandis que la décision 2026-1223 QPC précise qu’une mesure d’assistance éducative prononcée pour protéger la victime ne suffit pas à écarter ce juge.",
+      "texte": "Un juge des enfants protège un mineur qu’il estime en danger. Plus tard, un autre mineur est jugé pour une infraction dont le premier est la victime. Le fait que le juge ait prononcé la mesure de protection ne suffit pas à lui interdire de présider le procès. S’il a instruit ou renvoyé cette même affaire pénale, le code lui interdit de le présider.",
+      "raison": "Pour protéger l’enfant, le juge apprécie le danger auquel il est exposé. Cette mission civile ne l’oblige pas à déterminer si une infraction a été commise ni qui l’a commise. Le Conseil distingue donc cette intervention de l’instruction de l’affaire pénale."
+    },
+    "explication": [
+      "La décision concerne le seul fait d’avoir ordonné une mesure d’assistance éducative. Elle ne dispense pas d’examiner d’autres circonstances susceptibles de soulever une question d’impartialité."
+    ],
+    "sources": [
+      {
+        "label": "Conseil constitutionnel, décision 2026-1223 QPC, § 12 à 14",
+        "url": "https://www.legifrance.gouv.fr/juri/id/CONSTEXT000054952966"
+      }
+    ],
+    "relation": {
+      "question": "Une première intervention auprès de la victime empêche-t-elle le juge de présider ?",
+      "participants": [
+        {
+          "role": "Interdiction après instruction ou renvoi pénal",
+          "reference": "Code de l’organisation judiciaire, art. L. 251-3, reproduit au § 2",
+          "url": "https://www.legifrance.gouv.fr/juri/id/CONSTEXT000054952966",
+          "citation": "« … qui a été chargé de l’instruction ou qui a renvoyé l’affaire devant le tribunal pour enfants ne peut présider cette juridiction. »"
+        },
+        {
+          "role": "Pas d’interdiction du seul fait de la protection civile",
+          "reference": "Conseil constitutionnel, décision 2026-1223 QPC, § 14",
+          "url": "https://www.legifrance.gouv.fr/juri/id/CONSTEXT000054952966",
+          "citation": "« … de la seule circonstance que le juge des enfants ait prononcé une mesure d’assistance éducative […] »"
+        }
+      ]
+    }
   }
 ]
