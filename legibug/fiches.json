@@ -3703,13 +3703,13 @@
     "id": "licenciement-discrimination-deux-delais",
     "type": "Articulation de régimes",
     "domaine": "Travail",
-    "titre": "Un licenciement peut donner lieu à un recours dans les douze mois ou à une action en réparation dans les cinq ans",
+    "titre": "Après un licenciement, le délai pour agir peut être d’un, trois ou cinq ans selon la demande",
     "entree": {
       "ordre": 85,
       "titre": "Vous avez été licencié il y a deux ans. Tout recours est-il trop tardif ?",
-      "face_a_face": "L’article L. 1471-1 du code du travail fixe en principe à douze mois le délai pour contester la rupture, tandis que l’article L. 1134-5 donne cinq ans à partir de la révélation de la discrimination pour demander réparation du préjudice qu’elle a causé.",
-      "texte": "Votre licenciement vous a été notifié il y a deux ans. Le délai ordinaire pour contester la rupture est passé. Si vous invoquez une discrimination et demandez réparation du préjudice qu’elle vous a causé, cette demande peut encore être recevable si la discrimination vous a été révélée il y a moins de cinq ans.",
-      "raison": "Les deux demandes peuvent concerner le même licenciement. Le délai dépend de ce que vous demandez au juge et du fondement de votre demande. Son point de départ peut aussi changer."
+      "face_a_face": "L’article L. 1471-1 donne en principe un an pour contester la rupture, l’article L. 3245-1 donne trois ans pour réclamer un salaire impayé, et l’article L. 1134-5 donne cinq ans à partir de la révélation d’une discrimination pour demander réparation.",
+      "texte": "Vous avez été licencié il y a deux ans et, au moment de partir, vous avez constaté que votre dernier salaire n’avait pas été versé. Le délai ordinaire pour contester la rupture est passé, mais vous pouvez encore réclamer le salaire. Si vous avez découvert que le licenciement était discriminatoire, vous pouvez demander réparation dans les cinq ans qui suivent la révélation de la discrimination.",
+      "raison": "Les trois demandes peuvent naître du même départ. La date de notification déclenche le délai ordinaire pour contester la rupture, la connaissance de l’impayé déclenche celui du salaire et la révélation de la discrimination déclenche celui de la demande de réparation."
     },
     "explication": [
       "L’article L. 1471-1 exclut de son régime les actions exercées en application de l’article L. 1134-5. La recevabilité de la demande ne suffit pas à prouver qu’une discrimination a eu lieu."
@@ -3718,16 +3718,26 @@
       {
         "label": "Code du travail, délais applicables aux actions en justice",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035643612/"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027566295/2026-11-21",
+        "label": "Code du travail, article L. 3245-1"
       }
     ],
     "relation": {
-      "question": "Le délai ordinaire de contestation de la rupture s’applique-t-il à une demande de réparation pour discrimination ?",
+      "question": "Après un licenciement, quelle demande pouvez-vous encore porter devant les prud’hommes ?",
       "participants": [
         {
           "role": "Délai ordinaire de douze mois",
           "reference": "Code du travail, art. L. 1471-1",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035643612/",
           "citation": "« Toute action portant sur la rupture du contrat de travail se prescrit par douze mois à compter de la notification de la rupture. »"
+        },
+        {
+          "role": "Trois ans pour réclamer un salaire",
+          "reference": "Code du travail, art. L. 3245-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027566295/2026-11-21",
+          "citation": "« L’action en paiement ou en répétition du salaire se prescrit par trois ans […] »"
         },
         {
           "role": "Cinq ans à compter de la révélation de la discrimination",
