@@ -7356,5 +7356,55 @@
       "raison": "Pour l’accident privé, le délai de carence absorbe les trois jours de l’arrêt. Pour l’accident du travail, il n’y a pas ces trois jours de carence. La caisse peut donc indemniser deux jours pour la même durée d’arrêt.",
       "ordre": 156
     }
+  },
+  {
+    "id": "accident-trajet-caisse-employeur-delai",
+    "type": "Articulation de régimes",
+    "domaine": "Travail et protection sociale",
+    "titre": "Accident sur le chemin du travail. La caisse paie dès le lendemain, le complément légal de l’employeur commence au 8ᵉ jour.",
+    "explication": [
+      "L’article L. 411-2 rattache l’accident de trajet reconnu au régime des accidents du travail pour la Sécurité sociale. Le complément patronal légal est soumis notamment à l’ancienneté minimale prévue par l’article L. 1226-1. Une convention collective peut prévoir mieux."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053283560/",
+        "label": "Code de la sécurité sociale, art. L. 433-1"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019225874/",
+        "label": "Code du travail, art. D. 1226-3"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006743008/",
+        "label": "Code de la sécurité sociale, article L. 411-2"
+      }
+    ],
+    "relation": {
+      "question": "L’accident de trajet compte-t-il comme un accident du travail pour les deux payeurs ?",
+      "participants": [
+        {
+          "role": "Caisse, régime des accidents du travail",
+          "reference": "Code de la sécurité sociale, art. L. 433-1",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000053283560/",
+          "citation": "« […] à partir du premier jour qui suit l’arrêt du travail consécutif à l’accident […] »"
+        },
+        {
+          "role": "Employeur, accident de trajet exclu du versement immédiat",
+          "reference": "Code du travail, art. D. 1226-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019225874/",
+          "citation": "« […] à l’exclusion des accidents de trajet. »"
+        }
+      ],
+      "fiches_liees": [
+        "arret-trois-jours-accident-travail-carence"
+      ]
+    },
+    "entree": {
+      "titre": "Accident sur le chemin du travail. La caisse paie dès le lendemain, le complément légal de l’employeur commence au 8ᵉ jour.",
+      "face_a_face": "Les articles L. 411-2 et L. 433-1 appliquent à l’accident de trajet reconnu les indemnités journalières du régime des accidents du travail. L’article D. 1226-3 exclut expressément ce trajet du complément légal immédiat de l’employeur et le fait commencer au 8ᵉ jour d’absence.",
+      "texte": "Deux collègues sont arrêtés cinq jours à partir d’un lundi. L’un s’est blessé en allant au travail et l’autre à son poste. Si les deux accidents sont reconnus, la caisse peut les indemniser dès le mardi. Le collègue blessé à son poste peut aussi bénéficier du complément légal de l’employeur pendant l’arrêt. Pour le collègue blessé sur le trajet, les cinq jours ne suffisent pas à ouvrir ce droit.",
+      "raison": "Le même accident de trajet est traité comme un accident du travail par la caisse, mais il suit le délai ordinaire pour le complément légal de l’employeur. Sur un arrêt de cinq jours, cette différence laisse un versement de la caisse sans complément patronal légal.",
+      "ordre": 157
+    }
   }
 ]
