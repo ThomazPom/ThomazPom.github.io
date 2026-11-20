@@ -39,6 +39,7 @@ def render(fiche):
     ]
     if entree := fiche.get("entree"):
         output.append(f'<p class="entree">{escape(entree["texte"])}</p>')
+        output.append(f'<p>{escape(entree["raison"])}</p>')
     relation = fiche["relation"]
     if relation["question"]:
         output.append(f'<p class="question">{escape(relation["question"])}</p>')
@@ -120,7 +121,8 @@ cas = [fiche for fiche in fiches if not fiche.get("note_technique")]
 notes = [fiche for fiche in fiches if fiche.get("note_technique")]
 intro = "\n".join(
     f'<li><h3><a href="#{escape(fiche["id"])}">{escape(fiche["entree"]["titre"])}</a></h3>'
-    f'<p>{escape(fiche["entree"]["texte"])}</p></li>'
+    f'<p>{escape(fiche["entree"]["texte"])}</p>'
+    f'<p><strong>Pourquoi ces réponses diffèrent</strong><br>{escape(fiche["entree"]["raison"])}</p></li>'
     for fiche in vedettes
 )
 output = template.replace("<!-- EXEMPLES -->", intro)
