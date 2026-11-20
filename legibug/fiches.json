@@ -2283,5 +2283,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "accident-trajet-protection-emploi",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Un accident de trajet compte comme accident du travail pour la caisse, avec une protection différente pour l’emploi",
+    "entree": {
+      "ordre": 52,
+      "titre": "Même blessure sur le trajet ou au travail, protection différente contre le licenciement",
+      "face_a_face": "L’article L. 411-2 du code de la sécurité sociale assimile l’accident de trajet à un accident du travail sous conditions, tandis que les articles L. 1226-7 et L. 1226-9 du code du travail réservent la protection spéciale contre la rupture du contrat aux accidents du travail hors trajet et aux maladies professionnelles.",
+      "texte": "Vous vous blessez en allant au travail et la caisse reconnaît un accident de trajet. Elle peut prendre en charge vos soins comme pour un accident arrivé au travail. Mais si votre employeur veut vous licencier pendant l’arrêt, vous ne bénéficiez pas du régime spécial qui limite la rupture à une faute grave ou à une impossibilité de maintenir le contrat pour un motif étranger à l’accident.",
+      "raison": "Le même accident reçoit deux qualifications selon le droit en jeu. Pour la caisse, le trajet peut compter comme du travail. Pour la protection spéciale de l’emploi, le code du travail exclut le trajet. Les règles ordinaires du licenciement, dont l’interdiction de discriminer en raison de l’état de santé, continuent de s’appliquer."
+    },
+    "explication": [
+      "La qualification d’accident de trajet suppose notamment que le parcours respecte les conditions fixées par le code de la sécurité sociale. La fiche compare les effets pendant l’arrêt dans le cas d’un salarié en CDI."
+    ],
+    "sources": [
+      {
+        "label": "Service Public, accident de trajet et protection contre le licenciement",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31881"
+      }
+    ],
+    "relation": {
+      "question": "La reconnaissance de l’accident par la caisse donne-t-elle aussi la protection spéciale contre le licenciement ?",
+      "participants": [
+        {
+          "role": "Assimilation pour la sécurité sociale",
+          "reference": "Code de la sécurité sociale, art. L. 411-2",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006126892/",
+          "citation": "« Est également considéré comme accident du travail […] »"
+        },
+        {
+          "role": "Exclusion pour la protection de l’emploi",
+          "reference": "Code du travail, art. L. 1226-7 et L. 1226-9",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053283550/2026-11-14",
+          "citation": "« … autre qu’un accident de trajet […] »"
+        }
+      ]
+    }
   }
 ]
