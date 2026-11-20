@@ -5052,5 +5052,52 @@
         }
       ]
     }
+  },
+  {
+    "id": "marche-public-prix-total-prix-unitaires",
+    "type": "Conflit de droits",
+    "domaine": "Commande publique",
+    "titre": "Le montant total d’un marché public est en principe accessible, le détail des prix peut rester secret",
+    "entree": {
+      "ordre": 114,
+      "titre": "On peut vous dire combien la mairie a payé au total, sans vous dire combien elle paie par intervention.",
+      "face_a_face": "L’article L. 311-1 ouvre l’accès aux documents administratifs, tandis que l’article L. 311-6 protège le secret des affaires. Pour un marché public, le Conseil d’État en déduit que le prix global est en principe communicable alors que le bordereau des prix unitaires ne l’est en principe pas.",
+      "texte": "Vous demandez à votre mairie les pièces d’un marché signé pour l’entretien des bâtiments municipaux. Vous pouvez en principe obtenir le montant global de l’offre retenue et la description des prestations. Le tableau qui révèle combien l’entreprise facture chaque type d’intervention peut être écarté de la communication.",
+      "raison": "Le total permet de savoir combien la collectivité s’engage à payer. Le prix de chaque prestation peut révéler comment l’entreprise construit son offre et permettre à ses concurrents d’en tirer parti. Le secret protège alors le détail du même marché dont le total est accessible."
+    },
+    "explication": [
+      "Le Conseil d’État demande d’examiner si les renseignements sont susceptibles de porter atteinte au secret des affaires en affectant la concurrence. L’article L. 311-7 prévoit la communication du document après masquage ou retrait des mentions protégées lorsque c’est possible."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000033219038",
+        "label": "Code des relations entre le public et l’administration, articles L. 311-1 et L. 311-7"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037269056",
+        "label": "Code des relations entre le public et l’administration, article L. 311-6"
+      },
+      {
+        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2016-03-30/375529",
+        "label": "Conseil d’État, 30 mars 2016, n° 375529"
+      }
+    ],
+    "relation": {
+      "question": "Peut-on obtenir le total et le détail des prix du même marché ?",
+      "participants": [
+        {
+          "role": "Accès aux documents administratifs",
+          "reference": "CRPA, art. L. 311-1",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000033219038",
+          "citation": "« […] communiquer les documents administratifs qu’elles détiennent aux personnes qui en font la demande […] »"
+        },
+        {
+          "role": "Protection du secret des affaires",
+          "reference": "CRPA, art. L. 311-6",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037269056",
+          "citation": "« […] le secret des affaires, lequel comprend le secret des procédés, des informations économiques et financières […] »"
+        }
+      ]
+    }
   }
 ]
