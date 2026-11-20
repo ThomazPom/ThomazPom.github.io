@@ -47,6 +47,17 @@ def render(fiche):
             ])
         output.append('</div>')
     output.extend(f'<p>{escape(paragraph)}</p>' for paragraph in fiche["explication"])
+    if renvois := relation.get("renvois"):
+        output.append('<details><summary>Voir les renvois vérifiés</summary><ul>')
+        for renvoi in renvois:
+            source = renvoi["source"]
+            cible = renvoi["cible"]
+            output.append(
+                f'<li><a href="{escape(source["url"])}">{escape(source["reference"])}</a>'
+                f' renvoie à <a href="{escape(cible["url"])}">{escape(cible["reference"])}</a>'
+                f' (abrogé le {escape(renvoi["fin_validite"])})</li>'
+            )
+        output.append('</ul></details>')
     links = [
         f'<a href="{escape(source["url"])}">{escape(source["label"])}</a>'
         for source in fiche["sources"]
