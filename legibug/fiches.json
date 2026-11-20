@@ -7528,5 +7528,55 @@
       "raison": "Les 8 mois sont un plafond après l’accident. Si le délai de 3 mois expire avant, l’assureur doit respecter cette date. L’article L. 211-13 prévoit alors des intérêts au double du taux légal pour une offre tardive.",
       "ordre": 159
     }
+  },
+  {
+    "id": "accident-transaction-quinze-jours",
+    "type": "Articulation de régimes",
+    "domaine": "Indemnisation",
+    "titre": "Vous signez pour 10 000 € après un accident. Même signé, l’accord peut être annulé pendant 15 jours.",
+    "explication": [
+      "La dénonciation se fait par lettre recommandée ou par envoi recommandé électronique avec demande d’avis de réception. Une clause qui vous ferait renoncer à ce droit est nulle. Si l’accord est maintenu, l’article L. 211-17 prévoit que le paiement doit intervenir dans le mois après la fin des 15 jours."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033458761/",
+        "label": "Code civil, art. 2052"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731353/",
+        "label": "Code des assurances, art. L. 211-16"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006174255",
+        "label": "Code des assurances, article L. 211-17"
+      }
+    ],
+    "relation": {
+      "question": "Quand la signature empêche-t-elle de réclamer plus pour le même préjudice ?",
+      "participants": [
+        {
+          "role": "Accord qui ferme un procès sur le même objet",
+          "reference": "Code civil, art. 2052",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033458761/",
+          "citation": "« La transaction fait obstacle à l’introduction ou à la poursuite […] d’une action en justice ayant le même objet. »"
+        },
+        {
+          "role": "Accident de la circulation, 15 jours pour revenir sur l’accord",
+          "reference": "Code des assurances, art. L. 211-16",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731353/",
+          "citation": "« […] dénoncer la transaction dans les quinze jours de sa conclusion. »"
+        }
+      ],
+      "fiches_liees": [
+        "assureur-accident-offre-trois-huit-mois"
+      ]
+    },
+    "entree": {
+      "titre": "Vous signez pour 10 000 € après un accident. Même signé, l’accord peut être annulé pendant 15 jours.",
+      "face_a_face": "L’article 2052 du Code civil ferme en principe la voie à un procès portant sur le même objet qu’un accord de règlement. L’article L. 211-16 du Code des assurances donne à la victime d’un accident de la circulation 15 jours pour dénoncer cet accord.",
+      "texte": "Vous acceptez 10 000 € pour solder l’indemnisation de vos blessures. Dix jours après la signature, vous réalisez que ce montant vous paraît insuffisant. Vous pouvez encore revenir sur l’accord par recommandé. Si vous attendez trois semaines, le simple fait que l’assureur n’ait pas encore payé ne prolonge pas ce droit.",
+      "raison": "Le délai pour changer d’avis et le délai pour être payé ne courent pas ensemble. Le premier est de 15 jours à compter de l’accord. Le délai de paiement d’un mois commence seulement après.",
+      "ordre": 160
+    }
   }
 ]
