@@ -2524,5 +2524,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "bail-deces-pacs-concubin-un-an",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Huit mois de vie commune peuvent suffire à conserver le bail selon le statut du couple",
+    "entree": {
+      "ordre": 58,
+      "titre": "Le bail était à son nom. Après huit mois de vie commune, pouvez-vous rester ?",
+      "face_a_face": "L’article 14 de la loi de 1989 permet au partenaire pacsé de reprendre le bail au décès du locataire sans durée minimale de vie commune, tandis qu’il exige au moins un an de cohabitation du concubin notoire.",
+      "texte": "Votre partenaire décède après huit mois de vie commune. Lui seul avait signé le bail. Si vous étiez pacsés, vous pouvez demander à reprendre le bail. Si vous viviez en concubinage connu de votre entourage, huit mois ne suffisent pas à remplir la condition prévue pour le concubin survivant.",
+      "raison": "Le Pacs donne accès au transfert du bail sans que la loi exige douze mois de cohabitation. Le concubin survivant doit prouver cette durée. Avec la même histoire de vie commune, le statut du couple peut donc décider qui conserve le logement."
+    },
+    "explication": [
+      "La fiche suppose une location soumise à l’article 14 et compare deux personnes qui ne sont pas déjà titulaires du bail. Si plusieurs personnes remplissent les conditions et demandent le transfert, le juge tranche selon les intérêts en présence."
+    ],
+    "sources": [
+      {
+        "label": "Loi du 6 juillet 1989, art. 14",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006475111/2026-07-07"
+      }
+    ],
+    "relation": {
+      "question": "La même durée de cohabitation ouvre-t-elle le même droit au bail après le décès ?",
+      "participants": [
+        {
+          "role": "Pacs, pas de durée minimale prévue",
+          "reference": "Loi du 6 juillet 1989, art. 14, transfert au partenaire",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006475111/2026-07-07",
+          "citation": "« au partenaire lié au locataire par un pacte civil de solidarité »"
+        },
+        {
+          "role": "Concubinage, au moins un an",
+          "reference": "Même article, transfert au concubin notoire",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006475111/2026-07-07",
+          "citation": "« … qui vivaient avec lui depuis au moins un an à la date du décès. »"
+        }
+      ]
+    }
   }
 ]
