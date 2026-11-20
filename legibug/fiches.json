@@ -6078,5 +6078,55 @@
         }
       ]
     }
+  },
+  {
+    "id": "succession-mineur-parent-majeur-tuteur",
+    "type": "Articulation de régimes",
+    "domaine": "Famille et succession",
+    "titre": "Pour accepter un héritage sans limiter les dettes, le parent doit saisir le juge alors que le tuteur d’un majeur peut s’appuyer sur une attestation du notaire",
+    "entree": {
+      "ordre": 134,
+      "titre": "Même succession largement positive. Le parent d’un mineur doit passer devant le juge, le tuteur d’un adulte peut s’en dispenser.",
+      "face_a_face": "L’article 387-1 du Code civil exige l’autorisation du juge pour qu’un parent administrateur légal accepte purement et simplement la succession de son enfant mineur, tandis que l’article 507-1 permet au tuteur d’un majeur de le faire sur attestation du notaire lorsque les biens dépassent manifestement les dettes.",
+      "texte": "Deux frères héritent chacun d’une part. L’un a 17 ans et ses parents gèrent légalement ses biens. L’autre est adulte sous tutelle. Le notaire atteste que la succession est manifestement excédentaire. Pour accepter sans limiter la responsabilité aux biens hérités, les parents du mineur ont quand même besoin de l’autorisation du juge, tandis que le tuteur du majeur peut s’appuyer sur l’attestation.",
+      "raison": "Les parts viennent de la même succession et présentent le même risque. Les deux textes imposent pourtant des garanties différentes selon le régime de protection de l’héritier."
+    },
+    "explication": [
+      "La comparaison vise le mineur sous administration légale de ses parents et le majeur sous tutelle. Accepter purement et simplement expose en principe aux dettes de la succession. Accepter à concurrence de l’actif net limite le paiement de ces dettes à la valeur des biens recueillis."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031322948/2026-11-21",
+        "label": "Code civil, article 387-1"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310426/2026-11-21",
+        "label": "Code civil, article 507-1"
+      },
+      {
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F905",
+        "label": "Service Public, succession du mineur ou du majeur protégé"
+      }
+    ],
+    "relation": {
+      "question": "L’attestation du notaire remplace-t-elle l’autorisation du juge ?",
+      "participants": [
+        {
+          "role": "Autorisation préalable pour le parent administrateur légal",
+          "reference": "Code civil, art. 387-1, 5°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031322948/2026-11-21",
+          "citation": "« L’administrateur légal ne peut, sans l’autorisation préalable du juge des tutelles […] accepter purement et simplement une succession revenant au mineur […] »"
+        },
+        {
+          "role": "Attestation possible en tutelle",
+          "reference": "Code civil, art. 507-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038310426/2026-11-21",
+          "citation": "« […] si l’actif dépasse manifestement le passif, après recueil d’une attestation du notaire […] »"
+        }
+      ],
+      "fiches_liees": [
+        "succession-creancier-actif-net"
+      ]
+    }
   }
 ]
