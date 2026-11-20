@@ -193,8 +193,21 @@
       }
     ],
     "relation": {
-      "question": null,
-      "participants": []
+      "question": "Quelle compétence les dispositions d’outre-mer excluent-elles encore ?",
+      "participants": [
+        {
+          "role": "Renvoi en vigueur",
+          "reference": "Code des transports, art. L. 2311-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023084089",
+          "citation": "Les dispositions des articles L. 2112-1 et L. 2121-10 ne sont pas applicables aux départements d’outre-mer."
+        },
+        {
+          "role": "Disposition visée",
+          "reference": "Code des transports, art. L. 2112-1 · statut",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023084664",
+          "citation": "Abrogé par LOI n° 2015-991 du 7 août 2015"
+        }
+      ]
     }
   },
   {
@@ -339,8 +352,21 @@
       }
     ],
     "relation": {
-      "question": null,
-      "participants": []
+      "question": "Quel texte « la présente loi » désigne-t-elle dans cet article du code ?",
+      "participants": [
+        {
+          "role": "Formule actuelle",
+          "reference": "CGCT, art. L. 1424-50",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006389424/2026-10-29",
+          "citation": "Un décret en Conseil d’État fixe les modalités d’application de la présente loi."
+        },
+        {
+          "role": "Correction proposée",
+          "reference": "Rapport du Sénat, art. 17",
+          "url": "https://www.senat.fr/rap/l23-260/l23-2604.html",
+          "citation": "[…] par une référence à la présente « section » […]"
+        }
+      ]
     }
   },
   {
@@ -367,8 +393,21 @@
       }
     ],
     "relation": {
-      "question": null,
-      "participants": []
+      "question": "À quel endroit le tableau est-il défini ?",
+      "participants": [
+        {
+          "role": "Renvoi incomplet",
+          "reference": "CGCT, art. L. 2313-1, 8°",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070633/LEGISCTA000006164574/",
+          "citation": "[…] tableau des acquisitions et cessions immobilières mentionné au c de l’article L. 300-5 du code de l’urbanisme […]"
+        },
+        {
+          "role": "Subdivision exacte",
+          "reference": "Code de l’urbanisme, art. L. 300-5, II, 3°, c",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037739334",
+          "citation": "Un tableau des acquisitions et cessions immobilières réalisées pendant la durée de l’exercice."
+        }
+      ]
     }
   },
   {
