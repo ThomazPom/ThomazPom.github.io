@@ -3759,5 +3759,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "divorce-bail-loyer-etat-civil",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Le départ et le jugement de divorce peuvent précéder la fin de l’obligation de payer le loyer",
+    "entree": {
+      "ordre": 87,
+      "titre": "Le juge attribue le bail à votre ex. Pourquoi le propriétaire peut-il encore vous demander le loyer ?",
+      "face_a_face": "L’article 1751 du code civil permet au juge d’attribuer le bail à un seul époux, tandis que l’article 262 rend le divorce opposable au bailleur à partir de sa mention sur les actes d’état civil.",
+      "texte": "Vous avez quitté le logement et le jugement de divorce attribue le bail à votre ex. Si les formalités d’état civil ne sont pas encore accomplies, le bailleur peut encore vous réclamer les loyers dus avant cette date au titre de la solidarité. Pour les loyers nés après la transcription, l’attribution du bail met fin à sa cotitularité dans le cas jugé par la Cour de cassation.",
+      "raison": "Le jugement règle qui garde le logement. La mention à l’état civil fixe le moment où ce changement s’impose au propriétaire. Vous pouvez donc avoir déjà quitté les lieux et rester tenu envers lui pour une période intermédiaire."
+    },
+    "explication": [
+      "Le cas compare une attribution du bail par le jugement de divorce et sa transcription. Un simple départ du logement ne produit pas le même effet. Les loyers déjà dus ne disparaissent pas à la transcription."
+    ],
+    "sources": [
+      {
+        "label": "Cour de cassation, 22 octobre 2015, n° 14-23.726",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000031375424/"
+      },
+      {
+        "label": "Cour de cassation, 2 février 2000, n° 97-18.924",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000007040187"
+      }
+    ],
+    "relation": {
+      "question": "À partir de quand l’attribution du bail s’impose-t-elle au bailleur ?",
+      "participants": [
+        {
+          "role": "Attribution du bail lors du divorce",
+          "reference": "Code civil, art. 1751",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806626/2026-09-07",
+          "citation": "« En cas de divorce ou de séparation de corps, ce droit pourra être attribué […] à l’un des époux […] »"
+        },
+        {
+          "role": "Effet envers les tiers après mention du divorce",
+          "reference": "Code civil, art. 262",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033460839/2026-11-13",
+          "citation": "« … à partir du jour où les formalités de mention en marge prescrites par les règles de l’état civil ont été accomplies. »"
+        }
+      ]
+    }
   }
 ]
