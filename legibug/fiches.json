@@ -7763,12 +7763,21 @@
     "domaine": "Logement",
     "titre": "Même erreur de 7 m². L’acheteur peut récupérer 21 000 €, le vendeur ne peut rien ajouter.",
     "explication": [
-      "L’exemple suppose un lot soumis au mesurage Carrez, vendu seul. L’acheteur doit agir en diminution du prix dans l’année suivant l’acte authentique. La baisse est calculée sur tout le manque de surface lorsque celui-ci dépasse 5 %."
+      "L’exemple suppose un lot soumis au mesurage Carrez, vendu seul. L’acheteur doit agir en diminution du prix dans l’année suivant l’acte authentique. La baisse est calculée sur tout le manque de surface lorsque celui-ci dépasse 5 %.",
+      "Un écart entre l’acte de vente et un bail peut venir de deux méthodes de mesure. Prenez un appartement de 70 m² avec une véranda privative supplémentaire de 10 m², close, couverte et d’au moins 1,80 m de haut. Si elle remplit les conditions du mesurage Carrez, l’article 4-1 du décret de 1967 permet de compter 80 m² à la vente. L’article R. 156-1 du Code de la construction et de l’habitation exclut la véranda de la surface habitable. Le bail peut donc indiquer 70 m² pour le même appartement."
     ],
     "sources": [
       {
         "label": "Loi du 10 juillet 1965, art. 46",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946555/"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006488230/",
+        "label": "Décret du 17 mars 1967, art. 4-1"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043819221/",
+        "label": "Code de la construction et de l’habitation, art. R. 156-1"
       }
     ],
     "relation": {
@@ -7785,6 +7794,18 @@
           "reference": "Loi du 10 juillet 1965, art. 46",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029946555/",
           "citation": "« […] une diminution du prix proportionnelle à la moindre mesure. »"
+        },
+        {
+          "role": "Vente, superficie privative",
+          "reference": "Décret du 17 mars 1967, art. 4-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006488230/",
+          "citation": "« […] la superficie des planchers des locaux clos et couverts […] »"
+        },
+        {
+          "role": "Location, surface habitable",
+          "reference": "Code de la construction et de l’habitation, art. R. 156-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043819221/",
+          "citation": "« Il n’est pas tenu compte de la superficie des […] vérandas […] »"
         }
       ]
     },
