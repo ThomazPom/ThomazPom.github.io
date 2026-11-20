@@ -2484,5 +2484,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "eau-mayotte-prix-avant-paiement",
+    "type": "Articulation de régimes",
+    "domaine": "Consommation",
+    "titre": "On peut demander au juge de réduire le prix d’un service imparfait sans avoir d’abord tout payé",
+    "entree": {
+      "ordre": 57,
+      "titre": "Votre eau est coupée régulièrement. Faut-il payer toute la facture avant de demander au juge de la réduire ?",
+      "face_a_face": "Le second alinéa de l’article 1223 du code civil prévoit expressément la saisine du juge après paiement en l’absence d’accord, tandis que la Cour de cassation juge que la réduction peut aussi être demandée avant paiement.",
+      "texte": "À Mayotte, des abonnés dont le robinet subissait des coupures programmées ont demandé une réduction de 90 % de leur abonnement. La cour d’appel a rejeté la demande parce qu’ils n’avaient pas d’abord payé le prix contesté. La Cour de cassation a annulé ce rejet. Elle n’a pas fixé la réduction à 90 %.",
+      "raison": "Lu seul, le second alinéa semble faire du paiement intégral le passage obligé avant de voir un juge. La Cour estime que le client qui peut demander une baisse au fournisseur avant paiement doit aussi pouvoir saisir le juge à ce stade."
+    },
+    "explication": [
+      "La décision distingue le droit de présenter la demande et les chances d’obtenir une réduction. Un refus injustifié de payer peut entraîner des dommages-intérêts.",
+      "L’affaire portait sur les tours d’eau imposés par le préfet à la suite d’une sécheresse exceptionnelle. La fiche décrit la règle applicable à une demande de réduction du prix, sans se prononcer sur les restrictions d’eau actuelles."
+    ],
+    "sources": [
+      {
+        "label": "Bulletin de la Cour de cassation, décembre 2024",
+        "url": "https://www.courdecassation.fr/publications/bulletin-des-arrets-des-chambres-civiles/numero-12-decembre-2024/contrats-et-obligations-conventionnelles"
+      }
+    ],
+    "relation": {
+      "question": "Le juge peut-il examiner une demande de baisse du prix avant le paiement ?",
+      "participants": [
+        {
+          "role": "Saisine expressément prévue après paiement",
+          "reference": "Code civil, art. 1223, al. 2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036829848/2026-07-10",
+          "citation": "« Si le créancier a déjà payé, à défaut d’accord entre les parties, il peut demander au juge la réduction de prix. »"
+        },
+        {
+          "role": "Saisine possible avant paiement également",
+          "reference": "Cour de cassation, 18 décembre 2024, n° 24-14.750",
+          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000050868568",
+          "citation": "« … la réduction du prix peut, en toute hypothèse, être demandée en justice […] »"
+        }
+      ]
+    }
   }
 ]
