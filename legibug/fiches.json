@@ -8230,7 +8230,8 @@
     "titre": "Vos revenus augmentent en HLM. Vous pouvez payer un surloyer ou perdre le droit de rester.",
     "explication": [
       "L’exemple suppose des logements financés par un prêt locatif social, en zone concernée et sans exception applicable. Pour le surloyer, le plafond dépend du logement occupé. Pour la perte du droit de rester, le texte prend comme référence le plafond des logements financés par un prêt locatif social, dit PLS.",
-      "À 130 % du plafond PLS, vous restez sous le seuil de 150 % si vous répondez à l’enquête. Si vous ne répondez pas deux ans de suite, l’article L. 442-3-4 peut en revanche vous faire perdre le droit de rester à l’issue d’un délai de 18 mois, dans les zones visées et hors exceptions. Pour retrouver ce droit pendant le délai sur le fondement de son II, il faut fournir les documents demandés et prouver des ressources inférieures au plafond PLS. À 130 %, communiquer les documents tardivement ne suffit donc pas à remplir cette condition."
+      "À 130 % du plafond PLS, vous restez sous le seuil de 150 % si vous répondez à l’enquête. Si vous ne répondez pas deux ans de suite, l’article L. 442-3-4 peut en revanche vous faire perdre le droit de rester à l’issue d’un délai de 18 mois, dans les zones visées et hors exceptions. Pour retrouver ce droit pendant le délai sur le fondement de son II, il faut fournir les documents demandés et prouver des ressources inférieures au plafond PLS. À 130 %, communiquer les documents tardivement ne suffit donc pas à remplir cette condition.",
+      "Le même article L. 442-3-3 utilise deux seuils. Avec des revenus à 130 % du plafond PLS depuis le début, vous ne déclenchez pas la procédure liée au dépassement de 150 %. En revanche, si vos revenus ont d’abord dépassé 150 % deux années de suite puis retombent à 130 % pendant le délai de 18 mois, cette baisse ne suffit pas, à elle seule, à retrouver le droit de rester. Le II exige de prouver qu’ils sont devenus inférieurs à 100 % du plafond PLS, par exemple 95 %."
     ],
     "sources": [
       {
@@ -8266,6 +8267,12 @@
           "reference": "Code de la construction et de l’habitation, art. L. 442-3-4",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033943115/",
           "citation": "« […] leurs ressources sont inférieures aux plafonds de ressources requis […] »"
+        },
+        {
+          "role": "Après le déclenchement de la procédure, ressources sous le plafond pour retrouver le droit de rester",
+          "reference": "Code de la construction et de l’habitation, art. L. 442-3-3, II",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048827309/",
+          "citation": "« […] leurs ressources sont devenues inférieures aux plafonds de ressources […] »"
         }
       ],
       "fiches_liees": [
