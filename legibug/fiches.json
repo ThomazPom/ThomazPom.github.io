@@ -5557,5 +5557,48 @@
         "succession-refusee-obseques"
       ]
     }
+  },
+  {
+    "id": "appel-civil-paiement-execution-provisoire",
+    "type": "Articulation de régimes",
+    "domaine": "Justice civile",
+    "titre": "Le Code dit que l’appel suspend le jugement et que le jugement de première instance est en principe exécutoire",
+    "entree": {
+      "ordre": 124,
+      "titre": "Vous faites appel d’un jugement de 5 000 €. Vous pouvez quand même devoir payer avant le second procès.",
+      "face_a_face": "L’article 539 du Code de procédure civile dit que l’appel suspend l’exécution du jugement, tandis que l’article 514 rend en principe les décisions de première instance exécutoires à titre provisoire.",
+      "texte": "Un tribunal civil vous condamne à payer 5 000 €. La décision vous est notifiée et vous faites appel. Si l’exécution provisoire s’applique, la personne qui a obtenu le jugement peut en principe en poursuivre l’exécution sans attendre le résultat de votre appel.",
+      "raison": "Les deux articles semblent donner des réponses opposées pour le même jugement. L’exécution provisoire permet d’appliquer la décision pendant que la cour d’appel examine encore si elle doit la confirmer."
+    },
+    "explication": [
+      "L’article 514 prévoit que la loi ou le jugement peut écarter l’exécution provisoire. L’article 514-3 permet de demander au premier président de la cour d’appel de l’arrêter sous certaines conditions, notamment un moyen sérieux d’annulation ou de réformation et un risque de conséquences manifestement excessives."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410859/2026-11-21",
+        "label": "Code de procédure civile, article 539"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006135893/2026-11-21/",
+        "label": "Code de procédure civile, articles 514 et 514-3"
+      }
+    ],
+    "relation": {
+      "question": "Faire appel suffit-il à attendre avant de payer ?",
+      "participants": [
+        {
+          "role": "Effet suspensif de l’appel",
+          "reference": "Code de procédure civile, art. 539",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006410859/2026-11-21",
+          "citation": "« Le recours exercé dans le délai est également suspensif. »"
+        },
+        {
+          "role": "Exécution provisoire de droit",
+          "reference": "Code de procédure civile, art. 514",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070716/LEGISCTA000006135893/2026-11-21/",
+          "citation": "« Les décisions de première instance sont de droit exécutoires à titre provisoire […] »"
+        }
+      ]
+    }
   }
 ]
