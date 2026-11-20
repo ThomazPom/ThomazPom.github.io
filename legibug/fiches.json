@@ -3286,5 +3286,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "trouble-mental-irresponsabilite-reparation",
+    "type": "Articulation de régimes",
+    "domaine": "Justice pénale",
+    "titre": "Être déclaré irresponsable au pénal n’efface pas l’obligation de réparer",
+    "entree": {
+      "ordre": 76,
+      "titre": "La justice déclare une personne pénalement irresponsable. Peut-elle quand même devoir indemniser la victime ?",
+      "face_a_face": "L’article 122-1 du code pénal écarte en principe la responsabilité pénale lorsque le trouble a aboli le discernement ou le contrôle des actes, tandis que l’article 414-3 du code civil maintient l’obligation de réparer le dommage causé à autrui sous l’effet d’un trouble mental.",
+      "texte": "Une personne cause un dommage et la justice constate qu’un trouble mental avait aboli son discernement au moment des faits. Cette personne peut être déclarée pénalement irresponsable et devoir néanmoins indemniser la victime.",
+      "raison": "La décision pénale répond à la question de savoir si la personne peut être punie. Le droit civil répond à celle de savoir qui doit réparer le dommage. L’impossibilité de prononcer une peine ne supprime pas l’obligation de réparation."
+    },
+    "explication": [
+      "Le code distingue l’abolition du discernement de sa simple altération, qui laisse en principe la personne punissable. Le cas présenté suppose que la juridiction a retenu l’irresponsabilité pénale. L’article 706-125 permet notamment à la chambre de l’instruction de statuer aussi sur les demandes de la partie civile."
+    ],
+    "sources": [
+      {
+        "label": "Code de procédure pénale, art. 706-125, demande de la partie civile",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032655984/"
+      }
+    ],
+    "relation": {
+      "question": "L’irresponsabilité pénale efface-t-elle la réparation due à la victime ?",
+      "participants": [
+        {
+          "role": "Irresponsabilité pénale en cas d’abolition",
+          "reference": "Code pénal, art. 122-1, al. 1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029370748/2026-11-06",
+          "citation": "« … d’un trouble psychique ou neuropsychique ayant aboli son discernement ou le contrôle de ses actes. »"
+        },
+        {
+          "role": "Réparation au civil",
+          "reference": "Code civil, art. 414-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006427995/2026-08-28",
+          "citation": "« Celui qui a causé un dommage à autrui alors qu’il était sous l’empire d’un trouble mental n’en est pas moins obligé à réparation. »"
+        }
+      ]
+    }
   }
 ]
