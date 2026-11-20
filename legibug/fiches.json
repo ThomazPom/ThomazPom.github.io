@@ -8146,5 +8146,51 @@
       "raison": "Le propriétaire peut recevoir le loyer prévu par le bail et réclamer aussi l’argent payé par les sous-locataires. La Cour considère que ces deux recettes reviennent au propriétaire dans ce cas. Le locataire ne peut donc pas faire déduire son loyer au motif que c’était le coût de sa sous-location.",
       "ordre": 168
     }
+  },
+  {
+    "id": "deces-transfert-bail-prive-hlm",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Vous viviez avec votre mère depuis 2 ans. À son décès, vous pouvez garder son bail privé et perdre son HLM.",
+    "explication": [
+      "L’exemple vise un descendant adulte sans handicap et âgé de moins de 65 ans, sans autre bénéficiaire en concurrence. Si un descendant remplit la condition de ressources mais que le logement est trop grand, le bailleur social peut lui proposer un logement plus petit pour lequel il est prioritaire. L’article 40 prévoit des exceptions aux conditions de ressources et de taille, notamment pour le conjoint, le partenaire pacsé et le concubin notoire."
+    ],
+    "sources": [
+      {
+        "label": "Loi du 6 juillet 1989, art. 14",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006475111/"
+      },
+      {
+        "label": "Loi du 6 juillet 1989, art. 40",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/2026-11-21/"
+      }
+    ],
+    "relation": {
+      "question": "Deux ans de vie commune suffisent-ils à un enfant adulte pour reprendre le bail ?",
+      "participants": [
+        {
+          "role": "Transfert au descendant après au moins un an de vie commune",
+          "reference": "Loi du 6 juillet 1989, art. 14",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006475111/",
+          "citation": "« […] aux descendants qui vivaient avec lui depuis au moins un an à la date du décès […] »"
+        },
+        {
+          "role": "Conditions supplémentaires pour un HLM",
+          "reference": "Loi du 6 juillet 1989, art. 40",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000509310/2026-11-21/",
+          "citation": "« […] remplisse les conditions d’attribution et que le logement soit adapté à la taille du ménage. »"
+        }
+      ],
+      "fiches_liees": [
+        "sous-location-silence-accord-bailleur"
+      ]
+    },
+    "entree": {
+      "titre": "Vous viviez avec votre mère depuis 2 ans. À son décès, vous pouvez garder son bail privé et perdre son HLM.",
+      "face_a_face": "L’article 14 prévoit le transfert du bail au descendant qui vivait avec le locataire depuis au moins 1 an avant son décès. L’article 40 exige en plus, pour un HLM et dans le cas ordinaire d’un descendant, que les conditions d’attribution soient remplies et que la taille du logement convienne au ménage.",
+      "texte": "Vous avez 35 ans et viviez depuis 2 ans avec votre mère dans un quatre-pièces. Lorsqu’elle décède, le bail d’un logement privé peut vous être transféré. Pour un HLM, si le quatre-pièces est trop grand pour vous seul, vous ne pouvez pas reprendre ce bail sur la seule base de vos 2 ans de présence.",
+      "raison": "L’année de vie commune ouvre le droit au transfert dans le privé dans cet exemple. En HLM, le logement doit aussi convenir au nouveau ménage, même si vous y habitiez déjà depuis plus longtemps que le minimum.",
+      "ordre": 169
+    }
   }
 ]
