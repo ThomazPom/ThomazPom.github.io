@@ -1321,5 +1321,55 @@
         }
       ]
     }
+  },
+  {
+    "id": "assurance-voiture-garage",
+    "type": "Articulation de régimes",
+    "domaine": "Circulation",
+    "titre": "Une voiture laissée au garage peut rester soumise à l’assurance obligatoire",
+    "entree": {
+      "ordre": 30,
+      "titre": "Vous ne conduisez plus. Pourquoi devez-vous encore assurer la voiture qui dort au garage ?",
+      "face_a_face": "L’article L. 211-1 impose une assurance de responsabilité civile pour le véhicule susceptible de circuler, tandis que l’article R. 322-6 prévoit une déclaration formelle pour retirer un véhicule immatriculé de la circulation.",
+      "texte": "La Cour de justice de l’Union européenne a tranché le cas d’une voiture stationnée dans une cour privée. La propriétaire ne voulait plus conduire, mais son fils a pris la voiture sans son accord et a eu un accident.",
+      "raison": "Ça surprend puisque vous ne comptez plus utiliser la voiture, mais que le seul fait de la laisser dans votre garage ne la retire pas juridiquement de la circulation. Dans l’affaire jugée, elle était encore immatriculée et en état de rouler."
+    },
+    "explication": [
+      "La décision européenne concernait une voiture apte à circuler, toujours immatriculée et non retirée régulièrement de la circulation. Le stationnement sur un terrain privé et l’intention de ne plus s’en servir ne suffisaient pas à écarter l’assurance obligatoire.",
+      "La fiche officielle française distingue le véhicule simplement inutilisé de celui qui est manifestement hors d’état de circuler."
+    ],
+    "sources": [
+      {
+        "label": "Cour de justice de l’Union européenne, C-80/17, points 42 et 52",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A62017CJ0080"
+      },
+      {
+        "label": "DILA, assurance d’un véhicule inutilisé",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F23499"
+      }
+    ],
+    "relation": {
+      "question": "Garder au garage une voiture en état de rouler suffit-il à faire cesser l’obligation d’assurance ?",
+      "participants": [
+        {
+          "role": "Obligation d’assurance",
+          "reference": "Code des assurances, art. L. 211-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048523650/2026-06-25",
+          "citation": "[…] doit, pour faire circuler celui-ci, être couverte par une assurance garantissant cette responsabilité […]"
+        },
+        {
+          "role": "Retrait formel de la circulation",
+          "reference": "Code de la route, art. R. 322-6",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035433244/2026-04-30",
+          "citation": "[…] le certificat d’immatriculation accompagné d’une déclaration l’informant de son retrait de la circulation."
+        },
+        {
+          "role": "Voiture inutilisée sur un terrain privé",
+          "reference": "CJUE, affaire C-80/17",
+          "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A62017CJ0080",
+          "citation": "[…] au seul motif que son propriétaire n’a plus l’intention de le conduire et l’immobilise sur un terrain privé."
+        }
+      ]
+    }
   }
 ]
