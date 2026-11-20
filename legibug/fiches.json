@@ -1661,5 +1661,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "ap-hp-age-concours",
+    "type": "Renvoi obsolète",
+    "domaine": "Fonction publique",
+    "titre": "Le statut de l’Assistance publique à Paris conserve d’anciennes règles de recul de l’âge",
+    "explication": [
+      "L’article 22 du décret de 1977 reste affiché en vigueur. Pour reculer d’un an la limite d’âge par enfant à charge, il cite l’ancien article 36 du code de la famille et de l’aide sociale, abrogé. Le code général de la fonction publique fixe aujourd’hui directement les conditions de ce recul.",
+      "Le même article du décret vise les femmes pour le relèvement à 45 ans. L’article L. 324-7 de rang législatif vise les personnes qui remplissent la condition parentale, sans distinction de sexe. Ces dispositions concernent les concours soumis à une limite d’âge. Aucun refus individuel de candidature fondé sur l’ancienne rédaction n’a été établi."
+    ],
+    "sources": [
+      {
+        "label": "Décret n° 77-962 consolidé",
+        "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000519283"
+      },
+      {
+        "label": "Ancien article 36 du code de la famille et de l’aide sociale",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006681016"
+      }
+    ],
+    "relation": {
+      "question": "Quelles conditions permettent de reculer une limite d’âge au recrutement ?",
+      "participants": [
+        {
+          "role": "Rédaction du statut de 1977",
+          "reference": "Décret n° 77-962, art. 22",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000006709382",
+          "citation": "[…] dans les conditions prévues par l’article 36 du code de la famille et de l’aide sociale. […] en faveur des femmes élevant leur enfant […]"
+        },
+        {
+          "role": "Recul par enfant à charge",
+          "reference": "Code général de la fonction publique, art. L. 324-5",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044426972",
+          "citation": "[…] reculé d’un an : 1° Par enfant à charge […]"
+        },
+        {
+          "role": "Relèvement à 45 ans",
+          "reference": "Code général de la fonction publique, art. L. 324-7",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044426966",
+          "citation": "[…] en faveur des personnes élevant ou ayant élevé au moins un enfant."
+        }
+      ]
+    }
   }
 ]
