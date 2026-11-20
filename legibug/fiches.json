@@ -6200,7 +6200,8 @@
       "raison": "Le silence peut donner deux résultats opposés. La sommation déclenche un délai court pour donner une réponse aux personnes intéressées. Sans cette démarche, le délai de dix ans permet de clore une succession pour laquelle l’héritier n’a jamais pris parti."
     },
     "explication": [
-      "L’héritier sommé de choisir peut demander un délai supplémentaire au juge pour des motifs prévus à l’article 772. L’article 780 prévoit notamment que le délai ne court pas pendant que l’héritier a des motifs légitimes d’ignorer la naissance de son droit."
+      "L’héritier sommé de choisir peut demander un délai supplémentaire au juge pour des motifs prévus à l’article 772. L’article 780 prévoit notamment que le délai ne court pas pendant que l’héritier a des motifs légitimes d’ignorer la naissance de son droit.",
+      "Même un refus exprès peut laisser un recours à vos propres créanciers. Si vous renoncez à un héritage de 30 000 € alors que vous devez 10 000 € et que ce refus empêche votre créancier d’être payé, l’article 779 lui permet de demander au juge l’autorisation d’accepter à votre place. S’il l’obtient, l’acceptation joue pour lui seulement et dans la limite de ses 10 000 €. Vous ne récupérez pas le reste du fait de cette acceptation."
     ],
     "sources": [
       {
@@ -6210,6 +6211,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431486/2026-11-21",
         "label": "Code civil, article 780"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431473/2026-11-21",
+        "label": "Code civil, article 779, recours des créanciers personnels"
       }
     ],
     "relation": {
@@ -6226,6 +6231,12 @@
           "reference": "Code civil, art. 780",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431486/2026-11-21",
           "citation": "« L’héritier qui n’a pas pris parti dans ce délai est réputé renonçant. »"
+        },
+        {
+          "role": "Acceptation par un créancier autorisé par le juge",
+          "reference": "Code civil, art. 779",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431473/2026-11-21",
+          "citation": "« L’acceptation n’a lieu qu’en faveur de ces créanciers et jusqu’à concurrence de leurs créances. »"
         }
       ],
       "fiches_liees": [
