@@ -2900,5 +2900,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "abandon-poste-lettre-demission",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Une lettre demandant de revenir au travail doit aussi avertir du risque de démission présumée",
+    "entree": {
+      "ordre": 67,
+      "titre": "Vous ne revenez pas après la lettre de votre employeur. Peut-il vous considérer comme démissionnaire ?",
+      "face_a_face": "L’article L. 1237-1-1 du code du travail prévoit une démission présumée si le salarié qui a volontairement abandonné son poste ne revient pas dans le délai fixé, tandis que le Conseil d’État exige que la lettre l’avertisse aussi des conséquences d’une absence de reprise sans motif légitime.",
+      "texte": "Votre employeur vous donne quinze jours pour justifier votre absence et revenir. Si sa lettre se borne à demander votre retour sans vous avertir des conséquences de votre silence ou de votre non-retour sans motif légitime, elle ne suffit pas pour déclencher la présomption de démission.",
+      "raison": "La loi peut traiter votre absence comme un départ volontaire, avec des conséquences sur l’accès à l’assurance chômage. Pour que cette présomption joue, il faut que vous ayez été averti des conséquences avant l’expiration du délai."
+    },
+    "explication": [
+      "Le délai est d’au moins quinze jours à partir de la présentation de la mise en demeure. Un motif légitime, par exemple certaines raisons médicales ou l’exercice du droit de grève, peut faire obstacle à la présomption. Le Conseil d’État ne tranche pas dans cette décision la question du recours au licenciement à la place de cette procédure."
+    ],
+    "sources": [
+      {
+        "label": "Code du travail, art. R. 1237-13",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047456645/2026-01-23"
+      },
+      {
+        "label": "Service Public, abandon de poste dans le secteur privé",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31209"
+      }
+    ],
+    "relation": {
+      "question": "Une mise en demeure qui demande seulement de revenir suffit-elle ?",
+      "participants": [
+        {
+          "role": "Présomption de démission",
+          "reference": "Code du travail, art. L. 1237-1-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046773104/2026-06-03",
+          "citation": "« … est présumé avoir démissionné à l’expiration de ce délai. »"
+        },
+        {
+          "role": "Avertissement indispensable",
+          "reference": "Conseil d’État, 18 décembre 2024, n° 473640",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2024-12-18/473640",
+          "citation": "« … doit nécessairement être informé, lors de la mise en demeure, des conséquences […] »"
+        }
+      ]
+    }
   }
 ]
