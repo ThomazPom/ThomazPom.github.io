@@ -3035,7 +3035,8 @@
       "raison": "Les parents ont d’ordinaire un rôle dans les décisions médicales. La loi prévoit ici une exception pour éviter que l’obligation de les consulter empêche un mineur de recevoir des soins nécessaires."
     },
     "explication": [
-      "Le cas vise l’exception générale de l’article L. 1111-5. La loi prévoit aussi des règles particulières pour certains soins. L’adulte choisi accompagne le mineur."
+      "Le cas vise l’exception générale de l’article L. 1111-5. La loi prévoit aussi des règles particulières pour certains soins. L’adulte choisi accompagne le mineur.",
+      "Et si les parents demandent le dossier ? L’article L. 1111-7 leur donne en principe l’accès au dossier de leur enfant mineur. L’article R. 1111-6 permet au mineur de s’opposer à la communication des informations liées aux soins reçus sous le secret. Si cette opposition est maintenue, ces informations ne sont pas communiquées aux parents."
     ],
     "sources": [
       {
@@ -3057,6 +3058,18 @@
           "reference": "Code de la santé publique, art. L. 1111-5",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031927576/2026-10-02",
           "citation": "« … peut se dispenser d’obtenir le consentement du ou des titulaires de l’autorité parentale […] »"
+        },
+        {
+          "role": "Accès de principe au dossier par les parents",
+          "reference": "Code de la santé publique, art. L. 1111-7",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006685772/2026-07-27",
+          "citation": "« … le droit d’accès est exercé par le ou les titulaires de l’autorité parentale. »"
+        },
+        {
+          "role": "Opposition pour les soins reçus sous le secret",
+          "reference": "Code de la santé publique, art. R. 1111-6",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032924991/2026-07-13",
+          "citation": "« … communique au titulaire de l’autorité parentale les informations qui ont été constituées à ce sujet. »"
         }
       ]
     }
