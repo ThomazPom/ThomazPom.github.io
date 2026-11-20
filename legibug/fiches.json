@@ -1000,5 +1000,45 @@
         }
       ]
     }
+  },
+  {
+    "id": "dalo-astreinte-indemnite",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "L’argent de l’astreinte pour vous reloger est versé à un fonds",
+    "entree": {
+      "ordre": 23,
+      "titre": "Vous gagnez votre recours pour être relogé. Qui reçoit l’argent si l’État tarde ?",
+      "face_a_face": "L’article L. 441-2-3-1 permet au juge d’obliger l’État à payer une astreinte pour vous reloger, mais en verse le produit à un fonds national, tandis qu’une indemnisation personnelle passe par une demande distincte.",
+      "texte": "Le juge utilise l’astreinte pour faire pression sur l’État. Si vous voulez être indemnisé du préjudice causé par l’attente, le Conseil d’État reconnaît une autre voie de recours.",
+      "raison": "Ça prête à confusion puisque l’astreinte est prononcée dans votre affaire et à cause du retard de votre relogement, mais que la somme revient au fonds. Dans une affaire distincte d’indemnisation, le Conseil d’État a accordé 800 € à la personne qui attendait son relogement."
+    },
+    "explication": [
+      "La responsabilité de l’État peut être engagée à l’égard du demandeur pour les troubles dans ses conditions d’existence causés par le maintien de la situation qui a justifié son relogement urgent.",
+      "Les 800 € correspondent au cas jugé le 18 décembre 2025. Ce montant ne constitue pas un barème."
+    ],
+    "sources": [
+      {
+        "label": "Conseil d’État, 18 décembre 2025, n° 501185",
+        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-12-18/501185"
+      }
+    ],
+    "relation": {
+      "question": "La somme versée pour contraindre l’État à reloger indemnise-t-elle directement le demandeur ?",
+      "participants": [
+        {
+          "role": "Destinataire de l’astreinte",
+          "reference": "Code de la construction et de l’habitation, art. L. 441-2-3-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044570004/2026-06-30",
+          "citation": "Le produit de l’astreinte est versé au fonds national d’accompagnement vers et dans le logement […]"
+        },
+        {
+          "role": "Indemnisation dans une autre procédure",
+          "reference": "Conseil d’État, n° 501185, dispositif, art. 2",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-12-18/501185",
+          "citation": "L’État est condamné à verser à Mme B... une somme de 800 euros."
+        }
+      ]
+    }
   }
 ]
