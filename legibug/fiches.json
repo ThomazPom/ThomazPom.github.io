@@ -243,7 +243,7 @@
     "id": "justice-mineurs",
     "type": "Inconstitutionnalité constatée",
     "domaine": "Justice des mineurs",
-    "titre": "Six mois avant le premier procès, le délai des adultes en appel",
+    "titre": "Mineur détenu aux assises : 6 mois avant le premier procès, 12 mois en appel",
     "explication": [
       "Pour les appels en cour d’assises des mineurs, l’article L. 531-2 renvoie au code de procédure pénale. Ce renvoi permettait d’appliquer aux mineurs certains délais de comparution en appel prévus pour les adultes détenus.",
       "Le Conseil constitutionnel a censuré ce renvoi pour les délais et le renouvellement qu’il désigne. L’abrogation prend effet le 31 octobre 2027 selon la décision. Une suppression immédiate aurait fait disparaître le délai maximal. Le Conseil précise que les mesures prises avant cette date ne peuvent être contestées sur le fondement de cette inconstitutionnalité."
@@ -296,11 +296,11 @@
       ]
     },
     "entree": {
-      "titre": "Six mois avant le premier procès, le délai des adultes en appel",
+      "titre": "Mineur détenu aux assises : 6 mois avant le premier procès, 12 mois en appel",
       "texte": "Sans prolongation exceptionnelle, le mineur doit être libéré si son premier procès ne commence pas dans les six mois à compter de sa mise en accusation devenue définitive, ou de son placement en détention s’il intervient plus tard. Après un appel, le délai de base passe à un an à compter de l’appel. Avec deux prolongations exceptionnelles, l’attente en appel peut atteindre deux ans, voire trois dans certains cas.",
       "ordre": 1,
       "raison": "Le Conseil constitutionnel a censuré cette règle parce qu’elle permet de faire attendre un mineur en prison aussi longtemps qu’un adulte, sans délai adapté à son âge. Elle reste applicable jusqu’au 31 octobre 2027, car sa suppression immédiate aurait fait disparaître tout délai maximal de comparution en appel.",
-      "face_a_face": "L’article L. 434-9 fixe à six mois le délai de base pour ouvrir le premier procès d’un mineur détenu aux assises, tandis que l’article L. 531-2 lui applique en appel le délai des adultes fixé par l’article 380-3-1 : un an."
+      "face_a_face": "Pour juger un mineur détenu aux assises, l’article L. 434-9 donne 6 mois avant le premier procès et l’article L. 531-2 lui applique en appel le délai prévu pour les adultes par l’article 380-3-1 : 12 mois."
     }
   },
   {
