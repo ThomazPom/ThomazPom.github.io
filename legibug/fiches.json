@@ -8765,5 +8765,47 @@
         "foire-achat-comptant-credit"
       ]
     }
+  },
+  {
+    "id": "credit-retractation-delai-information",
+    "type": "Articulation de régimes",
+    "domaine": "Consommation",
+    "titre": "Crédit à la consommation : 12 mois et 14 jours, ou un délai qui n’expire pas",
+    "entree": {
+      "ordre": 176,
+      "titre": "Crédit à la consommation : 12 mois et 14 jours, ou un délai qui n’expire pas",
+      "face_a_face": "L’article L. 312-19, III, fixe une limite de 12 mois et 14 jours si vous n’avez reçu ni l’offre de crédit ni les informations obligatoires. La phrase suivante retire cette limite si le prêteur ne vous a pas informé de votre droit de rétractation.",
+      "texte": "Deux personnes ont conclu le même crédit et n’ont reçu ni l’offre ni l’ensemble des informations obligatoires. Le prêteur a néanmoins expliqué à la première qu’elle pouvait se rétracter. Treize mois après la conclusion, son délai est expiré. La seconde, qui n’a jamais été informée de ce droit, peut encore l’exercer.",
+      "raison": "L’absence des documents prolonge la possibilité de se rétracter. L’absence d’information sur le droit lui-même empêche l’expiration du délai."
+    },
+    "explication": [
+      "La fiche vise les nouveaux contrats régis par la version applicable depuis le 20 novembre 2026. En règle générale, le délai est de 14 jours calendaires et une réception tardive des conditions et informations obligatoires peut décaler son point de départ."
+    ],
+    "sources": [
+      {
+        "label": "Code de la consommation, article L. 312-19",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190660"
+      }
+    ],
+    "relation": {
+      "question": "Peut-on encore se rétracter treize mois après avoir conclu le crédit ?",
+      "participants": [
+        {
+          "role": "Documents manquants",
+          "reference": "L. 312-19, III, premier alinéa",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190660",
+          "citation": "« […] douze mois et quatorze jours après la conclusion du contrat de crédit. »"
+        },
+        {
+          "role": "Droit de rétractation non signalé",
+          "reference": "L. 312-19, III, second alinéa",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190660",
+          "citation": "« […] le délai de rétractation n’expire pas si l’emprunteur n’a pas été informé de son droit de rétractation par le prêteur. »"
+        }
+      ],
+      "fiches_liees": [
+        "credit-consommation-deblocage-sept-jours"
+      ]
+    }
   }
 ]
