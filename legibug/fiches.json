@@ -11655,5 +11655,51 @@
         }
       ]
     }
+  },
+  {
+    "id": "avion-construction-hypotheque-declaration-abrogee",
+    "type": "Renvoi obsolète",
+    "domaine": "Transports",
+    "titre": "Hypothèque sur un avion en construction : le règlement décrit encore une démarche supprimée",
+    "entree": {
+      "ordre": 216,
+      "titre": "Hypothèque sur un avion en construction : le règlement décrit encore une démarche supprimée",
+      "face_a_face": "L’article R. 6122-2 dit au propriétaire et au constructeur d’envoyer ensemble une déclaration pour faire inscrire un avion en construction au registre, mais la loi du 26 mai 2026 a supprimé l’article L. 6122-5 qui permettait de constituer une hypothèque par cette voie.",
+      "texte": "Un constructeur veut utiliser un avion en cours d’assemblage comme garantie d’un prêt. Le règlement décrit toujours la lettre à envoyer et annonce un récépissé qui tient lieu de certificat d’immatriculation. La base légale de cette voie particulière est abrogée depuis le 28 mai 2026.",
+      "raison": "Le règlement conserve les étapes d’une démarche après la suppression de l’article qui l’autorisait. Le même renvoi subsiste à l’article R. 6122-1, dans la liste des pièces à joindre à une demande d’inscription d’hypothèque."
+    },
+    "explication": [
+      "Le constat concerne la voie spéciale qui reposait sur la déclaration d’un aéronef en construction. Les hypothèques sur les aéronefs immatriculés relèvent d’autres dispositions."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000053225132/",
+        "label": "Code des transports, art. R. 6122-1, pièce mentionnée au 5°"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131386",
+        "label": "Loi n° 2026-403, article 5"
+      }
+    ],
+    "relation": {
+      "question": "La déclaration décrite dans le règlement repose-t-elle encore sur un article en vigueur ?",
+      "participants": [
+        {
+          "role": "Déclaration encore décrite",
+          "reference": "Code des transports, art. R. 6122-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048322264/",
+          "citation": "« […] une déclaration est adressée au fonctionnaire chargé de la tenue du registre d’immatriculation […] »"
+        },
+        {
+          "role": "Fondement légal abrogé",
+          "reference": "Code des transports, ancien art. L. 6122-5",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000023078449/2026-08-05",
+          "citation": "« Une hypothèque peut être constituée sur un aéronef en construction […] »"
+        }
+      ],
+      "fiches_liees": [
+        "liquidation-saisonniere-quinze-jours-renvoi-abroge"
+      ]
+    }
   }
 ]
