@@ -10644,5 +10644,47 @@
         "garantie-conformite-neuf-occasion-preuve"
       ]
     }
+  },
+  {
+    "id": "recours-decision-administrative-sans-delai-czabaj",
+    "type": "Articulation de régimes",
+    "domaine": "Justice administrative",
+    "titre": "La décision ne donne aucun délai. Vous pouvez quand même avoir attendu trop longtemps.",
+    "entree": {
+      "ordre": 198,
+      "titre": "La décision ne donne aucun délai. Vous pouvez quand même avoir attendu trop longtemps.",
+      "face_a_face": "L’article R. 421-5 dit que l’administration ne peut vous opposer le délai normal si la notification ne précise pas quand et comment contester, mais le Conseil d’État donne en principe un an pour contester une décision individuelle dont vous avez eu connaissance.",
+      "texte": "Vous recevez une décision individuelle écrite qui vous refuse un droit, sans indication du délai ni du tribunal à saisir. Si vous contestez le refus quatorze mois plus tard, l’administration ne peut pas invoquer le délai ordinaire de deux mois, mais le juge peut quand même écarter votre recours parce que le délai raisonnable d’un an est dépassé.",
+      "raison": "Le code protège la personne qui a été mal informée en écartant le délai ordinaire. Le Conseil d’État protège aussi la stabilité des décisions en fixant une limite, en principe un an à partir de la notification ou de la date à laquelle il est établi que vous avez eu connaissance de la décision."
+    },
+    "explication": [
+      "L’exemple vise la contestation d’une décision administrative individuelle expresse. Des circonstances particulières ou un recours administratif régi par un texte spécial peuvent changer le résultat."
+    ],
+    "sources": [
+      {
+        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2016-07-13/387763",
+        "label": "Conseil d’État, Assemblée, 13 juillet 2016, Czabaj, n° 387763"
+      }
+    ],
+    "relation": {
+      "question": "Combien de temps pour contester une décision dont la notification est incomplète ?",
+      "participants": [
+        {
+          "role": "Délai ordinaire seulement si la notification précise les voies et délais",
+          "reference": "Code de justice administrative, art. R. 421-5",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006449946/",
+          "citation": "« […] ne sont opposables qu’à la condition d’avoir été mentionnés […] »"
+        },
+        {
+          "role": "Délai raisonnable d’un an en règle générale",
+          "reference": "Conseil d’État, Czabaj, n° 387763",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2016-07-13/387763",
+          "citation": "« En règle générale et sauf circonstances particulières […] »"
+        }
+      ],
+      "fiches_liees": [
+        "silence-administration-titre-sejour-refus"
+      ]
+    }
   }
 ]
