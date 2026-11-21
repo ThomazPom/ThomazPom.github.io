@@ -12162,9 +12162,18 @@
       "raison": "La fiche affiche les deux montants sur la même page. Pour un nouveau prêt régi par la réforme, le seuil de 75 000 € ne permet plus de déterminer si les protections du crédit à la consommation s’appliquent."
     },
     "explication": [
-      "Le seuil encadre l’application du régime légal sous réserve des autres conditions et exclusions. Il ne donne pas droit à un prêt. Les contrats déjà en cours le 20 novembre restent en principe régis par les anciennes dispositions. La fiche Service Public indique qu’elle est en cours de mise à jour."
+      "Le seuil encadre l’application du régime légal sous réserve des autres conditions et exclusions. Il ne donne pas droit à un prêt. Les contrats déjà en cours le 20 novembre restent en principe régis par les anciennes dispositions. La fiche Service Public indique qu’elle est en cours de mise à jour.",
+      "La même fiche affiche encore un minimum de 200 €. Pour un nouveau crédit de 150 € qui relève du code de la consommation, l’article L. 312-4-1 écarte certaines obligations précises. Le droit de rétractation de 14 jours prévu à l’article L. 312-19 reste applicable, puisqu’il ne figure pas parmi ces exceptions."
     ],
     "sources": [
+      {
+        "label": "Article L. 312-4-1, exceptions pour les crédits de moins de 200 €",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052185869/2026-11-20/"
+      },
+      {
+        "label": "Article L. 312-19, délai de rétractation",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000032222021/2026-11-20"
+      },
       {
         "label": "Code de la consommation, article L. 312-1",
         "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032221971/2026-11-20"
