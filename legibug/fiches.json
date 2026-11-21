@@ -1130,7 +1130,8 @@
     },
     "explication": [
       "Le cas décrit un cautionnement régi par la rédaction entrée en vigueur le 1er janvier 2022. L’étendue de l’engagement et les éventuelles dispositions spéciales doivent être vérifiées.",
-      "L’article 2308 ouvre au garant qui a payé un recours personnel contre le débiteur. L’article L. 741-2 exclut de l’effacement les sommes déjà payées par un garant ou un codébiteur lorsqu’il s’agit d’une personne physique."
+      "L’article 2308 ouvre au garant qui a payé un recours personnel contre le débiteur. L’article L. 741-2 exclut de l’effacement les sommes déjà payées par un garant ou un codébiteur lorsqu’il s’agit d’une personne physique.",
+      "Avant même l’effacement, la protection peut déjà différer. Si votre sœur doit 1 200 € et que son dossier est déclaré recevable, l’article L. 722-2 suspend les saisies sur ses biens pour cette dette. L’article 2298 ne vous transmet pas cette protection. Le bailleur peut encore vous réclamer la somme si vous êtes caution solidaire et que les conditions de votre engagement sont remplies. Une éventuelle saisie de vos biens suppose un titre exécutoire contre vous."
     ],
     "sources": [
       {
@@ -1144,6 +1145,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071299/2026-11-21",
         "label": "Code civil, article 2308, recours du garant qui a payé"
+      },
+      {
+        "label": "Code de la consommation, suspension des saisies après recevabilité",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224532/"
       }
     ],
     "relation": {
@@ -1166,6 +1171,12 @@
           "reference": "Code civil, art. 2308",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071299/2026-11-21",
           "citation": "« La caution qui a payé tout ou partie de la dette a un recours personnel contre le débiteur […] »"
+        },
+        {
+          "role": "Saisies suspendues sur les biens du locataire",
+          "reference": "Code de la consommation, art. L. 722-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224532/",
+          "citation": "« […] suspension et interdiction des procédures d’exécution diligentées à l’encontre des biens du débiteur […] »"
         }
       ]
     }
