@@ -10599,7 +10599,8 @@
     "explication": [
       "L’exemple suppose que le vice remplit les conditions de la garantie et que les règles actuelles s’appliquent à la vente. Une action déjà engagée peut avoir des effets sur le calcul des délais.",
       "Même dans le délai, la même clause « sans garantie des vices cachés » peut avoir des effets différents. L’article 1643 permet en principe à un vendeur particulier qui ignorait le vice de s’appuyer sur cette clause. Face à un acheteur particulier, un vendeur professionnel est réputé connaître le vice et ne peut pas écarter la garantie en affirmant qu’il l’ignorait. L’article 1645 prévoit aussi des dommages et intérêts lorsque le vendeur connaissait le vice.",
-      "Même un vendeur particulier peut perdre le bénéfice de la clause s’il a fait lui-même les travaux qui ont causé le défaut. Dans une affaire jugée en 2023, l’acheteur signalait des fuites liées à des travaux d’extension de la maison. La Cour de cassation a demandé aux juges de vérifier si la société qui avait vendu la maison avait réalisé ces travaux elle-même par son gérant. Si c’était le cas, elle devait être traitée comme un vendeur professionnel pour l’application de l’article 1643."
+      "Même un vendeur particulier peut perdre le bénéfice de la clause s’il a fait lui-même les travaux qui ont causé le défaut. Dans une affaire jugée en 2023, l’acheteur signalait des fuites liées à des travaux d’extension de la maison. La Cour de cassation a demandé aux juges de vérifier si la société qui avait vendu la maison avait réalisé ces travaux elle-même par son gérant. Si c’était le cas, elle devait être traitée comme un vendeur professionnel pour l’application de l’article 1643.",
+      "Prenons une maison qu’un particulier a fait construire puis revend après l’achèvement. Si un défaut grave de fondations compromet sa solidité, l’article 1792-1 traite le vendeur comme un constructeur, même s’il n’a pas fait les travaux de ses mains. L’article 1792-5 écarte toute clause qui voudrait supprimer cette responsabilité. La garantie décennale se compte en principe à partir de la réception des travaux, et la revente ne la fait pas repartir."
     ],
     "sources": [
       {
@@ -10617,6 +10618,10 @@
       {
         "url": "https://www.courdecassation.fr/publications/bulletin-des-arrets-des-chambres-civiles/numero-10-octobre-2023/vente",
         "label": "Cour de cassation, 19 octobre 2023, n° 22-15.536, travaux réalisés par le vendeur"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006150293/",
+        "label": "Code civil, articles 1792, 1792-1, 1792-4-1 et 1792-5, responsabilité du vendeur constructeur"
       }
     ],
     "relation": {
