@@ -11623,12 +11623,21 @@
       "titre": "Ordonnance de contraception à Wallis-et-Futuna : le code renvoie à une formalité abrogée",
       "face_a_face": "L’article D. 4423-1 dit que l’article D. 4311-15-1 s’applique à Wallis-et-Futuna, mais le décret du 13 octobre 2026 a abrogé cet article, qui fixait les mentions à inscrire sur l’ordonnance lors d’un renouvellement infirmier de contraception orale.",
       "texte": "Une infirmière de Wallis-et-Futuna cherche quelle mention inscrire lors d’un renouvellement. La disposition consacrée au territoire prétend encore rendre applicable la liste de mentions, dont « Renouvellement infirmier ». En suivant le lien, elle arrive sur un article abrogé depuis le 16 octobre 2026.",
-      "raison": "Le texte territorial conserve le numéro de l’ancienne formalité. Pour savoir si et comment le renouvellement reste possible, il faut vérifier séparément les règles de compétence et leur application au territoire."
+      "raison": "Le texte territorial conserve le numéro de l’ancienne formalité. Le renouvellement lui-même reste prévu par un texte distinct : l’article L. 4423-1 rend applicable à Wallis-et-Futuna la rédaction de 2016 de l’article L. 4311-1, qui autorise ce renouvellement sous conditions."
     },
     "explication": [
-      "Le constat porte sur les mentions de l’ordonnance et sur le renvoi du Code de la santé publique. Le renvoi ne permet pas à lui seul de déduire une modification du droit au renouvellement."
+      "L’article L. 4423-1 indique expressément l’année de la version applicable sur le territoire. La rédaction de 2016 de l’article L. 4311-1 permet à un infirmier de renouveler une prescription de contraceptifs oraux de moins d’un an, sous réserve des exclusions prévues, pour six mois au maximum, sans renouvellement supplémentaire. Le renvoi réglementaire abrogé concernait la rédaction de l’ordonnance."
     ],
-    "sources": [],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006072665/LEGISCTA000006155081/2026-07-26/",
+        "label": "Code de la santé publique, art. L. 4423-1, version de la loi applicable à Wallis-et-Futuna"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031930236/2016-01-28",
+        "label": "Code de la santé publique, art. L. 4311-1, rédaction de 2016"
+      }
+    ],
     "relation": {
       "question": "Le renvoi territorial mène-t-il encore à une règle de rédaction en vigueur ?",
       "participants": [
