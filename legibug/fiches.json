@@ -9017,5 +9017,55 @@
         "vente-logement-vide-meuble-priorite-achat"
       ]
     }
+  },
+  {
+    "id": "reversion-deces-cotitulaire-public-prive",
+    "type": "Articulation de régimes",
+    "domaine": "Retraite",
+    "titre": "L’autre bénéficiaire décède. Votre réversion passe de 200 € à 600 €, ou reste à 200 €.",
+    "entree": {
+      "ordre": 181,
+      "titre": "L’autre bénéficiaire décède. Votre réversion passe de 200 € à 600 €, ou reste à 200 €.",
+      "face_a_face": "L’article L. 353-3 ajoute la part du bénéficiaire décédé à la pension de l’autre conjoint ou ex-conjoint dans le régime général. Pour les fonctionnaires de l’État, le Service des retraites explique que selon les règles du code des pensions, cette part peut seulement revenir aux enfants admissibles du fonctionnaire.",
+      "texte": "Imaginez une réversion de 600 € partagée entre deux bénéficiaires qui touchent 400 € et 200 €. La personne qui touche 400 € décède. Si les conditions de ressources le permettent, l’autre peut passer à 600 € dans le régime général. Dans le régime des fonctionnaires de l’État, elle reste à 200 € dans cet exemple.",
+      "raison": "Le décès libère la même part de 400 €. Selon le régime, elle s’ajoute à la pension de l’autre conjoint ou peut être attribuée aux enfants admissibles."
+    },
+    "explication": [
+      "Le cas de la fonction publique vise le régime des fonctionnaires de l’État. La part libérée peut revenir aux enfants du fonctionnaire âgés de moins de 21 ans ou remplissant les conditions liées à une infirmité."
+    ],
+    "sources": [
+      {
+        "label": "Code de la sécurité sociale, article L. 353-3",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006742651/"
+      },
+      {
+        "label": "Code des pensions civiles et militaires de retraite, article L. 43",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025076834/"
+      },
+      {
+        "label": "Service des retraites de l’État, partage entre conjoints et ex-conjoints",
+        "url": "https://retraitesdeletat.gouv.fr/deces/la-reversion-les-droits/la-veuve-le-veuf-et-les-ex-conjoints"
+      }
+    ],
+    "relation": {
+      "question": "Que deviennent les 400 € de réversion après le décès de leur bénéficiaire ?",
+      "participants": [
+        {
+          "role": "Régime général",
+          "reference": "Code de la sécurité sociale, article L. 353-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006742651/",
+          "citation": "« Au décès de l’un des bénéficiaires, sa part accroîtra la part de l’autre […] »"
+        },
+        {
+          "role": "Fonctionnaires de l’État",
+          "reference": "Service des retraites de l’État, partage entre conjoints et ex-conjoints",
+          "url": "https://retraitesdeletat.gouv.fr/deces/la-reversion-les-droits/la-veuve-le-veuf-et-les-ex-conjoints",
+          "citation": "« […] sa part peut seulement être attribuée aux enfants du fonctionnaire décédé […] »"
+        }
+      ],
+      "fiches_liees": [
+        "reversion-remariage-public-prive"
+      ]
+    }
   }
 ]
