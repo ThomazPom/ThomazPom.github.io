@@ -1914,7 +1914,7 @@
     "entree": {
       "ordre": 190,
       "titre": "Une heure de grève, 80 € de moins à l’État et environ 16 € de moins à la mairie",
-      "face_a_face": "L’article L. 711-3 impose de retirer un trentième du salaire mensuel à un agent de l’État même pour une heure de grève, tandis que le Conseil d’État exige pour un agent territorial une retenue proportionnelle à la durée de la grève.",
+      "face_a_face": "Pour une heure de grève et la même rémunération mensuelle de 2 400 €, l’article L. 711-3 fait perdre 80 € à l’agent de l’État, tandis que la règle de proportionnalité fixée par le Conseil d’État peut limiter la retenue à environ 16 € pour un agent de mairie.",
       "texte": "Deux agents ont chacun 2 400 € de rémunération mensuelle prise en compte pour la retenue. Pour une heure de grève, l’État retire 80 €. Une mairie retire environ 15,82 € si elle applique le calcul horaire de 1/151,67 pour un temps plein classique.",
       "raison": "L’État compte une fraction fixe du mois dès que l’agent fait grève pendant une partie de la journée. La mairie rapporte la durée de la grève au temps de travail de l’agent. À durée et rémunération égales dans cet exemple, l’écart est d’environ cinq à un."
     },
