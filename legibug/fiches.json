@@ -1091,7 +1091,7 @@
     "entree": {
       "ordre": 17,
       "titre": "Votre dette de loyer est effacée. Pourquoi pouvez-vous encore perdre votre logement ?",
-      "face_a_face": "L’article L. 741-2 permet d’effacer vos anciens loyers impayés lors d’un rétablissement personnel. L’article 24, VIII, met la clause de résiliation en suspens pendant deux ans. Si vous manquez un nouveau paiement pendant ces deux ans, elle peut reprendre effet.",
+      "face_a_face": "L’article L. 741-2 peut ramener vos 2 400 € d’anciens loyers impayés à 0 €, tandis que l’article 24, VIII, suspend pendant deux ans la clause de rupture déclenchée par ces mêmes impayés et la laisse reprendre effet si vous manquez un nouveau paiement.",
       "texte": "Imaginez que 2 400 € de loyers impayés ont déclenché la clause de résiliation de votre bail. Le rétablissement personnel ramène cette dette à 0 €. Si vous payez les nouveaux loyers et les charges pendant les deux ans, la loi considère que la clause n’a jamais joué. Si elle reprend effet à cause d’un nouvel impayé, les 2 400 € effacés ne redeviennent pas dus.",
       "raison": "Ça coince puisque la dette qui avait déclenché la procédure n’est plus à payer, mais que ses effets sur le bail restent en suspens. Le sort du bail dépend du paiement des nouveaux loyers pendant ces deux ans."
     },
