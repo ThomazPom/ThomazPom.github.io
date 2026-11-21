@@ -11398,12 +11398,17 @@
       "raison": "Le texte spécial ajoute 10 % au prix d’achat effectif pour calculer le seuil légal. Une vente peut donc dépasser le prix d’achat et rester sous le seuil que la loi utilise pour la revente à perte."
     },
     "explication": [
-      "L’exemple suppose une revente en l’état au consommateur sans dérogation applicable. Le prix d’achat effectif est celui défini par le Code de commerce. Le dispositif est prévu jusqu’au 15 avril 2028."
+      "L’exemple suppose une revente en l’état au consommateur sans dérogation applicable. Le prix d’achat effectif est celui défini par le Code de commerce. Le dispositif est prévu jusqu’au 15 avril 2028.",
+      "Le même article 125 fixe aussi deux plafonds de promotion. Pour un lot de pâtes vendu 10 € avant remise, le plafond de 34 % laisse un prix de 6,60 € au minimum au titre de cette règle. Pour un produit de grande consommation non alimentaire, par exemple une lessive vendue 10 €, le plafond de 40 % permet une remise jusqu’à 4 €, soit un prix de 6 €. Le magasin doit aussi respecter les règles applicables à son prix de revente."
     ],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/eli/loi/2025/4/14/ECOX2504848L/jo/texte",
         "label": "Loi n° 2025-337 du 14 avril 2025, prolongation du dispositif"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051467681",
+        "label": "Loi n° 2020-1525, article 125, II, B, plafonds de promotion"
       }
     ],
     "relation": {
