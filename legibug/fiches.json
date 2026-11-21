@@ -9021,7 +9021,8 @@
     },
     "explication": [
       "Un crédit affecté finance précisément l’achat indiqué au contrat. L’exemple suppose que vous n’avez pas demandé expressément une livraison immédiate et que vous n’avez pas finalement payé comptant dans le délai prévu.",
-      "Sur une même plateforme, le résultat dépend aussi de qui vous vend le canapé. Si le vendeur est un professionnel qui vend à distance, l’article L. 221-18 vous donne en principe 14 jours après la livraison pour vous rétracter. Si un particulier vous vend son propre canapé, l’article L. 221-1 place cette vente hors de ce régime. Même sur le même site et au même prix, changer d’avis au cinquième jour ne vous donne donc aucun droit légal de rétractation si vous avez acheté au particulier. La plateforme peut proposer ses propres conditions de retour."
+      "Sur une même plateforme, le résultat dépend aussi de qui vous vend le canapé. Si le vendeur est un professionnel qui vend à distance, l’article L. 221-18 vous donne en principe 14 jours après la livraison pour vous rétracter. Si un particulier vous vend son propre canapé, l’article L. 221-1 place cette vente hors de ce régime. Même sur le même site et au même prix, changer d’avis au cinquième jour ne vous donne donc aucun droit légal de rétractation si vous avez acheté au particulier. La plateforme peut proposer ses propres conditions de retour.",
+      "L’article D. 111-8 impose à la plateforme d’indiquer si le vendeur se déclare professionnel ou particulier et, pour une offre de particulier, de préciser ce qui est prévu pour la rétractation. La mention affichée dépend de la déclaration du vendeur. Si son statut est contesté, il faut regarder son activité réelle. Dans l’affaire Kamenova, la Cour de justice de l’Union européenne a jugé que huit annonces en ligne ne suffisaient pas à elles seules à établir que la vendeuse était professionnelle."
     ],
     "sources": [
       {
@@ -9043,6 +9044,14 @@
       {
         "label": "Code de la consommation, article L. 221-1, définition de la vente à distance",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563164/"
+      },
+      {
+        "label": "Code de la consommation, article D. 111-8, informations sur le vendeur",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049914996/"
+      },
+      {
+        "label": "Cour de justice de l’Union européenne, 4 octobre 2018, Kamenova, C‑105/17",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX:62017CJ0105"
       }
     ],
     "relation": {
