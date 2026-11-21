@@ -10149,5 +10149,47 @@
         "conges-maladie-delai-avant-reprise"
       ]
     }
+  },
+  {
+    "id": "indivision-bail-habitation-bail-commercial",
+    "type": "Articulation de régimes",
+    "domaine": "Successions",
+    "titre": "Deux héritiers peuvent louer l’appartement, mais pas signer seuls le bail de la boutique",
+    "entree": {
+      "ordre": 97.1,
+      "titre": "Deux héritiers peuvent louer l’appartement, mais pas signer seuls le bail de la boutique",
+      "face_a_face": "Pour le même immeuble hérité, l’article 815-3 permet à deux héritiers détenant ensemble les deux tiers de signer un bail d’habitation ordinaire pour l’appartement, tandis qu’il faut en principe l’accord du troisième pour signer un bail commercial sur la boutique.",
+      "texte": "Vous héritez à trois d’un immeuble, chacun pour un tiers. Deux d’entre vous veulent louer l’appartement vide et la boutique du rez-de-chaussée. Si la location de l’appartement relève de la gestion normale, ils peuvent signer seuls et doivent vous informer. Pour le bail commercial, leur majorité ne suffit pas.",
+      "raison": "Les parts et les propriétaires sont les mêmes. C’est l’usage des locaux qui change le nombre d’accords nécessaires."
+    },
+    "explication": [
+      "L’article 815-3 exclut aussi de cette majorité les baux agricoles, industriels ou artisanaux. L’exemple suppose qu’aucun mandat ni aucune autorisation judiciaire ne permette d’agir autrement."
+    ],
+    "sources": [
+      {
+        "label": "Code civil, article 815-3",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432378/"
+      }
+    ],
+    "relation": {
+      "question": "Deux tiers des droits suffisent-ils pour les deux baux ?",
+      "participants": [
+        {
+          "role": "Location d’habitation",
+          "reference": "Code civil, art. 815-3, 4°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432378/",
+          "citation": "« Conclure et renouveler les baux autres que ceux portant sur un immeuble à usage agricole, commercial, industriel ou artisanal. »"
+        },
+        {
+          "role": "Bail commercial",
+          "reference": "Code civil, art. 815-3, 4°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006432378/",
+          "citation": "« […] autres que ceux portant sur un immeuble à usage […] commercial […] »"
+        }
+      ],
+      "fiches_liees": [
+        "indivision-vente-unanimite-deux-tiers"
+      ]
+    }
   }
 ]
