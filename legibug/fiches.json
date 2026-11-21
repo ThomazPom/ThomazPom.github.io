@@ -3039,12 +3039,21 @@
       "raison": "Le testament peut transmettre la même somme dans les deux cas. C’est le statut du couple au jour du décès qui change la facture fiscale, même après plusieurs années de vie commune."
     },
     "explication": [
-      "Calcul dans le cas du concubin : (100 000 € − 1 594 €) × 60 %. L’exemple suppose un legs valable, imposable en France et sans abattement spécial. Le Pacs ne donne pas à lui seul le droit d’hériter sans testament."
+      "Calcul dans le cas du concubin : (100 000 € − 1 594 €) × 60 %. L’exemple suppose un legs valable, imposable en France et sans abattement spécial. Le Pacs ne donne pas à lui seul le droit d’hériter sans testament.",
+      "Sans testament, si le défunt laisse 100 000 € de patrimoine net et un enfant d’une précédente union, le partenaire pacsé ne reçoit rien sur ces 100 000 € au titre de la succession, tandis que l’article 757 du Code civil donne à l’époux survivant un quart en pleine propriété, soit 25 000 €. On suppose que les biens propres de chacun et les éventuels biens communs ont déjà été répartis."
     ],
     "sources": [
       {
         "label": "Service Public, fiscalité du legs entre concubins",
         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F904"
+      },
+      {
+        "label": "Service Public, succession du partenaire de Pacs",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1621"
+      },
+      {
+        "label": "Code civil, article 757",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431087"
       }
     ],
     "relation": {
