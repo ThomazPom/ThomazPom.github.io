@@ -11350,12 +11350,17 @@
       "raison": "Le règlement continue à raccourcir un délai qui n’existe plus dans la loi. Il faut lire l’abrogation pour comprendre pourquoi le régime auquel renvoient les quinze jours a disparu."
     },
     "explication": [
-      "Le relevé LEGI du 21 novembre 2026 indique que l’article R. 310-5 reste affiché en vigueur. La fiche porte sur le régime spécial de la liquidation commerciale, avec ses formalités et ses délais. Les autres règles applicables aux annonces de réduction de prix et aux pratiques commerciales continuent de s’appliquer."
+      "Le relevé LEGI du 21 novembre 2026 indique que l’article R. 310-5 reste affiché en vigueur. La fiche porte sur le régime spécial de la liquidation commerciale, avec ses formalités et ses délais. Les autres règles applicables aux annonces de réduction de prix et aux pratiques commerciales continuent de s’appliquer.",
+      "L’article R. 310-2 dit encore d’adresser la déclaration au maire au moins deux mois avant le début de la vente, sauf exception. L’article R. 310-3 organise toujours l’envoi d’un récépissé. La loi de mai 2026 a pourtant aussi abrogé le 1° de l’article L. 310-5, qui sanctionnait la vente sans cette déclaration. Le code réglementaire décrit donc encore le dossier à déposer et la réponse attendue de la mairie après la suppression de leur base légale."
     ],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028697547/2026-11-07",
         "label": "Code de commerce, ancien article L. 310-1, abrogé le 28 mai 2026"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000006133256",
+        "label": "Code de commerce, articles R. 310-2 et R. 310-3, déclaration et récépissé"
       }
     ],
     "relation": {
