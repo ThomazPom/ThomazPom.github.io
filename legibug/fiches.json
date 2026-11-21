@@ -446,7 +446,8 @@
     "titre": "Le barème du licenciement reste applicable malgré un constat européen de violation",
     "explication": [
       "Le code du travail plafonne l’indemnité du licenciement sans cause réelle et sérieuse lorsque la réintégration est refusée. Le Comité européen des droits sociaux a conclu que le mécanisme français ne satisfait pas à l’exigence d’indemnisation adéquate de l’article 24 de la Charte sociale européenne révisée.",
-      "La Cour de cassation juge que cet article de la Charte ne peut pas être invoqué directement dans un litige entre un employeur et un salarié. Elle a examiné séparément la convention n° 158 de l’OIT et jugé le barème compatible avec son article 10. Ces décisions portent sur des normes et des effets juridiques distincts."
+      "La Cour de cassation juge que cet article de la Charte ne peut pas être invoqué directement dans un litige entre un employeur et un salarié. Elle a examiné séparément la convention n° 158 de l’OIT et jugé le barème compatible avec son article 10. Ces décisions portent sur des normes et des effets juridiques distincts.",
+      "Pour ce même salaire, si le juge constate une nullité visée par l’article L. 1235-3-1, par exemple un licenciement discriminatoire, le barème est écarté. En l’absence de réintégration dans les conditions du texte, six mois de salaire deviennent un minimum, soit 12 000 € dans cet exemple."
     ],
     "sources": [
       {
@@ -456,6 +457,10 @@
       {
         "label": "Cour de cassation, arrêts du 11 mai 2022",
         "url": "https://www.courdecassation.fr/toutes-les-actualites/2022/05/11/bareme-dindemnisation-du-salarie-licencie-sans-cause-reelle-et"
+      },
+      {
+        "label": "Code du travail, article L. 1235-3-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000036762026/"
       }
     ],
     "relation": {
@@ -486,7 +491,7 @@
       "texte": "Le Comité européen des droits sociaux estime que le plafond français peut empêcher une réparation suffisante. La Cour de cassation juge que le salarié ne peut pas invoquer directement la disposition de la Charte contre son employeur. Le constat européen ne suffit donc pas à écarter le plafond aux prud’hommes.",
       "ordre": 21,
       "raison": "La tension subsiste puisque le barème reste applicable devant le juge français alors que le Comité européen a conclu qu’il contrevient à la Charte. La Cour de cassation juge que cette disposition de la Charte ne peut pas être invoquée directement entre salarié et employeur.",
-      "face_a_face": "L’article L. 1235-3 impose un plafond, tandis que le Comité européen des droits sociaux juge ce plafonnement contraire à l’article 24 de la Charte sociale européenne."
+      "face_a_face": "Avec deux ans d’ancienneté et un salaire brut de 2 000 € par mois, l’article L. 1235-3 plafonne à 7 000 € l’indemnité pour licenciement sans cause réelle et sérieuse. Le Comité européen des droits sociaux juge ce plafonnement contraire à l’exigence de réparation adéquate de la Charte sociale européenne."
     }
   },
   {
