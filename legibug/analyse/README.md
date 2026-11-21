@@ -31,3 +31,9 @@ Pour le décompte au 21 novembre, appliquer ensuite l’archive supplémentaire 
 curl -fsSL "${base}LEGI_20261120-222218.tar.gz" | python3 index.py legi.sqlite
 python3 coverage.py legi.sqlite 2026-11-21 > coverage-2026-11-21.csv
 ```
+
+## Vérification des règles sur les véhicules à la casse
+
+La loi du 26 mai 2026 a retiré l’exigence d’un centre « agréé » dans l’article L. 541-21-5, qui organise l’enlèvement de plusieurs épaves. L’article R. 543-155-1 prévoit aujourd’hui un régime d’enregistrement avec une exception pour certains agréments délivrés avant 2025. L’annexe II de l’arrêté du 2 mai 2012 exige encore que les véhicules reçus par un broyeur aient été traités par un centre agréé, mais elle fixe le cahier des charges attaché à un agrément de broyeur. Avant de publier un conflit, il faut établir si cette clause s’impose encore à un broyeur qui reçoit des véhicules d’un centre enregistré et dépourvu d’agrément.
+
+[Article 5 de la loi du 26 mai 2026](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131386) · [Article R. 543-155-1](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046669929) · [Arrêté du 2 mai 2012](https://www.legifrance.gouv.fr/affichTexte.do?cidTexte=JORFTEXT000025835110)
