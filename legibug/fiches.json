@@ -12148,5 +12148,51 @@
         }
       ]
     }
+  },
+  {
+    "id": "pret-personnel-plafond-75000-100000",
+    "domaine": "Consommation",
+    "type": "Information administrative en décalage",
+    "titre": "Prêt personnel de 80 000 € : Service Public affiche encore l’ancien plafond",
+    "entree": {
+      "ordre": 225,
+      "titre": "Prêt personnel de 80 000 € : Service Public affiche encore l’ancien plafond",
+      "face_a_face": "L’article L. 312-1 fixe à 100 000 € le plafond général du crédit à la consommation depuis le 20 novembre 2026, tandis que la fiche Service Public sur le prêt personnel indique encore un maximum de 75 000 € dans le corps de la page.",
+      "texte": "Vous souscrivez un nouveau prêt personnel de 80 000 € après l’entrée en vigueur de la réforme. Le montant de ce prêt entre dans le nouveau plafond du code de la consommation. La fiche pratique affiche pourtant encore un plafond de 75 000 € pour le prêt personnel, alors que son propre encadré annonce la réforme et le seuil de 100 000 €.",
+      "raison": "La fiche affiche les deux montants sur la même page. Pour un nouveau prêt régi par la réforme, le seuil de 75 000 € ne permet plus de déterminer si les protections du crédit à la consommation s’appliquent."
+    },
+    "explication": [
+      "Le seuil encadre l’application du régime légal sous réserve des autres conditions et exclusions. Il ne donne pas droit à un prêt. Les contrats déjà en cours le 20 novembre restent en principe régis par les anciennes dispositions. La fiche Service Public indique qu’elle est en cours de mise à jour."
+    ],
+    "sources": [
+      {
+        "label": "Code de la consommation, article L. 312-1",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032221971/2026-11-20"
+      },
+      {
+        "label": "Service Public, fiche prêt personnel",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2435"
+      }
+    ],
+    "relation": {
+      "question": "Un nouveau prêt personnel de 80 000 € entre-t-il dans le plafond légal ?",
+      "participants": [
+        {
+          "role": "Nouveau plafond légal",
+          "reference": "Code de la consommation, article L. 312-1",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032221971/2026-11-20",
+          "citation": "« […] inférieur ou égal à 100 000 euros. »"
+        },
+        {
+          "role": "Ancien plafond dans le corps de la fiche",
+          "reference": "Service Public, prêt personnel",
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2435",
+          "citation": "« Le montant du prêt personnel doit être compris entre 200 € et 75 000 €. »"
+        }
+      ],
+      "fiches_liees": [
+        "credit-consommation-deblocage-sept-jours"
+      ]
+    }
   }
 ]
