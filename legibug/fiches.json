@@ -315,7 +315,8 @@
     "titre": "Un plafond commun n’empêche pas deux autorités de poursuivre les mêmes faits",
     "explication": [
       "L’article L. 34-5 du code des postes et des communications électroniques permettait à plusieurs autorités de sanctionner des manquements aux règles sur la prospection directe automatisée. Le Conseil constitutionnel a censuré la possibilité de réprimer les mêmes faits, qualifiés de la même façon, par des sanctions de même nature visant les mêmes intérêts sociaux.",
-      "L’abrogation est reportée au 31 octobre 2027. Dès la publication de la décision, une autre autorité ne peut engager ou continuer des poursuites pour les mêmes faits contre la même personne si de premières poursuites sont déjà engagées ou ont abouti à une sanction définitive. Les décisions prises avant la publication ne peuvent être contestées sur le fondement de cette inconstitutionnalité."
+      "L’abrogation est reportée au 31 octobre 2027. Dès la publication de la décision, une autre autorité ne peut engager ou continuer des poursuites pour les mêmes faits contre la même personne si de premières poursuites sont déjà engagées ou ont abouti à une sanction définitive. Les décisions prises avant la publication ne peuvent être contestées sur le fondement de cette inconstitutionnalité.",
+      "Orange a soulevé la question en contestant une amende de 50 millions d’euros infligée par la CNIL en novembre 2024 pour deux manquements, dont des publicités présentées comme des courriels. Le 16 octobre 2026, le Conseil d’État a rejeté son recours. La censure constitutionnelle ne pouvait pas être invoquée contre cette sanction antérieure à sa publication."
     ],
     "sources": [
       {
@@ -350,7 +351,7 @@
     },
     "entree": {
       "titre": "Deux autorités peuvent-elles poursuivre deux fois le même démarchage ?",
-      "texte": "Pour les mêmes messages, une entreprise pouvait être poursuivie par deux autorités au titre du même manquement.",
+      "texte": "Imaginez une entreprise poursuivie par la CNIL pour une campagne de courriels publicitaires non sollicités. Depuis la publication de la décision, une autre autorité visée par le texte ne peut pas engager une seconde poursuite au même titre contre cette entreprise pour cette même campagne.",
       "raison": "Le Conseil constitutionnel a censuré le cumul puisque les deux régimes pouvaient sanctionner les mêmes faits de la même façon pour protéger les mêmes intérêts. Sa décision bloque dès maintenant les secondes poursuites dans les cas qu’elle définit.",
       "ordre": 28,
       "face_a_face": "L’article L. 34-5 permettait à plusieurs autorités de sanctionner le même démarchage, tandis que le Conseil constitutionnel interdit les secondes poursuites pour les mêmes faits dans les conditions qu’il fixe."
