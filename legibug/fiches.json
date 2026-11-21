@@ -2169,7 +2169,8 @@
       "La règle vise ici un refus intervenu alors que le sursis protège déjà l’occupant. La période de responsabilité ne détermine pas à elle seule le montant versé. Cette fiche porte sur la responsabilité de l’État et la dette éventuelle de l’occupant obéit à ses propres règles.",
       "Même après la fin de la trêve, le jugement ne donne pas au propriétaire le droit de forcer lui-même l’occupant à partir. Par exemple, s’il change les serrures pour empêcher le retour de l’occupant, il risque jusqu’à 3 ans de prison et 30 000 € d’amende si les conditions de l’article 226-4-2 du Code pénal sont réunies. Le jugement peut autoriser l’expulsion, mais son exécution doit suivre la procédure légale.",
       "En décembre, l’article L. 412-6 reporte en principe une expulsion ordinaire jusqu’à la fin de la trêve, le 31 mars. Si le juge aux affaires familiales ordonne l’expulsion d’un conjoint, partenaire pacsé ou concubin violent dans le cadre d’une ordonnance de protection, l’article L. 412-8 écarte cette trêve. La décision peut alors être exécutée sans attendre le 1er avril, selon la procédure applicable.",
-      "Un juge peut constater ou prononcer la fin du bail en décembre pour des impayés et ordonner l’expulsion. L’article L. 412-6 reporte en principe le départ forcé jusqu’à la fin de la trêve, le 31 mars. Dans l’intervalle, le bail peut être terminé et une indemnité d’occupation peut être due. La trêve reporte le départ forcé sans prolonger le contrat ni suspendre la dette."
+      "Un juge peut constater ou prononcer la fin du bail en décembre pour des impayés et ordonner l’expulsion. L’article L. 412-6 reporte en principe le départ forcé jusqu’à la fin de la trêve, le 31 mars. Dans l’intervalle, le bail peut être terminé et une indemnité d’occupation peut être due. La trêve reporte le départ forcé sans prolonger le contrat ni suspendre la dette.",
+      "L’article 24, I, de la loi de 1989 permet à la clause de résiliation de produire effet 6 semaines après un commandement de payer resté sans effet. Mais si vous avez repris le paiement intégral du loyer courant avant l’audience, le juge peut, sous les conditions prévues aux V et VII, fixer un échéancier et suspendre les effets de la clause. Si vous payez vos loyers courants et remboursez la dette selon cet échéancier, le VII traite la clause comme si elle n’avait jamais joué. La trêve, à elle seule, n’a pas cet effet."
     ],
     "sources": [
       {
@@ -2187,6 +2188,10 @@
       {
         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31272",
         "label": "Service Public, résiliation du bail et indemnité d’occupation"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900019",
+        "label": "Loi du 6 juillet 1989, article 24, I, V et VII"
       }
     ],
     "relation": {
@@ -2215,6 +2220,12 @@
           "reference": "Code des procédures civiles d’exécution, art. L. 412-8",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026052/",
           "citation": "« Les articles L. 412-1 à L. 412-7 ne sont pas applicables à l’expulsion […] »"
+        },
+        {
+          "role": "Dette remboursée selon le calendrier du juge, bail préservé",
+          "reference": "Loi du 6 juillet 1989, art. 24, VII",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900019",
+          "citation": "« […] la clause de résiliation de plein droit est réputée ne pas avoir joué. »"
         }
       ]
     }
