@@ -4738,7 +4738,8 @@
     "explication": [
       "Les six mois courent à compter de la signature. Le délai de trois ans court à compter de la connaissance, réelle ou présumée, des faits permettant de réclamer le salaire. Un reçu non signé ne produit pas cet effet libératoire.",
       "Vous signez un reçu qui indique seulement un total de 3 000 € et renvoie au bulletin de paie joint. La Cour de cassation a jugé qu’un tel reçu ne libère pas l’employeur. Huit mois après la signature, votre demande de salaire reste donc soumise au délai ordinaire. Un reçu qui détaille la somme contestée peut, lui, bloquer cette demande après six mois.",
-      "Pour faire partir les six mois, le reçu doit aussi porter une date certaine de signature. Selon la Cour de cassation, une date imprimée peut suffire si elle correspond avec certitude au jour où vous avez signé. Si le reçu indique seulement quand l’employeur l’a préparé et que le jour de la signature reste incertain, ce document ne fait pas courir le délai de six mois."
+      "Pour faire partir les six mois, le reçu doit aussi porter une date certaine de signature. Selon la Cour de cassation, une date imprimée peut suffire si elle correspond avec certitude au jour où vous avez signé. Si le reçu indique seulement quand l’employeur l’a préparé et que le jour de la signature reste incertain, ce document ne fait pas courir le délai de six mois.",
+      "Dans l’affaire du 7 mars 2018, le salarié avait saisi les prud’hommes avant la fin des six mois. L’employeur n’avait reçu sa convocation qu’après. La Cour de cassation a jugé que, si le salarié compte sur cette convocation pour dénoncer le reçu, c’est sa réception par l’employeur dans le délai qui compte. Le dépôt de la demande au greffe avant l’échéance ne suffisait donc pas à dénoncer le reçu."
     ],
     "sources": [
       {
@@ -4756,6 +4757,10 @@
       {
         "label": "Cour de cassation, 20 février 2019, n° 17-27.600",
         "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000038194476"
+      },
+      {
+        "label": "Cour de cassation, 7 mars 2018, n° 16-13.194",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000036718275"
       }
     ],
     "relation": {
