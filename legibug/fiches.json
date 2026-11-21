@@ -7389,7 +7389,8 @@
     "domaine": "Consommation",
     "titre": "Deux lave-linge tombent en panne à 18 mois. Seul l’acheteur de l’occasion doit prouver que le défaut existait à la livraison.",
     "explication": [
-      "La présomption est écartée lorsqu’elle est incompatible avec la nature du bien ou du défaut. Une panne due à un accident après la livraison ne relève en principe pas de cette garantie."
+      "La présomption est écartée lorsqu’elle est incompatible avec la nature du bien ou du défaut. Une panne due à un accident après la livraison ne relève en principe pas de cette garantie.",
+      "L’article L. 217-3 donne deux ans à partir de la livraison pour que le défaut apparaisse et renvoie à l’article 2224 du Code civil, qui donne en principe cinq ans pour agir en justice. Pour cette garantie, l’article L. 217-3 fait partir ces cinq ans du jour où vous découvrez le défaut. Si vous découvrez le défaut au 23e mois et saisissez le juge au 25e, le seul fait que l’achat remonte à plus de deux ans ne vous met donc pas hors délai."
     ],
     "sources": [
       {
@@ -7399,6 +7400,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044152587/2026-11-20",
         "label": "Code de la consommation, art. L. 217-7"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019017112/",
+        "label": "Code civil, art. 2224, délai pour agir en justice"
       }
     ],
     "relation": {
