@@ -119,7 +119,7 @@ def render_review():
         raise ValueError("Statut de relecture inconnu")
     return (
         f"<p>{len(review)} pistes examinées sur {len(sample)} dans le tirage. "
-        f"{counts['confirmé']} renvois confirmés, {counts['écarté']} pistes écartées "
+        f"{counts['confirmé']} renvois vers des dispositions abrogées confirmés dans les textes, {counts['écarté']} pistes écartées "
         f"et {counts['à vérifier']} à approfondir.</p>"
     )
 
