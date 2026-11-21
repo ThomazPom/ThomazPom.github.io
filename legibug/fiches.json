@@ -9414,12 +9414,17 @@
       "raison": "Le délai protège votre rémunération, tandis que la date de fin de l’essai limite la durée pendant laquelle l’employeur peut encore vous mettre à l’essai."
     },
     "explication": [
-      "Sauf faute grave du salarié, l’indemnité couvre les salaires et avantages de la partie du délai non effectuée, y compris les congés payés correspondants."
+      "Sauf faute grave du salarié, l’indemnité couvre les salaires et avantages de la partie du délai non effectuée, y compris les congés payés correspondants.",
+      "Six semaines après votre embauche, si l’essai est encore en cours, l’article L. 1221-25 donne deux semaines de prévenance à l’employeur qui le rompt. Si c’est vous qui y mettez fin, l’article L. 1221-26 vous demande seulement 48 heures. Les mêmes six semaines de présence déclenchent donc deux délais différents selon qui prend la décision."
     ],
     "sources": [
       {
         "label": "Code du travail, article L. 1221-25",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029144958/"
+      },
+      {
+        "label": "Code du travail, article L. 1221-26",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071093/"
       }
     ],
     "relation": {
