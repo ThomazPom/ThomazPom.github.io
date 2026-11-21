@@ -10864,12 +10864,17 @@
       "raison": "Pour l’article 21-7, on regarde où l’enfant vit à 18 ans et s’il a vécu en France au moins cinq ans depuis ses 11 ans. À Mayotte, l’article 2493 ajoute une condition qui se vérifie le jour de la naissance, même si l’enfant grandit ensuite ailleurs en France."
     },
     "explication": [
-      "Si la filiation est établie envers un seul parent, cette condition s’applique à lui seul. La comparaison porte sur ce mode d’acquisition et sur des enfants nés après l’entrée en vigueur de la rédaction actuelle."
+      "Si la filiation est établie envers un seul parent, cette condition s’applique à lui seul. La comparaison porte sur ce mode d’acquisition et sur des enfants nés après l’entrée en vigueur de la rédaction actuelle.",
+      "Pour une personne née à Mayotte qui fête ses 18 ans en 2026, il faut aussi lire l’article 2494. Elle est née en 2008, avant l’entrée en vigueur de la réforme de 2018. Le texte prévoit une autre voie : elle peut bénéficier de l’article 21-7 si, en plus de remplir ses propres conditions de résidence, elle justifie qu’au moins un de ses parents a résidé régulièrement en France pendant la période de cinq ans prise en compte. La date de naissance change donc à la fois le nombre de parents concernés et la période à vérifier."
     ],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000051582188/",
         "label": "Loi n° 2025-412 du 12 mai 2025"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037398560/",
+        "label": "Code civil, art. 2494, règle pour les enfants nés avant la réforme de 2018"
       }
     ],
     "relation": {
