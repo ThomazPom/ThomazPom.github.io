@@ -4736,7 +4736,8 @@
       "raison": "Le résultat dépend des sommes détaillées dans le reçu. Le délai de six mois peut fermer une demande sur une somme qui y figure alors que le délai ordinaire de trois ans reste ouvert pour un salaire que le reçu ne couvre pas."
     },
     "explication": [
-      "Les six mois courent à compter de la signature. Le délai de trois ans court à compter de la connaissance, réelle ou présumée, des faits permettant de réclamer le salaire. Un reçu non signé ne produit pas cet effet libératoire."
+      "Les six mois courent à compter de la signature. Le délai de trois ans court à compter de la connaissance, réelle ou présumée, des faits permettant de réclamer le salaire. Un reçu non signé ne produit pas cet effet libératoire.",
+      "Vous signez un reçu qui indique seulement un total de 3 000 € et renvoie au bulletin de paie joint. La Cour de cassation a jugé qu’un tel reçu ne libère pas l’employeur. Huit mois après la signature, votre demande de salaire reste donc soumise au délai ordinaire. Un reçu qui détaille la somme contestée peut, lui, bloquer cette demande après six mois."
     ],
     "sources": [
       {
@@ -4746,6 +4747,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027566295/2026-11-21",
         "label": "Code du travail, article L. 3245-1"
+      },
+      {
+        "label": "Cour de cassation, 14 février 2018, n° 16-16.617 et 16-16.618",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000036648673"
       }
     ],
     "relation": {
