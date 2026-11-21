@@ -3590,7 +3590,7 @@
     "entree": {
       "ordre": 78,
       "titre": "Vous êtes élu au conseil municipal. Pourtant, un candidat battu peut voter à votre place aux sénatoriales.",
-      "face_a_face": "L’article LO 228-1 permet à un citoyen belge d’être élu au conseil municipal en France, tandis que l’article LO 286-2 fait voter à sa place un candidat français non élu aux sénatoriales dans les communes où tous les conseillers sont normalement électeurs de droit.",
+      "face_a_face": "L’article LO 228-1 permet à une citoyenne belge d’être élue au conseil municipal, tandis que l’article LO 2122-4-1 lui interdit de devenir maire sans la nationalité française et que l’article LO 286-2 peut faire voter un candidat français battu à sa place aux sénatoriales.",
       "texte": "Vous êtes belge et votre liste vous fait élire au conseil municipal. Vous pouvez voter le budget de la ville. En revanche, vous ne pouvez devenir ni maire ni adjoint, même temporairement. Si tous les conseillers de votre commune sont normalement électeurs de droit aux sénatoriales, c’est le premier candidat français non élu qui suit les élus de votre liste qui prend votre place pour ce vote.",
       "raison": "Le résultat est surprenant parce que votre élection vous donne une voix pour les décisions de la commune, mais qu’une personne qui n’a pas obtenu de siège peut prendre cette voix pour élire les sénateurs. L’article 88-3 de la Constitution autorise l’ouverture des élections municipales aux citoyens de l’Union et pose lui-même les limites pour le maire et le Sénat."
     },
