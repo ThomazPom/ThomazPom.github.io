@@ -139,11 +139,19 @@ intro = "\n".join(
 output = template.replace("<!-- EXEMPLES -->", intro)
 output = output.replace("<!-- FICHES -->", "\n".join(map(render, vedettes + [fiche for fiche in fiches if "entree" not in fiche])))
 totaux = Counter(fiche["type"] for fiche in fiches)
+domaines = Counter(fiche["domaine"] for fiche in fiches)
 couverture = (
     f"<p><strong>{len(fiches)} fiches publiées</strong> dans le catalogue.</p>"
     + "<ul>"
     + "".join(f"<li>{escape(nature)} ({total})</li>" for nature, total in totaux.most_common())
     + "</ul>"
+)
+couverture += (
+    f"<details><summary>Voir les fiches par domaine ({len(domaines)} domaines)</summary>"
+    "<p>Ces chiffres décrivent les sujets traités dans l’atlas. Ils ne mesurent pas la part "
+    "du droit français examinée dans chaque domaine.</p><ul>"
+    + "".join(f"<li>{escape(domaine)} ({total})</li>" for domaine, total in domaines.most_common())
+    + "</ul></details>"
 )
 output = output.replace("<!-- COUVERTURE -->", couverture)
 output = output.replace("<!-- RELECTURE -->", render_review())
