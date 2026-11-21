@@ -11769,7 +11769,8 @@
       "raison": "Le règlement exige encore le formulaire et le délai d’une démarche que la loi a supprimée. La loi prévaut. Si vous occupez la voie publique, l’autorisation d’occupation relève d’une démarche distincte."
     },
     "explication": [
-      "L’article 5 de la loi du 26 mai 2026 a supprimé du code de commerce la déclaration préalable pour les ventes au déballage, dont les vide-greniers. Les autres règles de l’article L. 310-2 restent applicables, dont la limite de deux mois de vente par an au même endroit et celle de deux participations annuelles par particulier."
+      "L’article 5 de la loi du 26 mai 2026 a supprimé du code de commerce la déclaration préalable pour les ventes au déballage, dont les vide-greniers. Les autres règles de l’article L. 310-2 restent applicables, dont la limite de deux mois de vente par an au même endroit et celle de deux participations annuelles par particulier.",
+      "L’actualité d’Entreprendre Service Public du 10 juin 2026 annonce la fin de la déclaration. Pourtant, la fiche destinée aux associations, vérifiée le 24 juillet, demande toujours de déclarer un vide-grenier en lieu privé au moins 15 jours avant. Elle indique aussi attendre des décrets d’application. C’est donc le même écart dans les informations que reçoit l’organisateur."
     ],
     "sources": [
       {
@@ -11783,6 +11784,14 @@
       {
         "label": "Loi du 26 mai 2026, article 5",
         "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131386"
+      },
+      {
+        "label": "Entreprendre Service Public, actualité du 10 juin 2026",
+        "url": "https://entreprendre.service-public.gouv.fr/actualites/A18948"
+      },
+      {
+        "label": "Service Public, fiche pour les associations",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F1813"
       }
     ],
     "relation": {
