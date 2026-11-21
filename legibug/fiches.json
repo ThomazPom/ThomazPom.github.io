@@ -9278,7 +9278,7 @@
     "entree": {
       "ordre": 181,
       "titre": "L’autre bénéficiaire décède. Votre réversion passe de 200 € à 600 €, ou reste à 200 €.",
-      "face_a_face": "À la mort du bénéficiaire qui touchait 400 €, l’article L. 353-3 peut faire passer l’autre bénéficiaire de 200 € à 600 € dans le régime général, tandis que dans le régime des fonctionnaires de l’État, sa pension reste à 200 € et la part libérée peut revenir aux enfants admissibles.",
+      "face_a_face": "À la mort du bénéficiaire qui touchait 400 €, l’article L. 353-3 peut faire passer l’autre bénéficiaire de 200 € à 600 € dans le régime général, tandis que l’article L. 45 laisse sa pension à 200 € dans le régime des fonctionnaires de l’État et permet de verser la part libérée aux orphelins qui remplissent les conditions.",
       "texte": "Imaginez une réversion de 600 € partagée entre deux bénéficiaires qui touchent 400 € et 200 €. La personne qui touche 400 € décède. Si les conditions de ressources le permettent, l’autre peut passer à 600 € dans le régime général. Dans le régime des fonctionnaires de l’État, elle reste à 200 € dans cet exemple.",
       "raison": "Le décès libère la même part de 400 €. Selon le régime, elle s’ajoute à la pension de l’autre conjoint ou peut être attribuée aux enfants admissibles."
     },
@@ -9310,9 +9310,9 @@
         },
         {
           "role": "Fonctionnaires de l’État",
-          "reference": "Service des retraites de l’État, partage entre conjoints et ex-conjoints",
-          "url": "https://retraitesdeletat.gouv.fr/deces/la-reversion-les-droits/la-veuve-le-veuf-et-les-ex-conjoints",
-          "citation": "« […] sa part peut seulement être attribuée aux enfants du fonctionnaire décédé […] »"
+          "reference": "Code des pensions civiles et militaires de retraite, article L. 45",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006362777/",
+          "citation": "« En cas de décès de l’un des bénéficiaires, sa part passe le cas échéant aux orphelins […] »"
         }
       ],
       "fiches_liees": [
