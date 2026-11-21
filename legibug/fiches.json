@@ -12356,5 +12356,56 @@
         }
       ]
     }
+  },
+  {
+    "id": "conge-annonce-maladie-enfant-cinq-dix-jours",
+    "domaine": "Travail",
+    "type": "Information administrative en décalage",
+    "titre": "Cancer ou handicap annoncé chez un enfant : 10 jours de congé dans le code, 5 sur le site du ministère",
+    "entree": {
+      "ordre": 228,
+      "titre": "Cancer ou handicap annoncé chez un enfant : 10 jours de congé dans le code, 5 sur le site du ministère",
+      "face_a_face": "L’article L. 3142-4 fixe un minimum de 10 jours de congé à l’annonce d’un cancer, d’un handicap ou de certaines maladies chroniques chez un enfant, tandis que le site du ministère du Travail indique encore 5 jours pour ce congé.",
+      "texte": "Votre enfant vient de recevoir un diagnostic de cancer. Votre employeur consulte le site du ministère et vous annonce cinq jours de congé. Le code du travail fixe pourtant le minimum à dix jours depuis le 14 juin 2026.",
+      "raison": "Si l’employeur suit le chiffre affiché par le ministère, le parent risque de perdre cinq jours d’absence rémunérée que le code lui accorde."
+    },
+    "explication": [
+      "Le congé est ouvert sur justification. L’article L. 3142-5 reprend ce minimum en l’absence d’accord collectif. L’article L. 3142-2 prévoit que ce congé n’entraîne pas de réduction de la rémunération."
+    ],
+    "sources": [
+      {
+        "label": "Code du travail, article L. 3142-4, 6°",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054251220"
+      },
+      {
+        "label": "Code du travail, article L. 3142-5, absence d’accord",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033021929"
+      },
+      {
+        "label": "Ministère du Travail, congés pour événements familiaux",
+        "url": "https://travail-emploi.gouv.fr/les-conges-pour-evenements-familiaux-et-le-conge-de-deuil"
+      }
+    ],
+    "relation": {
+      "question": "Combien de jours de congé le parent peut-il prendre ?",
+      "participants": [
+        {
+          "role": "Minimum légal",
+          "reference": "Article L. 3142-4, 6°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054251220",
+          "citation": "« Dix jours pour l’annonce de la survenue d’un handicap […] »"
+        },
+        {
+          "role": "Ancien minimum encore affiché",
+          "reference": "Ministère du Travail",
+          "url": "https://travail-emploi.gouv.fr/les-conges-pour-evenements-familiaux-et-le-conge-de-deuil",
+          "citation": "« Un congé de cinq jours minimum est également prévu pour l’annonce de la survenue, chez un enfant, d’un cancer […] »"
+        }
+      ],
+      "fiches_liees": [
+        "enfant-bilan-remboursement",
+        "parents-enfant-hospitalise-hebergement"
+      ]
+    }
   }
 ]
