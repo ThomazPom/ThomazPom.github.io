@@ -11043,5 +11043,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "erreur-fiscale-interets-50-70",
+    "type": "Articulation de régimes",
+    "domaine": "Fiscalité",
+    "titre": "Même erreur fiscale de bonne foi : 50 € ou 70 € d’intérêts selon le moment où vous la corrigez",
+    "entree": {
+      "ordre": 203,
+      "titre": "Même erreur fiscale de bonne foi : 50 € ou 70 € d’intérêts selon le moment où vous la corrigez",
+      "face_a_face": "L’article 1727 du Code général des impôts réduit de moitié les intérêts de retard si vous corrigez spontanément une erreur de bonne foi, tandis que l’article L. 62 prévoit que vous en payez 70 % si vous régularisez dans les conditions prévues après le déclenchement d’un contrôle.",
+      "texte": "Prenons deux contribuables dont l’erreur donne lieu à 100 € d’intérêts avant réduction. Celui qui corrige spontanément sa déclaration et paie l’impôt à temps peut ne devoir que 50 € d’intérêts. Celui qui régularise après une demande de justifications du fisc et satisfait aux conditions de l’article L. 62 en paie 70 €.",
+      "raison": "Les deux textes réduisent ce que coûte le retard. La réduction est plus importante lorsque vous signalez vous-même l’erreur avant que l’administration intervienne. Le montant d’impôt à régulariser reste dû."
+    },
+    "explication": [
+      "L’exemple part du même montant d’intérêts avant réduction pour isoler l’effet des deux textes. Les conditions de délai, de déclaration et de paiement sont précisées par chaque texte. Pour la procédure de l’article L. 62, la déclaration initiale doit avoir été déposée dans les délais."
+    ],
+    "sources": [],
+    "relation": {
+      "question": "Combien reste-t-il à payer sur 100 € d’intérêts de retard ?",
+      "participants": [
+        {
+          "role": "50 € après correction spontanée",
+          "reference": "Code général des impôts, art. 1727, V",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051213330/",
+          "citation": "« […] réduit de 50 % en cas de dépôt spontané […] »"
+        },
+        {
+          "role": "70 € en régularisant pendant le contrôle",
+          "reference": "Livre des procédures fiscales, art. L. 62",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037312536/",
+          "citation": "« […] un montant égal à 70 % de l’intérêt de retard […] »"
+        }
+      ],
+      "fiches_liees": [
+        "compte-etranger-delai-reprise-50000"
+      ]
+    }
   }
 ]
