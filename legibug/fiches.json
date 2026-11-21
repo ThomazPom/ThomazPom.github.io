@@ -2785,7 +2785,7 @@
     "entree": {
       "ordre": 62,
       "titre": "Le bail était à son nom. Après huit mois de vie commune, pouvez-vous rester ?",
-      "face_a_face": "L’article 14 de la loi de 1989 permet au partenaire pacsé de reprendre le bail au décès du locataire sans durée minimale de vie commune, tandis qu’il exige au moins un an de cohabitation du concubin notoire.",
+      "face_a_face": "Après huit mois de vie commune, l’article 14 de la loi de 1989 permet au partenaire pacsé de reprendre le bail signé par le défunt, tandis que le même article refuse le transfert au concubin notoire dans cet exemple, car il exige de lui au moins douze mois de cohabitation.",
       "texte": "Votre partenaire décède après huit mois de vie commune. Lui seul avait signé le bail. Si vous étiez pacsés, vous pouvez demander à reprendre le bail. Si vous viviez en concubinage connu de votre entourage, huit mois ne suffisent pas à remplir la condition prévue pour le concubin survivant.",
       "raison": "Le Pacs donne accès au transfert du bail sans que la loi exige douze mois de cohabitation. Le concubin survivant doit prouver cette durée. Avec la même histoire de vie commune, le statut du couple peut donc décider qui conserve le logement."
     },
