@@ -2514,7 +2514,7 @@
     "entree": {
       "ordre": 56,
       "titre": "Même blessure sur le trajet ou au travail, protection différente contre le licenciement",
-      "face_a_face": "L’article L. 411-2 du code de la sécurité sociale assimile l’accident de trajet à un accident du travail sous conditions, tandis que les articles L. 1226-7 et L. 1226-9 du code du travail réservent la protection spéciale contre la rupture du contrat aux accidents du travail hors trajet et aux maladies professionnelles.",
+      "face_a_face": "Si vous vous cassez la jambe en allant au travail et que la caisse reconnaît l’accident de trajet, l’article L. 411-2 le traite comme un accident du travail pour vos soins, tandis que les articles L. 1226-7 et L. 1226-9 écartent pour ce même accident la protection spéciale contre le licenciement pendant votre arrêt.",
       "texte": "Vous vous blessez en allant au travail et la caisse reconnaît un accident de trajet. Elle peut prendre en charge vos soins comme pour un accident arrivé au travail. Mais si votre employeur veut vous licencier pendant l’arrêt, vous ne bénéficiez pas du régime spécial qui limite la rupture à une faute grave ou à une impossibilité de maintenir le contrat pour un motif étranger à l’accident.",
       "raison": "Le même accident reçoit deux qualifications selon le droit en jeu. Pour la caisse, le trajet peut compter comme du travail. Pour la protection spéciale de l’emploi, le code du travail exclut le trajet. Les règles ordinaires du licenciement, dont l’interdiction de discriminer en raison de l’état de santé, continuent de s’appliquer."
     },
