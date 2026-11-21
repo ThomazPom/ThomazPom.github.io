@@ -10087,7 +10087,8 @@
       "raison": "L’absence est liée à la même naissance, mais le type de congé change ce qui s’ajoute au compteur. Les jours acquis avant le congé parental restent acquis."
     },
     "explication": [
-      "L’exemple porte sur le minimum légal du secteur privé, sous réserve de dispositions plus favorables. Pour les droits liés à l’ancienneté, deux mois de congé de maternité comptent pour deux mois selon l’article L. 1225-24, tandis que deux mois de congé parental à temps plein comptent pour un mois selon l’article L. 1225-54. Ce mois d’ancienneté ne crée pas de nouveaux congés payés."
+      "L’exemple porte sur le minimum légal du secteur privé, sous réserve de dispositions plus favorables. Pour les droits liés à l’ancienneté, deux mois de congé de maternité comptent pour deux mois selon l’article L. 1225-24, tandis que deux mois de congé parental à temps plein comptent pour un mois selon l’article L. 1225-54. Ce mois d’ancienneté ne crée pas de nouveaux congés payés.",
+      "Si vous aviez cinq jours de congés payés en réserve et que le congé parental vous a empêché de les prendre pendant l’année prévue, ces cinq jours doivent être reportés après la reprise du travail, même si l’année est terminée. La Cour de cassation l’a jugé le 13 septembre 2023."
     ],
     "sources": [
       {
@@ -10105,6 +10106,10 @@
       {
         "label": "CJUE, arrêt Dicu, C-12/17",
         "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A62017CJ0012"
+      },
+      {
+        "label": "Cour de cassation, 13 septembre 2023, n° 22-14.043",
+        "url": "https://www.courdecassation.fr/decision/65015d58ee1a2205e6581654"
       }
     ],
     "relation": {
