@@ -9400,5 +9400,47 @@
         }
       ]
     }
+  },
+  {
+    "id": "essai-fin-delai-prevenance",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Il reste un jour d’essai. L’employeur doit vous prévenir deux semaines à l’avance.",
+    "entree": {
+      "ordre": 187,
+      "titre": "Il reste un jour d’essai. L’employeur doit vous prévenir deux semaines à l’avance.",
+      "face_a_face": "Après plus d’un mois de présence, l’article L. 1221-25 impose à l’employeur de prévenir le salarié deux semaines avant de rompre l’essai. Le même article interdit de prolonger l’essai pour faire tenir ces deux semaines.",
+      "texte": "Votre employeur vous annonce la rupture un jour avant la fin de votre essai de deux mois. Il ne peut pas ajouter treize jours à votre essai. Il vous doit en principe une indemnité correspondant à la partie du délai de prévenance qui n’a pas pu être effectuée.",
+      "raison": "Le délai protège votre rémunération, tandis que la date de fin de l’essai limite la durée pendant laquelle l’employeur peut encore vous mettre à l’essai."
+    },
+    "explication": [
+      "Sauf faute grave du salarié, l’indemnité couvre les salaires et avantages de la partie du délai non effectuée, y compris les congés payés correspondants."
+    ],
+    "sources": [
+      {
+        "label": "Code du travail, article L. 1221-25",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029144958/"
+      }
+    ],
+    "relation": {
+      "question": "Que se passe-t-il quand le délai de prévenance dépasse le temps d’essai restant ?",
+      "participants": [
+        {
+          "role": "Deux semaines à prévoir",
+          "reference": "Code du travail, article L. 1221-25",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029144958/",
+          "citation": "« Deux semaines après un mois de présence »"
+        },
+        {
+          "role": "Essai non prolongé",
+          "reference": "Code du travail, article L. 1221-25",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000029144958/",
+          "citation": "« La période d’essai, renouvellement inclus, ne peut être prolongée du fait de la durée du délai de prévenance. »"
+        }
+      ],
+      "fiches_liees": [
+        "cdd-requalification-prime-conservee"
+      ]
+    }
   }
 ]
