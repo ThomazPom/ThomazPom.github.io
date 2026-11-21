@@ -1145,7 +1145,7 @@
     "domaine": "Surendettement",
     "titre": "Une dette effacée pour le locataire peut rester à la charge de son garant",
     "entree": {
-      "ordre": 19,
+      "ordre": 2,
       "titre": "1 200 € de loyer impayé. Effacés pour le locataire, encore dus par son garant.",
       "face_a_face": "L’article L. 741-2 permet d’effacer les 1 200 € de loyer que le locataire doit au bailleur, tandis que l’article 2298 empêche en principe le garant d’opposer cet effacement au bailleur si son engagement les couvre.",
       "texte": "Vous êtes garant de votre sœur. Son rétablissement personnel efface 1 200 € de loyer qu’elle devait au bailleur. Celui-ci peut encore vous réclamer les 1 200 € si votre engagement les couvre. Si vous aviez déjà payé à sa place avant la décision d’effacement, c’est à vous qu’elle doit les 1 200 € et cette dette est exclue de l’effacement.",
@@ -1907,7 +1907,7 @@
     "domaine": "Fonction publique",
     "titre": "Une heure de grève peut coûter cinq fois plus à un agent de l’État",
     "entree": {
-      "ordre": 8,
+      "ordre": 190,
       "titre": "Une heure de grève, 80 € de moins à l’État et environ 16 € de moins à la mairie",
       "face_a_face": "L’article L. 711-3 impose de retirer un trentième du salaire mensuel à un agent de l’État même pour une heure de grève, tandis que le Conseil d’État exige pour un agent territorial une retenue proportionnelle à la durée de la grève.",
       "texte": "Deux agents ont chacun 2 400 € de rémunération mensuelle prise en compte pour la retenue. Pour une heure de grève, l’État retire 80 €. Une mairie retire environ 15,82 € si elle applique le calcul horaire de 1/151,67 pour un temps plein classique.",
@@ -3723,7 +3723,7 @@
     "domaine": "Justice des mineurs",
     "titre": "Un mineur pouvait être renvoyé vers un procès pour crime dans un cas où un adulte restait jugé pour un délit",
     "entree": {
-      "ordre": 2,
+      "ordre": 19,
       "titre": "Un mineur risque-t-il un procès plus sévère qu’un adulte pour les mêmes faits ?",
       "face_a_face": "L’article L. 521-4 était interprété comme obligeant le tribunal pour enfants à renvoyer l’affaire si les faits relevaient d’un crime, tandis que le dernier alinéa de l’article 469 protège en principe un adulte contre ce renvoi lorsque la victime était partie civile et assistée d’un avocat lors du renvoi en jugement.",
       "texte": "Un juge d’instruction renvoie une affaire devant un tribunal pour qu’elle soit jugée comme un délit. Si les faits paraissent finalement criminels, les textes pouvaient conduire à un nouveau procès pour le mineur, alors que l’adulte restait en principe devant le tribunal correctionnel dans le cas prévu à l’article 469. Le Conseil constitutionnel a étendu cette garantie aux mineurs pour les affaires renvoyées en jugement après le 14 novembre 2026, date de publication de sa décision au Journal officiel.",
@@ -9775,7 +9775,7 @@
     "domaine": "Travail",
     "titre": "Votre contrat garantit 2 400 €. Quel accord collectif peut les ramener à 2 200 € ?",
     "entree": {
-      "ordre": 190,
+      "ordre": 8,
       "titre": "Votre contrat garantit 2 400 €. Quel accord collectif peut les ramener à 2 200 € ?",
       "face_a_face": "L’article L. 2254-1 préserve en principe les 2 400 € de votre contrat si un accord collectif ordinaire prévoit 2 200 €. L’article L. 2254-2 permet à un accord de performance collective de remplacer la clause de salaire, même si elle vous est plus favorable.",
       "texte": "Dans les deux cas, votre contrat fixe le salaire à 2 400 €. Si l’accord est un accord de performance collective valable, prévoit 2 200 € et respecte les minima applicables, cette baisse peut s’appliquer. Vous avez un mois pour la refuser par écrit après avoir été informé dans les formes prévues.",
