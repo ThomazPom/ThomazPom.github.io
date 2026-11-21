@@ -8792,7 +8792,7 @@
     },
     "entree": {
       "titre": "La saisie s’arrête le 10 février. Les intérêts peuvent courir jusqu’au 1er mars.",
-      "face_a_face": "L’article L. 721-4 permet au juge de suspendre la saisie avant la décision de recevabilité. L’article L. 722-14 gèle les intérêts de la dette inscrite au dossier à partir de cette décision.",
+      "face_a_face": "Pour le même prêt, l’article L. 721-4 permet au juge d’arrêter la saisie dès le 10 février dans cet exemple, tandis que l’article L. 722-14 laisse les intérêts courir jusqu’au 1er mars si c’est ce jour-là que le dossier de surendettement est déclaré recevable.",
       "texte": "Vous déposez votre dossier le 1er février. Le juge suspend la saisie le 10 février et votre dossier est déclaré recevable le 1er mars. Entre ces deux dates, la saisie est à l’arrêt et les intérêts du prêt peuvent encore s’ajouter à la dette.",
       "raison": "La décision qui arrête la saisie et celle qui gèle les intérêts peuvent intervenir à des dates différentes, même pour un seul prêt.",
       "ordre": 172
