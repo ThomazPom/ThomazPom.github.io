@@ -8850,5 +8850,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "credit-impaye-deux-dix-ans",
+    "type": "Articulation de régimes",
+    "domaine": "Consommation",
+    "titre": "Crédit impayé : 2 ans pour saisir le juge, puis en principe 10 ans pour exécuter le jugement",
+    "entree": {
+      "ordre": 178,
+      "titre": "Crédit impayé : 2 ans pour saisir le juge, puis en principe 10 ans pour exécuter le jugement",
+      "face_a_face": "L’article R. 312-35 donne au prêteur 2 ans pour saisir le tribunal après le premier impayé non régularisé d’un crédit à la consommation. S’il obtient un jugement exécutoire, l’article L. 111-4 lui donne en principe 10 ans pour le faire exécuter.",
+      "texte": "Deux prêteurs font face au même premier impayé. Trois ans plus tard, celui qui n’a engagé aucune action a dépassé le délai pour saisir le tribunal. Celui qui a déjà obtenu un jugement exécutoire peut encore l’utiliser pour recouvrer la dette.",
+      "raison": "Deux ans limitent le temps pour faire reconnaître la dette par un juge. Une fois le jugement obtenu, un autre délai régit l’exécution de cette décision."
+    },
+    "explication": [
+      "L’exemple suppose un crédit à la consommation ordinaire, sans réaménagement des échéances ni événement qui modifie le calcul des délais. Pour un crédit renouvelable ou une dette rééchelonnée, l’article R. 312-35 prévoit des points de départ propres."
+    ],
+    "sources": [
+      {
+        "label": "Code de la consommation, art. R. 312-35",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347964"
+      },
+      {
+        "label": "Code des procédures civiles d’exécution, art. L. 111-4",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025025648"
+      }
+    ],
+    "relation": {
+      "question": "Le prêteur peut-il encore agir trois ans après le premier impayé ?",
+      "participants": [
+        {
+          "role": "Saisir le juge",
+          "reference": "Code de la consommation, art. R. 312-35",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039347964",
+          "citation": "« […] dans les deux ans de l’événement qui leur a donné naissance […] »"
+        },
+        {
+          "role": "Exécuter le jugement",
+          "reference": "Code des procédures civiles d’exécution, art. L. 111-4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025025648",
+          "citation": "« L’exécution des titres exécutoires […] ne peut être poursuivie que pendant dix ans […] »"
+        }
+      ]
+    }
   }
 ]
