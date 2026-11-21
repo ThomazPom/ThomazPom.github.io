@@ -8399,7 +8399,8 @@
       "La suspension automatique des saisies ne concerne pas les dettes alimentaires. Une saisie visant des arriérés de pension alimentaire ne s’arrête donc pas du seul fait de la recevabilité.",
       "Après la recevabilité de votre dossier, l’article L. 722-5 vous interdit en principe de payer vos 3 000 € d’anciens loyers, sauf notamment autorisation du juge. Mais il prévoit une exception si un juge vous a accordé des délais pour régler ces loyers selon les V et VI de l’article 24 de la loi de 1989. Vous pouvez alors payer les mensualités de l’échéancier, qui peut préserver le bail si les conditions de l’article 24 sont réunies. Le loyer courant né après la recevabilité reste dû.",
       "Si le juge suspend l’expulsion, l’article L. 722-9 fixe un maximum de 2 ans. La suspension peut s’arrêter avant, notamment lorsque le plan conventionnel de redressement est approuvé. Si le plan est approuvé après 6 mois, cette suspension prend fin à ce moment-là. Il reste à vérifier si une autre règle ou décision protège encore le logement.",
-      "Autre exception si vous êtes propriétaire. Votre dossier est déclaré recevable le 10 novembre, mais le juge a déjà ordonné la vente aux enchères de votre logement pour le 20 novembre. L’article L. 722-2 pose le principe de la suspension des saisies. Dans ce cas précis, l’article L. 722-4 prévoit que la date de vente ne peut être reportée que par le juge chargé de la saisie immobilière, à la demande de la commission et pour des motifs graves et dûment justifiés."
+      "Autre exception si vous êtes propriétaire. Votre dossier est déclaré recevable le 10 novembre, mais le juge a déjà ordonné la vente aux enchères de votre logement pour le 20 novembre. L’article L. 722-2 pose le principe de la suspension des saisies. Dans ce cas précis, l’article L. 722-4 prévoit que la date de vente ne peut être reportée que par le juge chargé de la saisie immobilière, à la demande de la commission et pour des motifs graves et dûment justifiés.",
+      "Votre résidence principale vaut 180 000 € et vos dettes s’élèvent à 120 000 €, mais vos revenus ne suffisent pas pour payer les échéances. L’article L. 711-1 permet de reconnaître le surendettement malgré la valeur de votre logement, si les autres conditions sont remplies. Si une vente forcée a déjà été ordonnée, l’article L. 722-4 exige toujours une décision du juge pour la reporter. Être admis à la procédure ne garantit donc pas de garder la maison."
     ],
     "sources": [
       {
@@ -8421,6 +8422,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224528/",
         "label": "Code de la consommation, article L. 722-4"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045178302/",
+        "label": "Code de la consommation, article L. 711-1"
       }
     ],
     "relation": {
@@ -8455,6 +8460,12 @@
           "reference": "Code de la consommation, art. L. 722-4",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224528/",
           "citation": "« […] pour causes graves et dûment justifiées. »"
+        },
+        {
+          "role": "Résidence principale valant plus que les dettes, recevabilité possible",
+          "reference": "Code de la consommation, art. L. 711-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045178302/",
+          "citation": "« […] ne fait pas obstacle à la caractérisation de la situation de surendettement. »"
         }
       ],
       "fiches_liees": [
