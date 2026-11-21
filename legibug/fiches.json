@@ -11928,5 +11928,52 @@
         }
       ]
     }
+  },
+  {
+    "id": "artistes-interpretes-commission-remuneration",
+    "type": "Décalage loi-règlement",
+    "domaine": "Culture",
+    "titre": "Rémunération des artistes-interprètes : le code décrit encore les décisions d’une commission supprimée",
+    "entree": {
+      "ordre": 221,
+      "titre": "Rémunération des artistes-interprètes : le code décrit encore les décisions d’une commission supprimée",
+      "face_a_face": "L’article 1 de la loi du 26 mai 2026 supprime la commission qui pouvait fixer la rémunération des artistes-interprètes faute d’accord, tandis que les articles R. 212-1 et R. 212-7 expliquent encore comment elle siège et comment ses décisions sont publiées.",
+      "texte": "Un artiste-interprète et un producteur audiovisuel cherchent quelle règle fixe la rémunération en l’absence d’accord dans leur secteur. En lisant le règlement, ils trouvent une commission qui délibère et dont le ministère de la Culture publie les décisions. La loi a pourtant supprimé la disposition qui lui confiait ce rôle.",
+      "raison": "Le règlement décrit encore la prise et la publication de décisions sur une rémunération que la loi n’habilite plus cette commission à fixer."
+    },
+    "explication": [
+      "L’abrogation est effective depuis le 28 mai 2026. Elle vise l’ancien article L. 212-9. Le décalage décrit ici porte sur le mécanisme qui permettait à la commission de prendre des décisions en l’absence d’accord."
+    ],
+    "sources": [
+      {
+        "label": "Loi du 26 mai 2026, article 1, XII",
+        "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131317"
+      },
+      {
+        "label": "Article R. 212-7",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006279923"
+      },
+      {
+        "label": "Article R. 212-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006279915"
+      }
+    ],
+    "relation": {
+      "question": "Cette commission peut-elle encore fixer la rémunération en l’absence d’accord ?",
+      "participants": [
+        {
+          "role": "La loi supprime le pouvoir de fixer la rémunération",
+          "reference": "Loi du 26 mai 2026, article 1, XII",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131317",
+          "citation": "« L’article L. 212-9 est abrogé. »"
+        },
+        {
+          "role": "Le règlement organise encore les décisions",
+          "reference": "Article R. 212-7",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006279923",
+          "citation": "« Les décisions de la commission sont publiées au Journal officiel […] »"
+        }
+      ]
+    }
   }
 ]
