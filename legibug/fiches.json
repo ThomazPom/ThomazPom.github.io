@@ -8871,10 +8871,10 @@
     "id": "foire-achat-comptant-credit",
     "type": "Articulation de régimes",
     "domaine": "Consommation",
-    "titre": "Même canapé acheté à la foire, droit de revenir sur l’achat selon le financement",
+    "titre": "Même canapé, trois façons de l’acheter et trois façons de changer d’avis",
     "entree": {
       "ordre": 174,
-      "titre": "À la foire, le même canapé peut être retourné ou rester à votre charge selon le financement",
+      "titre": "Même canapé, rétractation en ligne ou sur le crédit à la foire",
       "face_a_face": "Pour le même canapé standard à 1 500 € payé comptant, l’article L. 221-18 donne 14 jours après la livraison pour changer d’avis si vous l’achetez en ligne, tandis que l’article L. 224-59 prévoit qu’un achat signé à la foire ne donne aucun délai de rétractation.",
       "texte": "Vous commandez un canapé à 1 500 € dans une foire, pour une livraison ultérieure. Si vous achetez comptant, changer d’avis cinq jours plus tard ne suffit pas à annuler la vente. Si vous avez pris le crédit affecté proposé par le vendeur et vous en rétractez valablement au cinquième jour, la vente est annulée et vous pouvez demander le remboursement de l’avance.",
       "raison": "Pour le même canapé, le lieu de signature change le droit de revenir sur l’achat. À la foire, le financement peut aussi changer le résultat puisque l’article L. 224-62 permet de défaire la vente si vous vous rétractez valablement du crédit affecté."
@@ -8901,7 +8901,7 @@
       }
     ],
     "relation": {
-      "question": "Peut-on revenir sur un achat signé à une foire au bout de cinq jours ?",
+      "question": "Que pouvez-vous annuler, la vente ou le crédit ?",
       "participants": [
         {
           "role": "Achat à la foire",
