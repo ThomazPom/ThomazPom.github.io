@@ -7026,7 +7026,7 @@
     "entree": {
       "ordre": 141,
       "titre": "Votre permis est valide. Un dépassement de deux centimètres peut quand même vous obliger à reprendre le mur.",
-      "face_a_face": "L’article A. 424-8 du Code de l’urbanisme indique que le permis vérifie les règles d’urbanisme et réserve les droits des tiers. Sur le fondement de l’article 545 du Code civil, le voisin peut demander au juge de faire cesser un empiètement sur son terrain.",
+      "face_a_face": "Même si votre mur respecte le permis de construire, l’article A. 424-8 laisse subsister les droits de votre voisin, et l’article 545 du Code civil lui permet de demander au juge de faire retirer les 2 cm de mur qui dépassent sur son terrain.",
       "texte": "Vous construisez un mur selon votre permis, mais un angle dépasse de deux centimètres sur la parcelle voisine. Le voisin peut demander que le dépassement cesse sans faire annuler votre permis. Si retirer la partie qui dépasse suffit, le juge doit examiner cette solution avant d’ordonner une démolition complète.",
       "raison": "Le permis autorise un projet au regard de l’urbanisme. Il ne vous donne aucun droit sur le terrain du voisin. Le juge civil peut donc protéger sa propriété alors que votre permis reste valable."
     },
