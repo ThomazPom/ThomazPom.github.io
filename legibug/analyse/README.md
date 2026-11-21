@@ -75,3 +75,9 @@ L’article 1, XIII et XIV, de la loi du 26 mai 2026 abroge l’article L. 112-1
 L’article D. 141-7-1 du code rural demande encore à la fédération des Safer d’envoyer chaque année au ministre de l’Agriculture une synthèse nationale des prix des terres et de leurs changements d’usage pour contribuer aux indicateurs de l’article L. 112-1. Cet objectif renvoie donc toujours aux indicateurs du texte abrogé. Le décret adresse la synthèse au ministre et les données départementales aux préfets. Le circuit d’information n’a donc pas perdu son destinataire, même si sa finalité affichée renvoie à l’ancien observatoire.
 
 [Article D. 141-7-1, synthèses départementales et nationale](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071367/LEGISCTA000006152464/2026-06-02/)
+
+## Le seuil de 75 000 € après la réforme du crédit
+
+La recherche de « 75 000 euros » dans les articles en vigueur relatifs au crédit à la consommation, complétée par une recherche dans le code de la consommation, retrouve notamment l’article L. 313-10. Il utilise encore ce montant pour la fiche d’information sur l’assurance de certains prêts de travaux garantis par une hypothèque ou une sûreté comparable. Cette règle vise la remise d’une fiche d’assurance pour un prêt garanti. L’article L. 312-1 fixe quant à lui le plafond général du régime du crédit à la consommation à 100 000 €. Les deux seuils répondent à des questions différentes. La recherche n’a pas retrouvé de règlement qui maintienne le plafond général de 75 000 € pour un nouveau prêt personnel.
+
+[Article L. 313-10](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035731505) · [Article L. 312-1](https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006069565/LEGISCTA000032221971/2026-11-20)
