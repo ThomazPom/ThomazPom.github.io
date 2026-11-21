@@ -737,7 +737,7 @@
       "titre": "Vous contestez un forfait de stationnement. En attendant, la somme peut grimper.",
       "texte": "Vous estimez avoir déjà payé et contestez le forfait. La loi vous oblige à passer d’abord par un recours administratif avant de saisir le tribunal contre l’avis initial. Pendant ce temps, les trois mois pour payer continuent de courir.",
       "raison": "Ça coince puisque vous pouvez encore attendre le résultat de votre contestation quand le forfait impayé est majoré d’au moins 50 €. Le recours permet de faire annuler un forfait injustifié, mais il ne suspend pas le délai de paiement.",
-      "face_a_face": "Le VI de l’article L. 2333-87 vous oblige à contester d’abord auprès de l’administration avant de saisir le tribunal contre l’avis initial. Le IV vous donne trois mois pour payer et ajoute au moins 50 € si vous dépassez ce délai, même si vous contestez."
+      "face_a_face": "L’article L. 2333-87 vous oblige à contester d’abord auprès de l’administration pour saisir le tribunal contre l’avis initial, mais continue de vous compter les trois mois pour payer et peut faire passer un forfait impayé de 35 € à 85 € pendant que vous attendez la réponse."
     },
     "explication": [
       "Le délai de trois mois court à partir de la notification de l’avis. La majoration réglementaire est de 20 % de l’impayé restant dû, avec un minimum de 50 €.",
