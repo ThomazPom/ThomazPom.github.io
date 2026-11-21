@@ -1011,18 +1011,22 @@
     "entree": {
       "ordre": 3,
       "titre": "L’État vous doit un logement. Peut-il quand même vous faire expulser avant de vous reloger ?",
-      "face_a_face": "L’article L. 441-2-3-1 permet à un juge d’ordonner à l’État de vous reloger en urgence. L’article L. 153-1 oblige en principe l’État à fournir l’aide de la police pour exécuter le jugement d’expulsion, même si vous attendez encore ce logement.",
+      "face_a_face": "Même si un juge a ordonné à l’État de vous reloger en urgence (article L. 441-2-3-1), l’article L. 153-1 lui impose en principe de prêter main-forte à votre expulsion, y compris avant de vous avoir trouvé un logement.",
       "texte": "Par exemple, le tribunal administratif ordonne à l’État de vous trouver un logement adapté, et un jugement civil ordonne votre expulsion pour loyers impayés. Le préfet peut accorder l’aide de la police pour l’expulsion alors qu’aucun logement adapté ne vous a encore été proposé.",
       "raison": "Ça coince puisque l’État peut participer à l’expulsion alors qu’il n’a pas encore rempli son obligation de relogement. Le Conseil d’État a jugé que l’absence de solution de relogement ne suffit pas, à elle seule, à suspendre l’intervention de la force publique."
     },
     "explication": [
       "Le recours au titre du droit au logement opposable vise l’attribution d’un logement adapté. Le recours contre la décision d’envoyer la force publique vise l’exécution de l’expulsion. Dans une affaire à Marseille, un premier juge avait bloqué l’intervention de la police après les démarches infructueuses du couple pour trouver un logement. Le 30 juin 2010, le Conseil d’État a annulé cette suspension et refusé de bloquer l’intervention de la police. Il a jugé que l’absence de solution de relogement ne suffisait pas à elle seule.",
-      "Des circonstances particulières, notamment un risque grave pour la dignité humaine, peuvent changer l’analyse. La commission de médiation peut aussi saisir le juge pour demander un délai avant l’expulsion dans les conditions prévues par la loi."
+      "Dans une décision de 2025, le Conseil d’État rappelle que le juge peut suspendre l’intervention de la police si, faute de logement, d’hébergement ou de prise en charge adaptée, l’expulsion expose la personne à un risque particulièrement grave pour sa santé ou sa vie, dans des circonstances que le juge de l’expulsion n’a pas prises en compte. La commission de médiation peut aussi saisir le juge pour demander un délai avant l’expulsion dans les conditions prévues par la loi."
     ],
     "sources": [
       {
         "label": "Conseil d’État, 30 juin 2010, n° 332259",
         "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2010-06-30/332259"
+      },
+      {
+        "label": "Conseil d’État, 19 mai 2025, n° 503719",
+        "url": "https://www.legifrance.gouv.fr/ceta/id/CETATEXT000051646888"
       },
       {
         "label": "Code de la construction et de l’habitation, art. L. 441-2-3, VIII",
