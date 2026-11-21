@@ -2722,7 +2722,8 @@
     },
     "explication": [
       "Le mois de réduction est un minimum légal. Des garanties supplémentaires s’appliquent à certains ménages, notamment aux bénéficiaires du chèque énergie. Certains fournisseurs prennent des engagements plus protecteurs. Cette fiche vise les coupures pour impayé dans une résidence principale.",
-      "La Cour de cassation a jugé en 2018 que la faculté de réduire la puissance était réservée aux fournisseurs d’électricité et ne permettait pas aux distributeurs d’eau de réduire le débit pour impayé. L’arrêt interprétait une version antérieure de l’article. Le texte actuel autorise toujours expressément une réduction pour l’électricité, sans donner cette faculté aux distributeurs d’eau."
+      "La Cour de cassation a jugé en 2018 que la faculté de réduire la puissance était réservée aux fournisseurs d’électricité et ne permettait pas aux distributeurs d’eau de réduire le débit pour impayé. L’arrêt interprétait une version antérieure de l’article. Le texte actuel autorise toujours expressément une réduction pour l’électricité, sans donner cette faculté aux distributeurs d’eau.",
+      "Après 45 jours de puissance réduite en été, le minimum d’un mois prévu par l’article L. 115-3 est passé. Toutefois, si vous avez signalé votre chèque énergie au fournisseur et que votre compteur est effectivement communicant, l’article 2 du décret du 13 août 2008 exige au moins 60 jours de réduction à 1 kVA avant une coupure pour impayé. Dans cet exemple, la coupure reste donc prématurée."
     ],
     "sources": [
       {
@@ -2732,6 +2733,10 @@
       {
         "label": "Cour de cassation, 16 mai 2018, n° 17-13.395, réduction du débit d’eau",
         "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000036947087"
+      },
+      {
+        "label": "Décret du 13 août 2008, article 2",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000047233402"
       }
     ],
     "relation": {
