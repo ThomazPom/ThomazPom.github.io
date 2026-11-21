@@ -1485,8 +1485,8 @@
     "entree": {
       "ordre": 42,
       "titre": "Un conducteur sans permis vous blesse. Son assureur peut-il refuser de payer ?",
-      "face_a_face": "L’article R. 211-10 autorise une clause excluant la garantie si le conducteur n’a pas le permis requis, tandis que l’article R. 211-13 interdit à l’assureur d’opposer cette exclusion à la victime.",
-      "texte": "Si la clause s’applique, l’assureur paie l’indemnité à la victime pour le compte du responsable, puis peut lui demander de rembourser les sommes versées.",
+      "face_a_face": "L’article R. 211-10 permet au contrat d’exclure la garantie du conducteur sans permis. L’article R. 211-13 oblige quand même l’assureur à payer la victime.",
+      "texte": "Imaginez que votre indemnité s’élève à 8 000 €. Même si le contrat exclut valablement le conducteur responsable parce qu’il roulait sans permis, l’assureur vous verse les 8 000 €. Il peut ensuite en réclamer le remboursement au responsable.",
       "raison": "Ça semble contradictoire puisque l’assureur peut refuser la garantie au responsable tout en étant tenu de payer le même dommage à la victime. Le code sépare l’indemnisation de la victime et la personne qui supportera finalement le coût."
     },
     "explication": [
