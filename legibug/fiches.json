@@ -6654,7 +6654,8 @@
     },
     "explication": [
       "L’héritier sommé de choisir peut demander un délai supplémentaire au juge pour des motifs prévus à l’article 772. L’article 780 prévoit notamment que le délai ne court pas pendant que l’héritier a des motifs légitimes d’ignorer la naissance de son droit.",
-      "Même un refus exprès peut laisser un recours à vos propres créanciers. Si vous renoncez à un héritage de 30 000 € alors que vous devez 10 000 € et que ce refus empêche votre créancier d’être payé, l’article 779 lui permet de demander au juge l’autorisation d’accepter à votre place. S’il l’obtient, l’acceptation joue pour lui seulement et dans la limite de ses 10 000 €. Vous ne récupérez pas le reste du fait de cette acceptation."
+      "Même un refus exprès peut laisser un recours à vos propres créanciers. Si vous renoncez à un héritage de 30 000 € alors que vous devez 10 000 € et que ce refus empêche votre créancier d’être payé, l’article 779 lui permet de demander au juge l’autorisation d’accepter à votre place. S’il l’obtient, l’acceptation joue pour lui seulement et dans la limite de ses 10 000 €. Vous ne récupérez pas le reste du fait de cette acceptation.",
+      "Si vous êtes seul héritier et que votre père laisse 5 000 € de biens et 8 000 € de dettes ordinaires, une acceptation pure et simple peut vous obliger à payer les 3 000 € manquants avec votre argent, en application de l’article 785. Si votre silence vaut renonciation, vous ne recevez pas les 5 000 € et ces dettes ordinaires ne vous sont pas transmises. L’article 786 prévoit une possibilité de décharge dans certains cas."
     ],
     "sources": [
       {
@@ -6668,6 +6669,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006431473/2026-11-21",
         "label": "Code civil, article 779, recours des créanciers personnels"
+      },
+      {
+        "label": "Code civil, articles 785 et 786, dettes après acceptation",
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006070721/LEGISCTA000006150535/"
       }
     ],
     "relation": {
