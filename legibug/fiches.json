@@ -2626,8 +2626,7 @@
     "explication": [
       "Ce régime vise une opération non autorisée. Si vous avez donné votre accord à l’opération précise, sa qualification peut être différente, même si un tiers vous a trompé.",
       "Dans une affaire de faux conseiller, la Cour de cassation a admis que les juges retiennent l’absence de négligence grave au vu des circonstances du dossier.",
-      "L’article L. 133-24 vous impose de signaler le débit sans tarder, avec une limite de 13 mois depuis le débit dans le cas ordinaire. Si vous découvrez un débit 14 mois après et que la banque avait mis les informations requises à votre disposition, il est en principe trop tard. Si elle ne les a pas fournies ni mises à disposition, le même article écarte cette limite de 13 mois.",
-      "Pour un débit par carte non autorisé, si votre banque est en métropole et que le prestataire du bénéficiaire est hors de l’Espace économique européen, l’article L. 133-1-1 ramène la limite de 13 mois à 70 jours, avec une prolongation contractuelle plafonnée à 120 jours. Si vous découvrez et signalez le débit au 130ᵉ jour, la limite de 13 mois est encore ouverte dans le cas ordinaire, tandis que même le délai contractuel maximal est dépassé dans le second cas, si les informations requises ont été mises à disposition."
+      "L’article L. 133-24 vous impose de signaler le débit sans tarder, avec une limite de 13 mois depuis le débit dans le cas ordinaire. Si vous découvrez un débit 14 mois après et que la banque avait mis les informations requises à votre disposition, il est en principe trop tard. Si elle ne les a pas fournies ni mises à disposition, le même article écarte cette limite de 13 mois."
     ],
     "sources": [
       {
@@ -10216,6 +10215,52 @@
       ],
       "fiches_liees": [
         "indivision-vente-unanimite-deux-tiers"
+      ]
+    }
+  },
+  {
+    "id": "carte-contestation-delai-hors-eee",
+    "type": "Articulation de régimes",
+    "domaine": "Banque",
+    "titre": "Débit par carte non autorisé : 13 mois ou 70 jours pour le signaler",
+    "entree": {
+      "ordre": 58.2,
+      "titre": "Débit par carte non autorisé : 13 mois ou 70 jours pour le signaler",
+      "face_a_face": "Pour un débit par carte non autorisé, l’article L. 133-24 fixe en principe une limite de 13 mois pour le signaler, tandis que l’article L. 133-1-1 la ramène à 70 jours si votre banque est en métropole et que le prestataire du bénéficiaire est hors de l’Espace économique européen.",
+      "texte": "Vous découvrez et signalez le débit au 130ᵉ jour. Dans le cas ordinaire, les 13 mois ne sont pas écoulés. Dans le second cas, même le délai contractuel maximal de 120 jours est dépassé si les informations requises ont été mises à votre disposition.",
+      "raison": "C’est le pays du prestataire du bénéficiaire qui change la date limite dans cet exemple. La devise ne change pas ce résultat."
+    },
+    "explication": [
+      "Il faut signaler le débit sans tarder. L’exemple suppose une opération par carte non autorisée et que votre banque est en métropole."
+    ],
+    "sources": [
+      {
+        "label": "Code monétaire et financier, article L. 133-24",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035430562/"
+      },
+      {
+        "label": "Code monétaire et financier, article L. 133-1-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037294430"
+      }
+    ],
+    "relation": {
+      "question": "Le signalement au 130ᵉ jour est-il encore dans le délai ?",
+      "participants": [
+        {
+          "role": "Délai ordinaire",
+          "reference": "Art. L. 133-24",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035430562/",
+          "citation": "« […] au plus tard dans les treize mois suivant la date de débit […] »"
+        },
+        {
+          "role": "Prestataire du bénéficiaire hors EEE",
+          "reference": "Art. L. 133-1-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037294430",
+          "citation": "« […] le délai de treize mois est ramené à soixante-dix jours. »"
+        }
+      ],
+      "fiches_liees": [
+        "banque-authentification-remboursement"
       ]
     }
   }
