@@ -47,3 +47,9 @@ L’article R. 543-155-2 permet à un broyeur de recevoir des véhicules provena
 L’article 6 de la loi du 26 mai 2026 abroge le 6 de l’article 238 bis du code général des impôts à compter du 1er janvier 2027. Au 21 novembre 2026, l’article 49 septies X de l’annexe III peut donc toujours renvoyer à ce 6 pour la déclaration des dons des entreprises. La piste est écartée pour la date étudiée. La version du règlement applicable au 1er janvier 2027 devra être vérifiée séparément.
 
 [Article 6 de la loi du 26 mai 2026](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131445) · [Article 238 bis](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054402913) · [Article 49 septies X](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038561759)
+
+## Six mois pour une réponse de l’assureur après expertise
+
+L’article L. 121-18 du code des assurances prévoit en principe une réponse sous six mois à compter de la déclaration si un expert est désigné. L’article L. 125-2 prévoit pour la garantie catastrophe naturelle une proposition dans le mois suivant la réception du rapport d’expertise définitif. Ces deux délais partent d’événements différents. En outre, l’article 30 de la loi du 26 mai 2026 rend le nouveau régime applicable aux contrats conclus ou tacitement reconduits à compter de la publication du décret qui doit fixer les exclusions. Le suivi du Sénat indique que ce décret est encore attendu. La règle des six mois ne fournit donc pas de conflit actuel démontré pour les assurés victimes d’une catastrophe naturelle.
+
+[Article L. 121-18](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054136978) · [Article L. 125-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054141744) · [Suivi des décrets par le Sénat](https://www.senat.fr/application-des-lois/pjl23-550.html)
