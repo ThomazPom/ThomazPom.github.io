@@ -9566,5 +9566,48 @@
         "cdd-requalification-prime-conservee"
       ]
     }
+  },
+  {
+    "id": "mutation-meme-secteur-salarie-protege",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Même mutation, même secteur. Un salarié peut la refuser, l’autre doit en principe l’accepter.",
+    "entree": {
+      "ordre": 189,
+      "titre": "Même mutation, même secteur. Un salarié peut la refuser, l’autre doit en principe l’accepter.",
+      "face_a_face": "Pour un salarié ordinaire, une mutation dans le même secteur géographique peut être imposée comme un changement des conditions de travail. Pour un salarié protégé, la Cour de cassation juge que même ce type de changement exige son accord.",
+      "texte": "Deux collègues doivent rejoindre un autre site dans le même secteur, sans changement de poste ni de rémunération. Si la mutation est bien un simple changement des conditions de travail, l’employeur peut en principe l’imposer au premier. Pour le second, qui bénéficie d’un statut protecteur lié aux élections professionnelles, il doit obtenir son accord.",
+      "raison": "Le déplacement est identique. Le statut protecteur change le pouvoir de l’employeur sur les conditions de travail."
+    },
+    "explication": [
+      "Si le salarié protégé refuse, l’employeur doit maintenir les conditions antérieures ou, s’il engage un licenciement, demander l’autorisation de l’administration. Dans l’arrêt cité, l’employeur connaissait la candidature du salarié aux élections au moment où il a imposé la mutation."
+    ],
+    "sources": [
+      {
+        "label": "Service Public, modification du contrat de travail",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2339"
+      },
+      {
+        "label": "Cour de cassation, 4 octobre 2023, n° 22-12.922",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000048176096"
+      }
+    ],
+    "relation": {
+      "question": "L’employeur peut-il imposer le même changement de lieu aux deux collègues ?",
+      "participants": [
+        {
+          "role": "Règle ordinaire",
+          "reference": "Service Public, modification du contrat de travail",
+          "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2339",
+          "citation": "« […] une simple modification des conditions de travail. »"
+        },
+        {
+          "role": "Salarié protégé",
+          "reference": "Cour de cassation, 4 octobre 2023, n° 22-12.922",
+          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000048176096",
+          "citation": "« […] aucun […] changement de ses conditions de travail ne peut être imposé à un salarié protégé. »"
+        }
+      ]
+    }
   }
 ]
