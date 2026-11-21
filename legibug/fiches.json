@@ -10758,5 +10758,47 @@
         "recours-decision-administrative-sans-delai-czabaj"
       ]
     }
+  },
+  {
+    "id": "retention-90-jours-360-jours-cumules",
+    "type": "Articulation de régimes",
+    "domaine": "Droit des étrangers",
+    "titre": "Rétention administrative : 90 jours pour un placement, jusqu’à 360 jours en plusieurs fois",
+    "entree": {
+      "ordre": 4.5,
+      "titre": "Rétention administrative : 90 jours pour un placement, jusqu’à 360 jours en plusieurs fois",
+      "face_a_face": "L’article L. 742-5 plafonne à 90 jours un placement prolongé selon le régime général, mais l’article L. 741-7 autorise, sous conditions, jusqu’à cinq placements et 360 jours au total pour exécuter la même mesure d’éloignement.",
+      "texte": "Une personne sort du centre après 90 jours sans avoir été éloignée. Si des circonstances nouvelles le justifient et que les autres conditions légales sont remplies, le préfet peut décider un nouveau placement pour la même mesure d’éloignement. Deux placements de 90 jours représenteraient alors 180 jours au total.",
+      "raison": "Les 90 jours limitent un placement continu. Le plafond de 360 jours additionne les placements successifs. Le juge doit vérifier si le nouveau placement ou sa prolongation reste nécessaire compte tenu du temps déjà passé en rétention."
+    },
+    "explication": [
+      "Le nouveau placement doit être spécialement motivé. Un délai de 48 heures s’applique en principe après la fin du précédent placement. Le plafond cumulé passe à 540 jours si la rétention a été prolongée suivant le régime spécial de l’article L. 742-6."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042775064",
+        "label": "Code de l’entrée et du séjour des étrangers et du droit d’asile, art. L. 741-7, version en vigueur depuis le 29 juillet 2026"
+      }
+    ],
+    "relation": {
+      "question": "Le plafond de 90 jours interdit-il un deuxième placement pour le même éloignement ?",
+      "participants": [
+        {
+          "role": "Plafond pour un placement prolongé dans le régime général",
+          "reference": "CESEDA, art. L. 742-5",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGISCTA000048447023/",
+          "citation": "« La durée maximale de la rétention n’excède alors pas quatre-vingt-dix jours. »"
+        },
+        {
+          "role": "Plafond cumulé de plusieurs placements",
+          "reference": "CESEDA, art. L. 741-7, II",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042775064",
+          "citation": "« […] ne peut excéder trois cent soixante jours. »"
+        }
+      ],
+      "fiches_liees": [
+        "silence-administration-titre-sejour-refus"
+      ]
+    }
   }
 ]
