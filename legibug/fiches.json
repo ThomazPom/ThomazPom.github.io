@@ -979,8 +979,8 @@
     "entree": {
       "ordre": 3,
       "titre": "L’État vous doit un logement. Peut-il quand même vous faire expulser avant de vous reloger ?",
-      "face_a_face": "L’article L. 441-2-3-1 permet au juge d’ordonner à l’État de vous reloger en urgence, tandis que l’article L. 153-1 oblige en principe ce même État à aider à exécuter le jugement qui ordonne votre expulsion.",
-      "texte": "Vous pouvez être reconnu prioritaire au titre du droit au logement opposable et attendre encore un logement adapté lors de l’arrivée de la police.",
+      "face_a_face": "L’article L. 441-2-3-1 permet à un juge d’ordonner à l’État de vous reloger en urgence. L’article L. 153-1 oblige en principe l’État à fournir l’aide de la police pour exécuter le jugement d’expulsion, même si vous attendez encore ce logement.",
+      "texte": "Par exemple, le tribunal administratif ordonne à l’État de vous trouver un logement adapté, et un jugement civil ordonne votre expulsion pour loyers impayés. Le préfet peut accorder l’aide de la police pour l’expulsion alors qu’aucun logement adapté ne vous a encore été proposé.",
       "raison": "Ça coince puisque l’État peut participer à l’expulsion alors qu’il n’a pas encore rempli son obligation de relogement. Le Conseil d’État a jugé que l’absence de solution de relogement ne suffit pas, à elle seule, à suspendre l’intervention de la force publique."
     },
     "explication": [
