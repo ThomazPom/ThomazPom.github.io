@@ -1152,7 +1152,7 @@
     "entree": {
       "ordre": 2,
       "titre": "1 200 € de loyer impayé. Effacés pour le locataire, encore dus par son garant.",
-      "face_a_face": "L’article L. 741-2 permet d’effacer les 1 200 € de loyer que le locataire doit au bailleur, tandis que l’article 2298 empêche en principe le garant d’opposer cet effacement au bailleur si son engagement les couvre.",
+      "face_a_face": "Pour les mêmes loyers impayés, l’article L. 741-2 peut ramener à 0 € ce que votre sœur doit au propriétaire, tandis que l’article 2298 permet en principe au propriétaire de vous réclamer encore les 1 200 € si vous vous êtes porté garant pour cette somme.",
       "texte": "Vous êtes garant de votre sœur. Son rétablissement personnel efface 1 200 € de loyer qu’elle devait au bailleur. Celui-ci peut encore vous réclamer les 1 200 € si votre engagement les couvre. Si vous aviez déjà payé à sa place avant la décision d’effacement, c’est à vous qu’elle doit les 1 200 € et cette dette est exclue de l’effacement.",
       "raison": "Le résultat change selon qui doit payer et à qui. L’effacement protège votre sœur contre le bailleur pour le loyer couvert par la décision, mais il ne vous libère pas de votre engagement. Il laisse aussi subsister la dette correspondant à la somme que vous aviez déjà avancée à sa place si vous êtes garant à titre personnel."
     },
