@@ -11265,12 +11265,16 @@
       "raison": "Le Conseil constitutionnel exige que la durée dépende des besoins de la personne et du temps nécessaire à son accompagnement. Le code prévoit aussi une réduction du minimum et, dans certaines situations, un plan sans durée chiffrée."
     },
     "explication": [
-      "Le texte vise aussi des difficultés particulières et avérées liées à la santé, au handicap ou à l’invalidité. La réserve du Conseil constitutionnel, reproduite sous l’article, exige une durée adaptée à la situation personnelle et familiale."
+      "Le texte vise aussi des difficultés particulières et avérées liées à la santé, au handicap ou à l’invalidité. La durée doit rester limitée au temps nécessaire à l’accompagnement. Le Conseil constitutionnel précise aussi qu’une formation ou une action d’accompagnement peut compter comme activité. Si le plan prévoit une activité salariée, elle suppose un contrat de travail et une rémunération selon le droit commun."
     ],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006157612/2026-08-24/",
         "label": "Code de l’action sociale et des familles, art. L. 262-34, contrat des bénéficiaires du RSA"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/juri/id/CONSTEXT000048796412",
+        "label": "Conseil constitutionnel, décision 2023-858 DC, paragraphes 34 et 35"
       }
     ],
     "relation": {
