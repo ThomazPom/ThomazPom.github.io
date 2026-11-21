@@ -1178,7 +1178,7 @@
     "entree": {
       "ordre": 37,
       "titre": "Le surendettement exclut en principe l’échelonnement. Un juge a accordé 24 mois pour payer.",
-      "face_a_face": "L’article L. 711-4 exclut en principe l’échelonnement des indemnités dues aux victimes dans une procédure de surendettement, tandis que l’article 1343-5 permet au juge civil d’accorder jusqu’à deux ans pour payer.",
+      "face_a_face": "L’article L. 711-4 interdit d’étaler l’indemnité due à une victime dans un dossier de surendettement sans son accord. En dehors de cette procédure, un juge de Nanterre a donné 24 mois pour payer des indemnités de ce type, en appliquant l’article 1343-5 du code civil.",
       "texte": "Deux sociétés réclamaient des indemnités qui leur avaient été allouées après une infraction. Elles invoquaient l’article sur le surendettement pour s’opposer à un échéancier. Le 17 juillet 2025, le juge de l’exécution de Nanterre a appliqué l’article 1343-5 du Code civil et a accordé un délai de 24 mois pour chacune des deux créances.",
       "raison": "Sans l’accord de la victime, la procédure de surendettement ne peut en principe étaler cette indemnité. Dans l’affaire de Nanterre, le juge de l’exécution a estimé que l’échelonnement pouvait permettre aux victimes d’être payées. Il a pu fixer un délai au titre d’une autre procédure, sans réduire la dette."
     },
