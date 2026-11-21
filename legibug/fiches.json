@@ -11162,5 +11162,42 @@
         }
       ]
     }
+  },
+  {
+    "id": "arts-appliques-heures-renvoi-abroge",
+    "type": "Renvoi obsolète",
+    "domaine": "Éducation",
+    "titre": "Diplôme d’arts appliqués : les 1 350 heures renvoient à une exception introuvable",
+    "entree": {
+      "ordre": 205,
+      "titre": "Diplôme d’arts appliqués : les 1 350 heures renvoient à une exception introuvable",
+      "face_a_face": "L’article D. 642-23 fixe au moins 1 350 heures de formation en apprentissage, « sous réserve » de l’article D. 642-24, mais le même décret de 2025 a abrogé cet article, qui concernait l’inscription à l’examen.",
+      "texte": "Une école qui prépare le diplôme supérieur d’arts appliqués veut savoir si elle peut proposer 1 300 heures en apprentissage. La phrase « sous réserve » invite à chercher une dérogation. Le texte visé est abrogé et son dernier contenu indiquait où s’inscrire à l’examen. Ce renvoi ne donne donc aucun fondement pour réduire les 1 350 heures.",
+      "raison": "Le décret n° 2025-144 a modifié les règles sur les heures de formation dans son article 3 et supprimé l’article auquel elles renvoient dans son article 4. Il a conservé le renvoi dans la nouvelle rédaction."
+    },
+    "explication": [
+      "La comparaison porte sur les formations régies par la nouvelle rédaction à partir de la rentrée 2025. Le décret prévoit une règle transitoire pour certains candidats déjà engagés dans des formations qui n’ont pas obtenu d’autorisation d’ouverture."
+    ],
+    "sources": [],
+    "relation": {
+      "question": "Le renvoi permet-il de réduire la durée de la formation ?",
+      "participants": [
+        {
+          "role": "Minimum horaire avec renvoi",
+          "reference": "Code de l’éducation, art. D. 642-23",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000051207952/2026-07-02",
+          "citation": "« Sous réserve des dispositions de l’article D. 642-24 […] au moins égal à 1 350 heures »"
+        },
+        {
+          "role": "Article visé, abrogé depuis septembre 2025",
+          "reference": "Code de l’éducation, ancien art. D. 642-24",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071191/LEGISCTA000027865511/2026-05-31",
+          "citation": "« […] s’inscrivent auprès du service académique chargé de l’organisation de l’examen. »"
+        }
+      ],
+      "fiches_liees": [
+        "education-artistique-rapport-haut-conseil-supprime"
+      ]
+    }
   }
 ]
