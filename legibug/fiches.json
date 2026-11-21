@@ -996,6 +996,10 @@
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900091",
           "citation": "Le refus de l’État de prêter son concours ouvre droit à réparation."
         }
+      ],
+      "fiches_liees": [
+        "dalo-expulsion-avant-relogement",
+        "treve-hivernale-refus-indemnisation"
       ]
     }
   },
