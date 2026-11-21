@@ -2167,7 +2167,8 @@
     },
     "explication": [
       "La règle vise ici un refus intervenu alors que le sursis protège déjà l’occupant. La période de responsabilité ne détermine pas à elle seule le montant versé. Cette fiche porte sur la responsabilité de l’État et la dette éventuelle de l’occupant obéit à ses propres règles.",
-      "Même après la fin de la trêve, le jugement ne donne pas au propriétaire le droit de forcer lui-même l’occupant à partir. Par exemple, s’il change les serrures pour empêcher le retour de l’occupant, il risque jusqu’à 3 ans de prison et 30 000 € d’amende si les conditions de l’article 226-4-2 du Code pénal sont réunies. Le jugement peut autoriser l’expulsion, mais son exécution doit suivre la procédure légale."
+      "Même après la fin de la trêve, le jugement ne donne pas au propriétaire le droit de forcer lui-même l’occupant à partir. Par exemple, s’il change les serrures pour empêcher le retour de l’occupant, il risque jusqu’à 3 ans de prison et 30 000 € d’amende si les conditions de l’article 226-4-2 du Code pénal sont réunies. Le jugement peut autoriser l’expulsion, mais son exécution doit suivre la procédure légale.",
+      "En décembre, l’article L. 412-6 reporte en principe une expulsion ordinaire jusqu’à la fin de la trêve, le 31 mars. Si le juge aux affaires familiales ordonne l’expulsion d’un conjoint, partenaire pacsé ou concubin violent dans le cadre d’une ordonnance de protection, l’article L. 412-8 écarte cette trêve. La décision peut alors être exécutée sans attendre le 1er avril, selon la procédure applicable."
     ],
     "sources": [
       {
@@ -2177,6 +2178,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028776961/",
         "label": "Code pénal, article 226-4-2"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026052/",
+        "label": "Code des procédures civiles d’exécution, article L. 412-8"
       }
     ],
     "relation": {
@@ -2199,6 +2204,12 @@
           "reference": "Code pénal, art. 226-4-2",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028776961/",
           "citation": "« […] est puni de trois ans d’emprisonnement et de 30 000 € d’amende. »"
+        },
+        {
+          "role": "Ordonnance de protection, exception à la trêve",
+          "reference": "Code des procédures civiles d’exécution, art. L. 412-8",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000025026052/",
+          "citation": "« Les articles L. 412-1 à L. 412-7 ne sont pas applicables à l’expulsion […] »"
         }
       ]
     }
