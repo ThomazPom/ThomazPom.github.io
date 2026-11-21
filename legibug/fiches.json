@@ -9485,7 +9485,8 @@
       "raison": "Le texte du CDD emprunte au CDI son minimum de calcul, tandis que le seuil de 8 mois s’applique au droit à l’indemnité du CDI."
     },
     "explication": [
-      "Cette comparaison porte sur les indemnités légales de rupture. Une convention collective peut prévoir des dispositions plus favorables. Les règles diffèrent lorsque l’inaptitude est d’origine professionnelle."
+      "Cette comparaison porte sur les indemnités légales de rupture. Une convention collective peut prévoir des dispositions plus favorables. Les règles diffèrent lorsque l’inaptitude est d’origine professionnelle.",
+      "Reprenons le CDI avec six mois d’ancienneté. Si l’inaptitude est d’origine professionnelle, par exemple après un accident du travail, l’article L. 1226-14 ouvre droit à une indemnité spéciale sans minimum d’ancienneté. Elle atteint en principe au moins le double de l’indemnité légale de référence. Le texte prévoit une exception si l’employeur établit le caractère abusif du refus d’un reclassement proposé."
     ],
     "sources": [
       {
@@ -9499,6 +9500,10 @@
       {
         "label": "Service Public, indemnités en cas d’inaptitude",
         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31225"
+      },
+      {
+        "label": "Code du travail, article L. 1226-14",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900981/"
       }
     ],
     "relation": {
