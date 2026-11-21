@@ -2774,7 +2774,8 @@
     },
     "explication": [
       "La décision distingue le droit de présenter la demande et les chances d’obtenir une réduction. Un refus injustifié de payer peut entraîner des dommages-intérêts.",
-      "L’affaire portait sur les tours d’eau imposés par le préfet à la suite d’une sécheresse exceptionnelle. La fiche décrit la règle applicable à une demande de réduction du prix, sans se prononcer sur les restrictions d’eau actuelles."
+      "L’affaire portait sur les tours d’eau imposés par le préfet à la suite d’une sécheresse exceptionnelle. La fiche décrit la règle applicable à une demande de réduction du prix, sans se prononcer sur les restrictions d’eau actuelles.",
+      "Dans cette affaire, les interruptions étaient programmées pour gérer le manque d’eau. L’interdiction des coupures d’eau pour facture impayée répond à une autre situation. La fiche liée explique cette protection."
     ],
     "sources": [
       {
@@ -2797,6 +2798,9 @@
           "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000050868568",
           "citation": "« … la réduction du prix peut, en toute hypothèse, être demandée en justice […] »"
         }
+      ],
+      "fiches_liees": [
+        "impayes-eau-electricite-coupure"
       ]
     }
   },
