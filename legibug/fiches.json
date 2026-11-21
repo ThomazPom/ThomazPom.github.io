@@ -10659,7 +10659,8 @@
     },
     "explication": [
       "L’exemple vise la contestation d’une décision administrative individuelle expresse. Des circonstances particulières ou un recours administratif régi par un texte spécial peuvent changer le résultat.",
-      "Si l’administration ne répond pas et que son silence vaut refus, la règle d’un an peut aussi s’appliquer. Mais le seul fait d’avoir déposé la demande ne prouve pas que vous connaissiez le refus. Le Conseil d’État retient par exemple que vous en avez connaissance si l’administration vous a clairement indiqué quand son silence vaudrait refus, ou si un courrier ultérieur vous apprend que la demande a été rejetée."
+      "Si l’administration ne répond pas et que son silence vaut refus, la règle d’un an peut aussi s’appliquer. Mais le seul fait d’avoir déposé la demande ne prouve pas que vous connaissiez le refus. Le Conseil d’État retient par exemple que vous en avez connaissance si l’administration vous a clairement indiqué quand son silence vaudrait refus, ou si un courrier ultérieur vous apprend que la demande a été rejetée.",
+      "Quatorze mois après un refus écrit, le résultat peut changer selon ce que vous demandez au juge. Si vous voulez faire annuler ce refus, le délai raisonnable d’un an peut vous être opposé. Si vous demandez une indemnité pour un dommage causé par une personne publique, le Conseil d’État écarte cette limite d’un an. D’autres délais peuvent alors s’appliquer, notamment la prescription de quatre ans pour certaines créances publiques."
     ],
     "sources": [
       {
@@ -10669,6 +10670,10 @@
       {
         "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2019-03-18/417270",
         "label": "Conseil d’État, 18 mars 2019, n° 417270, refus implicite"
+      },
+      {
+        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2019-06-17/413097",
+        "label": "Conseil d’État, 17 juin 2019, n° 413097, action en réparation"
       }
     ],
     "relation": {
