@@ -10267,5 +10267,56 @@
         "banque-authentification-remboursement"
       ]
     }
+  },
+  {
+    "id": "prelevement-sepa-autorise-treize-mois",
+    "type": "Articulation de régimes",
+    "domaine": "Banque",
+    "titre": "Même prélèvement SEPA, huit semaines ou treize mois pour réagir",
+    "entree": {
+      "ordre": 58.3,
+      "titre": "Même prélèvement SEPA, huit semaines ou treize mois pour réagir",
+      "face_a_face": "Pour un même prélèvement SEPA de 120 €, les articles L. 133-25 et L. 133-25-1 vous donnent huit semaines pour demander le remboursement s’il était autorisé, tandis que l’article L. 133-24 vous permet en principe de le signaler jusqu’à treize mois après le débit si vous ne l’avez jamais autorisé.",
+      "texte": "Vous découvrez le débit dix semaines après. Si vous aviez signé un mandat valable qui couvre ce débit, les huit semaines sont écoulées. Si vous ne l’avez jamais autorisé, signalez-le sans tarder. Dix semaines restent dans la limite de treize mois.",
+      "raison": "Le montant et la date de débit sont identiques. L’existence du mandat change le délai. Le remboursement d’un prélèvement autorisé ne fait pas disparaître une facture que vous devez réellement."
+    },
+    "explication": [
+      "L’exemple vise un prélèvement SEPA ordinaire sur le compte d’un particulier. L’article L. 133-25-1 réserve la possibilité prévue à l’article L. 133-25-2 de convenir d’une exception sous certaines conditions. Pour un prélèvement non autorisé, l’article L. 133-24 réserve le cas où la banque n’a pas mis les informations requises à disposition."
+    ],
+    "sources": [
+      {
+        "label": "Code monétaire et financier, article L. 133-25",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035430556"
+      },
+      {
+        "label": "Code monétaire et financier, article L. 133-25-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035430552"
+      },
+      {
+        "label": "Code monétaire et financier, article L. 133-24",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035430562"
+      }
+    ],
+    "relation": {
+      "question": "Pouvez-vous encore réagir dix semaines après le débit ?",
+      "participants": [
+        {
+          "role": "Prélèvement autorisé",
+          "reference": "Code monétaire et financier, art. L. 133-25-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035430552",
+          "citation": "« […] le payeur jouit d’un droit au remboursement inconditionnel […] »"
+        },
+        {
+          "role": "Prélèvement non autorisé",
+          "reference": "Code monétaire et financier, art. L. 133-24",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035430562",
+          "citation": "« […] au plus tard dans les treize mois suivant la date de débit […] »"
+        }
+      ],
+      "fiches_liees": [
+        "banque-authentification-remboursement",
+        "carte-contestation-delai-hors-eee"
+      ]
+    }
   }
 ]
