@@ -806,7 +806,7 @@
     "entree": {
       "ordre": 16,
       "titre": "Même appartement, même chauffage. Comment peut-il redevenir louable ?",
-      "face_a_face": "L’article 6 de la loi sur les locations écarte les logements classés G du seuil de décence énergétique en métropole, tandis que l’article 3 de l’arrêté du 13 août 2025 permet de remplacer une ancienne étiquette en recalculant le diagnostic sans travaux.",
+      "face_a_face": "L’article 6 de la loi du 6 juillet 1989 fixe un seuil énergétique qui exclut les logements G en métropole. L’article 3 de l’arrêté du 13 août 2025 permet à certains logements de passer de G à F par un recalcul, sans travaux.",
       "texte": "Depuis le 1er janvier 2026, l’électricité compte avec un coefficient de 1,9 au lieu de 2,3 dans le diagnostic. Certains logements chauffés à l’électricité peuvent passer de G à F avec une attestation de l’ADEME.",
       "raison": "Ça peut surprendre puisque l’appartement et sa consommation d’électricité restent identiques. L’attestation change la façon de compter l’énergie. Si elle fait passer le logement de G à F, ce dernier peut franchir le seuil énergétique alors applicable en métropole. Le loyer peut toutefois rester gelé puisque l’article 17-1 interdit encore la révision pour la classe F."
     },
