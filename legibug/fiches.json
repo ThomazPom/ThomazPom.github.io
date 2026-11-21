@@ -3196,7 +3196,8 @@
     "explication": [
       "Le délai est d’au moins quinze jours à partir de la présentation de la mise en demeure. Un motif légitime, par exemple certaines raisons médicales ou l’exercice du droit de grève, peut faire obstacle à la présomption. Le Conseil d’État ne tranche pas dans cette décision la question du recours au licenciement à la place de cette procédure.",
       "Pour l’assurance chômage, une démission présumée relève en principe des départs volontaires. Un licenciement pour faute grave relève des pertes involontaires et peut donc ouvrir des droits en vertu de l’article L. 5422-1. Cette différence dépend de la qualification de la rupture. Elle ne règle pas la question de savoir si l’employeur peut choisir l’une ou l’autre procédure pour une même absence.",
-      "Si vous contestez la démission présumée, l’article L. 1237-1-1 envoie directement l’affaire devant le bureau de jugement. Le code lui donne un mois à compter de sa saisine pour statuer sur la rupture et ses conséquences. Dans la procédure prud’homale ordinaire, l’article L. 1411-1 prévoit d’abord de chercher une conciliation, sauf exception. Le mois prévu ici concerne le délai donné au juge pour statuer."
+      "Si vous contestez la démission présumée, l’article L. 1237-1-1 envoie directement l’affaire devant le bureau de jugement. Le code lui donne un mois à compter de sa saisine pour statuer sur la rupture et ses conséquences. Dans la procédure prud’homale ordinaire, l’article L. 1411-1 prévoit d’abord de chercher une conciliation, sauf exception. Le mois prévu ici concerne le délai donné au juge pour statuer.",
+      "L’employeur baisse unilatéralement le salaire fixé à votre contrat, puis vous met en demeure de reprendre le travail. L’article R. 1237-13 cite la modification du contrat à l’initiative de l’employeur parmi les motifs légitimes qui peuvent faire obstacle à la démission présumée. Vous devez indiquer ce motif dans votre réponse à la mise en demeure. Dans le cas d’une absence volontaire sans motif légitime, l’article L. 1237-1-1 permet au contraire de présumer la démission, si les autres conditions sont réunies."
     ],
     "sources": [
       {
@@ -3233,7 +3234,8 @@
         }
       ],
       "fiches_liees": [
-        "faute-grave-indemnite-rupture-conventionnelle"
+        "faute-grave-indemnite-rupture-conventionnelle",
+        "mutation-meme-secteur-salarie-protege"
       ]
     }
   },
