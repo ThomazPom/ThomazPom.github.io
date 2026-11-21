@@ -43,7 +43,7 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <label for="search">Rechercher dans les fiches</label>
 <input id="search" type="search" placeholder="Ex. détention, vie privée, preuve">
 <label for="category">Type de cas</label>
-<select id="category"><option value="">Tous les types</option><option value="Renvoi obsolète">Renvoi obsolète (4)</option><option value="Inconstitutionnalité constatée">Inconstitutionnalité constatée (3)</option><option value="Conflit de droits">Conflit de droits (2)</option><option value="Articulation de régimes">Articulation de régimes (4)</option><option value="Exception explicite">Exception explicite (2)</option></select>
+<select id="category"><option value="">Tous les types</option></select>
 <p id="count" role="status"></p>
 </div>
 <section aria-label="Fiches">
@@ -172,6 +172,13 @@ const cards = Array.from(document.querySelectorAll('article'), card => ({
   text: normalize(card.textContent),
   type: card.querySelector('.topic').textContent.split(' · ')[0],
 }));
+const totals = new Map();
+for (const { type } of cards) {
+  totals.set(type, (totals.get(type) ?? 0) + 1);
+}
+for (const [type, total] of totals) {
+  category.add(new Option(type + ' (' + total + ')', type));
+}
 function filterCards() {
   const terms = normalize(search.value).trim().split(/\s+/);
   let visible = 0;
