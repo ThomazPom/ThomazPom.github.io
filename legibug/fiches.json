@@ -2790,7 +2790,8 @@
       "raison": "Le Pacs donne accès au transfert du bail sans que la loi exige douze mois de cohabitation. Le concubin survivant doit prouver cette durée. Avec la même histoire de vie commune, le statut du couple peut donc décider qui conserve le logement."
     },
     "explication": [
-      "La fiche suppose une location soumise à l’article 14 et compare deux personnes qui ne sont pas déjà titulaires du bail. Si plusieurs personnes remplissent les conditions et demandent le transfert, le juge tranche selon les intérêts en présence."
+      "La fiche suppose une location soumise à l’article 14 et compare deux personnes qui ne sont pas déjà titulaires du bail. Si plusieurs personnes remplissent les conditions et demandent le transfert, le juge tranche selon les intérêts en présence.",
+      "Si le défunt louait le logement, l’article 14 peut vous transmettre le bail et vous continuez à payer le loyer. Si le défunt était propriétaire de votre résidence principale, l’article 515-6 peut vous donner, en tant que partenaire pacsé, un droit d’y rester gratuitement pendant un an."
     ],
     "sources": [
       {
@@ -2813,6 +2814,9 @@
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006475111/2026-07-07",
           "citation": "« … qui vivaient avec lui depuis au moins un an à la date du décès. »"
         }
+      ],
+      "fiches_liees": [
+        "deces-transfert-bail-prive-hlm"
       ]
     }
   },
