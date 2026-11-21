@@ -9544,7 +9544,7 @@
     },
     "explication": [
       "Le seuil local est fixé par le représentant de l’État entre 0,5 et 4 hectares. L’exemple suppose que les autres exemptions ne s’appliquent pas. Une dispense d’autorisation forestière laisse subsister les autres règles applicables au projet. Dans une commune de la Drôme où le seuil ordinaire est de 4 hectares, l’article 2 de l’arrêté préfectoral n° 05-3511 le ramène à 1 hectare si le défrichement est prévu à moins de 35 mètres des berges d’un cours d’eau. Pour deux bois privés isolés d’un hectare dans cette même commune, la dispense de surface peut donc s’appliquer si vous défrichez à 40 mètres des berges, et ne joue plus si vous défrichez à 30 mètres.",
-      "Supposons maintenant que vous défrichiez seulement 0,4 hectare dans ce bois de 5 hectares pour changer l’usage du sol. Il faut toujours en principe une autorisation forestière. En revanche, le seuil de plus de 0,5 hectare ne déclenche pas l’examen environnemental au cas par cas au titre de cette rubrique de l’annexe à l’article R. 122-2. Même sous le seuil, l’article R. 122-2-1 oblige la première autorité saisie à soumettre le projet à cet examen si elle estime qu’il peut avoir des effets importants sur l’environnement ou la santé.",
+      "Supposons maintenant que vous défrichiez seulement 0,4 hectare dans un bois de 4 hectares pour changer l’usage du sol. Il faut toujours en principe une autorisation forestière. En revanche, l’annexe à l’article R. 122-2, rubrique 47, retient la surface à défricher pour ce seuil environnemental. À 0,4 hectare, vous ne dépassez pas le seuil de 0,5 hectare. Si le même projet prévoit deux zones distinctes de 0,3 hectare chacune, les surfaces s’additionnent. Avec 0,6 hectare au total, le projet relève de l’examen au cas par cas dans cet exemple. Même sous le seuil, l’article R. 122-2-1 oblige la première autorité saisie à soumettre le projet à cet examen si elle estime qu’il peut avoir des effets importants sur l’environnement ou la santé.",
       "Dans l’exemple du bois isolé d’un hectare, la dispense de l’article L. 342-1 peut écarter l’autorisation de défrichement. Si ce même défrichement risque de détruire un habitat d’espèce protégé malgré les mesures d’évitement et de réduction, les articles L. 411-1 et L. 411-2 du Code de l’environnement peuvent néanmoins empêcher de commencer sans dérogation."
     ],
     "sources": [
@@ -9558,7 +9558,7 @@
       },
       {
         "label": "Code de l’environnement, annexe à l’article R. 122-2, rubrique 47",
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043743306"
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054551268"
       },
       {
         "label": "Code de l’environnement, examen sous les seuils",
