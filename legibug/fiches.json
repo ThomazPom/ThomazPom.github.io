@@ -10720,7 +10720,7 @@
       "raison": "L’avis de la commission dit que le document devrait être communiqué. Le refus implicite est la décision de la mairie que vous pouvez contester. Le délai de deux mois part de l’enregistrement par la commission, même si vous recevez son avis plus tard."
     },
     "explication": [
-      "Le caractère communicable du document dépend de son contenu et des exceptions prévues par la loi. La saisine préalable de la commission est requise pour contester le refus de communication dans le cas décrit.",
+      "Un document peut être communicable en partie. Si un rapport municipal contient, par exemple, des informations médicales concernant un agent, l’article L. 311-6 protège ces mentions. L’article L. 311-7 oblige la mairie à communiquer le reste du rapport si ces mentions peuvent être masquées ou séparées et que le reste est communicable. La saisine préalable de la commission est requise pour contester le refus de communication dans le cas décrit.",
       "Si la mairie confirme son refus par écrit après la saisine de la CADA, le délai pour saisir le tribunal est en principe de deux mois à compter de la notification de cette confirmation, à condition d’avoir reçu les informations requises sur les recours. Faute de ces informations, le délai est en principe d’un an à compter de la connaissance du refus. Le Conseil d’État a jugé en 2024 que recevoir ensuite l’avis de la CADA ne suffit pas à prolonger ce délai d’un an."
     ],
     "sources": [
@@ -10731,6 +10731,10 @@
       {
         "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2024-03-11/488227",
         "label": "Conseil d’État, 11 mars 2024, n° 488227, calcul du délai de recours"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367719/",
+        "label": "Code des relations entre le public et l’administration, art. L. 311-7, communication partielle"
       }
     ],
     "relation": {
