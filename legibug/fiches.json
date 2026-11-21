@@ -8709,5 +8709,61 @@
         }
       ]
     }
+  },
+  {
+    "id": "credit-consommation-deblocage-sept-jours",
+    "type": "Articulation de régimes",
+    "domaine": "Consommation",
+    "titre": "Deux crédits identiques, sept jours d’attente ou argent versé dès la signature",
+    "entree": {
+      "ordre": 175,
+      "titre": "Deux crédits identiques, sept jours d’attente ou argent versé dès la signature",
+      "face_a_face": "L’ancien article L. 312-25 interdit de verser l’argent pendant les 7 jours qui suivent l’acceptation du crédit. Depuis le 20 novembre 2026, le nouvel article L. 312-25 interdit seulement de le verser avant l’acceptation. L’article 99 de l’ordonnance maintient l’ancienne règle pour les contrats déjà en cours.",
+      "texte": "Deux personnes acceptent le même prêt personnel de 2 000 €, l’une le 19 novembre, l’autre le 21. Si le premier contrat était déjà en cours le 20, le prêteur doit encore respecter les sept jours d’attente. Pour le second, cette règle ne fait pas obstacle à un versement dès l’acceptation.",
+      "raison": "La personne qui a accepté son prêt plus tard peut recevoir son argent plus tôt. L’écart vient de la date du contrat et de la règle qui préserve les anciens contrats."
+    },
+    "explication": [
+      "Le nouvel article fixe le moment à partir duquel le versement est possible. Il n’oblige pas le prêteur à verser les fonds le jour de la signature. Si l’emprunteur se rétracte après le versement, l’article L. 312-26 prévoit de rendre le capital et les intérêts courus, au plus tard 30 jours après l’envoi de la notification."
+    ],
+    "sources": [
+      {
+        "label": "Ancien article L. 312-25",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226146/2026-03-29"
+      },
+      {
+        "label": "Nouvel article L. 312-25",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000052190660/2026-11-20"
+      },
+      {
+        "label": "Ordonnance n° 2025-880, article 99, II",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052185299/"
+      }
+    ],
+    "relation": {
+      "question": "À partir de quand le prêteur peut-il verser les 2 000 € ?",
+      "participants": [
+        {
+          "role": "Sept jours d’attente",
+          "reference": "Ancien article L. 312-25",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226146/2026-03-29",
+          "citation": "« Pendant un délai de sept jours à compter de l’acceptation du contrat […] aucun paiement […] ne peut être fait »"
+        },
+        {
+          "role": "Versement possible après acceptation",
+          "reference": "Nouvel article L. 312-25",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000052190660/2026-11-20",
+          "citation": "« Avant l’acceptation du contrat par l’emprunteur, aucun paiement […] ne peut être fait »"
+        },
+        {
+          "role": "Contrats déjà en cours",
+          "reference": "Ordonnance n° 2025-880, article 99, II",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000052185299/",
+          "citation": "« Les contrats de crédit en cours au 20 novembre 2026 restent régis par les dispositions […] dans leur rédaction antérieure »"
+        }
+      ],
+      "fiches_liees": [
+        "foire-achat-comptant-credit"
+      ]
+    }
   }
 ]
