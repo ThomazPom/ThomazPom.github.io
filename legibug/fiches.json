@@ -9732,5 +9732,51 @@
         }
       ]
     }
+  },
+  {
+    "id": "trajet-premier-client-temps-travail",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Une heure pour rejoindre le premier client peut compter comme une heure de travail",
+    "entree": {
+      "ordre": 192,
+      "titre": "Une heure pour rejoindre le premier client peut compter comme une heure de travail",
+      "face_a_face": "L’article L. 3121-4 exclut en principe le trajet professionnel du temps de travail effectif. La Cour de cassation applique l’article L. 3121-1 au trajet d’un salarié itinérant vers son premier client si, pendant ce trajet, le salarié reste à la disposition de l’employeur et ne peut vaquer à ses occupations personnelles.",
+      "texte": "Un salarié met une heure pour rejoindre un lieu de travail inhabituel, au lieu de 30 minutes d’ordinaire. Son dépassement ouvre droit à une contrepartie. Un commercial itinérant met aussi une heure pour rejoindre son premier client, mais il doit pendant ce temps suivre les directives de son employeur et traiter des appels professionnels. Si les conditions de l’article L. 3121-1 sont remplies, son heure compte dans le temps de travail.",
+      "raison": "Les deux déplacements durent une heure. Ce que l’employeur exige pendant le trajet peut faire passer de la compensation du déplacement au décompte du travail lui-même."
+    },
+    "explication": [
+      "Pour le déplacement relevant de l’article L. 3121-4, la part du trajet qui coïncide avec les horaires de travail ne peut entraîner de perte de salaire."
+    ],
+    "sources": [
+      {
+        "label": "Code du travail, art. L. 3121-4",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020507/"
+      },
+      {
+        "label": "Cour de cassation, 23 novembre 2022, n° 20-21.924",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000046651976"
+      }
+    ],
+    "relation": {
+      "question": "Le trajet compte-t-il dans le temps de travail ?",
+      "participants": [
+        {
+          "role": "Déplacement professionnel ordinaire",
+          "reference": "Code du travail, art. L. 3121-4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020507/",
+          "citation": "« […] n’est pas un temps de travail effectif. »"
+        },
+        {
+          "role": "Trajet sous les directives de l’employeur",
+          "reference": "Cour de cassation, 23 novembre 2022, n° 20-21.924",
+          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000046651976",
+          "citation": "« […] ces temps ne relèvent pas du champ d’application de l’article L. 3121-4 […] »"
+        }
+      ],
+      "fiches_liees": [
+        "heure-supplementaire-majoration-dix-vingt-cinq"
+      ]
+    }
   }
 ]
