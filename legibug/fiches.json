@@ -9667,7 +9667,7 @@
     "entree": {
       "ordre": 188,
       "titre": "Même inaptitude après six mois : indemnité en CDD, parfois 0 € en CDI",
-      "face_a_face": "L’article L. 1226-4-3 prévoit une indemnité si votre CDD est rompu avant terme pour une inaptitude d’origine non professionnelle, sans minimum d’ancienneté. Pour la même inaptitude en CDI, l’article L. 1234-9 exige 8 mois d’ancienneté pour l’indemnité légale de licenciement.",
+      "face_a_face": "Si la même maladie sans lien avec le travail vous rend inapte après 6 mois dans l’entreprise, l’article L. 1226-4-3 vous donne droit à une indemnité si votre CDD est rompu avant terme, tandis que l’article L. 1234-9 ne vous donne aucune indemnité légale de licenciement en CDI avant 8 mois d’ancienneté.",
       "texte": "Vous travaillez depuis 6 mois et le médecin du travail vous déclare inapte après une maladie sans lien avec votre travail. Si les conditions de rupture sont réunies, vous avez droit à l’indemnité spécifique si votre CDD est rompu avant terme. Si vous êtes licencié en CDI, vous n’avez pas atteint les 8 mois nécessaires pour l’indemnité légale.",
       "raison": "Le texte du CDD emprunte au CDI son minimum de calcul, tandis que le seuil de 8 mois s’applique au droit à l’indemnité du CDI."
     },
