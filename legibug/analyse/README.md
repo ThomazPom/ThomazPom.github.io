@@ -53,3 +53,9 @@ L’article 6 de la loi du 26 mai 2026 abroge le 6 de l’article 238 bis du cod
 L’article L. 121-18 du code des assurances prévoit en principe une réponse sous six mois à compter de la déclaration si un expert est désigné. L’article L. 125-2 prévoit pour la garantie catastrophe naturelle une proposition dans le mois suivant la réception du rapport d’expertise définitif. Ces deux délais partent d’événements différents. En outre, l’article 30 de la loi du 26 mai 2026 rend le nouveau régime applicable aux contrats conclus ou tacitement reconduits à compter de la publication du décret qui doit fixer les exclusions. Le suivi du Sénat indique que ce décret est encore attendu. La règle des six mois ne fournit donc pas de conflit actuel démontré pour les assurés victimes d’une catastrophe naturelle.
 
 [Article L. 121-18](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054136978) · [Article L. 125-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054141744) · [Suivi des décrets par le Sénat](https://www.senat.fr/application-des-lois/pjl23-550.html)
+
+## Commission municipale des débits de boissons
+
+L’article 1 de la loi du 26 mai 2026 a abrogé l’article L. 3331-7, qui créait une commission dans certaines communes et permettait au maire de la consulter sur les décisions relatives aux débits de boissons. Une recherche de « L. 3331-7 » et « commission municipale de débits de boissons » dans les articles en vigueur du corpus LEGI au 21 novembre n’a trouvé aucun texte qui maintienne cette consultation. L’article L. 3332-11 demande encore l’avis favorable du maire pour transférer la dernière licence IV d’une commune. Cet avis du maire et l’ancien avis de la commission sont deux actes distincts. La piste est écartée.
+
+[Ancien article L. 3331-7](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039787685/2026-05-24) · [Article L. 3332-11](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000041411152)
