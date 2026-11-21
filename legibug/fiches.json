@@ -7145,7 +7145,7 @@
     },
     "entree": {
       "titre": "Un produit vous blesse. Les 3 ans pour agir peuvent se réduire à 3 mois.",
-      "face_a_face": "L’article 1245-16 donne 3 ans pour demander réparation à partir du moment où vous connaissez ou devriez connaître la blessure, le défaut et le producteur. L’article 1245-15 fixe une limite de 10 ans depuis la mise en circulation du produit, sauf faute du producteur.",
+      "face_a_face": "Si un appareil défectueux vous brûle 9 ans et 9 mois après sa mise en circulation, l’article 1245-16 vous donne en principe 3 ans dès que vous connaissez la blessure, le défaut et le producteur, tandis que la limite fixée par l’article 1245-15 peut ne vous laisser que 3 mois pour saisir le juge sur ce fondement.",
       "texte": "Un appareil électrique défectueux vous brûle 9 ans et 9 mois après sa mise en circulation. Vous identifiez aussitôt le défaut et le fabricant. Si celui-ci n’a pas commis de faute, il ne vous reste que 3 mois pour saisir la justice sur ce fondement.",
       "raison": "Le délai de 3 ans part de ce que vous savez sur l’accident. La limite de 10 ans part de l’époque où le produit a été mis en circulation et peut être presque atteinte le jour de votre blessure.",
       "ordre": 144
