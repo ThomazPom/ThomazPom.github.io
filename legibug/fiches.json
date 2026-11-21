@@ -1185,12 +1185,21 @@
     "explication": [
       "L’exclusion de l’article L. 711-4 vise les réparations pécuniaires allouées aux victimes dans le cadre d’une condamnation pénale, sauf accord du créancier. Le délai de grâce de droit civil dépend de la situation du débiteur et des besoins du créancier.",
       "Le jugement cité concerne la réparation due aux victimes. Il ne porte pas sur une amende pénale due à l’État.",
-      "Comparez deux dettes de 2 000 € : une indemnité accordée à une victime et des arriérés de pension alimentaire. Le juge peut, selon les circonstances, étaler la première sur le fondement de l’article 1343-5. Le dernier alinéa de ce même article exclut les dettes alimentaires. Même si les deux sommes sont dues en vertu d’un jugement, le juge ne peut pas utiliser ce texte pour étaler les arriérés de pension."
+      "Comparez deux dettes de 2 000 € : une indemnité accordée à une victime et des arriérés de pension alimentaire. Le juge peut, selon les circonstances, étaler la première sur le fondement de l’article 1343-5. Le dernier alinéa de ce même article exclut les dettes alimentaires. Même si les deux sommes sont dues en vertu d’un jugement, le juge ne peut pas utiliser ce texte pour étaler les arriérés de pension.",
+      "Pour un crédit bancaire ordinaire, l’écart va dans l’autre sens. Le délai de grâce de l’article 1343-5 est plafonné à 2 ans. Dans un dossier de surendettement, les articles L. 733-1 et L. 733-3 permettent un rééchelonnement pouvant aller en principe jusqu’à 7 ans, sous réserve des limites propres aux emprunts en cours. Sur 12 000 € de capital, 2 ans représentent 500 € par mois et 4 ans représentent 250 € par mois, hors intérêts et frais. Un échéancier de 4 ans peut donc être envisageable en surendettement alors qu’il dépasse la durée du délai de grâce civil."
     ],
     "sources": [
       {
         "label": "Tribunal judiciaire de Nanterre, 17 juillet 2025, RG n° 25/04806",
         "url": "https://www.courdecassation.fr/en/decision/687951c764dcbd881becab0c"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033612441/",
+        "label": "Code de la consommation, article L. 733-1"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224447/",
+        "label": "Code de la consommation, article L. 733-3"
       }
     ],
     "relation": {
