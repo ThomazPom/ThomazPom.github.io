@@ -2149,7 +2149,7 @@
     "entree": {
       "ordre": 4,
       "titre": "Évacué le 2 novembre, vous pouvez devoir 800 € de loyer pour novembre et 0 € en décembre.",
-      "face_a_face": "L’article L. 511-19 du code de la construction permet d’ordonner une évacuation immédiate en cas de danger imminent, tandis que l’article L. 521-2 suspend le loyer à partir du premier jour du mois suivant l’envoi de la notification de l’arrêté.",
+      "face_a_face": "Si l’arrêté est envoyé le 2 novembre, l’article L. 511-19 peut vous obliger à quitter votre logement le jour même, tandis que l’article L. 521-2 ne suspend le loyer qu’au 1er décembre : les 800 € de novembre restent en principe dus.",
       "texte": "Votre loyer est de 800 € par mois hors charges. Un arrêté d’urgence envoyé le 2 novembre ordonne de quitter votre appartement immédiatement pendant les travaux. Le loyer de novembre reste en principe dû en entier. Si l’arrêté est toujours en vigueur en décembre, aucun loyer n’est dû pour décembre.",
       "raison": "La date à laquelle vous devez partir dépend du danger. La date à laquelle le loyer s’arrête dépend du calendrier. Entre les deux, le propriétaire doit en principe vous héberger si l’évacuation est temporaire."
     },
