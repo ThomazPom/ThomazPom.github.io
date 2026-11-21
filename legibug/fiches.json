@@ -12203,5 +12203,44 @@
         "credit-consommation-deblocage-sept-jours"
       ]
     }
+  },
+  {
+    "id": "paiement-differe-14-50-jours",
+    "domaine": "Consommation",
+    "type": "Articulation de régimes",
+    "titre": "Acheter en ligne et payer 30 jours plus tard : le régime change selon la taille du vendeur",
+    "entree": {
+      "ordre": 226,
+      "titre": "Acheter en ligne et payer 30 jours plus tard : le régime change selon la taille du vendeur",
+      "face_a_face": "Le 4° de l’article L. 312-4 exclut du régime du crédit à la consommation le paiement différé jusqu’à 50 jours chez un petit vendeur en ligne, tandis que le 5° limite cette exclusion à 14 jours chez un vendeur en ligne qui est une grande entreprise.",
+      "texte": "Vous achetez le même ordinateur à 600 € et le vendeur vous laisse payer 30 jours après la livraison, sans intérêt, sans frais et sans financement par un tiers. Si le vendeur est une petite entreprise, le paiement différé peut être exclu du régime du crédit à la consommation. Si c’est une grande entreprise qui vend à distance par voie électronique, le délai de 30 jours dépasse les 14 jours de son exception.",
+      "raison": "Le prix et le délai sont identiques. La taille du vendeur peut déterminer si l’opération bénéficie de cette exception et si les protections du crédit à la consommation entrent en jeu."
+    },
+    "explication": [
+      "Les deux délais courent à partir de la fourniture du bien ou du service. Les exceptions sont assorties de conditions cumulatives, dont l’absence de crédit offert par un tiers. Pour une grande entreprise qui vend en ligne, l’exception exige aussi qu’aucun tiers n’achète la créance au vendeur."
+    ],
+    "sources": [
+      {
+        "label": "Article L. 312-4, 4° et 5°",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990014/2026-11-20"
+      }
+    ],
+    "relation": {
+      "question": "Le paiement différé à 30 jours bénéficie-t-il de l’exception ?",
+      "participants": [
+        {
+          "role": "Exclusion jusqu’à 50 jours sous conditions",
+          "reference": "Article L. 312-4, 4°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990014/2026-11-20",
+          "citation": "« […] dans un délai de cinquante jours […] »"
+        },
+        {
+          "role": "Exclusion jusqu’à 14 jours sous conditions",
+          "reference": "Article L. 312-4, 5°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990014/2026-11-20",
+          "citation": "« […] dans un délai de quatorze jours […] »"
+        }
+      ]
+    }
   }
 ]
