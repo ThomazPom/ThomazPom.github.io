@@ -9629,7 +9629,8 @@
         }
       ],
       "fiches_liees": [
-        "defrichement-surface-parcelle-massif"
+        "defrichement-surface-parcelle-massif",
+        "permis-valide-mur-chez-voisin"
       ]
     }
   },
