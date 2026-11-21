@@ -10897,5 +10897,47 @@
         "mayotte-retention-mineurs-date-legifrance"
       ]
     }
+  },
+  {
+    "id": "nationalite-mariage-quatre-cinq-ans",
+    "type": "Articulation de régimes",
+    "domaine": "Nationalité",
+    "titre": "Nationalité par mariage : quatre ou cinq ans selon l’inscription au consulat",
+    "entree": {
+      "ordre": 200,
+      "titre": "Nationalité par mariage : quatre ou cinq ans selon l’inscription au consulat",
+      "face_a_face": "L’article 21-2 du Code civil donne en principe quatre ans après le mariage pour faire une déclaration de nationalité, mais deux couples qui ont vécu ensemble à l’étranger peuvent devoir attendre quatre ou cinq ans selon que le conjoint français a été inscrit ou non au registre consulaire.",
+      "texte": "Deux couples se sont mariés il y a quatre ans et vivent ensemble à l’étranger depuis leur mariage. Dans les deux couples, un époux est français. Si le conjoint français du premier couple a été inscrit au registre des Français établis hors de France pendant toute leur vie commune à l’étranger, le délai est de quatre ans. Si le second couple ne peut pas justifier cette inscription, il doit attendre cinq ans.",
+      "raison": "Pour les couples de l’exemple, le délai dépend d’une démarche d’inscription du conjoint français, même si la durée du mariage et de la vie commune est identique."
+    },
+    "explication": [
+      "Service Public présente trois ans de résidence régulière et continue en France depuis le mariage comme une autre manière de rester dans le délai de quatre ans. Le délai est une condition parmi d’autres. Le conjoint français doit notamment avoir conservé sa nationalité et les époux doivent toujours mener une vie commune."
+    ],
+    "sources": [
+      {
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2726",
+        "label": "Service Public, déclaration de nationalité française par mariage"
+      }
+    ],
+    "relation": {
+      "question": "Deux couples mariés depuis quatre ans peuvent-ils déclarer la nationalité le même jour ?",
+      "participants": [
+        {
+          "role": "Délai de principe",
+          "reference": "Code civil, art. 21-2, al. 1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024197103/",
+          "citation": "« […] après un délai de quatre ans à compter du mariage […] »"
+        },
+        {
+          "role": "Délai porté à cinq ans",
+          "reference": "Code civil, art. 21-2, al. 2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024197103/",
+          "citation": "« Le délai de communauté de vie est porté à cinq ans […] »"
+        }
+      ],
+      "fiches_liees": [
+        "nationalite-majorite-naissance-mayotte"
+      ]
+    }
   }
 ]
