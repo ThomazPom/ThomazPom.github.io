@@ -9340,7 +9340,8 @@
     "explication": [
       "L’exemple porte sur une prime de fin de contrat déjà versée. Il suppose une requalification judiciaire ouvrant droit à l’indemnité de l’article L. 1245-2.",
       "Si vous refusez une seule offre écrite de CDI pour le même poste, au même salaire, avec le même temps de travail, la même classification et au même endroit, l’article L. 1243-10 peut déjà vous faire perdre la prime de fin de CDD. Ce seul refus ne déclenche pas la règle de l’article L. 5422-1 qui peut empêcher l’ouverture des droits au chômage après deux refus d’offres répondant aux conditions de l’article L. 1243-11-1 en douze mois. Votre droit au chômage reste soumis aux autres conditions.",
-      "Si l’offre de CDI change le lieu de travail, elle ne remplit pas la condition de l’article L. 1243-11-1. Son refus ne compte donc pas parmi les deux refus visés à l’article L. 5422-1 pour cette procédure. L’article L. 1243-10 ne pose pas expressément la même condition de lieu pour la prime. Il faut vérifier si, malgré le changement, l’emploi proposé reste identique ou similaire et si la rémunération est au moins équivalente."
+      "Si l’offre de CDI change le lieu de travail, elle ne remplit pas la condition de l’article L. 1243-11-1. Son refus ne compte donc pas parmi les deux refus visés à l’article L. 5422-1 pour cette procédure. L’article L. 1243-10 ne pose pas expressément la même condition de lieu pour la prime. Il faut vérifier si, malgré le changement, l’emploi proposé reste identique ou similaire et si la rémunération est au moins équivalente.",
+      "Si vous enchaînez directement un CDD de trois mois et un CDI au même poste, l’article L. 1243-11 vous fait conserver les trois mois d’ancienneté et les déduit de l’essai prévu au CDI. Pour un poste d’employé, l’article L. 1221-19 permet en principe un essai initial de deux mois. Dans cet exemple, les trois mois déjà travaillés l’épuisent : il reste zéro jour d’essai, alors qu’un nouvel employé recruté directement en CDI peut avoir deux mois d’essai."
     ],
     "sources": [
       {
@@ -9366,6 +9367,14 @@
       {
         "label": "Code du travail, article L. 5422-1",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048590547"
+      },
+      {
+        "label": "Code du travail, article L. 1243-11",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901222"
+      },
+      {
+        "label": "Code du travail, article L. 1221-19",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071113"
       }
     ],
     "relation": {
