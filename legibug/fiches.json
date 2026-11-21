@@ -6762,7 +6762,7 @@
     "entree": {
       "ordre": 140,
       "titre": "Votre maison brûle. Le terrain n’est plus constructible, mais vous pouvez parfois refaire la même maison.",
-      "face_a_face": "L’article L. 152-1 impose aux constructions de respecter le plan local d’urbanisme, tandis que l’article L. 111-15 permet de reconstruire à l’identique un bâtiment régulièrement édifié dans les dix ans de sa destruction, sauf règle contraire applicable à cette reconstruction.",
+      "face_a_face": "Si le plan local d’urbanisme interdit les nouvelles maisons dans votre secteur, l’article L. 152-1 impose de respecter cette interdiction. L’article L. 111-15 peut quand même vous permettre de rebâtir à l’identique, dans les 10 ans, la maison légalement construite qui a brûlé, si les documents locaux ne s’opposent pas à cette reconstruction.",
       "texte": "Votre maison a été construite légalement. Depuis, le plan d’urbanisme interdit les nouvelles maisons dans le secteur. Après un incendie, vous pouvez en principe rebâtir la même maison dans le délai de dix ans si les règles locales ou le plan de prévention des risques ne s’opposent pas à cette reconstruction.",
       "raison": "Le même terrain peut faire l’objet de deux réponses parce que la loi protège la reconstruction à l’identique d’un bâtiment qui existait légalement. Cette protection dépend aussi des règles locales et de prévention des risques."
     },
