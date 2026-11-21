@@ -8960,5 +8960,52 @@
         "depot-garantie-retard-adresse"
       ]
     }
+  },
+  {
+    "id": "reprise-logement-preavis-vide-meuble",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Le propriétaire annonce la reprise quatre mois avant la fin du bail. Est-ce assez ?",
+    "entree": {
+      "ordre": 180,
+      "titre": "Le propriétaire annonce la reprise quatre mois avant la fin du bail. Est-ce assez ?",
+      "face_a_face": "L’article 15 exige 6 mois de préavis pour reprendre un logement loué vide. L’article 25-8 en exige 3 pour reprendre un logement loué meublé. Un congé reçu 4 mois avant l’échéance arrive donc à temps dans un cas et trop tard dans l’autre.",
+      "texte": "Votre bail se termine le 30 septembre. Vous recevez le congé pour reprise le 30 mai. S’il remplit les autres conditions, le congé peut mettre fin à un bail meublé ordinaire le 30 septembre. Pour un bail vide, les quatre mois de préavis sont insuffisants pour cette même échéance.",
+      "raison": "Le même projet de reprise et la même date de notification peuvent conduire à deux dates de départ différentes selon le type de bail."
+    },
+    "explication": [
+      "La comparaison porte sur les baux ordinaires de résidence principale. Elle suppose que le motif de reprise est réel et que les autres conditions du congé sont remplies, notamment celles protégeant certains locataires."
+    ],
+    "sources": [
+      {
+        "label": "Loi du 6 juillet 1989, article 15",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030"
+      },
+      {
+        "label": "Loi du 6 juillet 1989, article 25-8",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900072"
+      }
+    ],
+    "relation": {
+      "question": "Un congé donné quatre mois avant l’échéance peut-il mettre fin au bail ?",
+      "participants": [
+        {
+          "role": "Location vide",
+          "reference": "Loi du 6 juillet 1989, article 15",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900030",
+          "citation": "« Le délai de préavis applicable au congé est de six mois lorsqu’il émane du bailleur. »"
+        },
+        {
+          "role": "Location meublée",
+          "reference": "Loi du 6 juillet 1989, article 25-8",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900072",
+          "citation": "« […] informer le locataire avec un préavis de trois mois […] »"
+        }
+      ],
+      "fiches_liees": [
+        "loyer-preavis-auteur-conge",
+        "vente-logement-vide-meuble-priorite-achat"
+      ]
+    }
   }
 ]
