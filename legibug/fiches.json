@@ -9185,5 +9185,48 @@
         }
       ]
     }
+  },
+  {
+    "id": "defrichement-surface-parcelle-massif",
+    "type": "Articulation de régimes",
+    "domaine": "Environnement",
+    "titre": "Vous défrichez 1 hectare. L’autorisation dépend aussi de ce que vous ne défrichez pas.",
+    "entree": {
+      "ordre": 184,
+      "titre": "Vous défrichez 1 hectare. L’autorisation dépend aussi de ce que vous ne défrichez pas.",
+      "face_a_face": "L’article L. 341-3 exige une autorisation pour défricher. L’article L. 342-1 dispense certains petits bois de cette autorisation, mais fait compter le bois auquel ils appartiennent pour vérifier le seuil.",
+      "texte": "Supposons que le seuil local soit de 4 hectares. Vous voulez défricher 1 hectare pour changer l’usage du sol. Si cet hectare constitue un bois isolé, il est sous le seuil. S’il fait partie d’un bois de 5 hectares, cette exemption ne s’applique plus et il vous faut en principe une autorisation.",
+      "raison": "Dans les deux cas, la même surface de forêt disparaît. Le code fait dépendre l’autorisation de la surface du bois entier, y compris la partie qui reste en place."
+    },
+    "explication": [
+      "Le seuil local est fixé par le représentant de l’État entre 0,5 et 4 hectares. L’exemple suppose que les autres exemptions ne s’appliquent pas. Une dispense d’autorisation forestière laisse subsister les autres règles applicables au projet."
+    ],
+    "sources": [
+      {
+        "label": "Code forestier, art. L. 341-3",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045577137"
+      },
+      {
+        "label": "Code forestier, art. L. 342-1, 1°",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047809279"
+      }
+    ],
+    "relation": {
+      "question": "La superficie défrichée suffit-elle à déterminer si une autorisation est nécessaire ?",
+      "participants": [
+        {
+          "role": "Autorisation de principe",
+          "reference": "Code forestier, art. L. 341-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000045577137",
+          "citation": "« Nul ne peut user du droit de défricher ses bois et forêts sans avoir préalablement obtenu une autorisation. »"
+        },
+        {
+          "role": "Exemption selon la taille du bois",
+          "reference": "Code forestier, art. L. 342-1, 1°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047809279",
+          "citation": "« […] sauf s’ils font partie d’un autre bois dont la superficie, ajoutée à la leur, atteint ou dépasse ce seuil »"
+        }
+      ]
+    }
   }
 ]
