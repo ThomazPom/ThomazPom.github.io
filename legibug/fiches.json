@@ -9072,5 +9072,44 @@
         "reversion-remariage-public-prive"
       ]
     }
+  },
+  {
+    "id": "rsa-indu-retenue-autre-prestation",
+    "type": "Articulation de régimes",
+    "domaine": "Protection sociale",
+    "titre": "Vous ne touchez plus le RSA. Son trop-perçu peut réduire votre aide au logement.",
+    "entree": {
+      "ordre": 182,
+      "titre": "Vous ne touchez plus le RSA. Son trop-perçu peut réduire votre aide au logement.",
+      "face_a_face": "L’article L. 262-46 permet à la caisse de récupérer un trop-perçu de RSA sur les prochains versements. Si elle ne peut plus le faire sur le RSA, le même article permet une retenue sur certaines autres aides, dont celles au logement. Il suspend toutefois le recouvrement si vous contestez la dette.",
+      "texte": "La caisse vous réclame 600 € de RSA versés en trop. Vous ne touchez plus le RSA mais recevez encore une aide au logement. Sous les conditions prévues, la caisse peut y retenir une partie du trop-perçu. Si vous contestez la décision de récupération, le recouvrement est suspendu pendant l’examen du recours.",
+      "raison": "Votre aide au logement peut baisser alors que son montant a été correctement calculé. La retenue sert à récupérer une dette liée à une autre prestation."
+    },
+    "explication": [
+      "La retenue dépend des règles applicables au recouvrement. Une demande de remise ou de réduction de la créance a également un effet suspensif selon cet article."
+    ],
+    "sources": [
+      {
+        "label": "Code de l’action sociale et des familles, article L. 262-46",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046811438/"
+      }
+    ],
+    "relation": {
+      "question": "Une dette de RSA peut-elle être prélevée sur une autre prestation ?",
+      "participants": [
+        {
+          "role": "Retenue sur une autre aide",
+          "reference": "Code de l’action sociale et des familles, art. L. 262-46",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046811438/",
+          "citation": "« […] au titre des aides personnelles au logement […] »"
+        },
+        {
+          "role": "Recours suspensif",
+          "reference": "Code de l’action sociale et des familles, art. L. 262-46",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046811438/",
+          "citation": "« Toute réclamation dirigée contre une décision de récupération de l’indu […] [a] un caractère suspensif. »"
+        }
+      ]
+    }
   }
 ]
