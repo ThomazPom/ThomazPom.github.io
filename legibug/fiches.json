@@ -7407,7 +7407,8 @@
     "explication": [
       "Le calcul suppose un salaire de référence de 2 000 €, exactement quatre ans d’ancienneté retenue pour le calcul de chaque indemnité et aucune disposition conventionnelle plus favorable. Pour l’inaptitude non professionnelle, l’article L. 1226-4 prévoit de compter le préavis dans l’ancienneté servant au calcul de l’indemnité légale, même si le préavis n’est pas effectué. Pour l’inaptitude professionnelle, le refus abusif d’un reclassement peut faire perdre les indemnités de l’article L. 1226-14.",
       "En CDI, si le médecin du travail vous déclare inapte lors de l’examen de reprise et qu’un mois plus tard vous n’êtes ni reclassé ni licencié, l’article L. 1226-4 oblige l’employeur à reprendre le paiement du salaire de votre ancien poste. Cela vaut même si le médecin vous a déclaré inapte à tout emploi dans l’entreprise. Le paiement reprend à l’expiration du mois, sans que ce texte oblige l’employeur à payer rétroactivement le premier mois.",
-      "Si votre inaptitude est liée à un accident du travail ou à une maladie professionnelle, l’article D. 433-5 du code de la sécurité sociale permet à la caisse de verser une indemnité temporaire dès le lendemain de l’avis, si vous remplissez les conditions. Cette indemnité s’arrête au reclassement ou au licenciement et dure au maximum un mois. Si au bout de ce mois vous êtes toujours sans reclassement ni licenciement, l’article L. 1226-11 oblige votre employeur à reprendre le paiement de votre salaire."
+      "Si votre inaptitude est liée à un accident du travail ou à une maladie professionnelle, l’article D. 433-5 du code de la sécurité sociale permet à la caisse de verser une indemnité temporaire dès le lendemain de l’avis, si vous remplissez les conditions. Cette indemnité s’arrête au reclassement ou au licenciement et dure au maximum un mois. Si au bout de ce mois vous êtes toujours sans reclassement ni licenciement, l’article L. 1226-11 oblige votre employeur à reprendre le paiement de votre salaire.",
+      "Comparez deux licenciements avec un préavis normalement de deux mois. Si votre employeur vous dispense d’un préavis ordinaire, l’article L. 1234-4 maintient la date de fin du contrat à l’expiration du préavis. Si vous êtes licencié pour inaptitude d’origine non professionnelle, l’article L. 1226-4 met fin au contrat dès la notification. Les deux mois comptent néanmoins dans le calcul du montant de l’indemnité légale lorsqu’elle est due."
     ],
     "sources": [
       {
@@ -7429,6 +7430,10 @@
       {
         "label": "Code du travail, article L. 1226-11",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006900978/"
+      },
+      {
+        "label": "Code du travail, article L. 1234-4",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901117/"
       }
     ],
     "relation": {
