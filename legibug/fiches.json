@@ -9540,7 +9540,7 @@
       "titre": "Vous défrichez 1 hectare. L’autorisation dépend aussi de ce que vous ne défrichez pas.",
       "face_a_face": "Pour défricher le même hectare, l’article L. 342-1 peut vous dispenser d’autorisation si c’est un bois isolé, tandis que l’article L. 341-3 exige en principe une autorisation si cet hectare fait partie d’un bois qui atteint le seuil local, même si vous laissez le reste intact.",
       "texte": "Supposons que le seuil local soit de 4 hectares. Vous voulez défricher 1 hectare pour changer l’usage du sol. Si cet hectare constitue un bois isolé, il est sous le seuil. S’il fait partie d’un bois de 4 hectares exactement, cette exemption ne s’applique déjà plus et il vous faut en principe une autorisation.",
-      "raison": "Dans les deux cas, la même surface de forêt disparaît. Le code fait dépendre l’autorisation de la surface du bois entier, y compris la partie qui reste en place."
+      "raison": "Dans les deux cas, la même surface de forêt disparaît. Le code fait dépendre l’autorisation de la surface du bois entier, y compris la partie qui reste en place. Le seuil dépend aussi du lieu. Pour un bois isolé d’un hectare, la dispense liée à la surface peut jouer là où le seuil est de 4 hectares, tandis qu’elle ne joue pas là où le préfet a fixé le seuil à 0,5 hectare."
     },
     "explication": [
       "Le seuil local est fixé par le représentant de l’État entre 0,5 et 4 hectares. L’exemple suppose que les autres exemptions ne s’appliquent pas. Une dispense d’autorisation forestière laisse subsister les autres règles applicables au projet.",
