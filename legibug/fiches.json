@@ -5029,7 +5029,7 @@
     "entree": {
       "ordre": 111,
       "titre": "Votre propriétaire vend l’appartement 200 000 €. Votre bail vous donne-t-il la priorité pour l’acheter ?",
-      "face_a_face": "L’article 15 de la loi du 6 juillet 1989 fait du congé pour vendre un logement loué vide une offre adressée au locataire, tandis que l’article 25-8 autorise le congé pour vendre un logement loué meublé sans créer cette priorité d’achat.",
+      "face_a_face": "Pour vendre à 200 000 € à la fin d’un bail vide, le propriétaire doit en principe vous proposer d’acheter à ce prix. L’article 15 vous donne les deux premiers mois du préavis pour accepter. En bail meublé, l’article 25-8 permet au propriétaire de vous donner congé pour vendre sans vous proposer l’achat en priorité.",
       "texte": "Votre propriétaire vous donne congé à la fin du bail pour vendre l’appartement à 200 000 €. En location vide, dans le cas ordinaire, le congé doit vous proposer le logement à ce prix et vous avez les deux premiers mois du préavis pour accepter. En location meublée, le propriétaire peut choisir directement un autre acheteur, sauf droit de priorité applicable pour un autre motif.",
       "raison": "Vous occupez le logement dans les deux cas. La priorité d’achat vient des règles du congé pour vendre dans un bail vide. Le congé d’un bail meublé peut vous obliger à partir sans vous donner cette priorité."
     },
