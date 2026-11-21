@@ -10450,9 +10450,9 @@
     "domaine": "Urbanisme",
     "titre": "Permis de construire : un avis favorable avec conditions peut transformer le silence en refus",
     "entree": {
-      "ordre": 194,
+      "ordre": 3.5,
       "titre": "Permis de construire : un avis favorable avec conditions peut transformer le silence en refus",
-      "face_a_face": "L’article R. 424-1 dit qu’à la fin du délai d’instruction, le silence vaut permis de construire en principe, mais l’article R. 424-3 dit qu’il vaut refus si l’accord de l’architecte des Bâtiments de France est requis et que celui-ci a donné dans les délais un avis favorable avec des conditions.",
+      "face_a_face": "L’article R. 424-1 dit qu’en principe le silence de la mairie vaut permis à la fin du délai, mais l’article R. 424-3 dit qu’il vaut refus si l’accord de l’architecte des Bâtiments de France est obligatoire et qu’il a donné son accord avec des conditions dans les délais.",
       "texte": "Vous demandez un permis pour agrandir une maison près d’un monument historique. L’accord de l’architecte des Bâtiments de France est requis. Il donne son accord dans les délais, à condition par exemple de conserver les volets en bois. Si la mairie ne vous notifie aucune décision à la fin du délai d’instruction, vous vous retrouvez avec un refus implicite.",
       "raison": "L’avis favorable porte sur le projet à condition de respecter certaines prescriptions. Le silence de la mairie ne délivre pas une autorisation intégrant ces prescriptions. Le code prévoit donc expressément un refus dans ce cas."
     },
@@ -10651,9 +10651,9 @@
     "domaine": "Justice administrative",
     "titre": "La décision ne donne aucun délai. Vous pouvez quand même avoir attendu trop longtemps.",
     "entree": {
-      "ordre": 198,
+      "ordre": 5.5,
       "titre": "La décision ne donne aucun délai. Vous pouvez quand même avoir attendu trop longtemps.",
-      "face_a_face": "L’article R. 421-5 dit que l’administration ne peut vous opposer le délai normal si la notification ne précise pas quand et comment contester, mais le Conseil d’État donne en principe un an pour contester une décision individuelle dont vous avez eu connaissance.",
+      "face_a_face": "L’article R. 421-5 dit que le délai normal de deux mois ne peut pas vous être opposé si la lettre ne dit pas quand et comment contester, mais le Conseil d’État fixe en principe une limite d’un an après que vous avez eu connaissance de la décision.",
       "texte": "Vous recevez une décision individuelle écrite qui vous refuse un droit, sans indication du délai ni du tribunal à saisir. Si vous contestez le refus quatorze mois plus tard, l’administration ne peut pas invoquer le délai ordinaire de deux mois, mais le juge peut quand même écarter votre recours parce que le délai raisonnable d’un an est dépassé.",
       "raison": "Le code protège la personne qui a été mal informée en écartant le délai ordinaire. Le Conseil d’État protège aussi la stabilité des décisions en fixant une limite, en principe un an à partir de la notification ou de la date à laquelle il est établi que vous avez eu connaissance de la décision."
     },
