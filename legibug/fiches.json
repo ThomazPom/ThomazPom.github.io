@@ -3959,7 +3959,8 @@
     "explication": [
       "L’article L. 1471-1 exclut de son régime les actions exercées en application de l’article L. 1134-5. La recevabilité de la demande ne suffit pas à prouver qu’une discrimination a eu lieu.",
       "L’article L. 1471-1 fixe aussi un délai de deux ans pour les demandes relatives à l’exécution du contrat, hors régimes particuliers. Si vous découvrez le jour du licenciement un manquement contractuel ordinaire qui vous cause un préjudice et un salaire impayé, deux ans et demi plus tard, le délai de deux ans peut avoir expiré pour le manquement alors que les trois ans de l’article L. 3245-1 courent encore pour le salaire. Cet exemple suppose qu’aucun événement n’a interrompu ou suspendu ces délais.",
-      "Votre licenciement est déclaré nul et vous réintégrez votre poste six mois plus tard. L’article L. 3141-3 calcule normalement les congés à partir du travail effectué. La Cour de cassation juge qu’en cas de réintégration, les six mois d’éviction peuvent quand même ouvrir des droits à congés chez votre employeur initial, même si vous n’avez pas travaillé. Si vous avez occupé un autre emploi pendant tout cet intervalle, vous ne pouvez pas réclamer ces jours à l’employeur initial pour cette période."
+      "Votre licenciement est déclaré nul et vous réintégrez votre poste six mois plus tard. L’article L. 3141-3 calcule normalement les congés à partir du travail effectué. La Cour de cassation juge qu’en cas de réintégration, les six mois d’éviction peuvent quand même ouvrir des droits à congés chez votre employeur initial, même si vous n’avez pas travaillé. Si vous avez occupé un autre emploi pendant tout cet intervalle, vous ne pouvez pas réclamer ces jours à l’employeur initial pour cette période.",
+      "Deux salariés retrouvent leur poste après l’annulation de leur licenciement. Chacun aurait gagné 12 000 € pendant son éviction et a reçu 4 000 € de revenus de remplacement. Selon la règle ordinaire rappelée par la Cour de cassation, l’employeur doit 8 000 €. Si le licenciement a violé une liberté fondamentale garantie par la Constitution, par exemple la liberté d’expression, la Cour juge que l’employeur doit les 12 000 € sans déduire les 4 000 €. Ce calcul concerne ce que verse l’employeur."
     ],
     "sources": [
       {
@@ -3973,6 +3974,10 @@
       {
         "label": "Cour de cassation, 1er mars 2023, n° 21-16.008",
         "url": "https://www.courdecassation.fr/decision/63fefc07002ac605de15b29e"
+      },
+      {
+        "label": "Cour de cassation, indemnité d’éviction et liberté d’expression, n° 23-16.479",
+        "url": "https://www.courdecassation.fr/publications/lettre-de-la-chambre-sociale/ndeg26-septembre-octobre-2024/libertes-fondamentales"
       }
     ],
     "relation": {
