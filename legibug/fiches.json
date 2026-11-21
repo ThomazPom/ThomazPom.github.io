@@ -6821,7 +6821,8 @@
       "raison": "Le permis autorise un projet au regard de l’urbanisme. Il ne vous donne aucun droit sur le terrain du voisin. Le juge civil peut donc protéger sa propriété alors que votre permis reste valable."
     },
     "explication": [
-      "Dans l’arrêt du 10 novembre 2016, la Cour de cassation a reproché aux juges d’avoir ordonné la démolition du bâtiment sans rechercher si un rabotage du mur aurait suffi à faire cesser l’empiètement."
+      "Dans l’arrêt du 10 novembre 2016, la Cour de cassation a reproché aux juges d’avoir ordonné la démolition du bâtiment sans rechercher si un rabotage du mur aurait suffi à faire cesser l’empiètement.",
+      "Même sans empiètement, le permis ne règle pas tout. Un équipement installé dans le cadre d’un projet autorisé se met à produire un bruit nocturne après votre arrivée. Si le bruit dépasse les inconvénients normaux du voisinage et vous cause un dommage, l’article 1253 du code civil permet d’engager la responsabilité de la personne à l’origine du trouble sans avoir à prouver une faute. L’autorisation d’urbanisme ne suffit pas à écarter cette responsabilité."
     ],
     "sources": [
       {
@@ -6831,6 +6832,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000033374976",
         "label": "Cour de cassation, 10 novembre 2016, n° 15-25.113"
+      },
+      {
+        "label": "Code civil, article 1253, troubles anormaux du voisinage",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049423788/"
       }
     ],
     "relation": {
