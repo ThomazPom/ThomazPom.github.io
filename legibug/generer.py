@@ -155,4 +155,15 @@ couverture += (
 )
 output = output.replace("<!-- COUVERTURE -->", couverture)
 output = output.replace("<!-- RELECTURE -->", render_review())
+for jour, fichier in ((20, "coverage.csv"), (21, "coverage-2026-11-21.csv")):
+    with (root / "analyse" / fichier).open(encoding="utf-8", newline="") as stream:
+        branches = {
+            ligne["branche"]: int(ligne["versions_en_vigueur"])
+            for ligne in csv.DictReader(stream)
+            if not ligne["cid"]
+        }
+    for marqueur, branche in (("CODES", "code"), ("TEXTES", "texte_non_codifie")):
+        total = f"{branches[branche]:,}".replace(",", " ")
+        output = output.replace(f"<!-- {marqueur}_{jour} -->", total)
+
 (root / "index.html").write_text(output, encoding="utf-8")
