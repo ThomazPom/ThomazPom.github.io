@@ -9683,7 +9683,8 @@
       "raison": "Le taux légal de 25 % s’applique en l’absence d’accord. Le minimum que l’accord doit respecter est de 10 %."
     },
     "explication": [
-      "L’exemple suppose un décompte hebdomadaire et un paiement en argent. Le code permet aussi, sous conditions, de remplacer tout ou partie du paiement par un repos équivalent."
+      "L’exemple suppose un décompte hebdomadaire et un paiement en argent. Le code permet aussi, sous conditions, de remplacer tout ou partie du paiement par un repos équivalent.",
+      "Si la branche fixe la majoration à 25 % et qu’un accord d’entreprise applicable la fixe à 10 %, l’article L. 3121-33 donne priorité à l’accord d’entreprise. À 20 € brut de l’heure, vous recevez donc 22 € dans cet exemple, même si le texte de la branche prévoit 25 €."
     ],
     "sources": [
       {
