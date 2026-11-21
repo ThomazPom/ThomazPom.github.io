@@ -9199,7 +9199,8 @@
       "raison": "Dans les deux cas, la même surface de forêt disparaît. Le code fait dépendre l’autorisation de la surface du bois entier, y compris la partie qui reste en place."
     },
     "explication": [
-      "Le seuil local est fixé par le représentant de l’État entre 0,5 et 4 hectares. L’exemple suppose que les autres exemptions ne s’appliquent pas. Une dispense d’autorisation forestière laisse subsister les autres règles applicables au projet."
+      "Le seuil local est fixé par le représentant de l’État entre 0,5 et 4 hectares. L’exemple suppose que les autres exemptions ne s’appliquent pas. Une dispense d’autorisation forestière laisse subsister les autres règles applicables au projet.",
+      "Supposons maintenant que vous défrichiez seulement 0,4 hectare dans ce bois de 5 hectares pour changer l’usage du sol. Il faut toujours en principe une autorisation forestière. En revanche, le seuil de plus de 0,5 hectare ne déclenche pas l’examen environnemental au cas par cas au titre de cette rubrique de l’annexe à l’article R. 122-2. Même sous le seuil, l’article R. 122-2-1 oblige la première autorité saisie à soumettre le projet à cet examen si elle estime qu’il peut avoir des effets importants sur l’environnement ou la santé."
     ],
     "sources": [
       {
@@ -9209,6 +9210,14 @@
       {
         "label": "Code forestier, art. L. 342-1, 1°",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047809279"
+      },
+      {
+        "label": "Code de l’environnement, annexe à l’article R. 122-2, rubrique 47",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043743306"
+      },
+      {
+        "label": "Code de l’environnement, examen sous les seuils",
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000045413959/"
       }
     ],
     "relation": {
