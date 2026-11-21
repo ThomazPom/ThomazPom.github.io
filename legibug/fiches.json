@@ -8904,5 +8904,61 @@
         }
       ]
     }
+  },
+  {
+    "id": "depot-garantie-vide-meuble-mobilite",
+    "type": "Articulation de régimes",
+    "domaine": "Logement",
+    "titre": "Un loyer de 800 €, trois plafonds de dépôt de garantie",
+    "entree": {
+      "ordre": 179,
+      "titre": "Un loyer de 800 €, trois plafonds de dépôt de garantie",
+      "face_a_face": "Pour un loyer de 800 € hors charges, l’article 22 plafonne le dépôt à 800 € en location vide. L’article 25-6 porte le plafond à 1 600 € en location meublée ordinaire. L’article 25-17 interdit tout dépôt en bail mobilité.",
+      "texte": "Vous louez un studio meublé à 800 € hors charges. Avec un bail meublé ordinaire, le propriétaire peut demander jusqu’à 1 600 € de dépôt. Si vous êtes en mission temporaire et que vous signez un bail mobilité valable pour ce même studio, il ne peut demander aucun dépôt.",
+      "raison": "Le montant que le propriétaire peut vous demander en plus du loyer dépend du bail. Pour le même logement meublé, le plafond passe de 1 600 € à 0 €."
+    },
+    "explication": [
+      "Les montants comparent les plafonds du dépôt de garantie. Le bail mobilité est réservé à certaines situations, dont la mission temporaire dans le cadre de l’activité professionnelle."
+    ],
+    "sources": [
+      {
+        "label": "Loi du 6 juillet 1989, article 22",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806696"
+      },
+      {
+        "label": "Loi du 6 juillet 1989, article 25-6",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028779187"
+      },
+      {
+        "label": "Loi du 6 juillet 1989, article 25-17",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037649098"
+      }
+    ],
+    "relation": {
+      "question": "Quel dépôt le bailleur peut-il vous demander pour un loyer de 800 € ?",
+      "participants": [
+        {
+          "role": "Location vide",
+          "reference": "Loi du 6 juillet 1989, art. 22",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806696",
+          "citation": "« […] un mois de loyer en principal. »"
+        },
+        {
+          "role": "Location meublée ordinaire",
+          "reference": "Loi du 6 juillet 1989, art. 25-6",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028779187",
+          "citation": "« […] deux mois de loyer en principal. »"
+        },
+        {
+          "role": "Bail mobilité",
+          "reference": "Loi du 6 juillet 1989, art. 25-17",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037649098",
+          "citation": "« Aucun dépôt de garantie ne peut être exigé par le bailleur. »"
+        }
+      ],
+      "fiches_liees": [
+        "depot-garantie-retard-adresse"
+      ]
+    }
   }
 ]
