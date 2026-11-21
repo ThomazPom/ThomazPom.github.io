@@ -10706,5 +10706,47 @@
         "silence-administration-titre-sejour-refus"
       ]
     }
+  },
+  {
+    "id": "document-administratif-avis-favorable-silence-refus",
+    "type": "Articulation de régimes",
+    "domaine": "Administration",
+    "titre": "La commission vous donne raison. Le silence de la mairie vaut encore refus.",
+    "entree": {
+      "ordre": 199,
+      "titre": "La commission vous donne raison. Le silence de la mairie vaut encore refus.",
+      "face_a_face": "L’article L. 311-1 oblige la mairie à communiquer les documents administratifs accessibles sur demande, mais les articles R. 343-4 et R. 343-5 prévoient qu’elle oppose un nouveau refus si elle garde le silence pendant deux mois après l’enregistrement de votre demande par la commission, même si celle-ci vous donne raison.",
+      "texte": "Vous demandez une copie d’une délibération municipale communicable. Après le refus de la mairie, vous saisissez la Commission d’accès aux documents administratifs (CADA). Elle enregistre votre demande le 1er septembre, puis rend un avis favorable. Si la mairie garde le silence jusqu’au 1er novembre, ce silence vaut refus. Vous pouvez contester ce refus devant le tribunal administratif.",
+      "raison": "L’avis de la commission dit que le document devrait être communiqué. Le refus implicite est la décision de la mairie que vous pouvez contester. Le délai de deux mois part de l’enregistrement par la commission, même si vous recevez son avis plus tard."
+    },
+    "explication": [
+      "Le caractère communicable du document dépend de son contenu et des exceptions prévues par la loi. La saisine préalable de la commission est requise pour contester le refus de communication dans le cas décrit."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000031367775/",
+        "label": "Code des relations entre le public et l’administration, art. L. 342-1, saisine préalable"
+      }
+    ],
+    "relation": {
+      "question": "Un avis favorable suffit-il à faire cesser le refus ?",
+      "participants": [
+        {
+          "role": "Obligation de communication",
+          "reference": "Code des relations entre le public et l’administration, art. L. 311-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033218946/",
+          "citation": "« […] sont tenues de publier en ligne ou de communiquer les documents administratifs […] »"
+        },
+        {
+          "role": "Refus implicite après deux mois",
+          "reference": "Code des relations entre le public et l’administration, art. R. 343-4 et R. 343-5",
+          "url": "https://www.legifrance.gouv.fr/affichCode.do?cidTexte=LEGITEXT000031366350&idSectionTA=LEGISCTA000031370505",
+          "citation": "« […] deux mois à compter de l’enregistrement de la demande […] »"
+        }
+      ],
+      "fiches_liees": [
+        "recours-decision-administrative-sans-delai-czabaj"
+      ]
+    }
   }
 ]
