@@ -4096,7 +4096,7 @@
     "entree": {
       "ordre": 92,
       "titre": "Votre dépôt de garantie est rendu en retard. Ce retard vaut-il 160 € ou 0 € ?",
-      "face_a_face": "L’article 22 de la loi du 6 juillet 1989 ajoute 10 % d’un mois de loyer hors charges à chaque mois de retard commencé, mais supprime cette majoration si l’absence de votre nouvelle adresse est la cause du retard.",
+      "face_a_face": "L’article 22 de la loi du 6 juillet 1989 ajoute 80 € par mois de retard commencé si votre loyer était de 800 € hors charges. Le même article ramène cette majoration à 0 € si le retard vient du fait que vous n’avez pas donné votre nouvelle adresse.",
       "texte": "Votre loyer hors charges était de 800 €. Le délai légal est dépassé et un deuxième mois de retard commence. La majoration est de 160 €. Si le retard résulte du fait que vous n’avez pas transmis votre nouvelle adresse, aucune majoration n’est due.",
       "raison": "L’absence d’adresse peut faire disparaître la majoration si elle a causé le retard. Elle ne fait pas disparaître le dépôt que le bailleur doit vous restituer."
     },
