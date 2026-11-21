@@ -8570,7 +8570,8 @@
     "explication": [
       "L’exemple suppose un cautionnement solidaire valable, signé depuis le 1er janvier 2022, couvrant les 5 000 € et aucune disposition spéciale contraire. L’article L. 741-2 prévoit aussi une exception à l’effacement pour les sommes déjà payées à la place de l’emprunteur par une caution personne physique.",
       "Votre sœur peut toutefois invoquer une protection qui lui est propre. L’article 2298 ne lui transmet pas l’effacement accordé à l’emprunteur. L’article 2300 réduit en revanche le cautionnement envers une banque s’il était manifestement disproportionné à ses revenus et à son patrimoine lors de la signature. Si le juge retient qu’elle ne pouvait s’engager qu’à hauteur de 2 000 € sur les 5 000 € garantis, la banque ne peut pas lui réclamer les 3 000 € restants au titre de cette garantie.",
-      "Autre protection de la caution : l’article 2303 oblige le créancier professionnel à la prévenir du premier impayé non régularisé dans le mois de son échéance. Si le premier impayé date du 10 janvier et que la banque ne la prévient que le 10 mai, elle perd la garantie des intérêts et pénalités échus entre ces deux dates. Si la banque réclamait 5 000 € de capital et 300 € d’intérêts et de pénalités échus durant cet intervalle, la caution peut devoir les 5 000 € de capital, mais pas les 300 € au titre de sa garantie."
+      "Autre protection de la caution : l’article 2303 oblige le créancier professionnel à la prévenir du premier impayé non régularisé dans le mois de son échéance. Si le premier impayé date du 10 janvier et que la banque ne la prévient que le 10 mai, elle perd la garantie des intérêts et pénalités échus entre ces deux dates. Si la banque réclamait 5 000 € de capital et 300 € d’intérêts et de pénalités échus durant cet intervalle, la caution peut devoir les 5 000 € de capital, mais pas les 300 € au titre de sa garantie.",
+      "Un versement de 400 € peut être compté de deux façons. Il reste 5 000 € de capital et 300 € d’intérêts déjà échus. L’emprunteur verse 400 € après le premier impayé, avant que la banque n’avertisse la caution. L’article 1343-1 affecte en principe 300 € aux intérêts et 100 € au capital. Il reste donc 4 900 € de capital dans les comptes de l’emprunteur. Mais si la banque a prévenu la caution trop tard, l’article 2303 affecte les 400 € en priorité au capital dans les rapports avec la caution. Pour elle, le capital garanti tombe alors à 4 600 €."
     ],
     "sources": [
       {
@@ -8588,6 +8589,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071266/",
         "label": "Code civil, article 2303"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035259/",
+        "label": "Code civil, article 1343-1"
       }
     ],
     "relation": {
@@ -8616,6 +8621,12 @@
           "reference": "Code civil, art. 2303",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071266/",
           "citation": "« […] déchéance de la garantie des intérêts et pénalités échus entre la date de cet incident et celle à laquelle elle en a été informée. »"
+        },
+        {
+          "role": "Paiement partiel de l’emprunteur, priorité aux intérêts en principe",
+          "reference": "Code civil, art. 1343-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035259/",
+          "citation": "« Le paiement partiel s’impute d’abord sur les intérêts. »"
         }
       ],
       "fiches_liees": [
