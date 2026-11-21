@@ -5445,9 +5445,12 @@ for (const [type, total] of totals) {
   const label = type + ' (' + total + ')';
   category.add(new Option(label, type));
 }
-const domains = [...new Set(cards.map(({ domainName }) => domainName))];
-for (const name of domains.sort((a, b) => a.localeCompare(b, 'fr'))) {
-  domain.add(new Option(name, name));
+const domains = new Map();
+for (const { domainName } of cards) {
+  domains.set(domainName, (domains.get(domainName) ?? 0) + 1);
+}
+for (const [name, total] of [...domains].sort(([a], [b]) => a.localeCompare(b, 'fr'))) {
+  domain.add(new Option(name + ' (' + total + ')', name));
 }
 function filterCards() {
   const terms = normalize(search.value).trim().split(/\s+/);
