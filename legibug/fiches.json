@@ -1240,12 +1240,12 @@
     "entree": {
       "ordre": 38,
       "titre": "Le tribunal vous accorde 10 000 €. Pourquoi le fonds ne vous avance-t-il que 3 000 € ?",
-      "face_a_face": "L’article 706-15-1 permet à certaines victimes munies d’un jugement définitif d’obtenir une aide au recouvrement, tandis que l’article L. 422-7 limite l’avance du fonds à 30 % pour les sommes supérieures à 1 000 €, avec un plafond de 3 000 €.",
+      "face_a_face": "Si le condamné vous doit 10 000 € et ne paie pas, l’article 706-15-1 vous permet, sous conditions, de demander de l’aide pour récupérer cette somme. L’article L. 422-7 fixe l’avance du fonds à 3 000 € dans cet exemple. Les 7 000 € restants vous reviennent dans la mesure où le fonds les récupère auprès du condamné.",
       "texte": "L’auteur de l’infraction doit 10 000 € et ne paie pas. Si vous remplissez les conditions du dispositif, le fonds avance 3 000 € et intervient pour recouvrer le solde auprès de l’auteur.",
       "raison": "Ça coince puisque le montant reconnu par le juge et l’argent immédiatement avancé sont différents. L’auteur reste redevable du solde. Le fonds aide à le recouvrer, sans en garantir le paiement intégral."
     },
     "explication": [
-      "Le cas vise le service d’aide au recouvrement des victimes, hors indemnisation par la commission d’indemnisation des victimes d’infractions. Il suppose que le condamné n’ait pas payé volontairement dans le délai prévu pour demander cette aide.",
+      "Le cas vise le service d’aide au recouvrement des victimes, hors indemnisation par la commission d’indemnisation des victimes d’infractions. L’article L. 422-7 prévoit un paiement intégral jusqu’à 1 000 €. Au-delà, l’avance est de 30 %, avec un minimum de 1 000 € et un maximum de 3 000 €.",
       "Le reste versé à la victime dépend de ce que le fonds parvient à récupérer auprès du condamné.",
       "Autre différence : l’article 706-15-2 donne en principe un an à compter du jugement devenu définitif pour demander l’aide au fonds, alors que l’article L. 111-4 du Code des procédures civiles d’exécution donne en principe dix ans pour faire exécuter le jugement. Deux ans après, vous pouvez donc encore réclamer les 10 000 € au condamné alors que votre demande d’aide est tardive. Le fonds peut accepter une demande tardive pour un motif légitime."
     ],
