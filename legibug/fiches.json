@@ -11080,5 +11080,44 @@
         "compte-etranger-delai-reprise-50000"
       ]
     }
+  },
+  {
+    "id": "habitat-inclusif-forfait-abroge-decret",
+    "type": "Renvoi incohérent",
+    "domaine": "Logement et handicap",
+    "titre": "Habitat inclusif : le décret prévoit encore 3 000 à 8 000 € par habitant, alors que la loi a supprimé le forfait",
+    "entree": {
+      "ordre": 2.75,
+      "titre": "Habitat inclusif : le décret prévoit encore 3 000 à 8 000 € par habitant, alors que la loi a supprimé le forfait",
+      "face_a_face": "L’article D. 281-3, toujours affiché en vigueur, dit que l’agence régionale de santé verse un forfait de 3 000 à 8 000 € par habitant et par an au porteur d’un habitat inclusif retenu, mais l’article 78 de la loi de financement de la sécurité sociale pour 2023 a supprimé la base légale de ce forfait au 1er janvier 2025.",
+      "texte": "Une association qui monte un nouvel habitat inclusif pour huit personnes pourrait lire ce décret et compter sur au moins 24 000 € par an versés par l’agence régionale de santé. Le financement prévu par la loi actuelle passe par l’aide à la vie partagée du département, sous ses propres conditions.",
+      "raison": "Le décret décrit encore comment calculer et verser le forfait, alors que les articles de loi qui l’avaient créé ont été abrogés. Le barème affiché ne suffit donc pas à ouvrir un droit à ce financement pour un nouveau projet."
+    },
+    "explication": [
+      "Le montant annoncé par le décret était versé à la structure qui anime le projet de vie partagée. L’article L. 281-2-1 fixe le cadre de l’aide à la vie partagée, notamment la convention avec le département. La fiche compare les textes applicables à un projet nouveau."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046808609/",
+        "label": "Code de l’action sociale et des familles, article L. 281-2-1, aide à la vie partagée"
+      }
+    ],
+    "relation": {
+      "question": "Le porteur d’un nouveau projet peut-il compter sur le forfait du décret ?",
+      "participants": [
+        {
+          "role": "Barème encore affiché en vigueur",
+          "reference": "Code de l’action sociale et des familles, art. D. 281-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038680856/2026-10-20",
+          "citation": "« […] entre 3 000 € et 8 000 € par an et par habitant. »"
+        },
+        {
+          "role": "Suppression de la base légale du forfait",
+          "reference": "Loi n° 2022-1616, art. 78, II",
+          "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000046791865",
+          "citation": "« Les articles L. 281-2 et L. 281-3 […] sont abrogés à compter du 1er janvier 2025. »"
+        }
+      ]
+    }
   }
 ]
