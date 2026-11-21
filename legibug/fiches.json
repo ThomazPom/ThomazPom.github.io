@@ -650,7 +650,8 @@
     },
     "explication": [
       "L’article L. 6111-1-7 vise la durée de l’hospitalisation et exige que l’éloignement du domicile justifie l’hébergement. Il laisse l’initiative à l’établissement.",
-      "L’hébergement temporaire non médicalisé existe déjà. Les articles R. 6111-50 et R. 6111-52 permettent à l’hôpital de le proposer sur prescription au patient avant ou après son séjour, et à un patient mineur de partager sa chambre avec deux accompagnants. La loi de juin 2026 vise un autre moment et d’autres bénéficiaires : elle prévoit l’hébergement des parents pendant que l’enfant est hospitalisé."
+      "L’hébergement temporaire non médicalisé existe déjà. Les articles R. 6111-50 et R. 6111-52 permettent à l’hôpital de le proposer sur prescription au patient avant ou après son séjour, et à un patient mineur de partager sa chambre avec deux accompagnants. La loi de juin 2026 vise un autre moment et d’autres bénéficiaires : elle prévoit l’hébergement des parents pendant que l’enfant est hospitalisé.",
+      "La page de suivi du Sénat, datée du 18 septembre 2026, indique que la loi ne prévoit aucune mesure réglementaire. Le texte de la loi renvoie pourtant à un décret pour ce dispositif, comme le confirme la réponse du gouvernement au Sénat le 10 novembre."
     ],
     "sources": [
       {
@@ -660,6 +661,10 @@
       {
         "label": "Réponse du gouvernement au Sénat, 10 novembre 2026",
         "url": "https://www.senat.fr/seances/s202611/s20261110/s20261110_mono.html"
+      },
+      {
+        "label": "Sénat, état d’application affiché le 18 septembre 2026",
+        "url": "https://www.senat.fr/application-des-lois/ppl24-180.html"
       }
     ],
     "relation": {
@@ -683,6 +688,9 @@
           "url": "https://www.senat.fr/seances/s202611/s20261110/s20261110_mono.html",
           "citation": "[…] dont les décrets en Conseil d’État restent à préparer […]"
         }
+      ],
+      "fiches_liees": [
+        "enfant-bilan-remboursement"
       ]
     }
   },
@@ -700,12 +708,17 @@
     },
     "explication": [
       "L’article L. 162-65 concerne certains mineurs atteints d’une affection de longue durée. Il prévoit aussi une prescription dans le cadre d’un protocole de soins et un accord préalable du contrôle médical.",
-      "La fiche concerne ce nouveau dispositif. D’autres formes de prise en charge peuvent exister selon le parcours de soins."
+      "La fiche concerne ce nouveau dispositif. D’autres formes de prise en charge peuvent exister selon le parcours de soins.",
+      "La page de suivi du Sénat, datée du 18 septembre 2026, indique que la loi ne prévoit aucune mesure réglementaire. Le texte de la loi renvoie pourtant à un décret pour ce dispositif, comme le confirme la réponse du gouvernement au Sénat le 10 novembre."
     ],
     "sources": [
       {
         "label": "Réponse du gouvernement au Sénat, 10 novembre 2026",
         "url": "https://www.senat.fr/seances/s202611/s20261110/s20261110_mono.html"
+      },
+      {
+        "label": "Sénat, état d’application affiché le 18 septembre 2026",
+        "url": "https://www.senat.fr/application-des-lois/ppl24-180.html"
       }
     ],
     "relation": {
@@ -729,6 +742,9 @@
           "url": "https://www.senat.fr/seances/s202611/s20261110/s20261110_mono.html",
           "citation": "[…] la définition des conditions de conventionnement, de tarification et de remboursement."
         }
+      ],
+      "fiches_liees": [
+        "parents-enfant-hospitalise-hebergement"
       ]
     }
   },
