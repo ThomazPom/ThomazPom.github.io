@@ -10087,7 +10087,7 @@
       "raison": "L’absence est liée à la même naissance, mais le type de congé change ce qui s’ajoute au compteur. Les jours acquis avant le congé parental restent acquis."
     },
     "explication": [
-      "L’exemple porte sur le minimum légal du secteur privé, sous réserve de dispositions plus favorables. La prise en compte de la moitié du congé parental à temps plein pour l’ancienneté obéit à une autre règle."
+      "L’exemple porte sur le minimum légal du secteur privé, sous réserve de dispositions plus favorables. Pour les droits liés à l’ancienneté, deux mois de congé de maternité comptent pour deux mois selon l’article L. 1225-24, tandis que deux mois de congé parental à temps plein comptent pour un mois selon l’article L. 1225-54. Ce mois d’ancienneté ne crée pas de nouveaux congés payés."
     ],
     "sources": [
       {
@@ -10097,6 +10097,10 @@
       {
         "label": "Code du travail, article L. 1225-54",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047293349/"
+      },
+      {
+        "label": "Code du travail, article L. 1225-24",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000018764607/"
       },
       {
         "label": "CJUE, arrêt Dicu, C-12/17",
