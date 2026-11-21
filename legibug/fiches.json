@@ -2360,11 +2360,12 @@
       "ordre": 53,
       "titre": "Vous demandez à sortir de prison avant les assises. Pouvez-vous demander à voir le juge en personne ?",
       "face_a_face": "L’article 706-71 du code de procédure pénale prévoyait le droit de refuser la vidéo dans certains recours sur la détention, tandis que la décision 2026-1192 QPC étend cette garantie, sous les mêmes conditions, aux accusés qui demandent leur mise en liberté en attendant les assises.",
-      "texte": "Avant la décision, un accusé pouvait rester détenu jusqu’à un an en attendant son procès sans pouvoir s’opposer à une audience par vidéo sur sa demande de libération. Depuis la publication de la décision, il peut s’y opposer dans les conditions fixées par le Conseil constitutionnel.",
+      "texte": "Vous attendez les assises en prison depuis plus de six mois et vous n’avez pas comparu en personne devant la chambre de l’instruction depuis au moins six mois. Si cette chambre examine votre demande de mise en liberté, elle doit vous informer de votre droit de refuser la vidéo. Elle peut passer outre votre refus si votre transport présente notamment un risque grave d’évasion ou de trouble à l’ordre public.",
       "raison": "Les droits de la défense justifient la possibilité de se présenter physiquement devant les juges. Une suppression immédiate du texte aurait aussi supprimé le droit de refuser la vidéo pour les détenus déjà protégés. Le Conseil reporte donc l’abrogation au 31 octobre 2027 et étend provisoirement la garantie."
     },
     "explication": [
-      "La décision concerne les demandes de mise en liberté présentées sur le fondement de l’article 148-1 par une personne mise en accusation dans l’attente des assises. Elle renvoie aux mêmes conditions que le texte, notamment celles relatives à la durée de détention et aux comparutions antérieures, ainsi qu’aux exceptions liées aux risques du transport."
+      "La décision concerne les demandes de mise en liberté présentées sur le fondement de l’article 148-1 par une personne mise en accusation dans l’attente des assises. Elle renvoie aux mêmes conditions que le texte, notamment celles relatives à la durée de détention et aux comparutions antérieures, ainsi qu’aux exceptions liées aux risques du transport.",
+      "Le 29 juillet 2026, la Cour de cassation a annulé un refus de mise en liberté dans un cas concret. La convocation du détenu annonçait la visioconférence sans lui dire qu’il pouvait la refuser, et la chambre de l’instruction n’avait relevé aucun risque justifiant d’éviter son transport. La Cour a renvoyé le dossier devant une autre formation pour qu’elle statue à nouveau. Le détenu est resté en prison à la suite de cet arrêt."
     ],
     "sources": [
       {
