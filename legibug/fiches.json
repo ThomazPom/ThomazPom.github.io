@@ -2880,7 +2880,8 @@
     },
     "explication": [
       "La comparaison porte sur la retraite de base. La réversion complémentaire peut suivre d’autres règles. Dans le régime des pensions civiles et militaires, le droit peut être rétabli sur demande si la nouvelle union prend fin, dans les conditions prévues par le code.",
-      "Dans le régime général, le montant n’est pas révisable indéfiniment au gré des ressources. Selon l’article R. 353-1-1, la dernière révision intervient au plus tard trois mois après le début du versement de l’ensemble de vos retraites personnelles de base et complémentaires, si vous y avez droit, sous réserve des exceptions du texte. Un remariage ultérieur ne fait donc pas, à lui seul, rouvrir ce calcul."
+      "Dans le régime général, le montant n’est pas révisable indéfiniment au gré des ressources. Selon l’article R. 353-1-1, la dernière révision intervient au plus tard trois mois après le début du versement de l’ensemble de vos retraites personnelles de base et complémentaires, si vous y avez droit, sous réserve des exceptions du texte. Un remariage ultérieur ne fait donc pas, à lui seul, rouvrir ce calcul.",
+      "Le décès d’un autre bénéficiaire peut au contraire augmenter votre part. Dans le régime général, l’article L. 353-3 répartit la réversion selon la durée des mariages. Si une réversion de 600 € est partagée entre deux bénéficiaires après des mariages de 20 et 10 ans, les parts sont de 400 € et 200 € avant application des conditions propres à chacun. Au décès de la personne qui touche 400 €, sa part s’ajoute à celle de l’autre, qui peut alors atteindre 600 € si les conditions de ressources le permettent."
     ],
     "sources": [
       {
@@ -2894,6 +2895,10 @@
       {
         "label": "Code de la sécurité sociale, article R. 353-1-1",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006749402/"
+      },
+      {
+        "label": "Code de la sécurité sociale, partage et décès d’un bénéficiaire",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006742651/"
       }
     ],
     "relation": {
