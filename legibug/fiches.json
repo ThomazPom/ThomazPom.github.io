@@ -9669,5 +9669,48 @@
         "mutation-meme-secteur-salarie-protege"
       ]
     }
+  },
+  {
+    "id": "heure-supplementaire-majoration-dix-vingt-cinq",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Même heure supplémentaire à 20 € : 22 € dans une entreprise, 25 € dans l’autre",
+    "entree": {
+      "ordre": 191,
+      "titre": "Même heure supplémentaire à 20 € : 22 € dans une entreprise, 25 € dans l’autre",
+      "face_a_face": "L’article L. 3121-36 prévoit 25 % de plus pour les huit premières heures supplémentaires à défaut d’accord. L’article L. 3121-33 permet à un accord d’entreprise de ramener la majoration à 10 %.",
+      "texte": "Vous êtes payé 20 € brut de l’heure et faites une première heure supplémentaire cette semaine. Sans accord applicable, elle vaut 25 € brut. Si un accord applicable fixe la majoration à 10 % et prévoit un paiement, elle vaut 22 € brut.",
+      "raison": "Le taux légal de 25 % s’applique en l’absence d’accord. Le minimum que l’accord doit respecter est de 10 %."
+    },
+    "explication": [
+      "L’exemple suppose un décompte hebdomadaire et un paiement en argent. Le code permet aussi, sous conditions, de remplacer tout ou partie du paiement par un repos équivalent."
+    ],
+    "sources": [
+      {
+        "label": "Code du travail, article L. 3121-33",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038610166"
+      },
+      {
+        "label": "Code du travail, article L. 3121-36",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020341"
+      }
+    ],
+    "relation": {
+      "question": "Combien rapporte la première heure supplémentaire ?",
+      "participants": [
+        {
+          "role": "Avec accord",
+          "reference": "Code du travail, art. L. 3121-33",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038610166",
+          "citation": "« Ce taux ne peut être inférieur à 10 % »"
+        },
+        {
+          "role": "Sans accord",
+          "reference": "Code du travail, art. L. 3121-36",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033020341",
+          "citation": "« À défaut d’accord […] majoration de salaire de 25 % […] »"
+        }
+      ]
+    }
   }
 ]
