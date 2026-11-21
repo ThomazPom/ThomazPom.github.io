@@ -8629,7 +8629,7 @@
     },
     "entree": {
       "titre": "Deux ménages au même revenu. L’un peut rester en HLM, l’autre peut devoir partir.",
-      "face_a_face": "Le I de l’article L. 442-3-3 déclenche la procédure au-dessus de 150 % du plafond des logements financés par un prêt locatif social (PLS) pendant deux ans de suite. Le II exige de redescendre sous 100 % de ce plafond pendant les 18 mois suivants pour retrouver le droit de rester.",
+      "face_a_face": "À 130 % du plafond de ressources PLS, le I de l’article L. 442-3-3 laisse en principe tranquille le ménage qui n’a jamais franchi 150 %, tandis que le II peut encore imposer le départ à celui qui a dépassé 150 % deux ans de suite, car il doit redescendre sous 100 % pour retrouver le droit de rester.",
       "texte": "Deux ménages en HLM ont aujourd’hui des revenus à 130 % du plafond PLS. Le premier n’a jamais dépassé 150 %. Le second vient de retomber de 160 %, après deux années consécutives à ce niveau. Dans une zone concernée et en l’absence d’exception, le premier peut rester. Le second risque encore de devoir partir.",
       "raison": "Le seuil pour éviter la procédure est plus haut que celui pour en sortir. À revenu égal aujourd’hui, les revenus des deux années précédentes peuvent décider qui garde son logement.",
       "ordre": 170
