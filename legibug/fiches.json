@@ -9251,7 +9251,8 @@
       "raison": "La décision d’urbanisme et la dérogation répondent à deux questions différentes. Le permis existe déjà, alors que le chantier reste bloqué par la seconde règle."
     },
     "explication": [
-      "La seule présence de spécimens impose d’examiner si une dérogation est nécessaire. Elle ne suffit pas à établir que cette dérogation est requise."
+      "La seule présence de spécimens impose d’examiner si une dérogation est nécessaire. Elle ne suffit pas à établir que cette dérogation est requise.",
+      "Si votre projet requiert aussi une autorisation environnementale, l’article L. 181-30 du code de l’environnement impose en principe d’attendre cette autorisation. Il permet toutefois à l’administration, après information préalable du public et par décision spécialement motivée, d’autoriser certains travaux à l’avance, à vos frais et risques. Les travaux qui nécessitent eux-mêmes une dérogation pour les espèces protégées restent exclus de cette avance. Le même chantier peut donc démarrer sur une partie expressément autorisée et rester à l’arrêt sur la partie qui nécessite la dérogation."
     ],
     "sources": [
       {
@@ -9261,6 +9262,10 @@
       {
         "label": "Conseil d’État, avis du 9 décembre 2022, n° 463563",
         "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/analyse/2022-12-09/463563"
+      },
+      {
+        "label": "Code de l’environnement, article L. 181-30",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033928675"
       }
     ],
     "relation": {
