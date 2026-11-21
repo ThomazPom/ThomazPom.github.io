@@ -8400,8 +8400,7 @@
       "Après la recevabilité de votre dossier, l’article L. 722-5 vous interdit en principe de payer vos 3 000 € d’anciens loyers, sauf notamment autorisation du juge. Mais il prévoit une exception si un juge vous a accordé des délais pour régler ces loyers selon les V et VI de l’article 24 de la loi de 1989. Vous pouvez alors payer les mensualités de l’échéancier, qui peut préserver le bail si les conditions de l’article 24 sont réunies. Le loyer courant né après la recevabilité reste dû.",
       "Le juge suspend l’expulsion en septembre et le plan conventionnel de redressement est approuvé le 15 février. L’article L. 722-9 prévoit que cette suspension prend fin à l’approbation du plan, avec un maximum de 2 ans. L’article L. 412-6 peut toutefois empêcher l’expulsion physique jusqu’au 31 mars inclus si l’occupant bénéficie de la trêve hivernale. Dans ce cas, la protection liée au dossier prend fin le 15 février, tandis que la trêve reporte encore le départ forcé au 1er avril au plus tôt.",
       "Autre exception si vous êtes propriétaire. Votre dossier est déclaré recevable le 10 novembre, mais le juge a déjà ordonné la vente aux enchères de votre logement pour le 20 novembre. L’article L. 722-2 pose le principe de la suspension des saisies. Dans ce cas précis, l’article L. 722-4 prévoit que la date de vente ne peut être reportée que par le juge chargé de la saisie immobilière, à la demande de la commission et pour des motifs graves et dûment justifiés.",
-      "Votre résidence principale vaut 180 000 € et vos dettes s’élèvent à 120 000 €, mais vos revenus ne suffisent pas pour payer les échéances. L’article L. 711-1 permet de reconnaître le surendettement malgré la valeur de votre logement, si les autres conditions sont remplies. Si une vente forcée a déjà été ordonnée, l’article L. 722-4 exige toujours une décision du juge pour la reporter. Être admis à la procédure ne garantit donc pas de garder la maison.",
-      "Vous déposez un dossier le 1er février pour une dette bancaire, le juge suspend une saisie de biens le 10 février à la demande de la commission et le dossier est déclaré recevable le 1er mars. L’article L. 721-4 permet cette suspension avant la recevabilité. En revanche, l’article L. 722-14 impose l’arrêt des intérêts et des pénalités pour les dettes inscrites à l’état d’endettement à compter de la recevabilité. Dans cet exemple, la suspension de la saisie le 10 février ne suffit donc pas à geler les intérêts dès cette date."
+      "Votre résidence principale vaut 180 000 € et vos dettes s’élèvent à 120 000 €, mais vos revenus ne suffisent pas pour payer les échéances. L’article L. 711-1 permet de reconnaître le surendettement malgré la valeur de votre logement, si les autres conditions sont remplies. Si une vente forcée a déjà été ordonnée, l’article L. 722-4 exige toujours une décision du juge pour la reporter. Être admis à la procédure ne garantit donc pas de garder la maison."
     ],
     "sources": [
       {
@@ -8431,14 +8430,6 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900053/",
         "label": "Code des procédures civiles d’exécution, article L. 412-6"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119635/",
-        "label": "Code de la consommation, article L. 721-4"
-      },
-      {
-        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461307/",
-        "label": "Code de la consommation, article L. 722-14"
       }
     ],
     "relation": {
@@ -8482,7 +8473,8 @@
         }
       ],
       "fiches_liees": [
-        "treve-hivernale-refus-indemnisation"
+        "treve-hivernale-refus-indemnisation",
+        "surendettement-saisie-interets-deux-dates"
       ]
     },
     "entree": {
@@ -8491,6 +8483,52 @@
       "texte": "Vous avez 3 000 € de loyers impayés et une expulsion est en cours. Votre dossier de surendettement est déclaré recevable. Le bailleur doit suspendre la procédure de saisie de vos biens pour recouvrer les 3 000 €. Pour l’expulsion, il faut une décision de suspension du juge, à moins qu’une autre protection ne s’applique.",
       "raison": "Le même dossier protège vos biens automatiquement contre la saisie pour ces loyers. Pour protéger votre logement sur ce fondement, il faut une décision distincte.",
       "ordre": 171
+    }
+  },
+  {
+    "id": "surendettement-saisie-interets-deux-dates",
+    "type": "Articulation de régimes",
+    "domaine": "Surendettement",
+    "titre": "La saisie s’arrête le 10 février. Les intérêts peuvent courir jusqu’au 1er mars.",
+    "explication": [
+      "Ce cas vise un prêt bancaire inscrit à l’état d’endettement dressé par la commission. La suspension anticipée suppose une décision du juge, saisi par la commission à la demande du débiteur."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119635/",
+        "label": "Code de la consommation, article L. 721-4"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461307/",
+        "label": "Code de la consommation, article L. 722-14"
+      }
+    ],
+    "relation": {
+      "question": "Quelle date arrête la saisie et quelle date arrête les intérêts ?",
+      "participants": [
+        {
+          "role": "Saisie, suspension possible avant la recevabilité",
+          "reference": "Code de la consommation, article L. 721-4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039119635/",
+          "citation": "« […] jusqu’à la décision statuant sur la recevabilité […] »"
+        },
+        {
+          "role": "Intérêts et pénalités, gel à la recevabilité",
+          "reference": "Code de la consommation, article L. 722-14",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461307/",
+          "citation": "« […] ne peuvent produire d’intérêts ou générer de pénalités de retard à compter de la date de recevabilité […] »"
+        }
+      ],
+      "fiches_liees": [
+        "surendettement-saisie-expulsion-loyer"
+      ]
+    },
+    "entree": {
+      "titre": "La saisie s’arrête le 10 février. Les intérêts peuvent courir jusqu’au 1er mars.",
+      "face_a_face": "L’article L. 721-4 permet au juge de suspendre la saisie avant la décision de recevabilité. L’article L. 722-14 gèle les intérêts de la dette inscrite au dossier à partir de cette décision.",
+      "texte": "Vous déposez votre dossier le 1er février. Le juge suspend la saisie le 10 février et votre dossier est déclaré recevable le 1er mars. Entre ces deux dates, la saisie est à l’arrêt et les intérêts du prêt peuvent encore s’ajouter à la dette.",
+      "raison": "La décision qui arrête la saisie et celle qui gèle les intérêts peuvent intervenir à des dates différentes, même pour un seul prêt.",
+      "ordre": 172
     }
   }
 ]
