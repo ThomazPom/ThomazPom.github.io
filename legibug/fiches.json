@@ -9471,5 +9471,55 @@
         "cdd-requalification-prime-conservee"
       ]
     }
+  },
+  {
+    "id": "inaptitude-cdd-cdi-huit-mois",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Même inaptitude après six mois : indemnité en CDD, parfois 0 € en CDI",
+    "entree": {
+      "ordre": 188,
+      "titre": "Même inaptitude après six mois : indemnité en CDD, parfois 0 € en CDI",
+      "face_a_face": "L’article L. 1226-4-3 prévoit une indemnité si votre CDD est rompu avant terme pour une inaptitude d’origine non professionnelle, sans minimum d’ancienneté. Pour la même inaptitude en CDI, l’article L. 1234-9 exige 8 mois d’ancienneté pour l’indemnité légale de licenciement.",
+      "texte": "Vous travaillez depuis 6 mois et le médecin du travail vous déclare inapte après une maladie sans lien avec votre travail. Si les conditions de rupture sont réunies, vous avez droit à l’indemnité spécifique si votre CDD est rompu avant terme. Si vous êtes licencié en CDI, vous n’avez pas atteint les 8 mois nécessaires pour l’indemnité légale.",
+      "raison": "Le texte du CDD emprunte au CDI son minimum de calcul, tandis que le seuil de 8 mois s’applique au droit à l’indemnité du CDI."
+    },
+    "explication": [
+      "Cette comparaison porte sur les indemnités légales de rupture. Une convention collective peut prévoir des dispositions plus favorables. Les règles diffèrent lorsque l’inaptitude est d’origine professionnelle."
+    ],
+    "sources": [
+      {
+        "label": "Code du travail, article L. 1226-4-3",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024024758"
+      },
+      {
+        "label": "Code du travail, article L. 1234-9",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644154"
+      },
+      {
+        "label": "Service Public, indemnités en cas d’inaptitude",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F31225"
+      }
+    ],
+    "relation": {
+      "question": "Après six mois, la rupture pour inaptitude ouvre-t-elle droit à une indemnité ?",
+      "participants": [
+        {
+          "role": "CDD",
+          "reference": "L. 1226-4-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000024024758",
+          "citation": "« La rupture du contrat à durée déterminée prononcée en cas d’inaptitude ouvre droit […] à une indemnité »"
+        },
+        {
+          "role": "CDI",
+          "reference": "L. 1234-9",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644154",
+          "citation": "« […] 8 mois d’ancienneté ininterrompus au service du même employeur […] »"
+        }
+      ],
+      "fiches_liees": [
+        "cdd-requalification-prime-conservee"
+      ]
+    }
   }
 ]
