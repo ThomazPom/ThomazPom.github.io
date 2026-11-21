@@ -2950,7 +2950,8 @@
       "La comparaison porte sur la retraite de base. La réversion complémentaire peut suivre d’autres règles. Dans le régime des pensions civiles et militaires, le droit peut être rétabli sur demande si la nouvelle union prend fin, dans les conditions prévues par le code.",
       "Dans le régime général, le montant n’est pas révisable indéfiniment au gré des ressources. Selon l’article R. 353-1-1, la dernière révision intervient au plus tard trois mois après le début du versement de l’ensemble de vos retraites personnelles de base et complémentaires, si vous y avez droit, sous réserve des exceptions du texte. Un remariage ultérieur ne fait donc pas, à lui seul, rouvrir ce calcul.",
       "Le décès d’un autre bénéficiaire peut au contraire augmenter votre part. Dans le régime général, l’article L. 353-3 répartit la réversion selon la durée des mariages. Si une réversion de 600 € est partagée entre deux bénéficiaires après des mariages de 20 et 10 ans, les parts sont de 400 € et 200 € avant application des conditions propres à chacun. Au décès de la personne qui touche 400 €, sa part s’ajoute à celle de l’autre, qui peut alors atteindre 600 € si les conditions de ressources le permettent.",
-      "Si votre remariage se termine par un divorce, l’article L. 46 vous permet de demander le rétablissement de la réversion d’un fonctionnaire de l’État, tandis que les règles de l’Agirc-Arrco suppriment définitivement la réversion complémentaire du privé après le remariage."
+      "Si votre remariage se termine par un divorce, l’article L. 46 vous permet de demander le rétablissement de la réversion d’un fonctionnaire de l’État, tandis que les règles de l’Agirc-Arrco suppriment définitivement la réversion complémentaire du privé après le remariage.",
+      "Si vous vous pacsez au lieu de vous remarier, le Service des retraites de l’État indique que le versement d’une réversion de fonctionnaire de l’État est suspendu à la date du Pacs. Dans le régime général, le Pacs ne supprime pas automatiquement la réversion de base, mais les ressources de votre nouveau couple peuvent influer sur son montant tant qu’elle reste révisable."
     ],
     "sources": [
       {
@@ -2972,6 +2973,10 @@
       {
         "label": "Agirc-Arrco, réversion des conjoints",
         "url": "https://reglementation.agirc-arrco.fr/home/liste-fiche-reglementaires/listes-area/liste-de-fiches-reglementaires/reversion-des-conjoints.html"
+      },
+      {
+        "label": "Service des retraites de l’État, effet d’un Pacs après l’attribution",
+        "url": "https://retraitesdeletat.gouv.fr/retraite/je-contacte-mon-regime/vos-questions-les-plus-frequentes-et-vos-contacts"
       }
     ],
     "relation": {
