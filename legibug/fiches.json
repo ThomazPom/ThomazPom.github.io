@@ -9338,7 +9338,8 @@
       "raison": "La prime compense la précarité vécue jusqu’à la fin du CDD. La décision ultérieure reconnaît le CDI et ouvre un droit distinct."
     },
     "explication": [
-      "L’exemple porte sur une prime de fin de contrat déjà versée. Il suppose une requalification judiciaire ouvrant droit à l’indemnité de l’article L. 1245-2."
+      "L’exemple porte sur une prime de fin de contrat déjà versée. Il suppose une requalification judiciaire ouvrant droit à l’indemnité de l’article L. 1245-2.",
+      "Si vous refusez une seule offre écrite de CDI pour le même poste, au même salaire, avec le même temps de travail, la même classification et au même endroit, l’article L. 1243-10 peut déjà vous faire perdre la prime de fin de CDD. Ce seul refus ne déclenche pas la règle de l’article L. 5422-1 qui peut empêcher l’ouverture des droits au chômage après deux refus d’offres répondant aux conditions de l’article L. 1243-11-1 en douze mois. Votre droit au chômage reste soumis aux autres conditions."
     ],
     "sources": [
       {
@@ -9352,6 +9353,18 @@
       {
         "label": "Cour de cassation, lettre de la chambre sociale n° 18",
         "url": "https://www.courdecassation.fr/publications/lettre-de-la-chambre-sociale/ndeg18-janvierfevrier-2023/contrat-duree-determinee"
+      },
+      {
+        "label": "Code du travail, article L. 1243-10",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901221"
+      },
+      {
+        "label": "Code du travail, article L. 1243-11-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048600685"
+      },
+      {
+        "label": "Code du travail, article L. 5422-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048590547"
       }
     ],
     "relation": {
