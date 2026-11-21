@@ -9190,7 +9190,7 @@
       "titre": "Le propriétaire annonce la reprise quatre mois avant la fin du bail. Est-ce assez ?",
       "face_a_face": "L’article 15 exige 6 mois de préavis pour reprendre un logement loué vide. L’article 25-8 en exige 3 pour reprendre un logement loué meublé. Un congé reçu 4 mois avant l’échéance arrive donc à temps dans un cas et trop tard dans l’autre.",
       "texte": "Votre bail se termine le 30 septembre. Vous recevez le congé pour reprise le 30 mai. S’il remplit les autres conditions, le congé peut mettre fin à un bail meublé ordinaire le 30 septembre. Pour un bail vide, les quatre mois de préavis sont insuffisants pour cette même échéance.",
-      "raison": "Le même projet de reprise et la même date de notification peuvent conduire à deux dates de départ différentes selon le type de bail."
+      "raison": "Quatre mois suffisent en meublé, mais un préavis trop court en location vide peut décaler la reprise de trois ans : si le bail vide est reconduit tacitement et que le propriétaire est un particulier, l’article 10 fixe sa nouvelle durée à trois ans."
     },
     "explication": [
       "La comparaison porte sur les baux ordinaires de résidence principale. Elle suppose que le motif de reprise est réel et que les autres conditions du congé sont remplies, notamment celles protégeant certains locataires."
@@ -9203,6 +9203,10 @@
       {
         "label": "Loi du 6 juillet 1989, article 25-8",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047900072"
+      },
+      {
+        "label": "Loi du 6 juillet 1989, article 10, durée de reconduction",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000028806675"
       }
     ],
     "relation": {
