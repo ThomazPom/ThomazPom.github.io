@@ -9265,7 +9265,8 @@
       "La retenue dépend des règles applicables au recouvrement. Une demande de remise ou de réduction de la créance a également un effet suspensif selon cet article.",
       "Pour un trop-perçu de RSA, l’article L. 262-46 suspend le recouvrement si vous contestez la décision. Pour un forfait de stationnement, l’article L. 2333-87 laisse courir les trois mois pour payer malgré le recours administratif préalable. Deux contestations déposées le même jour peuvent donc avoir des effets opposés sur le paiement.",
       "L’impôt suit une troisième règle. Vous recevez un avis de 900 € et contestez 600 €. Avec l’article L. 277 du livre des procédures fiscales, une réclamation seule ne reporte pas le paiement. Si vous demandez expressément le sursis dans la réclamation et précisez le montant ou les bases de la réduction demandée, vous pouvez différer les 600 € contestés. Les 300 € que vous ne contestez pas restent à payer.",
-      "Un euro de plus peut aussi changer vos obligations. Pour le même avis de 5 000 €, vous demandez le sursis sur 4 500 € de droits contestés. L’article R. 277-7 n’exige alors aucune garantie. Si vous contestez 4 501 €, il exige des garanties sur les 4 501 €, pas seulement sur l’euro qui dépasse le seuil. Si vous ne fournissez pas de garantie suffisante, l’article L. 277 permet au comptable de prendre des mesures conservatoires."
+      "Un euro de plus peut aussi changer vos obligations. Pour le même avis de 5 000 €, vous demandez le sursis sur 4 500 € de droits contestés. L’article R. 277-7 n’exige alors aucune garantie. Si vous contestez 4 501 €, il exige des garanties sur les 4 501 €, pas seulement sur l’euro qui dépasse le seuil. Si vous ne fournissez pas de garantie suffisante, l’article L. 277 permet au comptable de prendre des mesures conservatoires.",
+      "Deux personnes ont reçu 600 € de trop, sans fraude ni fausse déclaration. En supposant que les délais ont commencé au versement et que rien ne les a suspendus ni interrompus, deux ans et demi plus tard le délai de deux ans est expiré pour le RSA selon l’article L. 262-45. Le délai de trois ans pour l’allocation d’assurance chômage selon l’article L. 5422-5 court encore."
     ],
     "sources": [
       {
@@ -9279,6 +9280,14 @@
       {
         "label": "Livre des procédures fiscales, seuil des garanties pour le sursis",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000020989376/"
+      },
+      {
+        "label": "Code de l’action sociale et des familles, article L. 262-45",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038833712/"
+      },
+      {
+        "label": "Code du travail, article L. 5422-5",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006903827/"
       }
     ],
     "relation": {
@@ -9298,7 +9307,8 @@
         }
       ],
       "fiches_liees": [
-        "stationnement-recours-majoration"
+        "stationnement-recours-majoration",
+        "faute-grave-indemnite-rupture-conventionnelle"
       ]
     }
   },
