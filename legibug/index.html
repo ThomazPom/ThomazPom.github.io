@@ -5708,7 +5708,11 @@ const search = document.querySelector('#search');
 const count = document.querySelector('#count');
 const category = document.querySelector('#category');
 const domain = document.querySelector('#domain');
-const normalize = text => text.toLocaleLowerCase('fr').normalize('NFD').replace(/\p{M}/gu, '');
+const normalize = text => text.toLocaleLowerCase('fr').normalize('NFD')
+  .replace(/\p{M}/gu, '')
+  .replace(/[‐‑‒–−]/g, '-')
+  .replace(/(\d)\s*-\s*(?=\d)/g, '$1-')
+  .replace(/\b([lrd])\s*[.*]*\s*(?=\d)/g, '$1');
 const cards = Array.from(document.querySelectorAll('#catalogue article'), card => ({
   card,
   text: normalize(card.textContent),
