@@ -7507,7 +7507,8 @@
     "domaine": "Consommation",
     "titre": "Même commande de 300 €, même retard de remboursement. Le vendeur doit 330 € ou 360 €.",
     "explication": [
-      "Les 25 jours se comptent après la date limite de remboursement applicable, pas après la commande. En cas de rétractation, le vendeur peut en principe attendre de récupérer le bien ou de recevoir la preuve de son expédition, selon l’article L. 221-24, sauf s’il propose de le récupérer lui-même. En cas d’annulation pour défaut de livraison, le délai est de 14 jours à compter de la dénonciation du contrat selon l’article L. 216-7."
+      "Les 25 jours se comptent après la date limite de remboursement applicable, pas après la commande. En cas de rétractation, le vendeur peut en principe attendre de récupérer le bien ou de recevoir la preuve de son expédition, selon l’article L. 221-24, sauf s’il propose de le récupérer lui-même. En cas d’annulation pour défaut de livraison, le délai est de 14 jours à compter de la dénonciation du contrat selon l’article L. 216-7.",
+      "Le motif peut changer le remboursement même si le vendeur paie à temps. Vous avez payé 300 € pour la chaise et choisi une livraison express à 20 € plutôt que la livraison standard à 5 €. Si vous vous rétractez après réception, l’article L. 221-24 permet au vendeur de garder les 15 € de supplément et de rembourser 305 €. Si vous annulez valablement faute de livraison, l’article L. 216-7 lui impose de rendre les 320 € versés."
     ],
     "sources": [
       {
@@ -7517,6 +7518,14 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142708/2026-11-20",
         "label": "Code de la consommation, art. L. 241-4"
+      },
+      {
+        "label": "Code de la consommation, article L. 221-24",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226828"
+      },
+      {
+        "label": "Code de la consommation, article L. 216-7",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044139707"
       }
     ],
     "relation": {
