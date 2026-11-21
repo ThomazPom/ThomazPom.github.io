@@ -8397,7 +8397,8 @@
     "titre": "Pour 3 000 € de loyer impayé, la saisie s’arrête et l’expulsion peut continuer",
     "explication": [
       "La suspension automatique des saisies ne concerne pas les dettes alimentaires. Une saisie visant des arriérés de pension alimentaire ne s’arrête donc pas du seul fait de la recevabilité.",
-      "Après la recevabilité de votre dossier, l’article L. 722-5 vous interdit en principe de payer vos 3 000 € d’anciens loyers, sauf notamment autorisation du juge. Mais il prévoit une exception si un juge vous a accordé des délais pour régler ces loyers selon les V et VI de l’article 24 de la loi de 1989. Vous pouvez alors payer les mensualités de l’échéancier, qui peut préserver le bail si les conditions de l’article 24 sont réunies. Le loyer courant né après la recevabilité reste dû."
+      "Après la recevabilité de votre dossier, l’article L. 722-5 vous interdit en principe de payer vos 3 000 € d’anciens loyers, sauf notamment autorisation du juge. Mais il prévoit une exception si un juge vous a accordé des délais pour régler ces loyers selon les V et VI de l’article 24 de la loi de 1989. Vous pouvez alors payer les mensualités de l’échéancier, qui peut préserver le bail si les conditions de l’article 24 sont réunies. Le loyer courant né après la recevabilité reste dû.",
+      "Si le juge suspend l’expulsion, l’article L. 722-9 fixe un maximum de 2 ans. La suspension peut s’arrêter avant, notamment lorsque le plan conventionnel de redressement est approuvé. Si le plan est approuvé après 6 mois, cette suspension prend fin à ce moment-là. Il reste à vérifier si une autre règle ou décision protège encore le logement."
     ],
     "sources": [
       {
@@ -8411,6 +8412,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990048/2026-11-21",
         "label": "Code de la consommation, article L. 722-5"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461343/",
+        "label": "Code de la consommation, article L. 722-9"
       }
     ],
     "relation": {
@@ -8433,6 +8438,12 @@
           "reference": "Code de la consommation, art. L. 722-5",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990048/2026-11-21",
           "citation": "« L’interdiction […] ne s’applique pas aux créances locatives lorsqu’une décision judiciaire a accordé des délais de paiement […] »"
+        },
+        {
+          "role": "Suspension décidée par le juge, deux ans au maximum",
+          "reference": "Code de la consommation, art. L. 722-9",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033461343/",
+          "citation": "« […] pour une période maximale de deux ans et, selon les cas, jusqu’à l’approbation du plan conventionnel de redressement […] »"
         }
       ],
       "fiches_liees": [
