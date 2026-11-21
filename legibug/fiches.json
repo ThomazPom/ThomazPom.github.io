@@ -8566,12 +8566,12 @@
     "id": "surendettement-dette-effacee-caution",
     "type": "Articulation de régimes",
     "domaine": "Surendettement",
-    "titre": "La banque ne peut plus réclamer les 5 000 € à l’emprunteur. Elle peut encore les réclamer à sa caution.",
+    "titre": "Un seul versement de 400 €. Il reste 4 900 € de capital pour l’emprunteur et 4 600 € pour la caution.",
     "explication": [
+      "L’article L. 741-2 permet d’effacer le solde d’un prêt pour l’emprunteur lors d’un rétablissement personnel sans liquidation. L’article 2298 du Code civil prévoit que la caution ne bénéficie pas des mesures accordées à l’emprunteur à cause de sa défaillance, sauf règle spéciale. Votre prêt laisse 5 000 € à payer. Votre sœur s’est portée caution solidaire et n’a encore rien versé. Un rétablissement personnel efface votre dette envers la banque. Dans les limites de son engagement, celle-ci peut encore réclamer les 5 000 € à votre sœur.",
       "L’exemple suppose un cautionnement solidaire valable, signé depuis le 1er janvier 2022, couvrant les 5 000 € et aucune disposition spéciale contraire. L’article L. 741-2 prévoit aussi une exception à l’effacement pour les sommes déjà payées à la place de l’emprunteur par une caution personne physique.",
       "Votre sœur peut toutefois invoquer une protection qui lui est propre. L’article 2298 ne lui transmet pas l’effacement accordé à l’emprunteur. L’article 2300 réduit en revanche le cautionnement envers une banque s’il était manifestement disproportionné à ses revenus et à son patrimoine lors de la signature. Si le juge retient qu’elle ne pouvait s’engager qu’à hauteur de 2 000 € sur les 5 000 € garantis, la banque ne peut pas lui réclamer les 3 000 € restants au titre de cette garantie.",
-      "Autre protection de la caution : l’article 2303 oblige le créancier professionnel à la prévenir du premier impayé non régularisé dans le mois de son échéance. Si le premier impayé date du 10 janvier et que la banque ne la prévient que le 10 mai, elle perd la garantie des intérêts et pénalités échus entre ces deux dates. Si la banque réclamait 5 000 € de capital et 300 € d’intérêts et de pénalités échus durant cet intervalle, la caution peut devoir les 5 000 € de capital, mais pas les 300 € au titre de sa garantie.",
-      "Un versement de 400 € peut être compté de deux façons. Il reste 5 000 € de capital et 300 € d’intérêts déjà échus. L’emprunteur verse 400 € après le premier impayé, avant que la banque n’avertisse la caution. L’article 1343-1 affecte en principe 300 € aux intérêts et 100 € au capital. Il reste donc 4 900 € de capital dans les comptes de l’emprunteur. Mais si la banque a prévenu la caution trop tard, l’article 2303 affecte les 400 € en priorité au capital dans les rapports avec la caution. Pour elle, le capital garanti tombe alors à 4 600 €."
+      "Autre protection de la caution : l’article 2303 oblige le créancier professionnel à la prévenir du premier impayé non régularisé dans le mois de son échéance. Si le premier impayé date du 10 janvier et que la banque ne la prévient que le 10 mai, elle perd la garantie des intérêts et pénalités échus entre ces deux dates. Si la banque réclamait 5 000 € de capital et 300 € d’intérêts et de pénalités échus durant cet intervalle, la caution peut devoir les 5 000 € de capital, mais pas les 300 € au titre de sa garantie."
     ],
     "sources": [
       {
@@ -8596,7 +8596,7 @@
       }
     ],
     "relation": {
-      "question": "L’effacement de la dette protège-t-il aussi le proche qui s’est porté caution ?",
+      "question": "Comment le même versement peut-il laisser deux montants de capital à rembourser ?",
       "participants": [
         {
           "role": "Effacement pour l’emprunteur",
@@ -8635,10 +8635,10 @@
       ]
     },
     "entree": {
-      "titre": "La banque ne peut plus réclamer les 5 000 € à l’emprunteur. Elle peut encore les réclamer à sa caution.",
-      "face_a_face": "L’article L. 741-2 permet d’effacer le solde d’un prêt pour l’emprunteur lors d’un rétablissement personnel sans liquidation. L’article 2298 du Code civil prévoit que la caution ne bénéficie pas des mesures accordées à l’emprunteur à cause de sa défaillance, sauf règle spéciale.",
-      "texte": "Votre prêt laisse 5 000 € à payer. Votre sœur s’est portée caution solidaire et n’a encore rien versé. Un rétablissement personnel efface votre dette envers la banque. Dans les limites de son engagement, celle-ci peut encore réclamer les 5 000 € à votre sœur.",
-      "raison": "L’effacement protège l’emprunteur visé par la décision. Le contrat de caution laisse à la banque une autre personne à laquelle demander le paiement du même solde.",
+      "titre": "Un seul versement de 400 €. Il reste 4 900 € de capital pour l’emprunteur et 4 600 € pour la caution.",
+      "face_a_face": "L’article 1343-1 affecte le paiement partiel d’abord aux intérêts. L’article 2303 affecte le même versement d’abord au capital pour calculer ce que doit la caution si la banque lui a signalé l’impayé trop tard.",
+      "texte": "Il reste 5 000 € de capital et 300 € d’intérêts échus. L’emprunteur verse 400 € entre le premier impayé non régularisé et le moment où la banque en informe tardivement la caution. Pour l’emprunteur, 300 € couvrent les intérêts et 100 € réduisent le capital, qui passe à 4 900 €. Pour la caution, les 400 € réduisent le capital, qui passe à 4 600 €.",
+      "raison": "La banque compte le même versement de deux façons. Le retard d’information protège la caution en réduisant de 300 € de plus le capital que la banque peut lui réclamer dans cet exemple.",
       "ordre": 173
     }
   }
