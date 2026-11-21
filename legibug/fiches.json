@@ -12218,9 +12218,18 @@
     },
     "explication": [
       "Les deux délais courent à partir de la fourniture du bien ou du service. Les exceptions sont assorties de conditions cumulatives, dont l’absence de crédit offert par un tiers. Pour une grande entreprise qui vend en ligne, l’exception exige aussi qu’aucun tiers n’achète la créance au vendeur.",
-      "Une société est une grande entreprise au sens de ces textes si elle dépasse au moins deux seuils parmi 25 millions d’euros de bilan, 50 millions d’euros de chiffre d’affaires net et 250 salariés en moyenne. En principe, le franchissement s’apprécie sur deux exercices consécutifs."
+      "Une société est une grande entreprise au sens de ces textes si elle dépasse au moins deux seuils parmi 25 millions d’euros de bilan, 50 millions d’euros de chiffre d’affaires net et 250 salariés en moyenne. En principe, le franchissement s’apprécie sur deux exercices consécutifs.",
+      "La fiche Service Public sur le paiement en plusieurs fois dit encore qu’une facilité de caisse de trois mois au plus échappe aux règles du crédit à la consommation. Prenez un achat de 300 € financé en trois fois sans frais par un organisme tiers. Le fait qu’un tiers accorde le crédit écarte les exceptions du vendeur prévues aux 4° et 5° de l’article L. 312-4. Si le financement relève du code de la consommation, l’article L. 312-4-1 dispense le prêteur de certaines obligations, mais le délai de rétractation de 14 jours de l’article L. 312-19 reste applicable."
     ],
     "sources": [
+      {
+        "label": "Service Public, crédit gratuit et facilité de caisse",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2438"
+      },
+      {
+        "label": "Article L. 312-4-1, exceptions pour les crédits courts",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052185869/2026-11-20/"
+      },
       {
         "label": "Code de commerce, article L. 230-1, définition de la grande entreprise",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048521044"
