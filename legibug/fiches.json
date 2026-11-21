@@ -7157,7 +7157,7 @@
     "domaine": "Successions et assurances",
     "titre": "Après un décès, le compte bancaire est transféré après 3 ans et l’assurance-vie après 10 ans",
     "explication": [
-      "Le compte inactif est transféré dans les 3 mois qui suivent l’expiration du délai bancaire. L’assurance-vie est transférée dans le mois qui suit son propre délai. Les sommes non réclamées reviennent à l’État 27 ans après le dépôt à la Caisse des dépôts pour ce compte bancaire et 20 ans après le dépôt pour l’assurance-vie. Si l’assureur apprend le décès plus tard, son délai de 10 ans commence plus tard."
+      "Le compte inactif est transféré dans les 3 mois qui suivent l’expiration du délai bancaire. L’assurance-vie est transférée dans le mois qui suit son propre délai. Les sommes non réclamées reviennent à l’État 27 ans après le dépôt à la Caisse des dépôts pour ce compte bancaire et 20 ans après le dépôt pour l’assurance-vie. Supposons que l’assureur ait appris le décès deux ans après. Si les sommes restent non réclamées, le compte revient à l’État environ 30 ans après le décès, tandis que l’assurance-vie lui revient environ 32 ans après. Les dates exactes dépendent du jour où chaque somme a été déposée à la Caisse des dépôts."
     ],
     "sources": [
       {
