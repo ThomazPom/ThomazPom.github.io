@@ -10995,5 +10995,44 @@
         "nationalite-mariage-quatre-cinq-ans"
       ]
     }
+  },
+  {
+    "id": "compte-etranger-delai-reprise-50000",
+    "type": "Articulation de régimes",
+    "domaine": "Fiscalité",
+    "titre": "Compte étranger non déclaré : un dépassement de 1 € peut faire passer le délai de 3 à 10 ans",
+    "entree": {
+      "ordre": 202,
+      "titre": "Compte étranger non déclaré : un dépassement de 1 € peut faire passer le délai de 3 à 10 ans",
+      "face_a_face": "L’article L. 169 donne en principe au fisc jusqu’à la fin de la troisième année suivante pour rectifier l’impôt sur le revenu, mais le même article porte le délai à dix ans pour les revenus liés à un compte étranger non déclaré si le contribuable ne prouve pas que le total de ses comptes étrangers n’a jamais dépassé 50 000 € pendant l’année concernée.",
+      "texte": "Deux personnes ont chacune omis de déclarer leur seul compte étranger. La première prouve que le solde n’a jamais dépassé 50 000 € pendant l’année concernée. La seconde a atteint 50 001 €, même brièvement. Pour un revenu lié au compte, la première peut bénéficier du délai ordinaire et la seconde peut rester exposée à une rectification sept ans de plus.",
+      "raison": "Le seuil joue sur le délai ouvert au fisc. L’obligation de déclarer le compte subsiste des deux côtés du seuil lorsque l’article 1649 A s’applique."
+    },
+    "explication": [
+      "Le seuil porte sur le total des soldes créditeurs, et le contribuable doit prouver qu’il n’a été dépassé à aucun moment de l’année au titre de laquelle la déclaration devait être faite. L’exemple suppose qu’aucun autre motif ne prolonge le délai et que le revenu à rectifier est lié au compte non déclaré."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051759330/",
+        "label": "Livre des procédures fiscales, article L. 169"
+      }
+    ],
+    "relation": {
+      "question": "Le fisc a-t-il trois ans ou dix ans pour rectifier le revenu lié au compte ?",
+      "participants": [
+        {
+          "role": "Délai ordinaire",
+          "reference": "Livre des procédures fiscales, art. L. 169, al. 1",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051759330/",
+          "citation": "« […] jusqu’à la fin de la troisième année […] »"
+        },
+        {
+          "role": "Délai prolongé et seuil",
+          "reference": "Livre des procédures fiscales, art. L. 169, comptes non déclarés",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051759330/",
+          "citation": "« […] n’a pas excédé 50 000 € à un moment quelconque de l’année […] »"
+        }
+      ]
+    }
   }
 ]
