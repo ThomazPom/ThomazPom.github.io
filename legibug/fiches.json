@@ -9864,9 +9864,22 @@
     },
     "explication": [
       "Cette comparaison porte sur les indemnités légales de rupture. Une convention collective peut prévoir des dispositions plus favorables. Les règles diffèrent lorsque l’inaptitude est d’origine professionnelle.",
+      "Inapte à votre poste ne signifie pas automatiquement inapte pour la retraite. L’article L. 4624-4 du Code du travail permet au médecin du travail de vous déclarer inapte à votre poste s’il ne peut pas être adapté et que votre santé impose un changement. Pour la retraite pour inaptitude, l’article L. 351-7 du Code de la sécurité sociale et l’article R. 351-21 exigent notamment une incapacité de travail médicalement constatée d’au moins 50 %. Si vous ne pouvez plus occuper votre poste mais que la caisse ne reconnaît pas cette incapacité, l’avis du médecin du travail ne suffit pas à vous ouvrir la retraite pour inaptitude à 62 ans.",
       "Reprenons le CDI avec six mois d’ancienneté. Si l’inaptitude est d’origine professionnelle, par exemple après un accident du travail, l’article L. 1226-14 ouvre droit à une indemnité spéciale sans minimum d’ancienneté. Elle atteint en principe au moins le double de l’indemnité légale de référence. Le texte prévoit une exception si l’employeur établit le caractère abusif du refus d’un reclassement proposé."
     ],
     "sources": [
+      {
+        "label": "Code du travail, art. L. 4624-4, inaptitude au poste",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000033024926/"
+      },
+      {
+        "label": "Code de la sécurité sociale, art. R. 351-21, incapacité de travail de 50 %",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006749360/"
+      },
+      {
+        "label": "Code de la sécurité sociale, conditions d’âge de la retraite",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000047634628"
+      },
       {
         "label": "Code du travail, article R. 1234-2, calcul du minimum",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000035644692/"
