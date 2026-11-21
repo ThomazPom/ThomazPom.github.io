@@ -11251,5 +11251,47 @@
         }
       ]
     }
+  },
+  {
+    "id": "rsa-quinze-heures-plan-sans-duree",
+    "type": "Réserve d’interprétation",
+    "domaine": "Protection sociale",
+    "titre": "RSA : le contrat prévoit au moins 15 heures d’activité, mais peut ne fixer aucune durée",
+    "entree": {
+      "ordre": 207,
+      "titre": "RSA : le contrat prévoit au moins 15 heures d’activité, mais peut ne fixer aucune durée",
+      "face_a_face": "L’article L. 5411-6 du Code du travail prévoit en principe au moins 15 heures d’activité par semaine, mais permet dans le même article un plan sans durée hebdomadaire, à la demande notamment d’un parent isolé sans solution de garde pour un enfant de moins de 12 ans.",
+      "texte": "Vous touchez le RSA et élevez seul un enfant de huit ans, sans solution de garde. Vous pouvez demander un plan d’action sans durée hebdomadaire imposée si cette situation crée des difficultés particulières et avérées. Vous gardez un contrat d’engagement, avec un plan adapté.",
+      "raison": "Le Conseil constitutionnel exige que la durée dépende des besoins de la personne et du temps nécessaire à son accompagnement. Le code prévoit aussi une réduction du minimum et, dans certaines situations, un plan sans durée chiffrée."
+    },
+    "explication": [
+      "Le texte vise aussi des difficultés particulières et avérées liées à la santé, au handicap ou à l’invalidité. La réserve du Conseil constitutionnel, reproduite sous l’article, exige une durée adaptée à la situation personnelle et familiale."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006074069/LEGISCTA000006157612/2026-08-24/",
+        "label": "Code de l’action sociale et des familles, art. L. 262-34, contrat des bénéficiaires du RSA"
+      }
+    ],
+    "relation": {
+      "question": "Peut-on fixer le même minimum de quinze heures à tout le monde ?",
+      "participants": [
+        {
+          "role": "Durée de principe",
+          "reference": "Code du travail, art. L. 5411-6, II, 3°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048590568/2026-10-29",
+          "citation": "« […] une durée hebdomadaire d’activité […] d’au moins quinze heures. »"
+        },
+        {
+          "role": "Plan sans durée hebdomadaire",
+          "reference": "Code du travail, art. L. 5411-6, II, 3°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048590568/2026-10-29",
+          "citation": "« […] peuvent disposer d’un plan d’action sans durée hebdomadaire d’activité. »"
+        }
+      ],
+      "fiches_liees": [
+        "rsa-outre-mer-ancien-contrat-insertion"
+      ]
+    }
   }
 ]
