@@ -8571,7 +8571,8 @@
       "L’article L. 741-2 permet d’effacer le solde d’un prêt pour l’emprunteur lors d’un rétablissement personnel sans liquidation. L’article 2298 du Code civil prévoit que la caution ne bénéficie pas des mesures accordées à l’emprunteur à cause de sa défaillance, sauf règle spéciale. Votre prêt laisse 5 000 € à payer. Votre sœur s’est portée caution solidaire et n’a encore rien versé. Un rétablissement personnel efface votre dette envers la banque. Dans les limites de son engagement, celle-ci peut encore réclamer les 5 000 € à votre sœur.",
       "L’exemple suppose un cautionnement solidaire valable, signé depuis le 1er janvier 2022, couvrant les 5 000 € et aucune disposition spéciale contraire. L’article L. 741-2 prévoit aussi une exception à l’effacement pour les sommes déjà payées à la place de l’emprunteur par une caution personne physique.",
       "Votre sœur peut toutefois invoquer une protection qui lui est propre. L’article 2298 ne lui transmet pas l’effacement accordé à l’emprunteur. L’article 2300 réduit en revanche le cautionnement envers une banque s’il était manifestement disproportionné à ses revenus et à son patrimoine lors de la signature. Si le juge retient qu’elle ne pouvait s’engager qu’à hauteur de 2 000 € sur les 5 000 € garantis, la banque ne peut pas lui réclamer les 3 000 € restants au titre de cette garantie.",
-      "Autre protection de la caution : l’article 2303 oblige le créancier professionnel à la prévenir du premier impayé non régularisé dans le mois de son échéance. Si le premier impayé date du 10 janvier et que la banque ne la prévient que le 10 mai, elle perd la garantie des intérêts et pénalités échus entre ces deux dates. Si la banque réclamait 5 000 € de capital et 300 € d’intérêts et de pénalités échus durant cet intervalle, la caution peut devoir les 5 000 € de capital, mais pas les 300 € au titre de sa garantie."
+      "Autre protection de la caution : l’article 2303 oblige le créancier professionnel à la prévenir du premier impayé non régularisé dans le mois de son échéance. Si le premier impayé date du 10 janvier et que la banque ne la prévient que le 10 mai, elle perd la garantie des intérêts et pénalités échus entre ces deux dates. Si la banque réclamait 5 000 € de capital et 300 € d’intérêts et de pénalités échus durant cet intervalle, la caution peut devoir les 5 000 € de capital, mais pas les 300 € au titre de sa garantie.",
+      "Deux proches solvables garantissent chacun la même dette de 5 000 €. L’article 2306 permet en principe à la caution poursuivie de demander que la banque divise ses poursuites. Avec deux cautions engagées à parts égales, la banque doit alors limiter sa demande à 2 500 € envers chacune. Si les cautions sont solidaires entre elles ou ont renoncé à la division, la banque peut réclamer les 5 000 € à l’une seule, dans les limites de son engagement."
     ],
     "sources": [
       {
@@ -8593,6 +8594,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032035259/",
         "label": "Code civil, article 1343-1"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071257/",
+        "label": "Code civil, article 2306"
       }
     ],
     "relation": {
