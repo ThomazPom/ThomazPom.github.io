@@ -12279,5 +12279,49 @@
         "pret-personnel-plafond-75000-100000"
       ]
     }
+  },
+  {
+    "id": "immobilier-collaborateurs-competences-decret",
+    "domaine": "Logement",
+    "type": "Lacune d’application",
+    "titre": "Négocier un logement pour une agence : la loi exige une qualification que le décret doit encore préciser",
+    "entree": {
+      "ordre": 227,
+      "titre": "Négocier un logement pour une agence : la loi exige une qualification que le décret doit encore préciser",
+      "face_a_face": "L’article 4 de la loi Hoguet exige que les collaborateurs habilités à négocier pour une agence immobilière justifient d’une compétence professionnelle fixée par décret, et le Conseil d’État a donné six mois au gouvernement pour prendre ce décret en février 2025. Les recherches au 21 novembre 2026 n’ont pas retrouvé sa publication.",
+      "texte": "Une agence veut habiliter une nouvelle personne à négocier une vente ou une location pour son compte. La loi demande de vérifier sa compétence professionnelle. Pour connaître les qualifications précises exigées, elle renvoie à un décret dont le Conseil d’État a ordonné la publication.",
+      "raison": "La loi pose un critère dont elle laisse la définition au règlement. Sans cette définition, l’agence et son futur collaborateur ne peuvent pas lire dans le décret quelles qualifications suffisent."
+    },
+    "explication": [
+      "Le Conseil d’État a jugé que le code de déontologie de 2015 impose à l’agence de veiller aux compétences de ses collaborateurs, mais ne précise pas leur nature ni leur contenu. Les obligations de formation continue et les conditions d’obtention de la carte professionnelle du titulaire répondent à d’autres questions.",
+      "Le délai de six mois courait à compter de la notification de la décision. La vérification porte sur les publications retrouvées, sans accès à la date de notification ni à un éventuel projet de décret."
+    ],
+    "sources": [
+      {
+        "label": "Loi Hoguet, article 4",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037670965/2026-08-17"
+      },
+      {
+        "label": "Conseil d’État, 25 février 2025, n° 492640",
+        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-02-25/492640"
+      }
+    ],
+    "relation": {
+      "question": "Quels justificatifs prouvent la compétence professionnelle du nouveau collaborateur ?",
+      "participants": [
+        {
+          "role": "Compétence à préciser par décret",
+          "reference": "Loi Hoguet, article 4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037670965/2026-08-17",
+          "citation": "« […] d’une compétence professionnelle […] »"
+        },
+        {
+          "role": "Injonction au Premier ministre",
+          "reference": "Conseil d’État, décision n° 492640, article 2",
+          "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-02-25/492640",
+          "citation": "« […] dans un délai de six mois à compter de la notification de la présente décision […] »"
+        }
+      ]
+    }
   }
 ]
