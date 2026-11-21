@@ -2526,7 +2526,8 @@
     },
     "explication": [
       "L’exemple applique le minimum légal sur une période entière de douze mois. Un accord plus favorable peut changer le résultat. Le plafond de 24 jours vise les jours acquis au titre de l’arrêt non professionnel.",
-      "Un arrêt peut aussi changer le décompte de congés déjà acquis. Vous avez posé cinq jours ouvrables de vacances et un arrêt maladie, notifié à votre employeur, recouvre les deux derniers. Selon l’arrêt du 10 septembre 2025, vous devez pouvoir prendre ces deux jours plus tard. Les trois premiers restent des jours de congé utilisés. La Cour de cassation a changé sa jurisprudence sur ce point pour tenir compte du droit de l’Union européenne."
+      "Un arrêt peut aussi changer le décompte de congés déjà acquis. Vous avez posé cinq jours ouvrables de vacances et un arrêt maladie, notifié à votre employeur, recouvre les deux derniers. Selon l’arrêt du 10 septembre 2025, vous devez pouvoir prendre ces deux jours plus tard. Les trois premiers restent des jours de congé utilisés. La Cour de cassation a changé sa jurisprudence sur ce point pour tenir compte du droit de l’Union européenne.",
+      "L’article L. 3141-19-1 donne en principe 15 mois pour prendre les jours reportés, à partir du moment où l’employeur vous informe de vos droits après votre reprise. Pour les jours acquis pendant l’arrêt, l’article L. 3141-19-2 fait partir ces mêmes 15 mois dès la fin de la période d’acquisition si vous êtes alors en arrêt depuis au moins un an. Si vous êtes toujours en arrêt 16 mois après cette date, ces jours peuvent donc déjà être perdus. Si vous reprenez avant l’expiration du délai, il est suspendu jusqu’à la réception des informations de l’employeur."
     ],
     "sources": [
       {
@@ -2536,6 +2537,14 @@
       {
         "label": "Cour de cassation, 10 septembre 2025, n° 23-22.732",
         "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000052267316"
+      },
+      {
+        "label": "Code du travail, article L. 3141-19-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049459071/"
+      },
+      {
+        "label": "Code du travail, article L. 3141-19-2",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049459073/"
       }
     ],
     "relation": {
