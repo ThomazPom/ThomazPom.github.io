@@ -8401,7 +8401,8 @@
       "Le juge suspend l’expulsion en septembre et le plan conventionnel de redressement est approuvé le 15 février. L’article L. 722-9 prévoit que cette suspension prend fin à l’approbation du plan, avec un maximum de 2 ans. L’article L. 412-6 peut toutefois empêcher l’expulsion physique jusqu’au 31 mars inclus si l’occupant bénéficie de la trêve hivernale. Dans ce cas, la protection liée au dossier prend fin le 15 février, tandis que la trêve reporte encore le départ forcé au 1er avril au plus tôt.",
       "Autre exception si vous êtes propriétaire. Votre dossier est déclaré recevable le 10 novembre, mais le juge a déjà ordonné la vente aux enchères de votre logement pour le 20 novembre. L’article L. 722-2 pose le principe de la suspension des saisies. Dans ce cas précis, l’article L. 722-4 prévoit que la date de vente ne peut être reportée que par le juge chargé de la saisie immobilière, à la demande de la commission et pour des motifs graves et dûment justifiés.",
       "Votre résidence principale vaut 180 000 € et vos dettes s’élèvent à 120 000 €, mais vos revenus ne suffisent pas pour payer les échéances. L’article L. 711-1 permet de reconnaître le surendettement malgré la valeur de votre logement, si les autres conditions sont remplies. Si une vente forcée a déjà été ordonnée, l’article L. 722-4 exige toujours une décision du juge pour la reporter. Être admis à la procédure ne garantit donc pas de garder la maison.",
-      "Les mesures de rééchelonnement imposées visées par l’article L. 733-3 sont en principe limitées à 7 ans. Mais si un échéancier de 9 ans sur votre prêt immobilier permet d’éviter la vente de votre résidence principale, le même article autorise à dépasser ce plafond. Il prévoit aussi ce dépassement si les mesures permettent de rembourser toutes vos dettes et de garder le logement. Les 9 ans sont un exemple de durée possible, que la commission doit apprécier selon le dossier."
+      "Les mesures de rééchelonnement imposées visées par l’article L. 733-3 sont en principe limitées à 7 ans. Mais si un échéancier de 9 ans sur votre prêt immobilier permet d’éviter la vente de votre résidence principale, le même article autorise à dépasser ce plafond. Il prévoit aussi ce dépassement si les mesures permettent de rembourser toutes vos dettes et de garder le logement. Les 9 ans sont un exemple de durée possible, que la commission doit apprécier selon le dossier.",
+      "Votre résidence principale est vendue de force et 150 000 € du prix sont imputés sur les 180 000 € de capital restant dû. Il reste 30 000 € à payer. Si le prêt et sa garantie remplissent les conditions de l’article L. 733-4, la commission peut, à votre demande et par décision motivée, réduire et étaler ce solde pour que le paiement soit compatible avec vos ressources et vos charges. La règle vaut aussi pour une vente amiable organisée avec le prêteur pour éviter la saisie."
     ],
     "sources": [
       {
@@ -8435,6 +8436,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224447/",
         "label": "Code de la consommation, article L. 733-3"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033461247/",
+        "label": "Code de la consommation, article L. 733-4"
       }
     ],
     "relation": {
@@ -8481,6 +8486,12 @@
           "reference": "Code de la consommation, art. L. 733-3",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032224447/",
           "citation": "« La durée totale des mesures mentionnées à l’article L. 733-1 ne peut excéder sept années. »"
+        },
+        {
+          "role": "Logement vendu, réduction possible du solde du prêt",
+          "reference": "Code de la consommation, art. L. 733-4",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000033461247/",
+          "citation": "« […] la réduction du montant de la fraction des prêts immobiliers restant due […] après la vente […] »"
         }
       ],
       "fiches_liees": [
