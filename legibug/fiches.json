@@ -2062,7 +2062,7 @@
     "entree": {
       "ordre": 50,
       "titre": "Vous versez 3 600 € de pension. Pourquoi pouvez-vous déduire 0 € ?",
-      "face_a_face": "L’article 194 du code des impôts présume que l’enfant en garde alternée est à la charge des deux parents à parts égales, tandis que l’article 156 interdit de déduire la pension si l’enfant compte déjà dans votre quotient familial.",
+      "face_a_face": "Si votre enfant vit une semaine sur deux chez vous, l’article 194 du code des impôts le compte en principe à parts égales chez ses deux parents, tandis que l’article 156 vous laisse déduire 0 € des 3 600 € de pension versés dans l’année si l’enfant compte déjà dans vos parts fiscales.",
       "texte": "Votre enfant vit une semaine sur deux chez vous et vous versez 300 € par mois à l’autre parent. Si l’enfant compte pour vous dans le calcul de l’impôt, vous ne pouvez déduire aucun des 3 600 € versés dans l’année. Le versement ne sert pas non plus à prouver au fisc que vous assumez la charge principale de l’enfant.",
       "raison": "Le fisc tient déjà compte de l’enfant pour calculer vos parts. L’interdiction évite de cumuler cet avantage et la déduction de la pension. Le Conseil constitutionnel a validé la règle selon laquelle la pension est écartée lorsqu’on cherche à déterminer qui assume la charge principale."
     },
