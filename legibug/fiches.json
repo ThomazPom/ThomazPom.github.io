@@ -10911,7 +10911,8 @@
       "raison": "Pour les couples de l’exemple, le délai dépend d’une démarche d’inscription du conjoint français, même si la durée du mariage et de la vie commune est identique."
     },
     "explication": [
-      "Le deuxième alinéa de l’article 21-2 formule le passage à cinq ans avec deux conditions négatives reliées par « soit… soit… ». Lu isolément, il peut donner l’impression que l’absence de trois ans en France suffit toujours à passer à cinq ans, même si le conjoint français est inscrit au consulat. L’article 14-1, 7° du décret demande les preuves de résidence en France ou le certificat d’inscription consulaire. Service Public applique cette alternative : l’inscription peut suffire pour bénéficier du délai de quatre ans quand les époux vivent à l’étranger. Le délai est une condition parmi d’autres. Le conjoint français doit notamment avoir conservé sa nationalité et les époux doivent toujours mener une vie commune."
+      "Le deuxième alinéa de l’article 21-2 formule le passage à cinq ans avec deux conditions négatives reliées par « soit… soit… ». Lu isolément, il peut donner l’impression que l’absence de trois ans en France suffit toujours à passer à cinq ans, même si le conjoint français est inscrit au consulat. L’article 14-1, 7° du décret demande les preuves de résidence en France ou le certificat d’inscription consulaire. Service Public applique cette alternative : l’inscription peut suffire pour bénéficier du délai de quatre ans quand les époux vivent à l’étranger. Le délai est une condition parmi d’autres. Le conjoint français doit notamment avoir conservé sa nationalité et les époux doivent toujours mener une vie commune.",
+      "Même après l’enregistrement, deux délais de deux ans peuvent partir de dates différentes. L’article 26-4 donne au ministère public deux ans après l’enregistrement pour contester si les conditions légales manquaient. En cas de mensonge ou de fraude, les deux ans partent de la découverte. Pour une déclaration enregistrée en 2021, un mensonge découvert en 2026 peut donc encore être invoqué, même si le délai ordinaire a expiré depuis 2023."
     ],
     "sources": [
       {
@@ -10921,6 +10922,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051906761/",
         "label": "Décret n° 93-1362, art. 14-1, 7°, justificatifs de résidence ou d’inscription"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006420179/",
+        "label": "Code civil, art. 26-4, délais pour contester l’enregistrement"
       }
     ],
     "relation": {
