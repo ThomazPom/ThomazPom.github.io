@@ -5162,7 +5162,7 @@
     "entree": {
       "ordre": 113,
       "titre": "Aucun panneau sur le terrain. Le permis peut quand même devenir trop ancien pour être contesté.",
-      "face_a_face": "L’article R. 600-2 du Code de l’urbanisme fait partir le délai de recours des voisins d’un affichage régulier sur le terrain, tandis que l’article R. 600-3 bloque le recours en annulation six mois après l’achèvement des travaux, même si aucun affichage n’a lancé le premier délai.",
+      "face_a_face": "L’article R. 600-2 donne aux voisins 2 mois pour contester à partir du début d’un affichage régulier et continu. Sans panneau, ces 2 mois ne commencent pas. L’article R. 600-3 ferme quand même le recours 6 mois après la fin des travaux.",
       "texte": "Votre voisin termine une construction autorisée sans avoir affiché le permis sur son terrain. Le délai habituel de deux mois lié au panneau n’a pas commencé. Si vous attendez sept mois après l’achèvement pour demander l’annulation du permis, votre recours est néanmoins trop tardif.",
       "raison": "Un délai dépend de la publicité du permis, l’autre de la fin des travaux. L’absence de panneau empêche le premier de partir, mais elle ne maintient pas indéfiniment le droit de demander l’annulation."
     },
