@@ -9118,9 +9118,14 @@
     },
     "explication": [
       "Le nouvel article fixe le moment à partir duquel le versement est possible. Il n’oblige pas le prêteur à verser les fonds le jour de la signature. Si l’emprunteur se rétracte après le versement, l’article L. 312-26 prévoit de rendre le capital et les intérêts courus, au plus tard 30 jours après l’envoi de la notification.",
-      "Au 21 novembre 2026, la fiche Service Public sur le contrat de crédit annonce la réforme, mais son corps indique encore que le prêteur ne peut faire aucun paiement pendant sept jours ouvrables. Pour un nouveau contrat régi par la réforme, le nouvel article L. 312-25 ne prévoit plus cette attente."
+      "Au 21 novembre 2026, la fiche Service Public sur le contrat de crédit annonce la réforme, mais son corps indique encore que le prêteur ne peut faire aucun paiement pendant sept jours ouvrables. Pour un nouveau contrat régi par la réforme, le nouvel article L. 312-25 ne prévoit plus cette attente.",
+      "Le nouvel article L. 312-24 conserve un délai de sept jours pour la décision du prêteur. Le prêteur peut décider plus tôt. En versant les fonds, il manifeste aussi son accord. Ce délai de décision ne rétablit pas l’attente avant versement."
     ],
     "sources": [
+      {
+        "label": "Nouvel article L. 312-24, décision du prêteur",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190671/2026-11-20"
+      },
       {
         "label": "Service Public, règles du contrat de crédit",
         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2451"
@@ -9131,7 +9136,7 @@
       },
       {
         "label": "Nouvel article L. 312-25",
-        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000052190660/2026-11-20"
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190676/2026-11-20"
       },
       {
         "label": "Ordonnance n° 2025-880, article 99, II",
@@ -9150,7 +9155,7 @@
         {
           "role": "Versement possible après acceptation",
           "reference": "Nouvel article L. 312-25",
-          "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000052190660/2026-11-20",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052190676/2026-11-20",
           "citation": "« Avant l’acceptation du contrat par l’emprunteur, aucun paiement […] ne peut être fait »"
         },
         {
