@@ -10540,12 +10540,17 @@
       "raison": "L’assignation se déroule hors de la prison, mais le Code la traite comme une détention provisoire pour calculer la part de la peine déjà exécutée."
     },
     "explication": [
-      "L’exemple concerne l’assignation à résidence avec surveillance électronique ordonnée avant le procès et effectivement exécutée. Le calcul suppose une condamnation dans la même procédure et aucun autre crédit de peine."
+      "L’exemple concerne l’assignation à résidence avec surveillance électronique ordonnée avant le procès et effectivement exécutée. Le calcul suppose une condamnation dans la même procédure et aucun autre crédit de peine.",
+      "Si l’affaire se termine au contraire par un non-lieu, une relaxe ou un acquittement devenu définitif, l’article 142-10 permet de demander réparation du préjudice causé par l’assignation. Les trois mois sous bracelet servent alors à établir le préjudice subi selon les règles des articles 149 à 150. Il n’y a pas de montant forfaitaire par mois."
     ],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006071154/LEGISCTA000006167427/2026-08-03",
         "label": "Code de procédure pénale, assignation à résidence avec surveillance électronique"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000021331493/",
+        "label": "Code de procédure pénale, art. 142-10, réparation du préjudice"
       }
     ],
     "relation": {
@@ -10565,7 +10570,8 @@
         }
       ],
       "fiches_liees": [
-        "detention-visio-comparution"
+        "detention-visio-comparution",
+        "detention-provisoire-indemnisation-exception"
       ]
     }
   }
