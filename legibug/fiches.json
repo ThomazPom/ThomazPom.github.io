@@ -1337,7 +1337,7 @@
     "entree": {
       "ordre": 20,
       "titre": "Une voiture vous renverse. Votre blessure peut être indemnisée et votre téléphone cassé rester à votre charge.",
-      "face_a_face": "Si une voiture vous renverse alors que vous traversez imprudemment, l’article 3 de la loi du 5 juillet 1985 prévoit l’indemnisation de vos blessures malgré cette faute ordinaire. L’article 5 permet de réduire ou de refuser le remboursement de votre téléphone cassé à cause de la même faute.",
+      "face_a_face": "Si une voiture vous renverse parce que vous avez traversé imprudemment, l’article 3 de la loi du 5 juillet 1985 protège l’indemnisation de votre poignet cassé malgré cette faute ordinaire, tandis que l’article 5 permet de refuser le remboursement de votre téléphone pour la même imprudence.",
       "texte": "Prenons un poignet cassé, un téléphone brisé et un appareil auditif délivré sur prescription médicale, tous endommagés lors du même choc. La loi traite l’appareil auditif comme le poignet pour l’indemnisation. Le téléphone suit les règles des dommages aux biens.",
       "raison": "Ça surprend puisque la personne, l’accident et la faute sont les mêmes. La réponse change selon ce qui est abîmé. Même parmi ses objets, un appareil délivré sur prescription médicale relève des règles plus protectrices des blessures."
     },
