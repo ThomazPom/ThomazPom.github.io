@@ -1625,6 +1625,10 @@
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047109081/2025-01-01",
           "citation": "[…] au plus tard trente jours après la publication de l’arrêté de reconnaissance de l’état de catastrophe naturelle."
         }
+      ],
+      "fiches_liees": [
+        "secheresse-maison-attestation",
+        "secheresse-vente-restitution-acompte"
       ]
     }
   },
