@@ -9015,12 +9015,13 @@
     "entree": {
       "ordre": 174,
       "titre": "Même canapé, rétractation en ligne ou sur le crédit à la foire",
-      "face_a_face": "Pour le même canapé standard à 1 500 € payé comptant, l’article L. 221-18 donne 14 jours après la livraison pour changer d’avis si vous l’achetez en ligne, tandis que l’article L. 224-59 prévoit qu’un achat signé à la foire ne donne aucun délai de rétractation.",
+      "face_a_face": "Pour le même canapé standard à 1 500 € payé comptant, l’article L. 221-18 donne 14 jours après la livraison pour changer d’avis si vous l’achetez en ligne auprès d’un professionnel, tandis que l’article L. 224-59 prévoit qu’un achat signé à la foire ne donne aucun délai de rétractation.",
       "texte": "Vous commandez un canapé à 1 500 € dans une foire, pour une livraison ultérieure. Si vous achetez comptant, changer d’avis cinq jours plus tard ne suffit pas à annuler la vente. Si vous avez pris le crédit affecté proposé par le vendeur et vous en rétractez valablement au cinquième jour, la vente est annulée et vous pouvez demander le remboursement de l’avance.",
       "raison": "Pour le même canapé, le lieu de signature change le droit de revenir sur l’achat. À la foire, le financement peut aussi changer le résultat puisque l’article L. 224-62 permet de défaire la vente si vous vous rétractez valablement du crédit affecté."
     },
     "explication": [
-      "Un crédit affecté finance précisément l’achat indiqué au contrat. L’exemple suppose que vous n’avez pas demandé expressément une livraison immédiate et que vous n’avez pas finalement payé comptant dans le délai prévu."
+      "Un crédit affecté finance précisément l’achat indiqué au contrat. L’exemple suppose que vous n’avez pas demandé expressément une livraison immédiate et que vous n’avez pas finalement payé comptant dans le délai prévu.",
+      "Sur une même plateforme, le résultat dépend aussi de qui vous vend le canapé. Si le vendeur est un professionnel qui vend à distance, l’article L. 221-18 vous donne en principe 14 jours après la livraison pour vous rétracter. Si un particulier vous vend son propre canapé, l’article L. 221-1 place cette vente hors de ce régime. Même sur le même site et au même prix, changer d’avis au cinquième jour ne vous donne donc aucun droit légal de rétractation si vous avez acheté au particulier. La plateforme peut proposer ses propres conditions de retour."
     ],
     "sources": [
       {
@@ -9038,6 +9039,10 @@
       {
         "label": "Code de la consommation, article L. 221-18, achat à distance",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226842"
+      },
+      {
+        "label": "Code de la consommation, article L. 221-1, définition de la vente à distance",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044563164/"
       }
     ],
     "relation": {
