@@ -11094,12 +11094,16 @@
       "raison": "Le décret décrit encore comment calculer et verser le forfait, alors que les articles de loi qui l’avaient créé ont été abrogés. Le barème affiché ne suffit donc pas à ouvrir un droit à ce financement pour un nouveau projet."
     },
     "explication": [
-      "Le montant annoncé par le décret était versé à la structure qui anime le projet de vie partagée. L’article L. 281-2-1 fixe le cadre de l’aide à la vie partagée, notamment la convention avec le département. La fiche compare les textes applicables à un projet nouveau."
+      "Le montant annoncé par le décret était versé à la structure qui anime le projet de vie partagée. L’article L. 281-2-1 fixe le cadre de l’aide à la vie partagée, notamment la convention avec le département. La CNSA confirme que depuis janvier 2025, seul le dispositif d’aide à la vie partagée prend le relais du forfait pour financer l’animation de la vie commune. L’aide est versée au porteur du projet selon la convention avec le département. Pour les huit habitants de l’exemple, le minimum de 24 000 € tiré de l’ancien décret ne permet pas de calculer le montant de cette aide."
     ],
     "sources": [
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046808609/",
         "label": "Code de l’action sociale et des familles, article L. 281-2-1, aide à la vie partagée"
+      },
+      {
+        "url": "https://www.cnsa.fr/budget-et-financement/financement-aux-departements/aide-la-vie-sociale-et-partagee-et-le-forfait",
+        "label": "CNSA, passage du forfait à l’aide à la vie partagée"
       }
     ],
     "relation": {
