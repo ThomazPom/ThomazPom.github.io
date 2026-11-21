@@ -9627,7 +9627,8 @@
       "Si le salarié protégé refuse, l’employeur doit maintenir les conditions antérieures ou, s’il engage un licenciement, demander l’autorisation de l’administration. Dans l’arrêt cité, l’employeur connaissait la candidature du salarié aux élections au moment où il a imposé la mutation.",
       "Pour le premier collègue, si le nouveau site est hors du même secteur géographique, son accord est en principe nécessaire aussi. Une clause de mobilité valable qui couvre ce site peut changer la réponse, sous réserve de ses conditions d’application. L’adresse du nouveau site et le statut protecteur jouent donc séparément.",
       "Pour un salarié sans statut protecteur, l’article L. 1222-6 prévoit une autre distinction. Si l’employeur propose une modification essentielle du contrat pour un motif économique, par lettre recommandée avec avis de réception et avec les mentions requises, le silence du salarié vaut accord après un mois. En redressement ou liquidation judiciaire, le délai tombe à quinze jours. Vingt jours après avoir reçu la même proposition, un salarié peut donc encore la refuser dans le premier cas et être déjà réputé l’avoir acceptée dans le second.",
-      "Comparez une baisse de rémunération proposée pour motif économique et une baisse qui résulte d’une rétrogradation disciplinaire. Dans le premier cas, le silence peut valoir accord une fois le délai de l’article L. 1222-6 passé. Dans le second, la Cour de cassation exige l’accord du salarié pour modifier son contrat. L’employeur peut renoncer à la rétrogradation ou envisager une autre sanction selon les règles applicables."
+      "Comparez une baisse de rémunération proposée pour motif économique et une baisse qui résulte d’une rétrogradation disciplinaire. Dans le premier cas, le silence peut valoir accord une fois le délai de l’article L. 1222-6 passé. Dans le second, la Cour de cassation exige l’accord du salarié pour modifier son contrat. L’employeur peut renoncer à la rétrogradation ou envisager une autre sanction selon les règles applicables.",
+      "Si les deux collègues sont licenciés, le statut protecteur change aussi le recours contre le motif du licenciement. Le salarié sans protection particulière peut demander aux prud’hommes de vérifier si le motif est valable. Si l’inspection du travail a autorisé le licenciement du salarié protégé, c’est cette autorisation qu’il doit contester devant le juge administratif pour remettre en cause le motif qu’elle a validé. Selon la Cour de cassation, les prud’hommes ne peuvent pas réexaminer la cause du licenciement couverte par cette autorisation."
     ],
     "sources": [
       {
@@ -9645,6 +9646,10 @@
       {
         "label": "Cour de cassation, 28 avril 2011, n° 09-70.619",
         "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000023931691"
+      },
+      {
+        "label": "Cour de cassation, 3 mars 2010, n° 08-42.526",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000021928809"
       }
     ],
     "relation": {
