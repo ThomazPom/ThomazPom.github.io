@@ -11297,5 +11297,44 @@
         "rsa-outre-mer-ancien-contrat-insertion"
       ]
     }
+  },
+  {
+    "id": "minimum-vieillesse-financement-fonds-dissous",
+    "type": "Renvoi obsolète",
+    "domaine": "Retraite",
+    "titre": "Minimum vieillesse : le code cite encore un fonds que la loi a remplacé",
+    "entree": {
+      "ordre": 208,
+      "titre": "Minimum vieillesse : le code cite encore un fonds que la loi a remplacé",
+      "face_a_face": "L’article D. 815-14 compte encore parmi les recettes du service du minimum vieillesse les remboursements d’un fonds, mais l’article 24 de la loi de financement de la sécurité sociale pour 2025 a transféré les droits et obligations de ce fonds à la Caisse nationale d’assurance vieillesse au 1er janvier 2026.",
+      "texte": "Si vous cherchez quel organisme finance ce service, le décret vous renvoie au Fonds de solidarité vieillesse par l’article L. 135-1. Or cet article est abrogé et le fonds a été dissous. Pour les obligations de l’ancien fonds, le texte de transfert désigne la Caisse nationale d’assurance vieillesse.",
+      "raison": "Le changement porte sur l’organisme chargé du financement. L’article qui énumère les recettes du service cite encore le fonds dissous, alors que la loi désigne son successeur."
+    },
+    "explication": [
+      "L’article D. 815-14 concerne les recettes du service de l’allocation de solidarité aux personnes âgées. La fiche porte sur le financement de ce service. Les conditions d’attribution de l’allocation relèvent d’autres articles."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000053229940",
+        "label": "Décret n° 2025-1432 du 30 décembre 2025, dissolution du Fonds de solidarité vieillesse"
+      }
+    ],
+    "relation": {
+      "question": "Qui reprend les obligations de financement du fonds ?",
+      "participants": [
+        {
+          "role": "Recettes attribuées à l’ancien fonds",
+          "reference": "Code de la sécurité sociale, art. D. 815-14, 1°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000040340086/2026-06-25",
+          "citation": "« Les remboursements et subventions du fonds institué par l’article L. 135-1 »"
+        },
+        {
+          "role": "Transfert au 1er janvier 2026",
+          "reference": "Loi n° 2025-199, art. 24, XXII",
+          "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051273754",
+          "citation": "« Les droits et obligations du Fonds de solidarité vieillesse sont dévolus à la Caisse nationale d’assurance vieillesse […] »"
+        }
+      ]
+    }
   }
 ]
