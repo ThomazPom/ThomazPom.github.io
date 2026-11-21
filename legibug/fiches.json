@@ -6729,9 +6729,9 @@
     "entree": {
       "ordre": 5,
       "titre": "Vous ne répondez pas. La loi peut en déduire que vous acceptez l’héritage ou que vous le refusez.",
-      "face_a_face": "L’article 772 du Code civil assimile votre silence après une sommation à une acceptation pure et simple au bout de deux mois en principe, tandis que l’article 780 assimile votre silence à un refus après dix ans si rien ne vous a déjà fait accepter la succession.",
+      "face_a_face": "L’article 772 dit que si vous ne répondez pas dans les deux mois après une demande officielle de choisir, vous avez en principe accepté l’héritage, dettes comprises, tandis que l’article 780 dit que si personne ne vous somme de choisir et que vous ne prenez aucune décision, votre silence vaut refus au bout de dix ans dans le cas ordinaire.",
       "texte": "Votre père décède et vous ne prenez aucune décision. Si un créancier vous fait sommer de choisir une fois les quatre premiers mois écoulés et que vous ne répondez pas dans les deux mois, sans délai supplémentaire, vous êtes réputé avoir accepté. Sans sommation ni acte d’acceptation, au bout de dix ans dans le cas ordinaire, vous êtes réputé avoir renoncé.",
-      "raison": "Le silence peut donner deux résultats opposés. La sommation déclenche un délai court pour donner une réponse aux personnes intéressées. Sans cette démarche, le délai de dix ans permet de clore une succession pour laquelle l’héritier n’a jamais pris parti."
+      "raison": "La demande officielle change à la fois le délai et le résultat. Si votre père laisse 5 000 € de biens et 8 000 € de dettes, garder le silence après cette demande peut vous coûter 3 000 € de votre poche si vous êtes seul héritier. Si votre silence vaut refus, vous ne recevez rien et ces dettes ordinaires ne vous sont pas transmises."
     },
     "explication": [
       "L’héritier sommé de choisir peut demander un délai supplémentaire au juge pour des motifs prévus à l’article 772. L’article 780 prévoit notamment que le délai ne court pas pendant que l’héritier a des motifs légitimes d’ignorer la naissance de son droit.",
