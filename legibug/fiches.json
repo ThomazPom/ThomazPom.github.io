@@ -12217,9 +12217,18 @@
       "raison": "Le prix et le délai sont identiques. La taille du vendeur peut déterminer si l’opération bénéficie de cette exception et si les protections du crédit à la consommation entrent en jeu."
     },
     "explication": [
-      "Les deux délais courent à partir de la fourniture du bien ou du service. Les exceptions sont assorties de conditions cumulatives, dont l’absence de crédit offert par un tiers. Pour une grande entreprise qui vend en ligne, l’exception exige aussi qu’aucun tiers n’achète la créance au vendeur."
+      "Les deux délais courent à partir de la fourniture du bien ou du service. Les exceptions sont assorties de conditions cumulatives, dont l’absence de crédit offert par un tiers. Pour une grande entreprise qui vend en ligne, l’exception exige aussi qu’aucun tiers n’achète la créance au vendeur.",
+      "Une société est une grande entreprise au sens de ces textes si elle dépasse au moins deux seuils parmi 25 millions d’euros de bilan, 50 millions d’euros de chiffre d’affaires net et 250 salariés en moyenne. En principe, le franchissement s’apprécie sur deux exercices consécutifs."
     ],
     "sources": [
+      {
+        "label": "Code de commerce, article L. 230-1, définition de la grande entreprise",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048521044"
+      },
+      {
+        "label": "Code de commerce, article D. 230-1, seuils",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049216666"
+      },
       {
         "label": "Article L. 312-4, 4° et 5°",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990014/2026-11-20"
