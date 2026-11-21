@@ -9166,7 +9166,9 @@
         }
       ],
       "fiches_liees": [
-        "foire-achat-comptant-credit"
+        "foire-achat-comptant-credit",
+        "pret-personnel-plafond-75000-100000",
+        "paiement-differe-14-50-jours"
       ]
     }
   },
@@ -11396,6 +11398,10 @@
           "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131386",
           "citation": "« L’article L. 310-1 est abrogé »"
         }
+      ],
+      "fiches_liees": [
+        "vide-grenier-declaration-mairie",
+        "portage-salarial-declaration-prealable"
       ]
     }
   },
@@ -11776,6 +11782,10 @@
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000043128728",
           "citation": "« L’entrée en activité […] ne peut précéder la réception du document […] ou l’expiration du délai […] »"
         }
+      ],
+      "fiches_liees": [
+        "vide-grenier-declaration-mairie",
+        "liquidation-saisonniere-quinze-jours-renvoi-abroge"
       ]
     }
   },
@@ -11837,6 +11847,10 @@
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000022233798?etatTexte=VIGUEUR",
           "citation": "« Une déclaration préalable de vente au déballage est adressée par l’organisateur […] au maire […] »"
         }
+      ],
+      "fiches_liees": [
+        "liquidation-saisonniere-quinze-jours-renvoi-abroge",
+        "portage-salarial-declaration-prealable"
       ]
     }
   },
@@ -12200,7 +12214,8 @@
         }
       ],
       "fiches_liees": [
-        "credit-consommation-deblocage-sept-jours"
+        "credit-consommation-deblocage-sept-jours",
+        "paiement-differe-14-50-jours"
       ]
     }
   },
@@ -12258,6 +12273,10 @@
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990014/2026-11-20",
           "citation": "« […] dans un délai de quatorze jours […] »"
         }
+      ],
+      "fiches_liees": [
+        "credit-consommation-deblocage-sept-jours",
+        "pret-personnel-plafond-75000-100000"
       ]
     }
   }
