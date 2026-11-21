@@ -8233,7 +8233,8 @@
       "À 130 % du plafond PLS, vous restez sous le seuil de 150 % si vous répondez à l’enquête. Si vous ne répondez pas deux ans de suite, l’article L. 442-3-4 peut en revanche vous faire perdre le droit de rester à l’issue d’un délai de 18 mois, dans les zones visées et hors exceptions. Pour retrouver ce droit pendant le délai sur le fondement de son II, il faut fournir les documents demandés et prouver des ressources inférieures au plafond PLS. À 130 %, communiquer les documents tardivement ne suffit donc pas à remplir cette condition.",
       "L’article L. 441-3 prévoit un surloyer dès que les revenus dépassent d’au moins 20 % le plafond du logement. Dans les zones visées, l’article L. 442-3-3 peut faire perdre le droit de rester après 2 années consécutives au-dessus de 150 % du plafond PLS. Deux ménages occupent des logements sociaux financés par le même type de prêt. Le premier atteint 130 % du plafond PLS et paie un surloyer, mais ce dépassement ne suffit pas à lui faire perdre le bail. Le second atteint 160 % deux années de suite. Sauf exception, le droit de rester peut prendre fin 18 mois après le 1er janvier qui suit les résultats de la deuxième enquête.",
       "Si vos revenus sont à 90 % du plafond de votre logement, l’article L. 441-3 ne vous impose pas de surloyer. Pourtant, si vous ne répondez pas sous un mois à l’enquête et laissez ensuite passer 15 jours après une mise en demeure, l’article L. 441-9 permet au bailleur de vous facturer un surloyer provisoire calculé avec le coefficient maximal. Une fois les justificatifs fournis, le calcul doit être revu et le trop-perçu remboursé dans les 2 mois.",
-      "Deux ménages dépassent de 30 % le plafond de ressources de leur HLM. Le premier vit dans un quartier ordinaire et paie en principe le surloyer prévu par l’article L. 441-3. Le second vit dans un quartier prioritaire de la politique de la ville et ne paie aucun surloyer sur ce fondement. Le même article protège aussi le locataire déjà installé si son quartier était classé à son emménagement puis a perdu ce statut. Il prévoit une exception comparable dans les zones France ruralités revitalisation."
+      "Deux ménages dépassent de 30 % le plafond de ressources de leur HLM. Le premier vit dans un quartier ordinaire et paie en principe le surloyer prévu par l’article L. 441-3. Le second vit dans un quartier prioritaire de la politique de la ville et ne paie aucun surloyer sur ce fondement. Le même article protège aussi le locataire déjà installé si son quartier était classé à son emménagement puis a perdu ce statut. Il prévoit une exception comparable dans les zones France ruralités revitalisation.",
+      "Dans un même immeuble, deux ménages atteignent 160 % du plafond PLS deux années de suite. Le premier a emménagé quand le quartier était encore prioritaire. Le second est arrivé après la perte de ce classement. L’article L. 442-3-3 protège le premier contre la perte du droit de rester pour dépassement de ressources. Le second peut perdre ce droit si le logement est dans une zone visée et qu’aucune autre exception ne le protège."
     ],
     "sources": [
       {
@@ -8291,6 +8292,12 @@
           "reference": "Code de la construction et de l’habitation, art. L. 441-3",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048853505/",
           "citation": "« […] sont situés, ou qui étaient situés au moment de l’emménagement de ces locataires […] »"
+        },
+        {
+          "role": "Quartier prioritaire à l’emménagement, protection contre la perte du bail pour revenus élevés",
+          "reference": "Code de la construction et de l’habitation, art. L. 442-3-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000048827309/",
+          "citation": "« […] ou qui étaient situés au moment de l’emménagement de ces locataires […] »"
         }
       ],
       "fiches_liees": [
