@@ -1707,7 +1707,7 @@
     "entree": {
       "ordre": 47,
       "titre": "Une éruption vous bloque quatre nuits. Qui paie la quatrième ?",
-      "face_a_face": "L’article 20 du règlement sur les trains autorise la compagnie à s’arrêter à trois nuits d’hôtel en cas de circonstances exceptionnelles, tandis que les articles 5 et 9 du règlement sur les vols imposent de vous héberger tant que c’est nécessaire pour attendre le réacheminement, sans plafond de nuits.",
+      "face_a_face": "Si une catastrophe naturelle vous bloque quatre nuits, l’article 20 du règlement ferroviaire permet à la compagnie de prendre en charge seulement les trois premières. Si votre vol est annulé et que vous attendez le premier vol de remplacement, les articles 5 et 9 du règlement aérien couvrent aussi la quatrième nuit lorsqu’elle est nécessaire.",
       "texte": "Imaginez une catastrophe naturelle qui annule votre départ et vous bloque quatre nuits avant le premier trajet de remplacement disponible. Pour un train couvert par le règlement, la compagnie peut limiter l’hébergement gratuit à trois nuits. Pour un vol couvert par les règles actuelles, la quatrième nuit reste due si elle est nécessaire pendant l’attente du réacheminement au plus tôt.",
       "raison": "Une même catastrophe peut donc laisser au voyageur en train une facture d’hôtel que le voyageur en avion n’aurait pas à payer. Les deux règlements traitent différemment le coût d’une attente de plus de trois nuits."
     },
@@ -1723,7 +1723,7 @@
       },
       {
         "label": "Règlement modificatif 2026/2202, article 3",
-        "url": "https://eur-lex.europa.eu/eli/reg/2026/2202/oj/fra"
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ%3AL_202602202"
       }
     ],
     "relation": {
@@ -1781,7 +1781,7 @@
       },
       {
         "label": "Règlement modificatif 2026/2202, article 3",
-        "url": "https://eur-lex.europa.eu/eli/reg/2026/2202/oj/fra"
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=OJ%3AL_202602202"
       }
     ],
     "relation": {
