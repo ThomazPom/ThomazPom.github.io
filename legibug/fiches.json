@@ -1216,8 +1216,8 @@
     "titre": "Un échéancier peut être refusé dans le dossier de surendettement et accordé dans une autre procédure",
     "entree": {
       "ordre": 37,
-      "titre": "Le surendettement exclut en principe l’échelonnement. Un juge a accordé 24 mois pour payer.",
-      "face_a_face": "L’article L. 711-4 interdit d’étaler l’indemnité due à une victime dans un dossier de surendettement sans son accord. En dehors de cette procédure, un juge de Nanterre a donné 24 mois pour payer des indemnités de ce type, en appliquant l’article 1343-5 du code civil.",
+      "titre": "Sans accord de la victime, le dossier de surendettement ne permet pas d’étaler l’indemnité. Un autre juge a accordé 24 mois.",
+      "face_a_face": "Pour une indemnité due à une victime après une condamnation pénale, l’article L. 711-4 interdit de l’étaler dans un dossier de surendettement sans son accord, tandis que l’article 1343-5 du Code civil a permis au juge de l’exécution de Nanterre d’accorder 24 mois pour payer dans une autre procédure.",
       "texte": "Deux sociétés réclamaient des indemnités qui leur avaient été allouées après une infraction. Elles invoquaient l’article sur le surendettement pour s’opposer à un échéancier. Le 17 juillet 2025, le juge de l’exécution de Nanterre a appliqué l’article 1343-5 du Code civil et a accordé un délai de 24 mois pour chacune des deux créances.",
       "raison": "Sans l’accord de la victime, la procédure de surendettement ne peut en principe étaler cette indemnité. Dans l’affaire de Nanterre, le juge de l’exécution a estimé que l’échelonnement pouvait permettre aux victimes d’être payées. Il a pu fixer un délai au titre d’une autre procédure, sans réduire la dette."
     },
