@@ -56,6 +56,8 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <input id="search" type="search" placeholder="Ex. détention, vie privée, preuve">
 <label for="category">Type de cas</label>
 <select id="category"><option value="">Tous les types</option></select>
+<label for="domain">Domaine</label>
+<select id="domain"><option value="">Tous les domaines</option></select>
 <p id="count" role="status"></p>
 </div>
 <section id="catalogue" aria-label="Fiches">
@@ -103,11 +105,13 @@ const panel = document.querySelector('#search-panel');
 const search = document.querySelector('#search');
 const count = document.querySelector('#count');
 const category = document.querySelector('#category');
+const domain = document.querySelector('#domain');
 const normalize = text => text.toLocaleLowerCase('fr').normalize('NFD').replace(/\p{M}/gu, '');
 const cards = Array.from(document.querySelectorAll('#catalogue article'), card => ({
   card,
   text: normalize(card.textContent),
   type: card.querySelector('.topic').textContent.split(' · ')[0],
+  domainName: card.querySelector('.topic').textContent.split(' · ')[1],
 }));
 const typesAvecDefaut = new Set([
   'Inconstitutionnalité constatée',
@@ -125,15 +129,20 @@ for (const [type, total] of totals) {
   const label = type + ' (' + total + ')';
   category.add(new Option(label, type));
 }
+const domains = [...new Set(cards.map(({ domainName }) => domainName))];
+for (const name of domains.sort((a, b) => a.localeCompare(b, 'fr'))) {
+  domain.add(new Option(name, name));
+}
 function filterCards() {
   const terms = normalize(search.value).trim().split(/\s+/);
   let visible = 0;
-  for (const { card, text, type } of cards) {
+  for (const { card, text, type, domainName } of cards) {
     const selected = category.value;
     const matchesType = selected === 'defauts'
       ? typesAvecDefaut.has(type)
       : !selected || type === selected;
-    card.hidden = !(matchesType && terms.every(term => text.includes(term)));
+    const matchesDomain = !domain.value || domainName === domain.value;
+    card.hidden = !(matchesType && matchesDomain && terms.every(term => text.includes(term)));
     if (!card.hidden) visible += 1;
   }
   count.textContent = visible + (visible === 1 ? ' fiche affichée' : ' fiches affichées');
@@ -141,6 +150,7 @@ function filterCards() {
 panel.hidden = false;
 search.addEventListener('input', filterCards);
 category.addEventListener('change', filterCards);
+domain.addEventListener('change', filterCards);
 function revealLinkedCard() {
   const target = document.getElementById(location.hash.slice(1));
   if (!target || target.tagName !== 'ARTICLE') return;
@@ -149,6 +159,7 @@ function revealLinkedCard() {
   if (!target.hidden) return;
   search.value = '';
   category.value = '';
+  domain.value = '';
   filterCards();
   target.scrollIntoView();
 }
