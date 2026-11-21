@@ -9324,5 +9324,58 @@
         "defrichement-surface-parcelle-massif"
       ]
     }
+  },
+  {
+    "id": "cdd-requalification-prime-conservee",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Votre CDD est reconnu comme un CDI. Vous gardez la prime de précarité déjà versée.",
+    "entree": {
+      "ordre": 186,
+      "titre": "Votre CDD est reconnu comme un CDI. Vous gardez la prime de précarité déjà versée.",
+      "face_a_face": "L’article L. 1243-8 prévoit une prime parce que le CDD prend fin sans se poursuivre en CDI. Si les prud’hommes reconnaissent ensuite que le contrat était un CDI, l’article L. 1245-2 prévoit une indemnité d’au moins un mois de salaire. La Cour de cassation dit que vous gardez aussi la prime de précarité déjà versée.",
+      "texte": "Vous touchiez 2 000 € brut par mois et avez reçu 600 € de prime à la fin du CDD. Si les prud’hommes requalifient ensuite le contrat en CDI et que le salaire de référence est de 2 000 €, l’indemnité de requalification est d’au moins 2 000 €. Vous gardez les 600 € déjà reçus.",
+      "raison": "La prime compense la précarité vécue jusqu’à la fin du CDD. La décision ultérieure reconnaît le CDI et ouvre un droit distinct."
+    },
+    "explication": [
+      "L’exemple porte sur une prime de fin de contrat déjà versée. Il suppose une requalification judiciaire ouvrant droit à l’indemnité de l’article L. 1245-2."
+    ],
+    "sources": [
+      {
+        "label": "Code du travail, art. L. 1243-8",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901219/"
+      },
+      {
+        "label": "Code du travail, art. L. 1245-2",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901234/"
+      },
+      {
+        "label": "Cour de cassation, lettre de la chambre sociale n° 18",
+        "url": "https://www.courdecassation.fr/publications/lettre-de-la-chambre-sociale/ndeg18-janvierfevrier-2023/contrat-duree-determinee"
+      }
+    ],
+    "relation": {
+      "question": "La requalification en CDI oblige-t-elle à rendre la prime déjà reçue ?",
+      "participants": [
+        {
+          "role": "Prime de fin de CDD",
+          "reference": "Code du travail, art. L. 1243-8",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901219/",
+          "citation": "« […] une indemnité de fin de contrat destinée à compenser la précarité de sa situation. »"
+        },
+        {
+          "role": "Indemnité de requalification",
+          "reference": "Code du travail, art. L. 1245-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901234/",
+          "citation": "« […] une indemnité […] ne pouvant être inférieure à un mois de salaire. »"
+        },
+        {
+          "role": "Prime versée conservée",
+          "reference": "Cour de cassation, lettre de la chambre sociale n° 18",
+          "url": "https://www.courdecassation.fr/publications/lettre-de-la-chambre-sociale/ndeg18-janvierfevrier-2023/contrat-duree-determinee",
+          "citation": "« […] lui reste acquise nonobstant une requalification ultérieure en contrat à durée indéterminée […] »"
+        }
+      ]
+    }
   }
 ]
