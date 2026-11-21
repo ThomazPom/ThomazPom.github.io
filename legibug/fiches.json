@@ -3061,12 +3061,12 @@
     "entree": {
       "ordre": 69,
       "titre": "Votre conjoint gagne 2 000 € par mois. La CAF compte-t-elle son salaire ?",
-      "face_a_face": "L’article L. 821-3 du code de la sécurité sociale retient vos ressources personnelles pour calculer l’allocation aux adultes handicapés, tandis que l’article L. 262-3 du code de l’action sociale retient les ressources du foyer pour calculer le RSA.",
+      "face_a_face": "Votre partenaire gagne 2 000 € par mois. L’article L. 821-3 écarte ce salaire du calcul individuel de votre allocation aux adultes handicapés. L’article L. 262-3 le fait entrer dans les ressources du foyer pour calculer le RSA.",
       "texte": "Vous vivez en couple. Votre conjoint gagne 2 000 € par mois. Dans le calcul individuel de votre allocation aux adultes handicapés, son salaire ne compte pas. Dans le calcul du RSA du même foyer, le salaire entre dans les ressources prises en compte selon les règles de cette aide.",
       "raison": "Pour une aide, la loi évalue vos propres moyens. Pour l’autre, elle évalue les ressources du foyer. Le même salaire peut donc être écarté dans un calcul et retenu dans l’autre."
     },
     "explication": [
-      "Pour certains bénéficiaires qui percevaient déjà l’AAH avant le 1er octobre 2023, le calcul historique tenant compte du conjoint peut être maintenu tant qu’il leur est plus favorable.",
+      "Si votre droit à l’AAH était ouvert au titre de septembre 2023, le décret n° 2022-1694 permet de conserver l’ancien calcul tant qu’il est plus favorable. Deux personnes vivant aujourd’hui dans la même situation peuvent donc relever de calculs différents selon la date d’ouverture de leur droit.",
       "La comparaison porte sur la prise en compte du salaire du conjoint. Un éventuel cumul des deux prestations suit d’autres règles."
     ],
     "sources": [
