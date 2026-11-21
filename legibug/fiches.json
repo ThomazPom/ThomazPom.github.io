@@ -9778,5 +9778,51 @@
         "heure-supplementaire-majoration-dix-vingt-cinq"
       ]
     }
+  },
+  {
+    "id": "astreinte-intervention-travail-effectif",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Huit heures d’astreinte, une heure d’intervention. Combien d’heures comptent comme du travail ?",
+    "entree": {
+      "ordre": 193,
+      "titre": "Huit heures d’astreinte, une heure d’intervention. Combien d’heures comptent comme du travail ?",
+      "face_a_face": "L’article L. 3121-9 compte l’intervention comme du travail effectif. La Cour de cassation demande au juge de vérifier si les contraintes pendant l’attente sont si fortes qu’elles empêchent le salarié de gérer librement son temps. Dans ce cas, toute l’astreinte peut compter comme du travail.",
+      "texte": "Pour une astreinte de huit heures avec une heure d’intervention, la règle ordinaire compte une heure de travail et prévoit une contrepartie pour l’astreinte. Si l’employeur impose des contraintes qui limitent très fortement les occupations personnelles pendant les sept autres heures, le juge peut compter les huit heures comme du travail.",
+      "raison": "Le nombre d’heures d’intervention est identique. La possibilité réelle de faire autre chose pendant l’attente change le décompte."
+    },
+    "explication": [
+      "Dans l’arrêt cité, la Cour de cassation a demandé aux juges de vérifier les contraintes liées au délai d’intervention. Elle n’a pas elle-même déclaré que toute la période était du travail effectif. L’article L. 3121-10 compte l’astreinte ordinaire hors intervention dans le repos minimal."
+    ],
+    "sources": [
+      {
+        "label": "Code du travail, art. L. 3121-9",
+        "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006902448/2026-09-21"
+      },
+      {
+        "label": "Cour de cassation, 26 octobre 2022, n° 21-14.178",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000046510365"
+      }
+    ],
+    "relation": {
+      "question": "Les heures d’attente comptent-elles comme du travail ?",
+      "participants": [
+        {
+          "role": "Règle ordinaire",
+          "reference": "Code du travail, art. L. 3121-9",
+          "url": "https://www.legifrance.gouv.fr/codes/id/LEGIARTI000006902448/2026-09-21",
+          "citation": "« La durée de cette intervention est considérée comme un temps de travail effectif. »"
+        },
+        {
+          "role": "Contraintes pendant l’attente",
+          "reference": "Cour de cassation, 26 octobre 2022, n° 21-14.178",
+          "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000046510365",
+          "citation": "« […] des contraintes d’une intensité telle qu’elles avaient affecté, objectivement et très significativement, sa faculté de gérer librement […] le temps […] »"
+        }
+      ],
+      "fiches_liees": [
+        "trajet-premier-client-temps-travail"
+      ]
+    }
   }
 ]
