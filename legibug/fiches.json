@@ -10948,5 +10948,47 @@
         "nationalite-majorite-naissance-mayotte"
       ]
     }
+  },
+  {
+    "id": "nationalite-mariage-presomption-fraude",
+    "type": "Réserve d’interprétation",
+    "domaine": "Nationalité",
+    "titre": "Nationalité par mariage : une séparation rapide peut faire présumer une fraude, mais pas dans tous les recours",
+    "entree": {
+      "ordre": 201,
+      "titre": "Nationalité par mariage : une séparation rapide peut faire présumer une fraude, mais pas dans tous les recours",
+      "face_a_face": "L’article 26-4 dit qu’une séparation dans les douze mois de l’enregistrement de la déclaration de nationalité fait présumer une fraude, mais le Conseil constitutionnel interdit d’appliquer cette présomption si le procès commence plus de deux ans après l’enregistrement.",
+      "texte": "Deux personnes ont vu leur déclaration de nationalité par mariage enregistrée et se sont séparées de leur conjoint huit mois plus tard. Si le procureur engage une action au bout de dix-huit mois, la séparation fait présumer que la vie commune avait cessé au moment de la déclaration. S’il engage l’action trois ans après l’enregistrement et qu’elle est encore recevable, il doit prouver le mensonge ou la fraude.",
+      "raison": "La règle change qui doit apporter la preuve. Pendant les deux premières années, la personne peut renverser la présomption en montrant qu’elle vivait encore avec son conjoint au moment de déclarer sa nationalité. Plus tard, il appartient au procureur de prouver la fraude qu’il invoque."
+    },
+    "explication": [
+      "Dans le second cas, l’article 26-4 permet encore de contester l’enregistrement dans les deux ans de la découverte du mensonge ou de la fraude. La réserve du Conseil constitutionnel porte sur la présomption, qui est distincte de ce délai pour introduire l’action."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000026607781",
+        "label": "Cour de cassation, 7 novembre 2012, n° 11-17.237 et 12-13.713"
+      }
+    ],
+    "relation": {
+      "question": "Qui doit prouver la fraude après une séparation ?",
+      "participants": [
+        {
+          "role": "Présomption en cas de séparation dans les douze mois",
+          "reference": "Code civil, art. 26-4",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006420179/",
+          "citation": "« […] constitue une présomption de fraude. »"
+        },
+        {
+          "role": "Présomption limitée aux procès engagés dans les deux ans",
+          "reference": "Conseil constitutionnel, 2012-227 QPC, § 14",
+          "url": "https://www.legifrance.gouv.fr/jorf/id/JORFTEXT000025597439",
+          "citation": "« […] dans les instances engagées dans les deux années de la date de l’enregistrement de la déclaration […] »"
+        }
+      ],
+      "fiches_liees": [
+        "nationalite-mariage-quatre-cinq-ans"
+      ]
+    }
   }
 ]
