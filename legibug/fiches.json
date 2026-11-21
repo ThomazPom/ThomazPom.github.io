@@ -8561,5 +8561,52 @@
       "raison": "La décision qui arrête la saisie et celle qui gèle les intérêts peuvent intervenir à des dates différentes, même pour un seul prêt.",
       "ordre": 172
     }
+  },
+  {
+    "id": "surendettement-dette-effacee-caution",
+    "type": "Articulation de régimes",
+    "domaine": "Surendettement",
+    "titre": "La banque ne peut plus réclamer les 5 000 € à l’emprunteur. Elle peut encore les réclamer à sa caution.",
+    "explication": [
+      "L’exemple suppose un cautionnement solidaire valable, signé depuis le 1er janvier 2022, couvrant les 5 000 € et aucune disposition spéciale contraire. L’article L. 741-2 prévoit aussi une exception à l’effacement pour les sommes déjà payées à la place de l’emprunteur par une caution personne physique."
+    ],
+    "sources": [
+      {
+        "label": "Code de la consommation, art. L. 741-2",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042012852/"
+      },
+      {
+        "label": "Code civil, art. 2298",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071227/"
+      }
+    ],
+    "relation": {
+      "question": "L’effacement de la dette protège-t-il aussi le proche qui s’est porté caution ?",
+      "participants": [
+        {
+          "role": "Effacement pour l’emprunteur",
+          "reference": "Code de la consommation, art. L. 741-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042012852/",
+          "citation": "« […] entraîne l’effacement de toutes les dettes […] »"
+        },
+        {
+          "role": "Effet sur la caution",
+          "reference": "Code civil, art. 2298",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044071227/",
+          "citation": "« […] la caution ne peut se prévaloir des mesures légales ou judiciaires dont bénéficie le débiteur en conséquence de sa défaillance […] »"
+        }
+      ],
+      "fiches_liees": [
+        "surendettement-saisie-expulsion-loyer",
+        "treve-hivernale-refus-indemnisation"
+      ]
+    },
+    "entree": {
+      "titre": "La banque ne peut plus réclamer les 5 000 € à l’emprunteur. Elle peut encore les réclamer à sa caution.",
+      "face_a_face": "L’article L. 741-2 permet d’effacer le solde d’un prêt pour l’emprunteur lors d’un rétablissement personnel sans liquidation. L’article 2298 du Code civil prévoit que la caution ne bénéficie pas des mesures accordées à l’emprunteur à cause de sa défaillance, sauf règle spéciale.",
+      "texte": "Votre prêt laisse 5 000 € à payer. Votre sœur s’est portée caution solidaire et n’a encore rien versé. Un rétablissement personnel efface votre dette envers la banque. Dans les limites de son engagement, celle-ci peut encore réclamer les 5 000 € à votre sœur.",
+      "raison": "L’effacement protège l’emprunteur visé par la décision. Le contrat de caution laisse à la banque une autre personne à laquelle demander le paiement du même solde.",
+      "ordre": 173
+    }
   }
 ]
