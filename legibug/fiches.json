@@ -11123,5 +11123,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "education-artistique-rapport-haut-conseil-supprime",
+    "type": "Renvoi obsolète",
+    "domaine": "Éducation",
+    "titre": "Le décret demande un avis annuel à un Haut Conseil que la loi a supprimé",
+    "entree": {
+      "ordre": 204,
+      "titre": "Le décret demande un avis annuel à un Haut Conseil que la loi a supprimé",
+      "face_a_face": "L’article D. 312-7 du Code de l’éducation demande au Haut Conseil de l’éducation artistique et culturelle de rendre un avis chaque année dans son rapport annuel, mais la loi du 26 mai 2026 a abrogé l’article L. 312-8 qui instituait le Haut Conseil et prévoyait ce rapport.",
+      "texte": "Vous cherchez le bilan annuel des politiques d’éducation artistique et culturelle. Le décret annonce encore un avis du Haut Conseil sur les actions nationales et locales. Depuis le 28 mai 2026, l’article qui instituait cet organisme et lui imposait de publier son rapport est abrogé.",
+      "raison": "Le texte réglementaire organise une tâche annuelle dont la loi a supprimé le responsable et le support. Lire le seul décret laisse croire que ce rapport doit encore paraître."
+    },
+    "explication": [
+      "Le document budgétaire de l’État publié en octobre 2026 indique également que le Haut Conseil a été supprimé. La fiche porte sur l’avis et le rapport désignés par le décret."
+    ],
+    "sources": [
+      {
+        "url": "https://www.budget.gouv.fr/documentation/file-download/34414",
+        "label": "Document budgétaire de l’État, p. 87, suppression du Haut Conseil"
+      }
+    ],
+    "relation": {
+      "question": "Le Haut Conseil doit-il encore publier son avis annuel ?",
+      "participants": [
+        {
+          "role": "Avis annuel encore prévu par le décret",
+          "reference": "Code de l’éducation, art. D. 312-7",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000027911624/2026-11-21",
+          "citation": "« Dans le cadre du rapport annuel mentionné à l’article L. 312-8, il rend un avis chaque année […] »"
+        },
+        {
+          "role": "Base légale abrogée le 28 mai 2026",
+          "reference": "Code de l’éducation, ancien art. L. 312-8",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006524759/2026-09-30",
+          "citation": "« […] il établit et publie chaque année un rapport sur son activité […] »"
+        }
+      ]
+    }
   }
 ]
