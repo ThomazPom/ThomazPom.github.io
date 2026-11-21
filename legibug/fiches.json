@@ -2874,12 +2874,13 @@
     "entree": {
       "ordre": 65,
       "titre": "Vous vous remariez. Votre pension de réversion peut tomber à 0 €",
-      "face_a_face": "L’article L. 46 du code des pensions civiles et militaires supprime le droit à la réversion en cas de remariage, tandis que l’article L. 353-1 du code de la sécurité sociale permet de prendre en compte les ressources du nouveau ménage sans exclure automatiquement la réversion du régime général.",
+      "face_a_face": "Vous touchez 500 € par mois et vous vous remariez. L’article L. 46 fait perdre les 500 € si la pension vient du régime des fonctionnaires de l’État. Avec l’article L. 353-1, la pension de base du régime général peut rester à 500 €, notamment si vos nouvelles ressources restent sous le plafond.",
       "texte": "Deux personnes touchent chacune 500 € de réversion et se remarient. Celle qui touche une pension au titre d’un ancien conjoint fonctionnaire de l’État perd ces 500 €. Celle qui touche la pension de base du régime général peut conserver ses 500 € si elle remplit encore les conditions de ressources.",
       "raison": "Le premier régime fait du remariage un motif de perte du droit. Le second regarde les ressources du couple et peut réduire la pension si elles dépassent le plafond. Le même événement ne fait donc pas automatiquement disparaître les deux pensions."
     },
     "explication": [
-      "La comparaison porte sur la retraite de base. La réversion complémentaire peut suivre d’autres règles. Dans le régime des pensions civiles et militaires, le droit peut être rétabli sur demande si la nouvelle union prend fin, dans les conditions prévues par le code."
+      "La comparaison porte sur la retraite de base. La réversion complémentaire peut suivre d’autres règles. Dans le régime des pensions civiles et militaires, le droit peut être rétabli sur demande si la nouvelle union prend fin, dans les conditions prévues par le code.",
+      "Dans le régime général, le montant n’est pas révisable indéfiniment au gré des ressources. Selon l’article R. 353-1-1, la dernière révision intervient au plus tard trois mois après le début du versement de l’ensemble de vos retraites personnelles de base et complémentaires, si vous y avez droit, sous réserve des exceptions du texte. Un remariage ultérieur ne fait donc pas, à lui seul, rouvrir ce calcul."
     ],
     "sources": [
       {
@@ -2889,6 +2890,10 @@
       {
         "label": "Service Public, réversion après le décès d’un fonctionnaire",
         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F21819"
+      },
+      {
+        "label": "Code de la sécurité sociale, article R. 353-1-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006749402/"
       }
     ],
     "relation": {
