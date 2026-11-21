@@ -10455,5 +10455,47 @@
         "permis-fraude-retrait-sans-delai"
       ]
     }
+  },
+  {
+    "id": "garantie-appareil-service-numerique",
+    "type": "Articulation de régimes",
+    "domaine": "Consommation",
+    "titre": "Le même appareil peut être couvert 2 ans pour une panne et 3 ans pour un service numérique",
+    "entree": {
+      "ordre": 195,
+      "titre": "Le même appareil peut être couvert 2 ans pour une panne et 3 ans pour un service numérique",
+      "face_a_face": "L’article L. 217-3 couvre en principe les défauts de l’appareil qui se révèlent sous 2 ans, mais son 2° couvre un défaut du service numérique inclus pendant toute la période où il doit être fourni, par exemple 3 ans si le contrat prévoit 3 ans de fourniture continue.",
+      "texte": "Vous achetez une caméra connectée avec trois ans d’accès à son service de stockage en ligne, intégré à la vente. Au 30e mois, une panne matérielle jamais apparue avant peut être hors de ce délai de garantie, tandis qu’un défaut du service de stockage qui apparaît le même jour peut encore être couvert.",
+      "raison": "Le contrat porte à la fois sur un objet livré une fois et sur un service que le vendeur s’engage à fournir dans la durée. Pour le service, la loi fait suivre la garantie à la durée de fourniture prévue au contrat si elle dépasse deux ans."
+    },
+    "explication": [
+      "Cette comparaison concerne la garantie légale de conformité d’un bien vendu par un professionnel à un consommateur. Elle suppose que le service fait partie de la vente. Les droits liés aux mises à jour nécessaires, à une garantie commerciale ou à un autre fondement peuvent suivre des règles différentes."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142579/",
+        "label": "Code de la consommation, article L. 217-3"
+      }
+    ],
+    "relation": {
+      "question": "Quel défaut reste couvert au 30e mois ?",
+      "participants": [
+        {
+          "role": "Défaut du bien",
+          "reference": "Code de la consommation, art. L. 217-3, al. 2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142579/",
+          "citation": "« […] qui apparaissent dans un délai de deux ans […] »"
+        },
+        {
+          "role": "Défaut du service numérique fourni plus de deux ans",
+          "reference": "Code de la consommation, art. L. 217-3, 2°",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044142579/",
+          "citation": "« […] au cours de la période durant laquelle celui-ci est fourni en vertu du contrat. »"
+        }
+      ],
+      "fiches_liees": [
+        "garantie-conformite-neuf-occasion-preuve"
+      ]
+    }
   }
 ]
