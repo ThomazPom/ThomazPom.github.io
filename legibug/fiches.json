@@ -11565,5 +11565,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "artistes-auteurs-commission-six-deux",
+    "type": "Renvoi obsolète",
+    "domaine": "Protection sociale",
+    "titre": "Affiliation d’un écrivain : le code affiche encore six représentants dans l’ancienne commission",
+    "entree": {
+      "ordre": 214,
+      "titre": "Affiliation d’un écrivain : le code affiche encore six représentants dans l’ancienne commission",
+      "face_a_face": "L’article D. 382-3 affiche encore une commission par branche, avec six représentants des artistes-auteurs pour les écrivains, mais le décret du 24 septembre 2026 a abrogé l’article qui organisait ces commissions et prévoit deux représentants par branche au sein de la nouvelle commission professionnelle.",
+      "texte": "Votre affiliation comme écrivain est refusée. En lisant l’ancien tableau, vous cherchez une commission des écrivains composée notamment de six représentants d’artistes-auteurs. Pour la demande d’avis prévue par le nouveau décret, c’est le président de la commission professionnelle qui peut être saisi dans les conditions de l’article R. 382-16-4.",
+      "raison": "Le tableau de composition renvoie à l’article R. 382-4, abrogé depuis le 27 septembre 2026. Le nouveau texte constitue une seule commission qui réunit des représentants des différentes branches."
+    },
+    "explication": [
+      "La demande d’avis sur un refus d’affiliation suppose d’avoir saisi l’organisme du recours préalable et doit être présentée dans le même délai. Le décret prévoit un maintien temporaire de l’ancien agrément de l’association, qui est une question distincte de la composition de la commission."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037854402/2026-11-07",
+        "label": "Code de la sécurité sociale, ancien art. R. 382-4, abrogation"
+      }
+    ],
+    "relation": {
+      "question": "Quelle commission peut rendre un avis sur le refus d’affiliation ?",
+      "participants": [
+        {
+          "role": "Ancien tableau par branche",
+          "reference": "Code de la sécurité sociale, art. D. 382-3",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000039331751/",
+          "citation": "« Il est institué une commission pour chacune des branches professionnelles […] »"
+        },
+        {
+          "role": "Nouvelle commission commune",
+          "reference": "Code de la sécurité sociale, art. R. 382-16-4",
+          "url": "https://www.legifrance.gouv.fr/eli/decret/2026/9/24/2026-897/jo/texte",
+          "citation": "« […] composée de deux représentants des artistes-auteurs pour chacune des branches professionnelles […] »"
+        }
+      ]
+    }
   }
 ]
