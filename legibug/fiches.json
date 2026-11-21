@@ -2672,7 +2672,7 @@
     "entree": {
       "ordre": 59,
       "titre": "Le même roman en papier ou en ebook, 14 jours de rétractation ou un droit qui s’arrête dès le téléchargement",
-      "face_a_face": "L’article L. 221-18 du code de la consommation donne 14 jours après réception pour se rétracter de l’achat en ligne d’un livre papier, tandis que l’article L. 221-28 permet de perdre ce droit dès que la fourniture de l’ebook commence si les conditions de consentement sont remplies.",
+      "face_a_face": "Si vous changez d’avis deux jours après avoir reçu le même roman acheté en ligne, l’article L. 221-18 vous laisse encore vous rétracter pour le livre papier, tandis que l’article L. 221-28 peut avoir mis fin à ce droit dès le début du téléchargement pour l’ebook, si le vendeur a recueilli votre accord et rempli les autres conditions.",
       "texte": "Vous achetez le même roman sur le même site. Pour le livre papier ordinaire, vous avez en principe 14 jours après réception pour changer d’avis. Pour l’ebook payant, le droit peut prendre fin dès le démarrage du téléchargement si vous avez expressément accepté la fourniture immédiate, reconnu la perte du droit et reçu la confirmation du vendeur.",
       "raison": "Le droit distingue l’objet que vous pouvez rendre et le fichier fourni sans support matériel. Le simple fait que le fichier soit disponible immédiatement ne suffit pas à justifier la perte du droit pour un ebook payant. Le vendeur doit aussi remplir les conditions prévues par la loi."
     },
