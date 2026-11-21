@@ -10073,5 +10073,55 @@
         "arret-maladie-quatre-cinq-semaines"
       ]
     }
+  },
+  {
+    "id": "maternite-parental-conges-payes",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "Après une naissance, le compteur de congés payés tourne en maternité et s’arrête en congé parental à temps plein",
+    "entree": {
+      "ordre": 58.7,
+      "titre": "Après une naissance, le compteur de congés payés tourne en maternité et s’arrête en congé parental à temps plein",
+      "face_a_face": "L’article L. 3141-5 compte le congé de maternité comme du temps travaillé pour acquérir des congés payés, tandis qu’il ne compte pas le congé parental d’éducation à temps plein et que l’article L. 1225-54 protège les droits déjà acquis avant ce congé.",
+      "texte": "Vous enchaînez un congé de maternité et un congé parental à temps plein pour vous occuper du même bébé. Pour un mois entier en maternité, vous gagnez en principe 2,5 jours ouvrables de congés payés. Pour un mois entier en congé parental à temps plein, vous n’en gagnez en principe aucun.",
+      "raison": "L’absence est liée à la même naissance, mais le type de congé change ce qui s’ajoute au compteur. Les jours acquis avant le congé parental restent acquis."
+    },
+    "explication": [
+      "L’exemple porte sur le minimum légal du secteur privé, sous réserve de dispositions plus favorables. La prise en compte de la moitié du congé parental à temps plein pour l’ancienneté obéit à une autre règle."
+    ],
+    "sources": [
+      {
+        "label": "Code du travail, article L. 3141-5",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902642/"
+      },
+      {
+        "label": "Code du travail, article L. 1225-54",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047293349/"
+      },
+      {
+        "label": "CJUE, arrêt Dicu, C-12/17",
+        "url": "https://eur-lex.europa.eu/legal-content/FR/TXT/?uri=CELEX%3A62017CJ0012"
+      }
+    ],
+    "relation": {
+      "question": "Le compteur de congés payés continue-t-il après le congé de maternité ?",
+      "participants": [
+        {
+          "role": "Congé de maternité pris en compte",
+          "reference": "Code du travail, art. L. 3141-5",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006902642/",
+          "citation": "« Les périodes de congé de maternité, de paternité et d’accueil de l’enfant et d’adoption »"
+        },
+        {
+          "role": "Droits conservés au début du congé parental",
+          "reference": "Code du travail, art. L. 1225-54",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000047293349/",
+          "citation": "« Le salarié conserve le bénéfice de tous les avantages qu’il avait acquis avant le début du congé. »"
+        }
+      ],
+      "fiches_liees": [
+        "arret-maladie-quatre-cinq-semaines"
+      ]
+    }
   }
 ]
