@@ -3199,7 +3199,8 @@
       "Si vous contestez la démission présumée, l’article L. 1237-1-1 envoie directement l’affaire devant le bureau de jugement. Le code lui donne un mois à compter de sa saisine pour statuer sur la rupture et ses conséquences. Dans la procédure prud’homale ordinaire, l’article L. 1411-1 prévoit d’abord de chercher une conciliation, sauf exception. Le mois prévu ici concerne le délai donné au juge pour statuer.",
       "Si vous cessez de venir sans motif légitime et que l’employeur ne vous met pas en demeure, le contrat reste en cours mais il est suspendu. Selon Service Public, vous ne percevez ni salaire pour cette absence ni allocation chômage au titre de ce contrat tant qu’il n’est pas rompu. L’absence de lettre empêche donc la démission présumée sans rétablir la paie.",
       "L’employeur baisse unilatéralement le salaire fixé à votre contrat, puis vous met en demeure de reprendre le travail. L’article R. 1237-13 cite la modification du contrat à l’initiative de l’employeur parmi les motifs légitimes qui peuvent faire obstacle à la démission présumée. Vous devez indiquer ce motif dans votre réponse à la mise en demeure. Dans le cas d’une absence volontaire sans motif légitime, l’article L. 1237-1-1 permet au contraire de présumer la démission, si les autres conditions sont réunies.",
-      "La prise d’acte est une autre situation. Vous informez l’employeur que vous rompez immédiatement votre CDI, par exemple parce que plusieurs salaires restent impayés. Si les prud’hommes jugent les manquements assez graves pour empêcher la poursuite du contrat, la rupture produit les effets d’un licenciement injustifié ou nul, selon le motif. Sinon, elle produit les effets d’une démission. Le salarié prend l’initiative du départ dans les deux cas, mais l’issue dépend de ce que le juge constate."
+      "La prise d’acte est une autre situation. Vous informez l’employeur que vous rompez immédiatement votre CDI, par exemple parce que plusieurs salaires restent impayés. Si les prud’hommes jugent les manquements assez graves pour empêcher la poursuite du contrat, la rupture produit les effets d’un licenciement injustifié ou nul, selon le motif. Sinon, elle produit les effets d’une démission. Le salarié prend l’initiative du départ dans les deux cas, mais l’issue dépend de ce que le juge constate.",
+      "Deux salariés en CDI reprochent à leur employeur les mêmes salaires impayés. Le premier prend acte de la rupture : son contrat prend fin immédiatement, avant que le juge qualifie le départ. Le second demande la résiliation judiciaire : son contrat se poursuit pendant la procédure. S’il est toujours en cours et que le juge accueille la demande, le contrat prend fin au jour du jugement. Si le juge la rejette, le contrat continue."
     ],
     "sources": [
       {
@@ -3225,6 +3226,10 @@
       {
         "label": "Service Public, prise d’acte de la rupture",
         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F24409"
+      },
+      {
+        "label": "Service Public, résiliation judiciaire du contrat de travail",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F24410"
       }
     ],
     "relation": {
