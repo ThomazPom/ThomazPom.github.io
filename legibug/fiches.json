@@ -8656,5 +8656,58 @@
       "raison": "La banque compte le même versement de deux façons. Le retard d’information protège la caution en réduisant de 300 € de plus le capital que la banque peut lui réclamer dans cet exemple.",
       "ordre": 173
     }
+  },
+  {
+    "id": "foire-achat-comptant-credit",
+    "type": "Articulation de régimes",
+    "domaine": "Consommation",
+    "titre": "Même canapé acheté à la foire, droit de revenir sur l’achat selon le financement",
+    "entree": {
+      "ordre": 174,
+      "titre": "À la foire, le même canapé peut être retourné ou rester à votre charge selon le financement",
+      "face_a_face": "L’article L. 224-59 prévoit que l’achat signé à la foire ne donne pas de droit de rétractation. L’article L. 224-62 prévoit que, si le vendeur vous a proposé un crédit réservé à cet achat, vous pouvez vous rétracter du crédit et faire annuler la vente dans les conditions de l’article L. 312-52.",
+      "texte": "Vous commandez un canapé à 1 500 € dans une foire, pour une livraison ultérieure. Si vous achetez comptant, changer d’avis cinq jours plus tard ne suffit pas à annuler la vente. Si vous avez pris le crédit affecté proposé par le vendeur et vous en rétractez valablement au cinquième jour, la vente est annulée et vous pouvez demander le remboursement de l’avance.",
+      "raison": "Pour le même canapé commandé au même stand, c’est le contrat de financement qui ouvre une voie pour défaire la vente."
+    },
+    "explication": [
+      "Un crédit affecté finance précisément l’achat indiqué au contrat. L’exemple suppose que vous n’avez pas demandé expressément une livraison immédiate et que vous n’avez pas finalement payé comptant dans le délai prévu."
+    ],
+    "sources": [
+      {
+        "label": "Code de la consommation, article L. 224-59",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226591"
+      },
+      {
+        "label": "Code de la consommation, article L. 224-62",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990039"
+      },
+      {
+        "label": "Code de la consommation, article L. 312-52",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226076"
+      }
+    ],
+    "relation": {
+      "question": "Peut-on revenir sur un achat signé à une foire au bout de cinq jours ?",
+      "participants": [
+        {
+          "role": "Achat à la foire",
+          "reference": "Code de la consommation, art. L. 224-59",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226591",
+          "citation": "« […] il ne dispose pas d’un délai de rétractation. »"
+        },
+        {
+          "role": "Achat financé par un crédit affecté",
+          "reference": "Code de la consommation, art. L. 224-62",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000052990039",
+          "citation": "« L’acheteur dispose d’un droit de rétractation pour le crédit affecté servant à financer son achat »"
+        },
+        {
+          "role": "Effet sur la vente",
+          "reference": "Code de la consommation, art. L. 312-52",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226076",
+          "citation": "« […] si l’emprunteur a exercé son droit de rétractation […] »"
+        }
+      ]
+    }
   }
 ]
