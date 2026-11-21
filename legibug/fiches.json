@@ -9275,7 +9275,7 @@
     "entree": {
       "ordre": 182,
       "titre": "Vous ne touchez plus le RSA. Son trop-perçu peut réduire votre aide au logement.",
-      "face_a_face": "L’article L. 262-46 permet à la caisse de récupérer un trop-perçu de RSA sur les prochains versements. Si elle ne peut plus le faire sur le RSA, le même article permet une retenue sur certaines autres aides, dont celles au logement. Il suspend toutefois le recouvrement si vous contestez la dette.",
+      "face_a_face": "Si la caisse vous réclame 600 € de RSA alors que vous ne le touchez plus, l’article L. 262-46 lui permet de retenir une partie de votre aide au logement, mais ce même article suspend les retenues si vous contestez la décision de récupération.",
       "texte": "La caisse vous réclame 600 € de RSA versés en trop. Vous ne touchez plus le RSA mais recevez encore une aide au logement. Sous les conditions prévues, la caisse peut y retenir une partie du trop-perçu. Si vous contestez la décision de récupération, le recouvrement est suspendu pendant l’examen du recours.",
       "raison": "Votre aide au logement peut baisser alors que son montant a été correctement calculé. La retenue sert à récupérer une dette liée à une autre prestation."
     },
