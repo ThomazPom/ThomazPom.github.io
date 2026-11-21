@@ -41,3 +41,9 @@ La loi du 26 mai 2026 a retiré l’exigence d’un centre « agréé » dans l�
 L’article R. 543-155-2 permet à un broyeur de recevoir des véhicules provenant de centres VHU. Il exige une dépollution complète et un désassemblage avant broyage. L’article 21 de l’arrêté du 22 avril 2026 distingue expressément les centres enregistrés des centres agréés et les broyeurs autorisés des broyeurs agréés. Pour les deux catégories, il reprend uniquement l’obligation de déclaration d’activité en 2026 et 2027 prévue dans les annexes de 2012. Ce renvoi précis ne suffit pas à étendre aux broyeurs autorisés la clause de 2012 sur la provenance des véhicules. La question pratique reste celle du broyeur qui travaille encore sous un ancien agrément.
 
 [Article R. 543-155-2](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000046667169) · [Article 21 de l’arrêté du 22 avril 2026](https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000054031458)
+
+## Déclaration des dons des entreprises
+
+L’article 6 de la loi du 26 mai 2026 abroge le 6 de l’article 238 bis du code général des impôts à compter du 1er janvier 2027. Au 21 novembre 2026, l’article 49 septies X de l’annexe III peut donc toujours renvoyer à ce 6 pour la déclaration des dons des entreprises. La piste est écartée pour la date étudiée. La version du règlement applicable au 1er janvier 2027 devra être vérifiée séparément.
+
+[Article 6 de la loi du 26 mai 2026](https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000054131445) · [Article 238 bis](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054402913) · [Article 49 septies X](https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000038561759)
