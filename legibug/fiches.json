@@ -2553,7 +2553,7 @@
     "entree": {
       "ordre": 57,
       "titre": "Même année d’arrêt, six jours de vacances d’écart",
-      "face_a_face": "Les articles L. 3141-3 et L. 3141-5 du code du travail accordent deux jours et demi ouvrables de congés par mois d’arrêt pour accident du travail ou maladie professionnelle, tandis que l’article L. 3141-5-1 n’en accorde que deux par mois d’arrêt non professionnel.",
+      "face_a_face": "Pour les mêmes 12 mois d’arrêt, les articles L. 3141-3 et L. 3141-5 donnent 5 semaines de congés payés si la maladie est reconnue professionnelle, tandis que l’article L. 3141-5-1 en donne 4 si la maladie est sans lien avec le travail.",
       "texte": "Deux salariés restent en arrêt pendant les douze mois de la période de calcul. Celui dont la maladie est reconnue professionnelle acquiert 30 jours ouvrables de congés payés, soit cinq semaines. Celui dont la maladie est non professionnelle en acquiert 24, soit quatre semaines au titre de cet arrêt.",
       "raison": "Les deux arrêts donnent droit à des congés. La reconnaissance de l’origine professionnelle fait gagner une semaine de plus dans cet exemple, alors que l’absence a duré exactement aussi longtemps."
     },
