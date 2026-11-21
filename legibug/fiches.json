@@ -6579,7 +6579,7 @@
     "entree": {
       "ordre": 136,
       "titre": "Vous payez les obsèques puis vendez la voiture du défunt. Seul le second geste peut vous engager comme héritier.",
-      "face_a_face": "L’article 782 du Code civil permet qu’un acte accompli en qualité d’héritier acceptant vaille acceptation de la succession, tandis que l’article 784 permet de payer les obsèques sans accepter si vous ne prenez pas la qualité d’héritier.",
+      "face_a_face": "Pour la même succession, l’article 784 du Code civil vous permet de payer les obsèques tout en gardant le choix de refuser, tandis que l’article 782 peut faire de la vente de la voiture du défunt une acceptation, même si vous n’avez signé aucune déclaration d’acceptation.",
       "texte": "Vous payez les obsèques de votre père et hésitez encore à accepter sa succession. Ce paiement ne vous engage pas à l’accepter si vous ne prenez pas la qualité d’héritier. En revanche, vendre sa voiture comme si elle vous appartenait en tant qu’héritier peut valoir acceptation pure et simple, même sans déclaration d’acceptation.",
       "raison": "Payer les obsèques règle une dépense urgente. Vendre la voiture en qualité d’héritier peut manifester le choix de prendre la succession, avec les dettes qui peuvent l’accompagner."
     },
