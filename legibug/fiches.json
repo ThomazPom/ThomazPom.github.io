@@ -9278,7 +9278,7 @@
     "entree": {
       "ordre": 181,
       "titre": "L’autre bénéficiaire décède. Votre réversion passe de 200 € à 600 €, ou reste à 200 €.",
-      "face_a_face": "L’article L. 353-3 ajoute la part du bénéficiaire décédé à la pension de l’autre conjoint ou ex-conjoint dans le régime général. Pour les fonctionnaires de l’État, le Service des retraites explique que selon les règles du code des pensions, cette part peut seulement revenir aux enfants admissibles du fonctionnaire.",
+      "face_a_face": "À la mort du bénéficiaire qui touchait 400 €, l’article L. 353-3 peut faire passer l’autre bénéficiaire de 200 € à 600 € dans le régime général, tandis que dans le régime des fonctionnaires de l’État, sa pension reste à 200 € et la part libérée peut revenir aux enfants admissibles.",
       "texte": "Imaginez une réversion de 600 € partagée entre deux bénéficiaires qui touchent 400 € et 200 €. La personne qui touche 400 € décède. Si les conditions de ressources le permettent, l’autre peut passer à 600 € dans le régime général. Dans le régime des fonctionnaires de l’État, elle reste à 200 € dans cet exemple.",
       "raison": "Le décès libère la même part de 400 €. Selon le régime, elle s’ajoute à la pension de l’autre conjoint ou peut être attribuée aux enfants admissibles."
     },
