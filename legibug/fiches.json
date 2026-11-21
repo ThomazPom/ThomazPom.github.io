@@ -9974,5 +9974,51 @@
         "trajet-premier-client-temps-travail"
       ]
     }
+  },
+  {
+    "id": "conges-maladie-delai-avant-reprise",
+    "type": "Articulation de régimes",
+    "domaine": "Travail",
+    "titre": "En arrêt maladie, vos congés peuvent expirer avant votre retour",
+    "entree": {
+      "ordre": 58.5,
+      "titre": "En arrêt maladie, vos congés peuvent expirer avant votre retour",
+      "face_a_face": "L’article L. 3141-19-1 fait en principe démarrer vos 15 mois de report quand votre employeur vous informe de vos droits après votre retour, tandis que l’article L. 3141-19-2 peut faire démarrer ces mêmes 15 mois alors que vous êtes encore en arrêt.",
+      "texte": "Votre période annuelle d’acquisition des congés se termine le 31 mai et vous êtes déjà en arrêt depuis un an. Pour les congés gagnés pendant cet arrêt au titre de cette période, les 15 mois commencent dès ce 31 mai. Si vous reprenez le travail 16 mois plus tard, ces jours peuvent déjà être perdus.",
+      "raison": "Le point de départ change tout. Dans le régime ordinaire, votre retour et l’information de votre employeur déclenchent le délai. Dans le cas de l’arrêt long, le délai peut être épuisé alors que la maladie vous empêche encore de prendre vos congés."
+    },
+    "explication": [
+      "La règle spéciale ne vise que les congés acquis pendant l’arrêt et s’applique si, à la fin de la période d’acquisition, le contrat est suspendu depuis au moins un an pour maladie ou accident. Si vous reprenez avant que les 15 mois soient écoulés, le délai restant est suspendu jusqu’à ce que l’employeur vous informe de vos droits. Un accord applicable peut prévoir une période de report plus longue."
+    ],
+    "sources": [
+      {
+        "label": "Code du travail, article L. 3141-19-1",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049459071"
+      },
+      {
+        "label": "Code du travail, article L. 3141-19-2",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049459073"
+      }
+    ],
+    "relation": {
+      "question": "Le délai peut-il se terminer avant votre reprise ?",
+      "participants": [
+        {
+          "role": "Règle générale, après la reprise",
+          "reference": "Code du travail, article L. 3141-19-1",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049459071",
+          "citation": "Cette période débute à la date à laquelle le salarié reçoit, après sa reprise du travail, les informations […]"
+        },
+        {
+          "role": "Arrêt long, dès la fin de la période d’acquisition",
+          "reference": "Code du travail, article L. 3141-19-2",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049459073",
+          "citation": "[…] la période de report débute à la date à laquelle s’achève la période de référence […]"
+        }
+      ],
+      "fiches_liees": [
+        "arret-maladie-quatre-cinq-semaines"
+      ]
+    }
   }
 ]
