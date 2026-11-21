@@ -1023,8 +1023,8 @@
     "entree": {
       "ordre": 36,
       "titre": "Vous gagnez votre recours pour être relogé. Qui reçoit l’argent si l’État tarde ?",
-      "face_a_face": "L’article L. 441-2-3-1 permet au juge d’obliger l’État à payer une astreinte pour vous reloger, mais en verse le produit à un fonds national, tandis qu’une indemnisation personnelle passe par une demande distincte.",
-      "texte": "Le juge utilise l’astreinte pour faire pression sur l’État. Si vous voulez être indemnisé du préjudice causé par l’attente, le Conseil d’État reconnaît une autre voie de recours.",
+      "face_a_face": "L’article L. 441-2-3-1 prévoit que l’argent de l’astreinte pour vous faire reloger va à un fonds national. Pour que l’État vous verse de l’argent à vous, le Conseil d’État reconnaît une demande distincte d’indemnisation.",
+      "texte": "Supposons que le juge ordonne votre relogement et que l’État doive 1 000 € d’astreinte pour son retard. Le fonds reçoit ces 1 000 €. Si l’attente aggrave vos conditions de vie, vous pouvez demander séparément une indemnité pour ce préjudice, même sans avoir d’abord demandé au juge d’ordonner le relogement.",
       "raison": "Ça prête à confusion puisque l’astreinte est prononcée dans votre affaire et à cause du retard de votre relogement, mais que la somme revient au fonds. Dans une affaire distincte d’indemnisation, le Conseil d’État a accordé 800 € à la personne qui attendait son relogement."
     },
     "explication": [
