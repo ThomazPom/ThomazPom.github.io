@@ -2165,9 +2165,9 @@
     "entree": {
       "ordre": 4,
       "titre": "Évacué le 2 novembre, vous pouvez devoir 800 € de loyer pour novembre et 0 € en décembre.",
-      "face_a_face": "Si l’arrêté est envoyé le 2 novembre, l’article L. 511-19 peut vous obliger à quitter votre logement le jour même, tandis que l’article L. 521-2 ne suspend le loyer qu’au 1er décembre : les 800 € de novembre restent en principe dus.",
+      "face_a_face": "Pour un arrêté envoyé le 2 novembre, l’article L. 511-19 permet d’ordonner votre départ immédiat, mais l’article L. 521-2 arrête le loyer au 1er décembre : vous pouvez devoir les 800 € de novembre même si vous avez dû partir le 2.",
       "texte": "Votre loyer est de 800 € par mois hors charges. Un arrêté d’urgence envoyé le 2 novembre ordonne de quitter votre appartement immédiatement pendant les travaux. Le loyer de novembre reste en principe dû en entier. Si l’arrêté est toujours en vigueur en décembre, aucun loyer n’est dû pour décembre. Comparez deux notifications envoyées à un jour d’intervalle. Un envoi le 31 octobre fait cesser le loyer le 1er novembre. Un envoi le 1er novembre le fait cesser le 1er décembre. À loyer égal et si les arrêtés restent en vigueur, ce jour d’écart change la facture de novembre de 800 €.",
-      "raison": "La date à laquelle vous devez partir dépend du danger. La date à laquelle le loyer s’arrête dépend du calendrier. Entre les deux, le propriétaire doit en principe vous héberger si l’évacuation est temporaire."
+      "raison": "La date à laquelle vous devez partir dépend du danger. La date à laquelle le loyer s’arrête dépend du calendrier. Si le logement est temporairement inhabitable, le propriétaire doit vous proposer un hébergement décent. S’il ne le fait pas, l’article L. 521-3-2 oblige l’autorité compétente à organiser votre hébergement."
     },
     "explication": [
       "L’exemple suppose un bail en cours, une évacuation temporaire au titre de l’arrêté, et aucune des exceptions à la suspension prévues par l’article L. 521-2. En cas d’affichage tenant lieu de notification, le texte retient l’affichage à la mairie et sur la façade.",
@@ -2181,6 +2181,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000037667661/",
         "label": "Loi du 6 juillet 1989, article 7, obligation de payer le loyer"
+      },
+      {
+        "label": "Code de la construction et de l’habitation, art. L. 521-3-2, hébergement si le propriétaire ne le fournit pas",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049398947/"
       }
     ],
     "relation": {
