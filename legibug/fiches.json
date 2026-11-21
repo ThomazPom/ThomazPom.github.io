@@ -9416,7 +9416,8 @@
     "explication": [
       "Sauf faute grave du salarié, l’indemnité couvre les salaires et avantages de la partie du délai non effectuée, y compris les congés payés correspondants.",
       "Six semaines après votre embauche, si l’essai est encore en cours, l’article L. 1221-25 donne deux semaines de prévenance à l’employeur qui le rompt. Si c’est vous qui y mettez fin, l’article L. 1221-26 vous demande seulement 48 heures. Les mêmes six semaines de présence déclenchent donc deux délais différents selon qui prend la décision.",
-      "Reprenons l’exemple de la rupture annoncée un jour avant la fin de l’essai. Si l’employeur vous fait travailler treize jours de plus pour compléter le délai de prévenance, la Cour de cassation juge que la poursuite du travail au-delà du terme de l’essai donne naissance à un CDI. L’employeur doit alors procéder à un licenciement s’il veut rompre ce contrat."
+      "Reprenons l’exemple de la rupture annoncée un jour avant la fin de l’essai. Si l’employeur vous fait travailler treize jours de plus pour compléter le délai de prévenance, la Cour de cassation juge que la poursuite du travail au-delà du terme de l’essai donne naissance à un CDI. L’employeur doit alors procéder à un licenciement s’il veut rompre ce contrat.",
+      "Votre CDI prévoit deux mois d’essai et la possibilité de les renouveler. Cette clause remplit l’exigence de l’article L. 1221-23, mais elle ne suffit pas. Si aucun accord de branche étendu ne permet le renouvellement, l’article L. 1221-21 l’interdit et l’essai prend fin au bout des deux mois prévus. À l’inverse, même si un accord l’autorise, l’employeur ne peut pas renouveler l’essai si cette possibilité ne figure ni dans le contrat ni dans la lettre d’engagement."
     ],
     "sources": [
       {
@@ -9430,6 +9431,14 @@
       {
         "label": "Cour de cassation, 5 novembre 2014, n° 13-18.114",
         "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000029741671/"
+      },
+      {
+        "label": "Code du travail, article L. 1221-21",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071109/"
+      },
+      {
+        "label": "Code du travail, article L. 1221-23",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000019071102/"
       }
     ],
     "relation": {
