@@ -6422,9 +6422,9 @@
     "entree": {
       "ordre": 6,
       "titre": "Douze mois de pension impayée. Le paiement direct peut couvrir six mois ou les douze.",
-      "face_a_face": "L’article L. 213-4 du Code des procédures civiles d’exécution limite en principe le paiement direct aux six derniers mois d’impayés, mais autorise jusqu’à cinq ans d’arriérés lorsqu’un organisme débiteur de prestations familiales agit pour vous.",
+      "face_a_face": "Pour un an de pension impayée à 300 € par mois, l’article L. 213-4 permet de réclamer directement 1 800 € à l’employeur de l’autre parent par la procédure ordinaire, mais les 3 600 € si un organisme comme la CAF agit pour vous, puisque le même article passe alors de six mois à cinq ans d’impayés récupérables.",
       "texte": "Vous deviez recevoir 300 € par mois et n’avez rien reçu pendant douze mois. Si la demande de paiement direct est notifiée maintenant à l’employeur de l’autre parent, la procédure ordinaire peut couvrir 1 800 € d’arriérés. Si l’organisme débiteur de prestations familiales agit pour vous et que les conditions sont remplies, le même paiement direct peut couvrir les 3 600 €.",
-      "raison": "La dette est la même. La durée des arriérés que l’employeur peut être tenu de reverser dépend de la personne qui engage la procédure. Le plafond de six mois ne fait pas disparaître les arriérés plus anciens."
+      "raison": "La dette est la même. La durée des arriérés que l’employeur peut être tenu de reverser dépend de la personne qui engage la procédure. Le plafond de six mois concerne cette méthode de recouvrement. Les échéances plus anciennes restent dues. Dans la procédure ordinaire, les 1 800 € sont répartis sur douze mois, soit 150 € par mois en plus des 300 € de pension courante, si les sommes disponibles le permettent."
     },
     "explication": [
       "La limite de cinq ans s’applique depuis le 1er avril 2026. Les plafonds concernent les échéances passées. Le paiement direct vise aussi les échéances à venir. Le montant récupéré dépend de la situation et des sommes effectivement disponibles."
