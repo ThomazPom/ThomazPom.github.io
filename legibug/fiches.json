@@ -10088,7 +10088,8 @@
     },
     "explication": [
       "L’exemple porte sur le minimum légal du secteur privé, sous réserve de dispositions plus favorables. Pour les droits liés à l’ancienneté, deux mois de congé de maternité comptent pour deux mois selon l’article L. 1225-24, tandis que deux mois de congé parental à temps plein comptent pour un mois selon l’article L. 1225-54. Ce mois d’ancienneté ne crée pas de nouveaux congés payés.",
-      "Si vous aviez cinq jours de congés payés en réserve et que le congé parental vous a empêché de les prendre pendant l’année prévue, ces cinq jours doivent être reportés après la reprise du travail, même si l’année est terminée. La Cour de cassation l’a jugé le 13 septembre 2023."
+      "Si vous aviez cinq jours de congés payés en réserve et que le congé parental vous a empêché de les prendre pendant l’année prévue, ces cinq jours doivent être reportés après la reprise du travail, même si l’année est terminée. La Cour de cassation l’a jugé le 13 septembre 2023.",
+      "Les jours acquis avant le congé parental suivent donc une autre règle que les jours acquis pendant un arrêt maladie prolongé. Pour ces derniers, l’article L. 3141-19-2 peut faire démarrer le délai de report avant la reprise, dès la fin de la période d’acquisition."
     ],
     "sources": [
       {
@@ -10129,7 +10130,8 @@
         }
       ],
       "fiches_liees": [
-        "arret-maladie-quatre-cinq-semaines"
+        "arret-maladie-quatre-cinq-semaines",
+        "conges-maladie-delai-avant-reprise"
       ]
     }
   }
