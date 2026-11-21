@@ -2527,7 +2527,8 @@
     "explication": [
       "L’exemple applique le minimum légal sur une période entière de douze mois. Un accord plus favorable peut changer le résultat. Le plafond de 24 jours vise les jours acquis au titre de l’arrêt non professionnel.",
       "Un arrêt peut aussi changer le décompte de congés déjà acquis. Vous avez posé cinq jours ouvrables de vacances et un arrêt maladie, notifié à votre employeur, recouvre les deux derniers. Selon l’arrêt du 10 septembre 2025, vous devez pouvoir prendre ces deux jours plus tard. Les trois premiers restent des jours de congé utilisés. La Cour de cassation a changé sa jurisprudence sur ce point pour tenir compte du droit de l’Union européenne.",
-      "L’article L. 3141-19-1 donne en principe 15 mois pour prendre les jours reportés, à partir du moment où l’employeur vous informe de vos droits après votre reprise. Pour les jours acquis pendant l’arrêt, l’article L. 3141-19-2 fait partir ces mêmes 15 mois dès la fin de la période d’acquisition si vous êtes alors en arrêt depuis au moins un an. Si vous êtes toujours en arrêt 16 mois après cette date, ces jours peuvent donc déjà être perdus. Si vous reprenez avant l’expiration du délai, il est suspendu jusqu’à la réception des informations de l’employeur."
+      "L’article L. 3141-19-1 donne en principe 15 mois pour prendre les jours reportés, à partir du moment où l’employeur vous informe de vos droits après votre reprise. Pour les jours acquis pendant l’arrêt, l’article L. 3141-19-2 fait partir ces mêmes 15 mois dès la fin de la période d’acquisition si vous êtes alors en arrêt depuis au moins un an. Si vous êtes toujours en arrêt 16 mois après cette date, ces jours peuvent donc déjà être perdus. Si vous reprenez avant l’expiration du délai, il est suspendu jusqu’à la réception des informations de l’employeur.",
+      "Un autre délai concerne l’action en paiement de l’indemnité de congés payés. Le délai salarial de trois ans ne part de la fin de la période de prise des congés que si l’employeur prouve avoir fait le nécessaire pour que vous puissiez les prendre, selon la Cour de cassation. Deux salariés qui réclament quatre ans après la fin de cette période peuvent donc obtenir des réponses différentes selon ce que leur employeur a fait pour rendre la prise des congés possible."
     ],
     "sources": [
       {
@@ -2545,6 +2546,10 @@
       {
         "label": "Code du travail, article L. 3141-19-2",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049459073/"
+      },
+      {
+        "label": "Cour de cassation, 13 septembre 2023, n° 22-10.529 et 22-11.106",
+        "url": "https://www.courdecassation.fr/decision/65015d56ee1a2205e6581652"
       }
     ],
     "relation": {
