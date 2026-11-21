@@ -1637,7 +1637,7 @@
       "ordre": 44,
       "titre": "La sécheresse est reconnue, votre maison est assurée. Pourquoi l’assureur peut-il quand même refuser ?",
       "face_a_face": "L’article L. 125-1 ouvre la garantie catastrophe naturelle pour les biens assurés, tandis que l’article L. 125-7 écarte la garantie sécheresse de certains bâtiments récents si le dépôt d’une attestation de construction ne peut pas être prouvé.",
-      "texte": "Vous achetez une maison récente. Elle se fissure après une sécheresse reconnue. Si le bâtiment est soumis aux règles visées par la loi, que le permis a été déposé après le 1er janvier 2024 et que la réception remonte à moins de dix ans, il faut pouvoir justifier du dépôt de l’attestation.",
+      "texte": "Vous achetez une maison récente. Elle se fissure après une sécheresse reconnue. Supposons que deux maisons voisines soient assurées et soumises aux mêmes règles de construction. Le permis de la vôtre a été déposé le 2 janvier 2024 et celui de votre voisin le 29 décembre 2023. Si la vôtre a été réceptionnée il y a moins de dix ans, l’assureur peut écarter sa garantie si ni vous ni le maître d’ouvrage ne pouvez prouver le dépôt de l’attestation. Pour la maison voisine, la date du permis écarte ce motif précis de refus.",
       "raison": "Ça coince puisque l’arrêté de catastrophe naturelle et l’assurance sont en place, mais que l’indemnisation peut dépendre d’un document lié à la construction, même si vous avez acheté la maison après les travaux."
     },
     "explication": [
