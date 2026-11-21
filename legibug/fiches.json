@@ -10800,5 +10800,55 @@
         "silence-administration-titre-sejour-refus"
       ]
     }
+  },
+  {
+    "id": "mayotte-retention-mineurs-date-legifrance",
+    "type": "Renvoi incohérent",
+    "domaine": "Droit des étrangers",
+    "titre": "Mineurs en rétention à Mayotte : la note de Légifrance dit 2027, la loi dit 2028",
+    "entree": {
+      "ordre": 2.5,
+      "titre": "Mineurs en rétention à Mayotte : la note de Légifrance dit 2027, la loi dit 2028",
+      "face_a_face": "La note sous l’article L. 741-5 de Légifrance annonce le 1er janvier 2027 pour la nouvelle règle à Mayotte, mais l’article 86 de la loi de 2024, modifié en 2025, fixe son application au 1er juillet 2028.",
+      "texte": "Un enfant qui accompagne un parent placé en rétention à Mayotte pourrait encore relever du régime antérieur en février 2027. En lisant la note sous l’article du code, sa famille pourrait au contraire croire que la réforme s’y applique déjà depuis janvier.",
+      "raison": "Le 1er janvier 2027 reste la date prévue pour le 1° de l’article 40, qui concerne une autre mesure. La modification de l’article L. 741-5 relève du 3° de cet article 40, pour lequel la loi fixe le 1er juillet 2028. La date applicable vient de la loi modifiée."
+    },
+    "explication": [
+      "Le régime antérieur interdit déjà de prendre une décision de placement visant directement un mineur, tout en permettant qu’il soit retenu avec un adulte dans certains cas. La loi de 2025 prévoit à partir du 1er juillet 2028 un dispositif distinct à Mayotte pour les familles, dans des lieux adaptés et pour 48 heures au plus sous conditions."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/jorf/id/JORFARTI000049040318",
+        "label": "Loi du 26 janvier 2024, article 40, 3°"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/jorf/article_jo/JORFARTI000052075971",
+        "label": "Loi du 11 août 2025, article 14"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000042775070/2024-01-22",
+        "label": "Article L. 741-5, rédaction antérieure maintenue transitoirement à Mayotte"
+      }
+    ],
+    "relation": {
+      "question": "Quelle date faut-il retenir à Mayotte ?",
+      "participants": [
+        {
+          "role": "Date affichée dans la note du code",
+          "reference": "CESEDA, art. L. 741-5, note d’application",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000049050395/2026-10-08",
+          "citation": "« […] à Mayotte à compter du 1er janvier 2027. »"
+        },
+        {
+          "role": "Date fixée par la loi modifiée",
+          "reference": "Loi n° 2024-42, art. 86, III",
+          "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000049040245/2026-10-05",
+          "citation": "« Le 3° du même article 40 s’applique à Mayotte à compter du 1er juillet 2028. »"
+        }
+      ],
+      "fiches_liees": [
+        "retention-90-jours-360-jours-cumules"
+      ]
+    }
   }
 ]
