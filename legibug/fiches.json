@@ -8875,9 +8875,9 @@
     "entree": {
       "ordre": 174,
       "titre": "À la foire, le même canapé peut être retourné ou rester à votre charge selon le financement",
-      "face_a_face": "L’article L. 224-59 prévoit que l’achat signé à la foire ne donne pas de droit de rétractation. L’article L. 224-62 prévoit que, si le vendeur vous a proposé un crédit réservé à cet achat, vous pouvez vous rétracter du crédit et faire annuler la vente dans les conditions de l’article L. 312-52.",
+      "face_a_face": "Pour le même canapé standard à 1 500 € payé comptant, l’article L. 221-18 donne 14 jours après la livraison pour changer d’avis si vous l’achetez en ligne, tandis que l’article L. 224-59 prévoit qu’un achat signé à la foire ne donne aucun délai de rétractation.",
       "texte": "Vous commandez un canapé à 1 500 € dans une foire, pour une livraison ultérieure. Si vous achetez comptant, changer d’avis cinq jours plus tard ne suffit pas à annuler la vente. Si vous avez pris le crédit affecté proposé par le vendeur et vous en rétractez valablement au cinquième jour, la vente est annulée et vous pouvez demander le remboursement de l’avance.",
-      "raison": "Pour le même canapé commandé au même stand, c’est le contrat de financement qui ouvre une voie pour défaire la vente."
+      "raison": "Pour le même canapé, le lieu de signature change le droit de revenir sur l’achat. À la foire, le financement peut aussi changer le résultat puisque l’article L. 224-62 permet de défaire la vente si vous vous rétractez valablement du crédit affecté."
     },
     "explication": [
       "Un crédit affecté finance précisément l’achat indiqué au contrat. L’exemple suppose que vous n’avez pas demandé expressément une livraison immédiate et que vous n’avez pas finalement payé comptant dans le délai prévu."
@@ -8894,6 +8894,10 @@
       {
         "label": "Code de la consommation, article L. 312-52",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226076"
+      },
+      {
+        "label": "Code de la consommation, article L. 221-18, achat à distance",
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226842"
       }
     ],
     "relation": {
@@ -8916,6 +8920,12 @@
           "reference": "Code de la consommation, art. L. 312-52",
           "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226076",
           "citation": "« […] si l’emprunteur a exercé son droit de rétractation […] »"
+        },
+        {
+          "role": "Achat en ligne, délai de 14 jours",
+          "reference": "Code de la consommation, art. L. 221-18",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000032226842",
+          "citation": "Le consommateur dispose d’un délai de quatorze jours pour exercer son droit de rétractation […]"
         }
       ]
     }
