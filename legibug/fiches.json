@@ -3198,7 +3198,8 @@
       "Pour l’assurance chômage, une démission présumée relève en principe des départs volontaires. Un licenciement pour faute grave relève des pertes involontaires et peut donc ouvrir des droits en vertu de l’article L. 5422-1. Cette différence dépend de la qualification de la rupture. Elle ne règle pas la question de savoir si l’employeur peut choisir l’une ou l’autre procédure pour une même absence.",
       "Si vous contestez la démission présumée, l’article L. 1237-1-1 envoie directement l’affaire devant le bureau de jugement. Le code lui donne un mois à compter de sa saisine pour statuer sur la rupture et ses conséquences. Dans la procédure prud’homale ordinaire, l’article L. 1411-1 prévoit d’abord de chercher une conciliation, sauf exception. Le mois prévu ici concerne le délai donné au juge pour statuer.",
       "Si vous cessez de venir sans motif légitime et que l’employeur ne vous met pas en demeure, le contrat reste en cours mais il est suspendu. Selon Service Public, vous ne percevez ni salaire pour cette absence ni allocation chômage au titre de ce contrat tant qu’il n’est pas rompu. L’absence de lettre empêche donc la démission présumée sans rétablir la paie.",
-      "L’employeur baisse unilatéralement le salaire fixé à votre contrat, puis vous met en demeure de reprendre le travail. L’article R. 1237-13 cite la modification du contrat à l’initiative de l’employeur parmi les motifs légitimes qui peuvent faire obstacle à la démission présumée. Vous devez indiquer ce motif dans votre réponse à la mise en demeure. Dans le cas d’une absence volontaire sans motif légitime, l’article L. 1237-1-1 permet au contraire de présumer la démission, si les autres conditions sont réunies."
+      "L’employeur baisse unilatéralement le salaire fixé à votre contrat, puis vous met en demeure de reprendre le travail. L’article R. 1237-13 cite la modification du contrat à l’initiative de l’employeur parmi les motifs légitimes qui peuvent faire obstacle à la démission présumée. Vous devez indiquer ce motif dans votre réponse à la mise en demeure. Dans le cas d’une absence volontaire sans motif légitime, l’article L. 1237-1-1 permet au contraire de présumer la démission, si les autres conditions sont réunies.",
+      "La prise d’acte est une autre situation. Vous informez l’employeur que vous rompez immédiatement votre CDI, par exemple parce que plusieurs salaires restent impayés. Si les prud’hommes jugent les manquements assez graves pour empêcher la poursuite du contrat, la rupture produit les effets d’un licenciement injustifié ou nul, selon le motif. Sinon, elle produit les effets d’une démission. Le salarié prend l’initiative du départ dans les deux cas, mais l’issue dépend de ce que le juge constate."
     ],
     "sources": [
       {
@@ -3216,6 +3217,14 @@
       {
         "label": "Code du travail, article L. 1411-1",
         "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000006901457/"
+      },
+      {
+        "label": "Cour de cassation, 26 mars 2014, n° 12-23.634",
+        "url": "https://www.legifrance.gouv.fr/juri/id/JURITEXT000028798019"
+      },
+      {
+        "label": "Service Public, prise d’acte de la rupture",
+        "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F24409"
       }
     ],
     "relation": {
