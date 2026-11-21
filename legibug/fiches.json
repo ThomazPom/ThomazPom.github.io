@@ -11474,5 +11474,44 @@
         }
       ]
     }
+  },
+  {
+    "id": "cumul-retraite-liberal-date-abrogation",
+    "type": "Articulation de régimes",
+    "domaine": "Retraite",
+    "titre": "Cumul emploi-retraite : le code affiche une abrogation fin 2025, la loi maintient les anciennes règles pour les premiers départs de 2026",
+    "entree": {
+      "ordre": 212,
+      "titre": "Cumul emploi-retraite : le code affiche une abrogation fin 2025, la loi maintient les anciennes règles pour les premiers départs de 2026",
+      "face_a_face": "Légifrance affiche la fin de vigueur de l’article L. 643-6 au 31 décembre 2025, mais le XI de l’article 102 prévoit que la réforme du cumul s’applique en principe à ceux dont la première retraite de base prend effet à partir du 1er janvier 2027.",
+      "texte": "Une professionnelle libérale touche sa première retraite de base en octobre 2026 et souhaite poursuivre son activité. Si elle se fie seulement à la mention d’abrogation, elle peut croire que l’ancien régime de cumul ne s’applique plus. La disposition transitoire la laisse dans l’ancien régime.",
+      "raison": "La date affichée pour la version du code et la date à laquelle la réforme touche une personne répondent à deux questions différentes. La loi fait dépendre la seconde de la date d’effet de sa première pension de base."
+    },
+    "explication": [
+      "Cette différence compte aussi quand un autre article, tel que l’article R. 641-7 sur les élections des caisses professionnelles, cite encore le cumul dans les conditions de l’article L. 643-6. Le seul renvoi ne permet pas de conclure qu’un droit électoral a disparu."
+    ],
+    "sources": [
+      {
+        "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000030919041/2026-11-01",
+        "label": "Code de la sécurité sociale, art. R. 641-7, renvoi aux conditions du cumul"
+      }
+    ],
+    "relation": {
+      "question": "Quelle règle s’applique à un premier départ à la retraite en 2026 ?",
+      "participants": [
+        {
+          "role": "Fin de vigueur affichée dans le code",
+          "reference": "Code de la sécurité sociale, ancien art. L. 643-6",
+          "url": "https://www.legifrance.gouv.fr/codes/section_lc/LEGITEXT000006073189/LEGISCTA000006126901/2026-07-01/",
+          "citation": "« En vigueur du 01 septembre 2023 au 31 décembre 2025 »"
+        },
+        {
+          "role": "Réforme applicable aux nouveaux retraités à partir de 2027",
+          "reference": "Loi n° 2025-1403, article 102, XI",
+          "url": "https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000054468711/2026-07-23",
+          "citation": "« […] leur première pension de vieillesse de base à compter du 1er janvier 2027 […] »"
+        }
+      ]
+    }
   }
 ]
