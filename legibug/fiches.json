@@ -10661,7 +10661,8 @@
       "L’exemple vise la contestation d’une décision administrative individuelle expresse. Des circonstances particulières ou un recours administratif régi par un texte spécial peuvent changer le résultat.",
       "Si l’administration ne répond pas et que son silence vaut refus, la règle d’un an peut aussi s’appliquer. Mais le seul fait d’avoir déposé la demande ne prouve pas que vous connaissiez le refus. Le Conseil d’État retient par exemple que vous en avez connaissance si l’administration vous a clairement indiqué quand son silence vaudrait refus, ou si un courrier ultérieur vous apprend que la demande a été rejetée.",
       "Quatorze mois après un refus écrit, le résultat peut changer selon ce que vous demandez au juge. Si vous voulez faire annuler ce refus, le délai raisonnable d’un an peut vous être opposé. Si vous demandez une indemnité pour un dommage causé par une personne publique, le Conseil d’État écarte cette limite d’un an. D’autres délais peuvent alors s’appliquer, notamment la prescription de quatre ans pour certaines créances publiques.",
-      "Quatre ans peuvent représenter presque cinq ans en pratique. Si votre droit au paiement est acquis en janvier 2022, l’article 1er de la loi du 31 décembre 1968 fait commencer le délai au 1er janvier 2023. Il s’achève donc en principe à la fin de 2026. Selon l’article 2, une demande écrite concernant cette somme peut interrompre le délai, même si vous l’avez envoyée à une administration qui ne doit finalement pas payer."
+      "Quatre ans peuvent représenter presque cinq ans en pratique. Si votre droit au paiement est acquis en janvier 2022, l’article 1er de la loi du 31 décembre 1968 fait commencer le délai au 1er janvier 2023. Il s’achève donc en principe à la fin de 2026. Selon l’article 2, une demande écrite concernant cette somme peut interrompre le délai, même si vous l’avez envoyée à une administration qui ne doit finalement pas payer.",
+      "Le nom donné à votre demande ne change pas à lui seul le délai applicable. En 2024, une collectivité a contesté trop tard le montant d’une dotation de l’État, puis a réclamé le manque à gagner comme indemnité. Le Conseil d’État a écarté cette seconde demande parce qu’elle reposait seulement sur l’illégalité du calcul de la dotation et visait le même résultat. La décision devait porter uniquement sur une somme d’argent et être devenue définitive pour que cette règle joue."
     ],
     "sources": [
       {
@@ -10679,6 +10680,10 @@
       {
         "url": "https://www.legifrance.gouv.fr/loda/id/JORFTEXT000000878035/",
         "label": "Loi n° 68-1250 du 31 décembre 1968, articles 1er et 2"
+      },
+      {
+        "url": "https://www.conseil-etat.fr/fr/arianeweb/CE/analyse/2024-10-18/474903",
+        "label": "Conseil d’État, 18 octobre 2024, n° 474903, recours ayant la même cause et les mêmes effets"
       }
     ],
     "relation": {
