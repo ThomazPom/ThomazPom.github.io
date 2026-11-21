@@ -10911,12 +10911,16 @@
       "raison": "Pour les couples de l’exemple, le délai dépend d’une démarche d’inscription du conjoint français, même si la durée du mariage et de la vie commune est identique."
     },
     "explication": [
-      "Service Public présente trois ans de résidence régulière et continue en France depuis le mariage comme une autre manière de rester dans le délai de quatre ans. Le délai est une condition parmi d’autres. Le conjoint français doit notamment avoir conservé sa nationalité et les époux doivent toujours mener une vie commune."
+      "Le deuxième alinéa de l’article 21-2 formule le passage à cinq ans avec deux conditions négatives reliées par « soit… soit… ». Lu isolément, il peut donner l’impression que l’absence de trois ans en France suffit toujours à passer à cinq ans, même si le conjoint français est inscrit au consulat. L’article 14-1, 7° du décret demande les preuves de résidence en France ou le certificat d’inscription consulaire. Service Public applique cette alternative : l’inscription peut suffire pour bénéficier du délai de quatre ans quand les époux vivent à l’étranger. Le délai est une condition parmi d’autres. Le conjoint français doit notamment avoir conservé sa nationalité et les époux doivent toujours mener une vie commune."
     ],
     "sources": [
       {
         "url": "https://www.service-public.gouv.fr/particuliers/vosdroits/F2726",
         "label": "Service Public, déclaration de nationalité française par mariage"
+      },
+      {
+        "url": "https://www.legifrance.gouv.fr/loda/article_lc/LEGIARTI000051906761/",
+        "label": "Décret n° 93-1362, art. 14-1, 7°, justificatifs de résidence ou d’inscription"
       }
     ],
     "relation": {
