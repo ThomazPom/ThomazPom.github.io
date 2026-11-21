@@ -35,7 +35,7 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <small>LÉGIBUG · ÉTAT DU DROIT AU 20 NOVEMBRE 2026</small>
 <h1>Quand les règles se heurtent</h1>
 <p>Un atlas des tensions du droit français en vigueur. Chaque fiche part d'une situation concrète et remonte aux textes et aux décisions qui en déterminent l’issue.</p>
-<nav aria-label="Sommaire"><a href="#fiches">Explorer les fiches</a><a href="#methode">Lire la méthode</a></nav>
+<nav aria-label="Sommaire"><a href="#fiches">Explorer les fiches</a><a href="#bilan">Voir le bilan</a><a href="#methode">Lire la méthode</a></nav>
 </div></header>
 <main>
 <h2 id="fiches">Les cas documentés</h2>
@@ -121,7 +121,7 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <div class="topic">Lacune d’application · Santé publique</div>
 <h3>La loi prévoit une plateforme pour le Covid long. Le décret tarde.</h3>
 <p>La loi n° 2022-53 du 24 janvier 2022 prévoit une plateforme de référencement et de prise en charge des malades chroniques de la Covid-19. Elle renvoie à un décret pour préciser ses modalités, après avis de la CNIL.</p>
-<p>Le 1er juillet 2025, le Conseil d’État a annulé le refus de prendre ce décret et a enjoint au Premier ministre de l’édicter dans un délai d’un an. En octobre 2026, une question au Sénat signalait encore l’absence de publication. Au 20 novembre, les sources consultées ne font pas apparaître le décret. L’espace d’information et les dispositifs de coordination évoqués par le gouvernement sont des mesures distinctes de la plateforme prévue par la loi.</p>
+<p>Le 1er juillet 2025, le Conseil d’État a annulé le refus de prendre ce décret et a enjoint au Premier ministre de l’édicter dans un délai de douze mois à compter de la notification de la décision. En octobre 2026, une question au Sénat signalait encore l’absence de publication. Au 20 novembre, les sources consultées ne font pas apparaître le décret. L’espace d’information et les dispositifs de coordination évoqués par le gouvernement sont des mesures distinctes de la plateforme prévue par la loi.</p>
 <p class="sources"><a href="https://www.conseil-etat.fr/fr/arianeweb/CE/decision/2025-07-01/498369">Conseil d’État, n° 498369</a><a href="https://www.senat.fr/questions/base/2026/qSEQ261010254.html">Question au Sénat, octobre 2026</a></p>
 </article>
 <article id="voix">
@@ -202,6 +202,11 @@ input,select{font:inherit;padding:.55rem .8rem;width:min(100%,32rem);border:1px 
 <p class="sources"><a href="https://www.legifrance.gouv.fr/codes/article_lc/LEGIARTI000044568210/2026-11-20">Code de procédure pénale, article 11</a></p>
 </article>
 </section>
+<section id="bilan">
+<h2>Ce que couvre l’atlas</h2>
+<p>Les renvois obsolètes et les censures constitutionnelles établissent un défaut précis. Une lacune d’application signale un mécanisme juridique qui attend les règles nécessaires à sa mise en œuvre. Les autres fiches expliquent des tensions qui se résolvent par une exception, une différence de champ ou l’appréciation du juge.</p>
+<ul id="coverage"></ul>
+</section>
 <section id="methode">
 <h2>Comment mesurer la surface des incohérences ?</h2>
 <p>Le catalogue part de cas repérés dans les décisions et les codes consolidés. Une fiche vérifie la version à la date indiquée, la portée exacte de la décision, les règles de priorité et les éventuelles dates d’effet différées. Une disposition abrogée sort du catalogue lorsqu’elle cesse d’être en vigueur.</p>
@@ -225,8 +230,13 @@ const totals = new Map();
 for (const { type } of cards) {
   totals.set(type, (totals.get(type) ?? 0) + 1);
 }
+const coverage = document.querySelector('#coverage');
 for (const [type, total] of totals) {
-  category.add(new Option(type + ' (' + total + ')', type));
+  const label = type + ' (' + total + ')';
+  category.add(new Option(label, type));
+  const item = document.createElement('li');
+  item.textContent = label;
+  coverage.append(item);
 }
 function filterCards() {
   const terms = normalize(search.value).trim().split(/\s+/);
