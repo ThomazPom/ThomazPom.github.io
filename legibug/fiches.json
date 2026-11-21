@@ -7295,7 +7295,7 @@
     "entree": {
       "titre": "Trajet annulé. Votre billet doit être remboursé sous 7, 14 ou 30 jours.",
       "face_a_face": "Pour un billet à rembourser après une annulation, l’article 8 du règlement aérien donne 7 jours à la compagnie, l’article 19 du règlement des cars donne 14 jours au transporteur et l’article 18 du règlement ferroviaire donne 30 jours à la compagnie de train.",
-      "texte": "Vous deviez faire Paris–Marseille avec un billet à 80 €. Le départ est annulé, le remplacement arriverait plusieurs heures trop tard et vous demandez le remboursement aussitôt. Au bout de 10 jours, les 80 € devraient déjà vous avoir été rendus si c’était un vol. Pour le car ou le train, le transporteur peut encore être dans les délais.",
+      "texte": "Vous deviez faire Paris–Marseille avec un billet à 80 €. Le départ est annulé, le remplacement arriverait plusieurs heures trop tard et vous demandez le remboursement aussitôt. Au bout de 10 jours, les 80 € devraient déjà vous avoir été rendus si c’était un vol. Pour le car ou le train, le transporteur peut encore être dans les délais. Au bout de 20 jours, seul le train peut encore être dans le délai légal pour rendre les mêmes 80 €.",
       "raison": "Même trajet annulé, même somme à rendre, mais trois délais légaux. L’attente autorisée en train peut dépasser celle de l’avion de plus de trois semaines.",
       "ordre": 147
     }
